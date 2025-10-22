@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3cd50496-4f15-4310-a94c-0918cdd87520",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010043",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-04] 직육면체와 정육면체를 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-03] 직육면체와 정육면체를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.98,
+                            3.64,
+                            468.81,
+                            24.94
+                        ]
+                    ],
+                    "text_description": "$\\square$83. 직육면체를 보고 나타내는 수가 더 큰 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            276.13,
+                            24.49,
+                            390.38,
+                            110.67
+                        ]
+                    ],
+                    "text_description": "직사각형의 겨냥도이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            126.05,
+                            120.35,
+                            538.99,
+                            169.57
+                        ]
+                    ],
+                    "text_description": "㉠ (보이는 면의 수) + (보이는 꼭짓점의 수) ㉡ (보이는 모서리의 수) + (보이지 않는 모서리의 수)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            288.71,
+                            184.25,
+                            369.05,
+                            209.21
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.01,
+                            220.08,
+                            65.04,
+                            239.45
+                        ]
+                    ],
+                    "text_description": "(정답) ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.95,
+                            247.19,
+                            598.56,
+                            325.62
+                        ]
+                    ],
+                    "text_description": "(해설)㉠ 보이는 면의 수: 3 개, 보이는 꼭짓점의 수: 7 개 $\\Rightarrow 3+7=10$ (개) ㉡ 보이는 모서리의 수: 9 개, 보이지 않는 모서리의 수: 3 개 $\\Rightarrow 9+3=12$ (개) $12>10$ 이므로 나타내는 수가 더 큰 것은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

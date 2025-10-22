@@ -1,0 +1,145 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bfa3753d-660b-423a-aa9d-04a03975e8da",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003119",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.51,
+                            8.6,
+                            755.71,
+                            72.91
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 층별로 나타낸 모양입니다. 위에서 본 모양에 수를 쓰는 방법으로 나타내고, 똑같은 모양으로 쌓는 데 필요한 쌓기나무의 개수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            125.96,
+                            90.93,
+                            634.88,
+                            264.52
+                        ]
+                    ],
+                    "text_description": "이 이미지는 각 층의 블록 구조를 나타내고 있습니다. 1층, 2층, 3층에 각각의 블록 배치가 있으며, 마지막에는 위쪽을 나타내는 공간이 있습니다. 각 층의 형태를 비교하는 모습으로 보입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            465.31,
+                            523.57,
+                            686.9,
+                            549.38
+                        ]
+                    ],
+                    "text_description": "11개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            45,
+                            504
+                          ],
+                          [
+                            415,
+                            502
+                          ],
+                          [
+                            413,
+                            552
+                          ],
+                          [
+                            687,
+                            552
+                          ],
+                          [
+                            689,
+                            572
+                          ],
+                          [
+                            221,
+                            573
+                          ],
+                          [
+                            222,
+                            591
+                          ],
+                          [
+                            41,
+                            590
+                          ] 
+                    ],
+                    "text_description": "쌓기나무를 층별로 나타낸 모양에서 1층 모양의 $\\bigcirc$ 부분은 쌓기나무가 3 층, $\\triangle$ 부분은 쌓기나무가 2 층까지 있습니다. 나머지 부분은 1층만 있습니다. 따라서 똑같은 모양으로 쌓는 데 필요한 쌓기나무는 11개입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.45,
+                            345.94,
+                            578.76,
+                            499.4
+                        ]
+                    ],
+                    "text_description": "이 이미지는 1층, 2층, 3층의 형태를 보여주며, 각 층의 블록 구성과 위치를 나타내고 있습니다. 또한 오른쪽에는 층별로 블록의 수를 나타내는 숫자가 배치되어 있습니다."
+                }
+            ]
+        }
+    ]
+}

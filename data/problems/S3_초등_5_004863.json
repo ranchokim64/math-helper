@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b5720ce7-c369-41b2-b42a-00507a383adc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004863",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            13.89,
+                            456.64,
+                            118.85
+                        ]
+                    ],
+                    "text_description": "어느 학교의 5학년 반별 학생 수를 나타낸 표입니 다. 5 학년 반별 학생 수의 평균이 27 명일 때 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.96,
+                            274.1,
+                            340.16,
+                            303.54
+                        ]
+                    ],
+                    "text_description": "5학년 전체 학생 수는 몇 명인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.2799999999999994,
+                            132.29,
+                            457.92,
+                            261.57
+                        ]
+                    ],
+                    "text_description": "이 이미지는 반별 학생 수를 나타내는 표입니다. 각 반의 학생 수는 다음과 같습니다: - 1반: 28명 - 2반: 24명 - 3반: 27명 - 4반: 데이터 없음"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            308.8,
+                            318.9,
+                            370.88,
+                            344.5
+                        ]
+                    ],
+                    "text_description": "108명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.16,
+                            352.18,
+                            360,
+                            402.1
+                        ]
+                    ],
+                    "text_description": "네 반의 평균 학생 수가 27명이므로 5 학년 전체 학생 수는 $27 \\times 4=108$ (명)입니다."
+                }
+            ]
+        }
+    ]
+}

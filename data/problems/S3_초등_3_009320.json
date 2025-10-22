@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a1dcc3fc-19e5-43f2-bde3-4a21087dcc5b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009320",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.64,
+                            6.71,
+                            453.36,
+                            29.75
+                        ]
+                    ],
+                    "text_description": "큰 분수부터 순서대로 바르게 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            192.75,
+                            32.82,
+                            444.14,
+                            109.62
+                        ]
+                    ],
+                    "text_description": "가 $\\frac{1}{7} \\quad$ 나 $\\frac{1}{11} \\quad$ 다 $\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.26,
+                            144.22,
+                            111.86,
+                            165.73
+                        ]
+                    ],
+                    "text_description": "② 다, 가, 나"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.18,
+                            114.53,
+                            114.42,
+                            138.59
+                        ]
+                    ],
+                    "text_description": "① 나, 가, 다"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.23,
+                            170.85,
+                            112.37,
+                            194.91
+                        ]
+                    ],
+                    "text_description": "③ 가, 나, 다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.64,
+                            237.04,
+                            403.18,
+                            273.76
+                        ]
+                    ],
+                    "text_description": "분모를 비교하면 $11>7>2$ 이므로 $\\frac{1}{11}<\\frac{1}{7}<\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

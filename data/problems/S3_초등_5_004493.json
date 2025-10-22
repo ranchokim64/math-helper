@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2b82f917-1698-4bcd-a721-0bb7b9765b4d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004493",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.64,
+                            5.51,
+                            432.96,
+                            32.39
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이를 $\\mathrm{m}^{2}$와 $\\mathrm{cm}^{2}$로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116.8,
+                            43,
+                            368.96,
+                            150.52
+                        ]
+                    ],
+                    "text_description": "직사각형 평면도형의 옆면은 500CM, 윗면은 12M이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            169.28,
+                            160.56,
+                            413.12,
+                            183
+                        ]
+                    ],
+                    "text_description": "$60 \\mathrm{~m}^{2} \\quad, \\quad 600000 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.56,
+                            194.04,
+                            420.8,
+                            231.8
+                        ]
+                    ],
+                    "text_description": "500cm는 5m이므로 $12 \\times 5=60\\left(\\mathrm{~m}^{2}\\right)$ 입니다. $\\mid \\mathrm{m}^{2}=10000 \\mathrm{~cm}^{2}$ 이므로 $60 \\mathrm{~m}^{2}=600000 \\mathrm{~cm}^{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

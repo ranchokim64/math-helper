@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "af17f742-8c72-4f09-af2c-f9ac0628b94a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008134",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.11,
+                            8.89,
+                            547.11,
+                            42.89
+                        ]
+                    ],
+                    "text_description": "몫이 두 자리 수인 나눗셈을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            259.11,
+                            49.89,
+                            697.11,
+                            142.89
+                        ]
+                    ],
+                    "text_description": "$344 \\div 37 \\quad\\quad 531 \\div 52$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.11,
+                            152.89,
+                            203.11,
+                            225.89
+                        ]
+                    ],
+                    "text_description": "$531 \\div 52$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.82,
+                            236.52,
+                            924.82,
+                            300.52
+                        ]
+                    ],
+                    "text_description": "나누어지는 수의 앞의 두 자리 수가 나누는 수와 같거나 나누는 수보다 크면 몫이 두 자리 수입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.02,
+                            310.12,
+                            329.62,
+                            482.92
+                        ]
+                    ],
+                    "text_description": "$344 \\div 37 \\Rightarrow$ 몫이 한 자리 수 $34<37$ $531 \\div 52 \\Rightarrow$ 몫이 두 자리 수 $53>52$"
+                }
+            ]
+        }
+    ]
+}

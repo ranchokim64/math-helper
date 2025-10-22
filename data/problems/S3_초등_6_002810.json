@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c17617b-0cf1-4b01-b125-e0097c5dbad4",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002810",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            36.4,
+                            525.5,
+                            100.4
+                        ]
+                    ],
+                    "text_description": "넓이가 $8. 1 \\mathrm{~cm}^{2}$이고 밑변의 길이가 4cm인 삼각형의 높이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            542.5,
+                            31.4,
+                            723.5,
+                            220.4
+                        ]
+                    ],
+                    "text_description": "이 그림에는 정삼각형의 높이가 4cm로 표시되어 있고, 높이가 꼭짓점에서 밑변의 중앙에 닿는 구조입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            121.5,
+                            401.4,
+                            340.5,
+                            447.4
+                        ]
+                    ],
+                    "text_description": "$4. 05 \\mathrm{cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.5,
+                            250.4,
+                            689.5,
+                            364.4
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} (\\text { 밑변의 길이 }) \\times(\\text { 높이 }) \\div 2=(\\text { 삼각형의 넓이 }) \\text { 이므로 } \\\\ 4 \\times \\square \\div 2=8. 1, 4 \\times \\square=8, 1 \\times 2, 4 \\times \\square=16. 2 \\\\ 0=16. 2 \\div 4=4. 05(\\mathrm{~cm}) \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

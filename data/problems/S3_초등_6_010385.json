@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1de5e021-8c4b-4ef1-a3b1-04ea9bf38859",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010385",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.3,
+                            6.44,
+                            364.1,
+                            35.44
+                        ]
+                    ],
+                    "text_description": "각뿔을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            254.3,
+                            44.04,
+                            742.3,
+                            184.04
+                        ]
+                    ],
+                    "text_description": "삼각기둥, 원뿔, 오각뿔이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.7,
+                            194.1,
+                            162.3,
+                            322.1
+                        ]
+                    ],
+                    "text_description": "오각뿔이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.7,
+                            334.1,
+                            955.9,
+                            361.3
+                        ]
+                    ],
+                    "text_description": "각뿔은 밑에 놓인 도형이 다각형이고 옆으로 둘러싼 면이 모두 이등변삼각형인 입체"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            370.1,
+                            159.9,
+                            397.3
+                        ]
+                    ],
+                    "text_description": "도형입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d7a0dc29-0b83-46d0-b30c-db5e6abf368b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012321",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            172.2,
+                            12.64,
+                            472.2,
+                            61.44
+                        ]
+                    ],
+                    "text_description": "각도를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73,
+                            89.44,
+                            474.6,
+                            313.44
+                        ]
+                    ],
+                    "text_description": "각도기에 각이 70도를 가리키고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            524.2,
+                            328.3,
+                            584.2,
+                            369.9
+                        ]
+                    ],
+                    "text_description": "$70^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.6,
+                            384.3,
+                            550.6,
+                            413.9
+                        ]
+                    ],
+                    "text_description": "각의 한 변이 각도기와 닿은 눈금을 읽습니다."
+                }
+            ]
+        }
+    ]
+}

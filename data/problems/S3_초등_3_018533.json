@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c1905c8-41c0-44d7-a234-169696741092",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018533",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.38,
+                            7.79,
+                            781.95,
+                            61.31
+                        ]
+                    ],
+                    "text_description": "빵이 $60$개 있습니다. 한 명에게 $10$개씩 나누어 주려고 합니다. 모두 몇 명에게 나누어 줄 수 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.23,
+                            108.41,
+                            72.61,
+                            129.82
+                        ]
+                    ],
+                    "text_description": "② $6$명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.52,
+                            79.15,
+                            73.47,
+                            99.14
+                        ]
+                    ],
+                    "text_description": "① $5$명"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.52,
+                            137.41,
+                            73.33,
+                            190.93
+                        ]
+                    ],
+                    "text_description": "③ $7$명 ④ $8$명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.24,
+                            239.45,
+                            515.05,
+                            263.72
+                        ]
+                    ],
+                    "text_description": "따라서 $60$개의 빵을 $10$개씩 나누면 $6$명에게 나눠줄 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

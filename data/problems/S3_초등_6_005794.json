@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "65a0a273-4be0-4bf0-8f5e-510f1c4a9596",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005794",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -1.11,
+                            16.11,
+                            421.97,
+                            71.4
+                        ]
+                    ],
+                    "text_description": "다음 전개도를 접어서 만들 수 있는 정육면체의 겉넓이는 몇 $\\mathrm{cm}^{2}$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            115.32,
+                            81.66,
+                            310.82,
+                            229.29
+                        ]
+                    ],
+                    "text_description": "한 모서리의 길이가 4cm인 정육면체의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            280.32,
+                            244.58,
+                            348.87,
+                            268.38
+                        ]
+                    ],
+                    "text_description": "$96 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.55,
+                            280.35,
+                            288.59,
+                            304.29
+                        ]
+                    ],
+                    "text_description": "$(정육면체의 겉넓이)=4 \\times 4 \\times 6=96\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

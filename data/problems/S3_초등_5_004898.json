@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "017b91fb-53ce-45b7-a224-11d896da89e2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004898",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.52,
+                            26.99,
+                            388.36,
+                            52.59
+                        ]
+                    ],
+                    "text_description": "가장 큰 수와 가장 작은 수의 곱을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.72,
+                            67.55,
+                            364.8,
+                            115.95
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{llll}4. 7 & 26. 8 & 0. 64 & 13. 5\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.96,
+                            131.68,
+                            339.08,
+                            152.8
+                        ]
+                    ],
+                    "text_description": "$17. 152$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.44,
+                            161.12,
+                            402.44,
+                            202.72
+                        ]
+                    ],
+                    "text_description": "$26. 8>13. 5>4. 7>0. 64$이므로 가장 큰 수와 가장 작은 수의 곱은 $26. 8 \\times 0. 64=17. 152$입니다."
+                }
+            ]
+        }
+    ]
+}

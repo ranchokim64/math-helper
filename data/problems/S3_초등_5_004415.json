@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "329b52cf-4a1b-4489-9c67-c28c41064583",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004415",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-04] 넓이를 나타내는 표준 단위의 필요성을 인식하여 1cm², 1m², 1km²의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-12] 넓이 단위 1cm², 1m², 1km²를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.85,
+                            6.85,
+                            254.53,
+                            58.05
+                        ]
+                    ],
+                    "text_description": "오른쪽 도형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.85,
+                            64.87,
+                            147.65,
+                            167.83
+                        ]
+                    ],
+                    "text_description": "눈금 한 칸의 넓이가 $1 \\mathrm{~cm}^{2}$인 모눈종이에 6칸을 차지하는 계단 모양의 도형이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            390.21,
+                            240.15,
+                            436.29,
+                            261.91
+                        ]
+                    ],
+                    "text_description": "$6 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.05,
+                            208.79,
+                            426.05,
+                            228.63
+                        ]
+                    ],
+                    "text_description": "모눈종이 한 칸의 넓이가 $1 \\mathrm{~cm}^{2}$이므로 도형의 넓이는 $6 \\mathrm{~cm}^{2}$입니다."
+                }
+            ]
+        }
+    ]
+}

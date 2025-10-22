@@ -1,0 +1,132 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f1ef84e7-29c3-4865-97c8-5f2bb53c22d3",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017883",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.23,
+                            12.36,
+                            252.82,
+                            37.05
+                        ]
+                    ],
+                    "text_description": "다음을 계산하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            442.87,
+                            67.49,
+                            539.96,
+                            95.46
+                        ]
+                    ],
+                    "text_description": "$18. 9 \\div 7$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.93,
+                            162.93,
+                            70.17,
+                            189.26
+                        ]
+                    ],
+                    "text_description": "② $2.7$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.11,
+                            123.94,
+                            70.99,
+                            151.91
+                        ]
+                    ],
+                    "text_description": "① $2. 6$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.11,
+                            199.63,
+                            70.99,
+                            302.47
+                        ]
+                    ],
+                    "text_description": "③ $2. 8$ ④ $2. 9$ ⑤ $3. 0$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.51,
+                            330.45,
+                            749.76,
+                            394.62
+                        ]
+                    ],
+                    "text_description": "$18.9=\\frac{189}{10}, \\quad 18.9 \\div 7=\\frac{189}{10} \\div 7=\\frac{189}{10} \\times \\frac{1}{7}=\\frac{189}{70}=\\frac{27}{10}=2.7$"
+                }
+            ]
+        }
+    ]
+}

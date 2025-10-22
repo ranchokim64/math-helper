@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "58c1d1f7-25a6-4816-86e0-610c4c31c748",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003075",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            4.42,
+                            713.5,
+                            49.42
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.5,
+                            56.42,
+                            305.5,
+                            290.42
+                        ]
+                    ],
+                    "text_description": "각 변이 14cm인 정사각형안에 반지름이 7cm인 부채꼴이 접해있어, 중간에 옅은 분홍색의 스파클 무늬를 볼 수 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            148.5,
+                            432,
+                            398.5,
+                            473
+                        ]
+                    ],
+                    "text_description": "$49 \\quad \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            301,
+                            413.5,
+                            420
+                        ]
+                    ],
+                    "text_description": "(색칠한 부분의 넓이) \\[ \\begin{array}{l} =(14 \\times 14)-(7 \\times 7 \\times 3) \\\\ =196-147=49\\left(\\mathrm{~cm}^{2}\\right) \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

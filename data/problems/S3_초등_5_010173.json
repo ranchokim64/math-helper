@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "10c6d7aa-ff44-4c90-bbf2-04f1d04e42b7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010173",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            3.91,
+                            664,
+                            54.91
+                        ]
+                    ],
+                    "text_description": "다음 회전판에서 일이 일어날 가능성을 알아보려고 합니다. 화살이 노란색에 멈출 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289,
+                            55.91,
+                            396,
+                            147.91
+                        ]
+                    ],
+                    "text_description": "회전판에 노란색에 칠한 부분과 아닌 부분으로 나뉘어 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            175,
+                            149.5,
+                            511,
+                            223.5
+                        ]
+                    ],
+                    "text_description": "이미지는 수직선으로 나타낸 0과 1 사이의 구간을 보여줍니다. 중간에 위치한 점은 \\(\\frac{1}{2} \\)를 가리키고 있으며, 해당 점에 화살표가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            175,
+                            225.5,
+                            510,
+                            301.5
+                        ]
+                    ],
+                    "text_description": "이미지는 0부터 1까지의 수직선을 나타내고 있으며, 0과 1/2, 1 위치에 각각 점이 표시되어 있습니다. 0 위치에는 분홍색 화살표가 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            308.5,
+                            371,
+                            383.5
+                        ]
+                    ],
+                    "text_description": "수직선으로 나타낸 0과 1 사이의 구간을 보여줍니다. 중간에 위치한 점은 \\(\\frac{1}{2} \\)를 가리키고 있으며, 해당 점에 화살표가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            390.5,
+                            591,
+                            429.5
+                        ]
+                    ],
+                    "text_description": "화살이 노란색에 멈출 가능성은 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

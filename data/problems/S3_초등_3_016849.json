@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4e52cc70-b8ab-4a43-b8e8-5ca140e00560",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016849",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.98,
+                            5.2,
+                            593.22,
+                            22.61
+                        ]
+                    ],
+                    "text_description": "동물원에서 기른 토끼의 다리를 세어 보니 모두 32개였습니다. 토끼는 모두 몇 마리일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.49,
+                            86.63,
+                            63.28,
+                            106.07
+                        ]
+                    ],
+                    "text_description": "③ 8마리"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.49,
+                            36.97,
+                            63.28,
+                            80.47
+                        ]
+                    ],
+                    "text_description": "① 6마리 ② 7마리"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.98,
+                            112.75,
+                            62.76,
+                            132.15
+                        ]
+                    ],
+                    "text_description": "④ 4마리"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.64,
+                            139.41,
+                            501.06,
+                            155.8
+                        ]
+                    ],
+                    "text_description": "토끼의 다리는 4개씩 있으므로 4의 단 곱셈구구를 이용하여 알 수 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.82,
+                            190.2,
+                            226.63,
+                            206.59
+                        ]
+                    ],
+                    "text_description": "따라서 토끼는 모두 8마리입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.41,
+                            166.04,
+                            182.8,
+                            179.96
+                        ]
+                    ],
+                    "text_description": "$4 \\times 8=32 \\quad 32 \\div 4=8$"
+                }
+            ]
+        }
+    ]
+}

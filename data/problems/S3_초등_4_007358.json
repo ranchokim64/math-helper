@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1a629360-fc45-43a5-a538-04471b98456f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007358",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.27,
+                            2.24,
+                            525.27,
+                            39.24
+                        ]
+                    ],
+                    "text_description": "계산 결과가 3보다 큰 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.27,
+                            186.77,
+                            170.27,
+                            243.77
+                        ]
+                    ],
+                    "text_description": "⑤ $8 \\frac{3}{11}-4 \\frac{9}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.27,
+                            49.77,
+                            133.27,
+                            173.77
+                        ]
+                    ],
+                    "text_description": "① $5-2 \\frac{3}{8}$ ③ $3 \\frac{1}{5}-\\frac{4}{5}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            434.27,
+                            46.77,
+                            547.27,
+                            174.77
+                        ]
+                    ],
+                    "text_description": "② $\\frac{1}{6}+2 \\frac{5}{6}$ ④ $\\frac{8}{9}+\\frac{8}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.27,
+                            298.77,
+                            459.27,
+                            621.77
+                        ]
+                    ],
+                    "text_description": "① $5-2 \\frac{3}{8}=4 \\frac{8}{8}-2 \\frac{3}{8}=2 \\frac{5}{8}<3$ ② $\\frac{1}{6}+2 \\frac{5}{6}=3$ ③ $3 \\frac{1}{5}-\\frac{4}{5}=2 \\frac{6}{5}-\\frac{4}{5}=2 \\frac{2}{5}<3$ ④ $\\frac{8}{9}+\\frac{8}{9}=\\frac{16}{9}=1 \\frac{7}{9}<3$ ⑤ $8 \\frac{3}{11}-4 \\frac{9}{11}=7 \\frac{14}{11}-4 \\frac{9}{11}=3 \\frac{5}{11}>3$ 따라서 계산 결과가 3보다 큰 것은 ⑤입니다."
+                }
+            ]
+        }
+    ]
+}

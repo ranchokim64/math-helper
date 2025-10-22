@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "88a3543f-c066-4f66-beac-3cca90d7bbdc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004739",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.18,
+                            11.35,
+                            344.19,
+                            37.6
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            142.39,
+                            47.44,
+                            373.72,
+                            203.3
+                        ]
+                    ],
+                    "text_description": "직사각형의 높이 : 9. 4cm 직사각형의 가로: 12cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            311.38,
+                            222.99,
+                            401.62,
+                            245.96
+                        ]
+                    ],
+                    "text_description": "112.8cm²"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.97,
+                            257.14,
+                            241.65,
+                            281.75
+                        ]
+                    ],
+                    "text_description": "$12 \\times 9. 4=112. 8\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

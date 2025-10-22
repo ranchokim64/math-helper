@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b868381e-7a09-4f72-8707-f602e2c7a7fc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008556",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.28,
+                            7.24,
+                            756.28,
+                            35.24
+                        ]
+                    ],
+                    "text_description": "색칠된 부분은 실제 어떤 수의 곱인지를 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            295.28,
+                            325.78,
+                            676.28,
+                            353.78
+                        ]
+                    ],
+                    "text_description": "$1 \\times 3 \\quad 10 \\times 3 \\quad 100 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            397.0,
+                            45.0,
+                            558.0,
+                            293.0
+                        ]
+                    ],
+                    "text_description": "$512 \\times 3 6 30 1500 1536$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.28,
+                            439.78,
+                            492.28,
+                            465.78
+                        ]
+                    ],
+                    "text_description": "십의 자리의 곱이므로 $10 \\times 3=30$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.28,
+                            393.78,
+                            126.28,
+                            420.78
+                        ]
+                    ],
+                    "text_description": "$10 \\times 3$"
+                }
+            ]
+        }
+    ]
+}

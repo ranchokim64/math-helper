@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "058d299d-18ae-430c-aded-f8f2219b8625",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009678",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-01] 구체적인 조작 활동을 통하여 도형의 합동의 의미를 알고, 합동인 도형을 찾을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            5.42,
+                            463.5,
+                            27.42
+                        ]
+                    ],
+                    "text_description": "다음 도형과 서로 합동인 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            213,
+                            440.5,
+                            233
+                        ]
+                    ],
+                    "text_description": "도형과 포개었을 때 완전히 겹치는 도형을 찾습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            256.0,
+                            33.0,
+                            396.0,
+                            122.0
+                        ]
+                    ],
+                    "text_description": "포개었을 때 겹치는 두개의 사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            69.0,
+                            110.5,
+                            174.0
+                        ]
+                    ],
+                    "text_description": "①두각이 직각인 사각형 ④한 각이 직각인 삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            240.5,
+                            123.0,
+                            324.5,
+                            173.0
+                        ]
+                    ],
+                    "text_description": "⑤ 두각이 직각인 사각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            460.5,
+                            75.0,
+                            531.5,
+                            116.0
+                        ]
+                    ],
+                    "text_description": "③두각이 직각인 사각형"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2aa4f411-d5f8-47bb-949e-700a2a0f7a1a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007630",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            4.4,
+                            489.5,
+                            30.4
+                        ]
+                    ],
+                    "text_description": "두 직선이 서로 수직인 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            530.5,
+                            40.4,
+                            654.5,
+                            141.4
+                        ]
+                    ],
+                    "text_description": "두 직선이 한 꼭짓점으로 만나 직각을 이루는 모양이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            241.4,
+                            717.5,
+                            268.4
+                        ]
+                    ],
+                    "text_description": "두 직선이 만나서 이루는 각이 직각일 때, 두 직선은 서로 수직입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            207.5,
+                            40.4,
+                            334.5,
+                            140.4
+                        ]
+                    ],
+                    "text_description": "두 직선이 서로 교차해 X 모양이 만들어 졌다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ecde2be7-29dc-4d41-aedd-8496238e0152",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012040",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20,
+                            11.42,
+                            527,
+                            146.42
+                        ]
+                    ],
+                    "text_description": "전체에 대하여 색칠한 부분의 크기를 분수로 나타낼 때 다른 것을 찾 아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            176.42,
+                            517,
+                            314.42
+                        ]
+                    ],
+                    "text_description": "가, 나, 다, 세 개의 도형이 있다. 가: 육각형이 6등분 되어있고 5칸이 칠되어있다. 나: 원형이 6등분 되어있고 5칸이 칠되어있다. 다: 직각삼각형이 4등분 되어있고, 3칸이 칠 되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            396,
+                            342,
+                            426,
+                            370
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43,
+                            385,
+                            256,
+                            435
+                        ]
+                    ],
+                    "text_description": "가: $\\frac{5}{6}$ 나: $\\frac{5}{6}$ 다: $\\frac{3}{4}$"
+                }
+            ]
+        }
+    ]
+}

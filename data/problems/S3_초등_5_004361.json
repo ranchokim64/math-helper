@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f78a243e-da4c-4bda-a11b-7bf689adc50f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004361",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.4,
+                            77.63,
+                            364.2,
+                            121.83
+                        ]
+                    ],
+                    "text_description": "두 분모의 최소공배수를 구하고, 이 최소공배수를 공통분모로 하여 통분해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.2,
+                            129.43,
+                            303.4,
+                            187.23
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{12} \\quad \\frac{3}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.8,
+                            195.1,
+                            362,
+                            263.1
+                        ]
+                    ],
+                    "text_description": "㉠ 최소공배수: $(24)$ ㉡ 통분: $\\left(\\frac{10}{24}, \\frac{9}{24}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            7.1,
+                            363.6,
+                            71.9
+                        ]
+                    ],
+                    "text_description": "두 분모 12와 8의 최소공배수는 24입니다. 24를 공통분모로 하여 통분하면 $\\frac{5}{12}=\\frac{5 \\times 2}{12 \\times 2}=\\frac{10}{24}, \\frac{3}{8}=\\frac{3 \\times 3}{8 \\times 3}=\\frac{9}{24}$입니다."
+                }
+            ]
+        }
+    ]
+}

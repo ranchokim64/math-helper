@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0fb1d010-56d1-4c33-958a-4a9c8bb85b6e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011159",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.73,
+                            6.06,
+                            858.45,
+                            139.82
+                        ]
+                    ],
+                    "text_description": "천에 천연 염색을 하려면 소나무 껍질 540g에 물 2L가 필요합니다. 물 5L를 넣을 때 소나무 껍질은 몇 g 필요한지 구하려고 합니다. 물 5L를 넣을 때 필요한 소나무 껍질의 양을 $\\square \\mathrm{g}$ 이라하고 비례식을 알맞게 세운 것을 선택 해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            231.97,
+                            146.86,
+                            653.01,
+                            217.9
+                        ]
+                    ],
+                    "text_description": "<div class=\"table_tabular \" style=\"text-align: center\"> <div class=\"inline-tabular\"><table id=\"tabular\"> <tbody> <tr style=\"border-top: none !important; border-bottom: none !important;\"> <td style=\"text-align: left; border-left-style: solid !important; border-left-width: 1px !important; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \"><span class=\"math-inline \"> $540: 5=2: \\square$</span></td> <td style=\"text-align: left; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \"><span class=\"math-inline \"> $540: 2=\\square: 5$</span></td> </tr> </tbody> </table> </div></div>"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.8,
+                            231.41,
+                            170.08,
+                            255.61
+                        ]
+                    ],
+                    "text_description": "$540: 2=\\square: 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.38,
+                            269.14,
+                            650.5,
+                            288.49
+                        ]
+                    ],
+                    "text_description": "물 $5L$를 넣을 때 필요한 소나무 껍질의 양이 $\\square \\mathrm{g}$ 이므로 비례식을 세우면 $540:2=\\square: 5$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8b0e815d-5f14-48f3-9d4e-3bb119cb5af2",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012176",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.5,
+                            4.75,
+                            471,
+                            88.75
+                        ]
+                    ],
+                    "text_description": "마을별 1일 복숭아 생산량을 조사한 것입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.25,
+                            332.75,
+                            477.75,
+                            435
+                        ]
+                    ],
+                    "text_description": "복숭아 생산량이 가장 많은 마을과 가장 적은 마을의 복숭아 생산량의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.75,
+                            96.75,
+                            424,
+                            316
+                        ]
+                    ],
+                    "text_description": "마을별 복숭아 생산량의 그림그래프이다. 가로는 마을 세로는 생산량이다. 큰 복숭아는 10상자 작은 복숭아는 1상자이다. 강의 생산량 21(큰 복숭아 2/작은 복숭아 1) 산의 생산량 12(큰 복숭아 1/작은 복숭아 2) 바람의 생산량 23(큰 복숭아 2/작은 복숭아 3) 하을의 생산량 6(작은 복숭아 6)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            348.75,
+                            458.75,
+                            409.75,
+                            481.75
+                        ]
+                    ],
+                    "text_description": "17상자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.25,
+                            497.75,
+                            454.25,
+                            541.75
+                        ]
+                    ],
+                    "text_description": "가장 많은 곳 : 바람 마을 $\\rightarrow 23$상자 가장 적은 곳 : 하늘 마을 $\\rightarrow 6$상자 차 : 17 상자"
+                }
+            ]
+        }
+    ]
+}

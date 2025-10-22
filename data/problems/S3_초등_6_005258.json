@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9331f7c6-610e-4d36-a9b7-1d294f930c58",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005258",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            6.4,
+                            511,
+                            116.4
+                        ]
+                    ],
+                    "text_description": "한 모서리의 길이가 2cm 인 쌓기나무 11개로 오른쪽 그림과 같은 모양을 만들어 바닥을 제외한 모든 겉면에 페인트를 칠했습니다. 페인트가 칠해진 면의 전체 넓이는 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18,
+                            129.4,
+                            167,
+                            326.4
+                        ]
+                    ],
+                    "text_description": "총 11개로 쌓여진 쌓기 나무가 1층에는 6개, 2층에는 4개, 3층에는 1개로 구성돼있고, 이를 위, 앞, 옆에서 화살표로 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116,
+                            527.4,
+                            187,
+                            554.4
+                        ]
+                    ],
+                    "text_description": "$120 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -1,
+                            429.4,
+                            439,
+                            515.4
+                        ]
+                    ],
+                    "text_description": "(페인트가 칠해진 면의 수) $=6+6 \\times 2+6 \\times 2=6+12+12=30$ (개) (페인트가 칠해진 면의 넓이)=(한 면의 넓이) $\\times 30=2 \\times 2 \\times 30=120\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0,
+                            338.4,
+                            60,
+                            413.4
+                        ]
+                    ],
+                    "text_description": "위에서 본 모양은 3X3, 9칸으로 봤을 때 첫 째 줄 3개, 둘 째 줄 2개, 셋 째 줄 1개로 구성돼있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            339.4,
+                            128,
+                            413.4
+                        ]
+                    ],
+                    "text_description": "앞에서 본 모양은 3X3, 9칸으로 봤을 때 첫 째 줄 1개, 둘 째 줄 2개, 셋 째 줄 3개로 구성돼있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            136,
+                            338.4,
+                            196,
+                            413.4
+                        ]
+                    ],
+                    "text_description": "옆에서 본 모양은 3X3, 9칸으로 봤을 때 첫 째 줄 1개, 둘 째 줄 2개, 셋 째 줄 3개로 구성돼있다."
+                }
+            ]
+        }
+    ]
+}

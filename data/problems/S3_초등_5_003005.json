@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3e10f39b-019a-4935-a15a-ec807658d00b",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003005",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.17,
+                            15.63,
+                            427.91,
+                            44.81
+                        ]
+                    ],
+                    "text_description": "오른쪽 액자의 가로와 세로의 차는 몇 m 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            477.58,
+                            19.73,
+                            771.47,
+                            218.38
+                        ]
+                    ],
+                    "text_description": "세로가 8분의 3m, 가로가 5분의 3m로 이루어진 액자가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            300.62,
+                            253.32,
+                            351.31
+                        ]
+                    ],
+                    "text_description": "$\\left(\\frac{9}{40} \\quad\\right) \\mathrm{m}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.11,
+                            242.45,
+                            347.02,
+                            288.53
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{5}-\\frac{3}{8}=\\frac{24}{40}-\\frac{15}{40}=\\frac{9}{40}(\\mathrm{~m})$"
+                }
+            ]
+        }
+    ]
+}

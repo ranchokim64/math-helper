@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "327a60a7-b0fb-4192-b74b-de987c0117fc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007493",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-15] 소수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-14] 소수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.8,
+                            5.6,
+                            848,
+                            67.2
+                        ]
+                    ],
+                    "text_description": "민지는 갈림길에서 더 큰 소수가 있는 길로 가야 합니다. 민지가 도착한 곳은 누구네 집인지 이름을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            260.8,
+                            76.8,
+                            604,
+                            527.2
+                        ]
+                    ],
+                    "text_description": "민지와 네 갈림길이 있고 각각 동민의 집, 효영의 집, 영준의 집, 희진의 집이 있습니다. 가운데 $1. 7$과 $0. 94$로 갈리는 갈림길이 있고, 동민의 집에 가는 길은 $0. 806$, 효영의 집에 가는 길은 $0. 81$, 영준의 집에 가는 길은 $2. 4$, 희진의 집에 가는 길은 $2. 35$로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.6,
+                            552,
+                            116,
+                            626.4
+                        ]
+                    ],
+                    "text_description": "효영"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.4,
+                            636,
+                            353.6,
+                            688.8
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{aligned} 1. 7 &> 0. 94 \\\\ \\left[ 1 > 0 \\right] \\end{aligned} \\quad \\begin{aligned} 0. 806 &< 0. 81 \\\\ \\left[ 0 < 1 \\right] \\end{aligned} \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            305.6,
+                            692,
+                            573.6,
+                            1055.2
+                        ]
+                    ],
+                    "text_description": "민지와 네 갈림길이 있고 각각 동민의 집, 효영의 집, 영준의 집, 희진의 집이 있습니다. 가운데 $1. 7$과 $0. 94$로 갈리는 갈림길이 있고, 동민의 집에 가는 길은 $0. 806$, 효영의 집에 가는 길은 $0. 81$, 영준의 집에 가는 길은 $2. 4$, 희진의 집에 가는 길은 $2. 35$로 표기되어 있습니다. $1. 7$과 $0. 81$을 거쳐가는 화살표가 표시되어 있습니다."
+                }
+            ]
+        }
+    ]
+}

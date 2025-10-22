@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "17cbde21-153d-47e4-a61e-dc3e6a0d6d80",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012210",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.05,
+                            7.71,
+                            691.99,
+                            104.59
+                        ]
+                    ],
+                    "text_description": "16 18 진석이네 반 학생들이 좋아하는 운동의 종류를 조사한 것입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.3,
+                            293.04,
+                            699.8,
+                            378.98
+                        ]
+                    ],
+                    "text_description": "진석이네 반 학생 중에서 야구를 좋아하는 학생은 몇 명일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.74,
+                            123.34,
+                            696.68,
+                            282.71
+                        ]
+                    ],
+                    "text_description": "학생들이 좋아하는 운동 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 종류 & 축구 & 야구 & 농구 & 배구 & 합계 \\\\ \\hline 학생 수(명) & 8 & & 6 & 4 & 23 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            549.8,
+                            397.73,
+                            598.24,
+                            438.35
+                        ]
+                    ],
+                    "text_description": "5명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.87,
+                            444.6,
+                            399.8,
+                            480.54
+                        ]
+                    ],
+                    "text_description": "$8+6+4=18$ (명) $\\rightarrow 23-18=5$ (명)"
+                }
+            ]
+        }
+    ]
+}

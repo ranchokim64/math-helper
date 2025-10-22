@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "faf7911a-32ca-45fc-bddd-a2ec411276ac",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002980",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.9,
+                            16.11,
+                            350.86,
+                            38.27
+                        ]
+                    ],
+                    "text_description": "책상과 의자의 배열을 보고 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.1399999999999997,
+                            145.52,
+                            287.14,
+                            168.84
+                        ]
+                    ],
+                    "text_description": "책상이 20개일 때 의자는 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            59.12,
+                            651.7,
+                            127.52000000000001
+                        ]
+                    ],
+                    "text_description": "1. 첫 번째 이미지: 세 개의 의자와 테이블. 2. 두 번째 이미지: 두 개의 테이블과 네 개의 의자. 3. 세 번째 이미지: 세 개의 테이블과 다섯 개의 의자."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.9,
+                            238.32,
+                            229.3,
+                            264.72
+                        ]
+                    ],
+                    "text_description": "$\\left(\\begin{array}{ll}22 & \\text {)개 }\\end{array}\\right. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.46,
+                            186,
+                            694.54,
+                            232.56
+                        ]
+                    ],
+                    "text_description": "의자는 책상 양쪽에 $2$개가 항상 있고. 책상 위쪽에 책상 수만큼 있으므로 책상이 $20$개이면 의자는 책상 양쪽에 $2$개와 책상 위쪽에 $20$개가 있어서 모두 $22$개입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "20c81e77-faf0-41dd-9580-072ba92eddc1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009171",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.8,
+                            1.44,
+                            481,
+                            27.44
+                        ]
+                    ],
+                    "text_description": "$1mm$를 바르게 쓴 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            260.8,
+                            44.04,
+                            385,
+                            80.84
+                        ]
+                    ],
+                    "text_description": "파란색 점선이 $3$줄이 있고 $1mm$라는 글씨가 밑에 한칸에 적혀있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            456.6,
+                            43.7,
+                            590.4,
+                            81.9
+                        ]
+                    ],
+                    "text_description": "파란색 점선이 $3$줄 있고 $1$은 $2$칸을 차지하며 적혀있고 밑에 한 칸은 $mm$가 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.4,
+                            99.7,
+                            177.8,
+                            139.1
+                        ]
+                    ],
+                    "text_description": "파란색 점선이 $3$줄 있고 $1$은 $2$칸을 차지하며 적혀있고 밑에 한 칸은 $mm$가 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.8,
+                            148.5,
+                            431.6,
+                            174.3
+                        ]
+                    ],
+                    "text_description": "$1$은 $2$ 칸에 쓰고 $mm$는 $1$ 칸에 씁니다."
+                }
+            ]
+        }
+    ]
+}

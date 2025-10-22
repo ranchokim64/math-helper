@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7f0db2cd-0513-4c2a-b5ef-4a83f2450d63",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005321",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            18.42,
+                            482,
+                            83.42
+                        ]
+                    ],
+                    "text_description": "반지름이 6cm 인 원의 넓이는 얼마인지 어림해 보려고 합니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            274,
+                            486,
+                            341
+                        ]
+                    ],
+                    "text_description": "원의 넓이는 한 변의 길이가 6cm 인 정사각형의 넓이의 약 몇 배일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            152,
+                            92,
+                            341,
+                            270
+                        ]
+                    ],
+                    "text_description": "정사각형 안에 원이 있고 원 안에 마름모가 있으며 원의 반지름은 6cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            468,
+                            77,
+                            502
+                        ]
+                    ],
+                    "text_description": "약 3배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            350,
+                            456,
+                            456
+                        ]
+                    ],
+                    "text_description": "원 안의 마름모의 넓이는 작은 정사각형(한 변의 길이가 6cm 인 정사각형)의 2 배 넓이이고, 원 밖의 정사각형의 넓이는 작은 정사각형의 4 배 넓이이므로, 원의 넓이는 작은 정사각형의 약 3배 넓이입니다."
+                }
+            ]
+        }
+    ]
+}

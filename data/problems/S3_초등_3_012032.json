@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d86b2c8-2ccc-4e2d-be02-359eef48295c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012032",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.5,
+                            10.92,
+                            531.5,
+                            152.92
+                        ]
+                    ],
+                    "text_description": "흰 바둑돌과 검은 바둑돌을 38 개씩 2통에 담았습니다. 바둑돌은 모두 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            385.5,
+                            181.92,
+                            439.5,
+                            211.92
+                        ]
+                    ],
+                    "text_description": "76개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            218.5,
+                            379.5,
+                            301.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (전체 바둑돌의 수) } \\\\ =(\\text { 한 통에 담은 바둑돌의 수) } \\times \\text { (통의 수) } \\\\ =38 \\times 2=7 \\text { (개) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

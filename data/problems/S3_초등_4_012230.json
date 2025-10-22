@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "287afc42-a679-418e-add2-c698cd29d009",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012230",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            13.41,
+                            447.5,
+                            55.41
+                        ]
+                    ],
+                    "text_description": "색칠한 곳의 각도를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            69.41,
+                            266.5,
+                            223.41
+                        ]
+                    ],
+                    "text_description": "이 이미지는 두 개의 각도가 있는 도형을 보여주고 있습니다. 왼쪽에는 40°의 각도가, 오른쪽에는 70°의 각도가 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.5,
+                            264,
+                            149.5,
+                            294
+                        ]
+                    ],
+                    "text_description": "$110^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            226,
+                            208.5,
+                            252
+                        ]
+                    ],
+                    "text_description": "① $70^{\\circ}+40^{\\circ}=110^{\\circ}$"
+                }
+            ]
+        }
+    ]
+}

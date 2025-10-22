@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1351f99b-142a-4649-8d8c-1f05c5819523",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005400",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.33,
+                            7.73,
+                            442.94,
+                            76.39
+                        ]
+                    ],
+                    "text_description": "다음 원기둥의 전개도에서 옆면의 넓이는 몇 cm²인가요? (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116.78,
+                            87.46,
+                            339.94,
+                            261.58
+                        ]
+                    ],
+                    "text_description": "높이16cm의 삼각형과 지름14cm인 원의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289.26,
+                            273.02,
+                            375.09,
+                            299.18
+                        ]
+                    ],
+                    "text_description": "$672 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.22,
+                            308.99,
+                            385.72,
+                            354.76
+                        ]
+                    ],
+                    "text_description": "$($ 직사각형의 가로) $=($ 밑면의 둘레) $=14 \\times 3=42(\\mathrm{~cm})$ 따라서 $($ 옆면의 넓이 $)=42 \\times 16=672\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

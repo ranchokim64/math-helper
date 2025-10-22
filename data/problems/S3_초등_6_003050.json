@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f0a30598-0d76-4f80-aa51-44ab8b3d656d",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003050",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.6,
+                            13.82,
+                            438.8,
+                            65.82
+                        ]
+                    ],
+                    "text_description": "설탕 $1.2kg$의 가격이 $4500$원일 때, 설탕 $1kg$의 가격은 얼마인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.4,
+                            109.42,
+                            210.8,
+                            237.82
+                        ]
+                    ],
+                    "text_description": "- 제품: 달콤한 설탕 - 중량: 1.2kg - 가격: 4, 500원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            304.22,
+                            185.2,
+                            329.02
+                        ]
+                    ],
+                    "text_description": "3750 원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.6,
+                            253.02,
+                            334.8,
+                            274.62
+                        ]
+                    ],
+                    "text_description": "$4500 \\div 1. 2=45000 \\div 12=3750$(원)"
+                }
+            ]
+        }
+    ]
+}

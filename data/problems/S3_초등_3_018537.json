@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4e6d59e8-5a64-4bdd-94f6-82ae792522b9",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018537",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.54,
+                            5.47,
+                            657.9,
+                            46.43
+                        ]
+                    ],
+                    "text_description": "선물이 $36$개 있습니다. 한 명에게 $4$개씩 나누어 주려고 합니다. 모두 몇 명에게 나누어 줄 수 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.54,
+                            89.31,
+                            58.86,
+                            106.59
+                        ]
+                    ],
+                    "text_description": "② $9$명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.35,
+                            63.980000000000004,
+                            58.64,
+                            81.04
+                        ]
+                    ],
+                    "text_description": "① $8$명"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.35,
+                            114.12,
+                            58.98,
+                            155.75
+                        ]
+                    ],
+                    "text_description": "③ $6$명 ④ $7$명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            191.14,
+                            430.24,
+                            205.89
+                        ]
+                    ],
+                    "text_description": "따라서 $36$개의 선물을 $4$개씩 나누면 $9$명에게 나눠줄 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.83,
+                            167.87,
+                            81.92,
+                            180.33
+                        ]
+                    ],
+                    "text_description": "$36 \\div 4=9$"
+                }
+            ]
+        }
+    ]
+}

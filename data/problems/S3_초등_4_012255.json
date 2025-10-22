@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dc841065-7b96-436c-bb68-903f8fdac240",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012255",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            15.91,
+                            701.5,
+                            288.91
+                        ]
+                    ],
+                    "text_description": "2-2 공책 325권이 있습니다. 공책을 한 반 학생이 30 명인 반에 똑같이 나누어 주 려고 합니다. 공책을 한 명에게 한 권씩 나 누어 준다면 몇 개의 반에 나누어 줄 수 있고, 몇 권이 남을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.5,
+                            421.5,
+                            451.5,
+                            524.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{ccc}\\text { 반 }(& 10 \\text { 개 반 } &) \\\\ \\text { 남는 수 }(& 25 \\text { 권 } &)\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            303.5,
+                            412.5,
+                            369.5
+                        ]
+                    ],
+                    "text_description": "(공책 수) $\\div($ 한 반의 학생 수) \\[ =\\text { (나누어 줄 수 있는 반 수) } \\cdots \\text { (나머지) } \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.5,
+                            371.5,
+                            361.5,
+                            408.5
+                        ]
+                    ],
+                    "text_description": "$=325 \\div 30=10$ (개 반) $\\cdots 25$ (권)"
+                }
+            ]
+        }
+    ]
+}

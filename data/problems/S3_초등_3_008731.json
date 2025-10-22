@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "56315026-4dcd-46d6-b894-7abc244694a4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008731",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.770000000000003,
+                            7,
+                            927.77,
+                            74
+                        ]
+                    ],
+                    "text_description": "두 분수의 크기를 비교하여 더 큰 분수를 빈칸에 써넣으려고 합니다. ㉠에 들어갈 분수로 알맞은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            255.2,
+                            126.4,
+                            695.2,
+                            476
+                        ]
+                    ],
+                    "text_description": "이미지에 나타난 구조는 토너먼트 형태로 구성되어 있으며, 상단 중앙에는 $㉠$이 위치해 있다. 이 칸 아래로 두 개의 가지가 뻗어 있으며, 각 가지에는 두 개의 박스가 연결되어 있다. 왼쪽 가지 아래에는 분수 $\\frac{15}{7}$과 $\\frac{22}{7}$이, 오른쪽 가지 아래에는 $2 \\frac{3}{7}$과 $2 \\frac{6}{7}$이 위치해 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.77,
+                            500,
+                            92.77,
+                            553
+                        ]
+                    ],
+                    "text_description": "$\\frac{22}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.77,
+                            575.89,
+                            251.77,
+                            627.89
+                        ]
+                    ],
+                    "text_description": "$\\frac{15}{7}<\\frac{22}{7}, 2 \\frac{3}{7}<2 \\frac{6}{7}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.77,
+                            924.89,
+                            701.77,
+                            1042.89
+                        ]
+                    ],
+                    "text_description": "$\\frac{22}{7}$와 $2 \\frac{6}{7}$의 크기를 비교하면 $\\frac{22}{7}=3 \\frac{1}{7}$이므로 $\\frac{22}{7}>2 \\frac{6}{7}$입니다. 따라서 ㉠에 알맞은 수는 $\\frac{22}{7}$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.77,
+                            632.89,
+                            386.77,
+                            920.89
+                        ]
+                    ],
+                    "text_description": "분수의 크기를 비교하여 더 큰 분수를 빈칸에 넣는 상자입니다. $\\frac{22}{7}$, $\\frac{15}{7}$, $2 \\frac{3}{7}$, $2 \\frac{6}{7}$이 적혀있는 상자가 아래 있고 위로 $\\frac{22}{7}$, $2 \\frac{6}{7}$이 적힌 상자와 맨위에 ㉠으로 된 상자가 있습니다."
+                }
+            ]
+        }
+    ]
+}

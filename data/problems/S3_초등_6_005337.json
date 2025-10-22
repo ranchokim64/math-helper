@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2ccb0db2-1d55-4e2c-b298-1c0c519ecb98",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005337",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.36,
+                            21.07,
+                            345.68,
+                            56.31
+                        ]
+                    ],
+                    "text_description": "원주를 구해 보세요. (원주율: 3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167.42,
+                            67.71,
+                            329.1,
+                            227.32
+                        ]
+                    ],
+                    "text_description": "원이 있고 지름이 $9cm$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315.63,
+                            247.01,
+                            405.8,
+                            272.92
+                        ]
+                    ],
+                    "text_description": "$27.9cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.27,
+                            281.77,
+                            201.27,
+                            309.77
+                        ]
+                    ],
+                    "text_description": "$9 \\times 3. 1=27. 9(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

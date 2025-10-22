@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "756b4bdd-f9c8-4891-ba66-55e53a23f609",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004448",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.25,
+                            66.41,
+                            317.75,
+                            97.66
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.75,
+                            100.88,
+                            362.75,
+                            238.38
+                        ]
+                    ],
+                    "text_description": "사다리골의 높이는 6cm이고 윗변의 길이는 7cm이다 아랫변의 길이는 14cm이고 아랫변 기준에서 위로 3cm 높이의 삼각형이 있다. 삼각형의 아랫변의 길이는 사다리골의 아랫변 길이와 같다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            305.25,
+                            252.13,
+                            371.5,
+                            279.63
+                        ]
+                    ],
+                    "text_description": "$42 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.5,
+                            5.16,
+                            399,
+                            65.16
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { (색칠한 부분의 넓이) } & =(사다리꼴의 넓이) ~ \\\\ & =(\\text { 삼각형의 넓이) } \\\\ & =(7 + 14) \\times 6 \\div 2-14 \\times 3 \\div 2 \\\\ & \\left. =63-21 = 42(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

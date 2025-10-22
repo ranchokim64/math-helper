@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "482d50e9-cad0-425b-8fee-f31a911fece9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009297",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.79,
+                            5.63,
+                            547.79,
+                            31.31
+                        ]
+                    ],
+                    "text_description": "색칠한 부분을 나타내는 분수가 다른 하나를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            128.31,
+                            34.05,
+                            571.87,
+                            106.57
+                        ]
+                    ],
+                    "text_description": "첫 번째 도형은 정삼각형으로 동일하게 6분할 되어 있고 5개가 색칠되어 있다. 두 번째 도형은 원으로 동일하게 5분할 되어 있고 4개가 색칠되어 있다. 세 번째 도형은 정육각형으로 동일하게 6분할 되어 있고 5개가 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.91,
+                            117.33,
+                            98.63,
+                            173.21
+                        ]
+                    ],
+                    "text_description": "원으로 동일하게 5분할 되어 있고 4개가 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.63,
+                            185.17,
+                            344.83,
+                            223.61
+                        ]
+                    ],
+                    "text_description": "왼쪽에서부터 $\\frac{5}{6}, \\frac{4}{5}, \\frac{5}{6}$를 나타냅니다."
+                }
+            ]
+        }
+    ]
+}

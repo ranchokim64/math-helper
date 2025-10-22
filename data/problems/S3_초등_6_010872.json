@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "61fc25be-521f-4ad9-ac76-57349f4f4a4b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010872",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.9,
+                            6.4399999999999995,
+                            621.3,
+                            37.44
+                        ]
+                    ],
+                    "text_description": "$5. 76 \\div 0. 09$와 몫이 같은 나눗셈식은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            298.9,
+                            85.44,
+                            410.1,
+                            119.84
+                        ]
+                    ],
+                    "text_description": "⑤ $576 \\div 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.7,
+                            170.9,
+                            858.1,
+                            229.9
+                        ]
+                    ],
+                    "text_description": "$57. 6 \\div 0. 09$에서 나누어지는 수와 나누는 수를 똑같이 100배 한 $57. 6 \\div 9$와 몫이 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.83,
+                            47.09,
+                            705.33,
+                            80.84
+                        ]
+                    ],
+                    "text_description": "① $57. 6 \\div 0. 09$ ② $576 \\div 0. 09$ ③ $5. 76 \\div 0. 9$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.83,
+                            88.34,
+                            137.83,
+                            120.84
+                        ]
+                    ],
+                    "text_description": "④$5. 76 \\div 9$"
+                }
+            ]
+        }
+    ]
+}

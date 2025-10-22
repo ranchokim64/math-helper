@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0358dfa5-6b9d-4bf0-9854-b608386dfe78",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004746",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.92,
+                            9.69,
+                            447.52,
+                            76.09
+                        ]
+                    ],
+                    "text_description": "곱의 소수점의 위치가 잘못된 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.92,
+                            211.72,
+                            231.52,
+                            240.52
+                        ]
+                    ],
+                    "text_description": "⑤ $70 \\times 0. 09=0. 63$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.32,
+                            90.12,
+                            219.52,
+                            208.52
+                        ]
+                    ],
+                    "text_description": "① $7 \\times 0. 9=6. 3$ ② $0. 7 \\times 9=6. 3$ ③ $0. 07 \\times 9=0. 63$ ④ $0. 07 \\times 90=6. 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.92,
+                            245.32,
+                            203.52,
+                            268.52
+                        ]
+                    ],
+                    "text_description": "⑤ $70 \\times 0. 09=6. 3$"
+                }
+            ]
+        }
+    ]
+}

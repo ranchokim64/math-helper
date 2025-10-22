@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77a8f154-e5c1-48b5-a8a3-2260df563e50",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010460",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.03,
+                            12.84,
+                            665.08,
+                            43.18
+                        ]
+                    ],
+                    "text_description": "나눗셈을 보고 바르게 말한 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            317.61,
+                            77.69,
+                            668.08,
+                            108.37
+                        ]
+                    ],
+                    "text_description": "$2. 45 \\div 5 \\quad 8. 7 \\div 5 \\quad 4. 1 \\div 5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            276.93,
+                            137.55,
+                            713.6,
+                            435.16
+                        ]
+                    ],
+                    "text_description": "유리: 몫이 가장 작은 나눗셈은 $4. 1 \\div 5$ 야. 민재: 몫이 1보다 큰 나눗셈은 $8. 7 \\div 5$ 야. (유리, 민재)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.35,
+                            451,
+                            105.87,
+                            478.51
+                        ]
+                    ],
+                    "text_description": "민재"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.3,
+                            498,
+                            956.3,
+                            669
+                        ]
+                    ],
+                    "text_description": "유리: 세 나눗셈 모두 나누는 수가 5로 같으므로 나누어지는 수가 가장 작은 나눗셈의 몫이 가장 작습니다. 몫이 가장 작은 나눗셈은$ 2. 45 \\div5$입니다. 민재: 나누어지는 수가 나누는 수보다 크면 몫이 1보다 큽니다. 몫이 1보다큰 나눗셈은 $8. 7 \\div5$입니다."
+                }
+            ]
+        }
+    ]
+}

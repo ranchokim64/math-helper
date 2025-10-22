@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bab24982-298d-45d0-b745-0a74c8a68931",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008202",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.51,
+                            9.61,
+                            928.51,
+                            77.05
+                        ]
+                    ],
+                    "text_description": "쟁반 위에 접시가 있습니다. 접시를 오른쪽으로 밀었을 때의 접시를 잦아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            354.99,
+                            86.93,
+                            604.67,
+                            340.93
+                        ]
+                    ],
+                    "text_description": "쟁반위에 접시가 있는 이미지가 있습니다. 접시는 가운데에 초록색 하트가 있습니다. 아래에는 왼쪽에는 윗 그림의 접시가 180도 회전한 이미지와 오른쪽에는 위 이미지와 동일한 접시가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.55,
+                            348.43,
+                            128.51,
+                            416.27
+                        ]
+                    ],
+                    "text_description": "접시가 있고 가운데에 초록색 하트가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.55,
+                            430.28,
+                            799.23,
+                            455.24
+                        ]
+                    ],
+                    "text_description": "접시를 오른쪽으로 밀면 모양과 크기는 변하지 않고 위치만 바뀝니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "896e560d-e74d-4ea3-bb5a-ac297412ed0c",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003127",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            14.25,
+                            460.75,
+                            43
+                        ]
+                    ],
+                    "text_description": "원의 넓이와 원 밖의 정사각형의 넓이를 비교해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133,
+                            56.75,
+                            614.5,
+                            346.75
+                        ]
+                    ],
+                    "text_description": "(원 밖의 정사각형의 넓이) $=$ $\\square$ $\\times$ $\\square$ = $\\square$ $\\left(\\mathrm{cm}^{2}\\right)$ $\\Rightarrow($ 원의 넓이 $)<\\square \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            153.25,
+                            373.75,
+                            640.5,
+                            666.75
+                        ]
+                    ],
+                    "text_description": "(원 밖의 정사각형의 넓이) $=$ 6 $\\times$ 6 = 36 $\\left(\\mathrm{cm}^{2}\\right)$ $\\Rightarrow($ 원의 넓이 $)<36 \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.25,
+                            671.75,
+                            768.25,
+                            726.75
+                        ]
+                    ],
+                    "text_description": "정사각형의 넓이는 $($ 한 변의 길이 $) \\times($ 한 변의 길이 $)$이므로 원 밖의 정사각형의 넓이는 $6 \\times 6=36\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "46572420-ff23-44a9-8b0d-baa47c5fbf83",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008319",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            5.92,
+                            927,
+                            75.92
+                        ]
+                    ],
+                    "text_description": "왼쪽 도형을 시계 반대 방향으로 $90^{\\circ}$만큼 돌렸을 때의 도형을 오른쪽에서 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41,
+                            103.92,
+                            884,
+                            311.92
+                        ]
+                    ],
+                    "text_description": "이미지는 네 개의 모눈종이로 구성되어 있습니다. 첫 번째 모눈종이에는 삼각형이 그려져 있으며 밑변이 모눈종이로 5칸 높이가 3칸입니다. 두 번째 모눈종이에는 아무것도 그려져 있지 않습니다. 첫 번째와 두 번째 모눈종이 사이에 시계 반대방향으로 돌리라는 표시가 있습니다. 세번째는 첫번째 도형을 90도 시계 반대 방향으로 회전한 모양이고 네 번째는 위로 뒤집은 모양입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            422.5,
+                            156,
+                            571.5
+                        ]
+                    ],
+                    "text_description": "모눈종이 안에 삼각형이 있으며 밑변이 모눈종이 5칸이고 높이느 3칸입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            322.5,
+                            930,
+                            385.5
+                        ]
+                    ],
+                    "text_description": "도형을 시계 반대 방향으로 $90^{\\circ}$만큼 돌리면 도형의 위쪽 부분이 왼쪽으로 이동합니다."
+                }
+            ]
+        }
+    ]
+}

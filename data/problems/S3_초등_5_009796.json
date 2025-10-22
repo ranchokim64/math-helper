@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "54dc1cd4-0979-40bd-a596-fc4a89a3d010",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009796",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.42,
+                            6.65,
+                            505.14,
+                            29.35
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 6보다 큰 것을 찾아 선택 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.16,
+                            101.02,
+                            676.19,
+                            176.16
+                        ]
+                    ],
+                    "text_description": "① 3의 1. 95 배는 3의 2 배인 6보다 작고, ② $2 \\times 2. 8$은 2의 3 배인 6보다 작고, ③ 3의 2. 01은 3의 2 배인 6보다 조금 큽니다. 따라서 계산 결과가 6보다 큰 것은 ③입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.03,
+                            37.18,
+                            128.49,
+                            63.79
+                        ]
+                    ],
+                    "text_description": "① 3의 1. 95배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            256.0,
+                            44.0,
+                            290.0,
+                            58.0
+                        ]
+                    ],
+                    "text_description": "$2 \\times 2. 8$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            457.0,
+                            40.0,
+                            539.0,
+                            61.0
+                        ]
+                    ],
+                    "text_description": "③ 3의 2. 01"
+                }
+            ]
+        }
+    ]
+}

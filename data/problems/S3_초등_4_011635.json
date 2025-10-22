@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a3dcf5ae-cea8-456a-a38a-f698643590dd",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011635",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            20.42,
+                            437,
+                            78.42
+                        ]
+                    ],
+                    "text_description": "삼각형을 예각삼각형, 직각삼각형, 둔각삼각 형으로 구분하여 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            141,
+                            93.42,
+                            336,
+                            207.42
+                        ]
+                    ],
+                    "text_description": "삼격형의 각이 표시되어 있습니다. 60도, 40도가 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            305,
+                            217,
+                            397,
+                            244
+                        ]
+                    ],
+                    "text_description": "예각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            251,
+                            437,
+                            294
+                        ]
+                    ],
+                    "text_description": "나머지 한 각의 크기가 $180^{\\circ}-60^{\\circ}-40^{\\circ}=80^{\\circ}$ 이므로 세 각이 모두 예각인 예각삼각형입니다."
+                }
+            ]
+        }
+    ]
+}

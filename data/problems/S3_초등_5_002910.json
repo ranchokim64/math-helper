@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "867a955d-aadc-4573-8c57-ef2288b6f1dd",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002910",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.53,
+                            13.04,
+                            538.53,
+                            77.68
+                        ]
+                    ],
+                    "text_description": "1m의 무게가 0.3kg 인 밧줄이 있습니다. 이 밧줄 35cm의 무게는 몇 kg일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            558.37,
+                            16.59,
+                            756.13,
+                            167.63
+                        ]
+                    ],
+                    "text_description": "밧줄 이미지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.37,
+                            246.35,
+                            227.49,
+                            283.47
+                        ]
+                    ],
+                    "text_description": "0.105kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.41,
+                            179.15,
+                            466.21,
+                            232.27
+                        ]
+                    ],
+                    "text_description": "35cm는 0.35m이므로 (밧줄 35cm의 무게 $)=0. 3 \\times 0. 35=0. 105(\\mathrm{~kg})$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8818e673-6222-4a28-9c60-845e200b1121",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005190",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.46,
+                            2.06,
+                            500.33,
+                            78.36
+                        ]
+                    ],
+                    "text_description": "주어진 모양과 똑같이 쌓는 데 필요한 쌓기나무의 개수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.03,
+                            84.91,
+                            449.83,
+                            301.38
+                        ]
+                    ],
+                    "text_description": "정사각형 모양의 쌓기나무를 쌓은 모양의 그림 정사각형 모양의 쌓기나무를 쌓은 모양을 위에서 본 모양의 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            349.89,
+                            311.05,
+                            401.47,
+                            347.59
+                        ]
+                    ],
+                    "text_description": "10개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.88,
+                            347.59,
+                            259.62,
+                            395.94
+                        ]
+                    ],
+                    "text_description": "1층에 6개, 2층에 3개, 3층에 1개입니다."
+                }
+            ]
+        }
+    ]
+}

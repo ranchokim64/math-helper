@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b3c25920-53d7-41be-b6b7-0082e1fd371c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008541",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            10.92,
+                            716.5,
+                            37.92
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 차례대로 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.5,
+                            47.92,
+                            860.5,
+                            131.92
+                        ]
+                    ],
+                    "text_description": "㉠ $397 \\times 6$ ㉡ $549 \\times 4$ ㉢ $456 \\times 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            478.5,
+                            139.5,
+                            600.5,
+                            168.5
+                        ]
+                    ],
+                    "text_description": "② ㉠ ㉢ ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            138.5,
+                            153.5,
+                            211.5
+                        ]
+                    ],
+                    "text_description": "① ㉠ ㉡ ㉢ ③ ㉡ ㉢ ㉠"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            478.5,
+                            179.5,
+                            600.5,
+                            211.5
+                        ]
+                    ],
+                    "text_description": "④ ㉢ ㉡ ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            278.5,
+                            928.5,
+                            376.5
+                        ]
+                    ],
+                    "text_description": "㉠ $397 \\times 6=2382$ ㉡ $549 \\times 4=2196$ ㉢ $456 \\times 5=2280$ $2382>2280>2196$ 이므로 계산 결과가 큰 것부터 차례로 기호를 써 보면 ㉠, ㉢, ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

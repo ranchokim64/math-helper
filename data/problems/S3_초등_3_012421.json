@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a88a6574-0bd0-4137-b1cd-ae31fb9d4d19",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012421",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.24,
+                            13.45,
+                            411.55,
+                            136.55
+                        ]
+                    ],
+                    "text_description": "인수는 위인전을 읽었습니다. 2주일 동안은 하루에 23쪽씩 읽었고 일주일 동안은 하루에 24쪽씩 읽었습니다. 인수가 3주일 동안 읽은 위인전은 모두 몇 쪽일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            160.63,
+                            152.74,
+                            287.38,
+                            312.42
+                        ]
+                    ],
+                    "text_description": "사람 한 명이 책상에 책 한 권을 놓고 의자에 앉아서 읽고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            304.3,
+                            327.34,
+                            355.59,
+                            346.92
+                        ]
+                    ],
+                    "text_description": "490쪽"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.96,
+                            357.45,
+                            313.63,
+                            412.07
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (2주일 동안 읽은 쪽수) }=23 \\times 14=322 \\text { (쪽) } \\\\ \\text { (1주일 동안 읽은 쪽수) }=24 \\times 7=168 \\text { (쪽) } \\\\ \\rightarrow 322+168=490 \\text { (쪽) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

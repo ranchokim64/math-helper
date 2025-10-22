@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f17f9743-aa21-4f69-98c1-bc0254b6c223",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002990",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-12] 분수와 소수의 관계를 이해하고 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-12] 분수와 소수의 관계를 이해하고 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            15.42,
+                            636.5,
+                            52.42
+                        ]
+                    ],
+                    "text_description": "두 수의 크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            56.42,
+                            229.5,
+                            154.42
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3} \\bigcirc 0. 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            245,
+                            169.5,
+                            291
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3}>0. 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            163,
+                            637.5,
+                            217
+                        ]
+                    ],
+                    "text_description": "$0. 6=\\frac{6}{10}$ 이고 $\\left(\\frac{2}{3}, \\frac{6}{10}\\right)$을 통분하면 $\\left(\\frac{20}{30}, \\frac{18}{30}\\right)$ 이므로 $\\frac{2}{3}>0. 6$ 입니다."
+                }
+            ]
+        }
+    ]
+}

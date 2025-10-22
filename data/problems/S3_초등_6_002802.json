@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b215abf0-1542-434f-8013-fb3f730ba8fc",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002802",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            5.92,
+                            257,
+                            38.92
+                        ]
+                    ],
+                    "text_description": "□ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.08,
+                            52.92,
+                            536.32,
+                            219.12
+                        ]
+                    ],
+                    "text_description": "이 이미지는 나누기 연산을 나타내고 있습니다. 왼쪽에는 \"54 ÷ 6 =\"가 있고, 오른쪽에는 \"5. 4 ÷ 6 =\"가 있습니다. 두 식의 비교와 관계가 표현되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.08,
+                            310.5,
+                            526.72,
+                            464.5
+                        ]
+                    ],
+                    "text_description": "이 이미지는 수학 문제를 다루고 있습니다. 54를 6으로 나누는 과정과 관련된 비율을 보여주며, 5. 4를 6으로 나누었을 때 0. 9가 나오는 것을 나타냅니다. 54와 5. 4는 각각 6으로 나눈 결과를 통해 연결되어 있는 관계를 설명하고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            241.5,
+                            639,
+                            303.5
+                        ]
+                    ],
+                    "text_description": "나누는 수가 같을 때 나누어지는 수가 $\\frac{1}{10}$ 배, $\\frac{1}{100}$ 배가 되면 몫도 $\\frac{1}{10}$ 배, $\\frac{1}{100}$ 배가 됩니다."
+                }
+            ]
+        }
+    ]
+}

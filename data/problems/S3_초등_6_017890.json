@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "19bb98ae-6569-43c1-b5cd-ea3a07b3fde5",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017890",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.35,
+                            9.05,
+                            317.1,
+                            70.53
+                        ]
+                    ],
+                    "text_description": "다음의 계산 결과를 구하시오. \\[ 4. 5 \\div 5 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.86,
+                            135.05,
+                            89.26,
+                            159.11
+                        ]
+                    ],
+                    "text_description": "② 0. 9"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.86,
+                            98.18,
+                            88.74,
+                            122.25
+                        ]
+                    ],
+                    "text_description": "① 0. 8"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.86,
+                            172.76,
+                            89.26,
+                            272.6
+                        ]
+                    ],
+                    "text_description": "③ 1. 0 ④ 1. 1 ⑤ 1. 2"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.7,
+                            307.92,
+                            283.82,
+                            442.58
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\frac{45}{10} \\div 5=\\frac{45}{10} \\times \\frac{1}{5}=\\frac{45}{50} \\\\ \\frac{45}{50}=0. 9\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

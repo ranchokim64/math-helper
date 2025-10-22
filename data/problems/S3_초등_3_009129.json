@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7c754a74-e1f7-49bb-a0a2-c1ed2a67b40d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009129",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.13,
+                            7.29,
+                            559.13,
+                            32.29
+                        ]
+                    ],
+                    "text_description": "각의 개수가 가장 많은 도형은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296.4,
+                            142.62,
+                            434.6,
+                            226.02
+                        ]
+                    ],
+                    "text_description": "⑤ 오각형 형태의 도형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.88,
+                            281.5,
+                            386.38,
+                            306.5
+                        ]
+                    ],
+                    "text_description": "① 1 개 ② 4 개 ③ 4 개 ④ 3 개 ⑤ 5 개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.6,
+                            44.42,
+                            709,
+                            139.62
+                        ]
+                    ],
+                    "text_description": "① 부채꼴 모양의 도형이다. ② 직사각형이다. ③ 사각형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.6,
+                            142.82,
+                            161,
+                            226.82
+                        ]
+                    ],
+                    "text_description": "④ 직각삼각형이다."
+                }
+            ]
+        }
+    ]
+}

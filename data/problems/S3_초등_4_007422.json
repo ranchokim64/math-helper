@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cd381da1-f20a-4f2f-b641-149235497591",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007422",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            3.92,
+                            847,
+                            66.92
+                        ]
+                    ],
+                    "text_description": "색종이 한 장으로 그림과 같이 삼각형을 만들었습니다. 만든 삼각형을 보고 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            236.5,
+                            822,
+                            371.5
+                        ]
+                    ],
+                    "text_description": "색종이에 그린 두 변의 길이는 색종이의 한 변의 길이와 (같으므로, 다르므로) 만든 삼각형의 세 변의 길이는 모두 (같습니다, 다릅니다). 따라서 만든 삼각형은 (정삼각형입니다, 정삼각형이 아닙니다)."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100,
+                            73.92,
+                            776,
+                            221.92
+                        ]
+                    ],
+                    "text_description": "색종이로 삼각형을 만드는 방법을 5단계로 나누어 그려져 있습니다. 1. 색종이를 세로로 반 접는다. 2. 핀다. 3. 오른쪽 모서리를 접힌 점선에 오도록 접고 연필로 점을 찍는다. 4. 왼쪽 모서리를 점에 오도록 접는다. 5. 접힌 부분을 연필로 그어 삼각형을 만든다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            401.5,
+                            407,
+                            425.5
+                        ]
+                    ],
+                    "text_description": "같으므로, 같습니다, 정삼각형입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15,
+                            441.5,
+                            847,
+                            531.5
+                        ]
+                    ],
+                    "text_description": "색종이에 그린 두 변은 색종이를 접어서 색종이의 한 변과 같은 길이로 그렸기 때문에 색종이에 그린 두 변의 길이는 색종이의 한 변의 길이와 같습니다. 따라서 만든 삼각형은 세 변의 길이가 같으므로 정삼각형입니다."
+                }
+            ]
+        }
+    ]
+}

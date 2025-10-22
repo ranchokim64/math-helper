@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df393755-6b82-4354-91b4-576b3350adc3",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002988",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.75,
+                            5.39,
+                            431.75,
+                            40.39
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 자연수를 모두 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            313,
+                            69.25,
+                            422.25,
+                            146
+                        ]
+                    ],
+                    "text_description": "$\\frac{9}{10}>\\frac{\\square}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83,
+                            259.75,
+                            186.75,
+                            294.75
+                        ]
+                    ],
+                    "text_description": "$1, 2, 3, 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.75,
+                            164.75,
+                            738,
+                            243.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{\\square}{5}$를 10으로 통분하면 $\\frac{\\square}{5}=\\frac{\\square \\times 2}{5 \\times 2}=\\frac{\\square \\times 2}{10}$이므로 $\\square \\times 2$는 9보다 작은 수이어야 합니다. 따라서 $\\square$ 안에 들어갈 수 있는 자연수는 $1, 2, 3, 4$입니다."
+                }
+            ]
+        }
+    ]
+}

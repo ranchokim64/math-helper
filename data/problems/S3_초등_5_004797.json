@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "08294b99-04c1-4113-968b-6f2483abd9c1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004797",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.07,
+                            11.96,
+                            426.04,
+                            76.68
+                        ]
+                    ],
+                    "text_description": "직육면체에서 보이는 면과 보이는 꼭짓점의 수의 합을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            131.47,
+                            86.62,
+                            295.87,
+                            209.16
+                        ]
+                    ],
+                    "text_description": "직육면체 겨냥도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            304.98,
+                            223.72,
+                            331.47,
+                            249.04
+                        ]
+                    ],
+                    "text_description": "$10$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.28,
+                            263.46,
+                            320.71,
+                            308.17
+                        ]
+                    ],
+                    "text_description": "보이는 면의 수: 3개. 보이는 꼭짓점의 수: 7개 $\\rightarrow 3+7=10$"
+                }
+            ]
+        }
+    ]
+}

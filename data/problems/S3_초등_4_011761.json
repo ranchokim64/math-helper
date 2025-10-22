@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e670cdce-cb3b-47f3-8f68-484c6b7a3347",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011761",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71,
+                            18.92,
+                            756,
+                            125.92
+                        ]
+                    ],
+                    "text_description": "1부터 9 까지의 수 중에서 $\\square$ 안에 들어갈 수를 모두 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66,
+                            147.5,
+                            755,
+                            340.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{6}+\\frac{\\square}{6}<1 \\frac{1}{6}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            526,
+                            369.5,
+                            667,
+                            410.5
+                        ]
+                    ],
+                    "text_description": "I, 2, 3, 4"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106,
+                            425.5,
+                            724,
+                            535.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{6}+\\frac{\\square}{6}=\\frac{2+\\square}{6}$ 이고 । $\\frac{1}{6}=\\frac{7}{6}$ 이므로 $2+\\square<7$ 입니다. 따라서 $\\square$ 안에 들어갈 수 있는 수는 I, 2, 3, 4입니다."
+                }
+            ]
+        }
+    ]
+}

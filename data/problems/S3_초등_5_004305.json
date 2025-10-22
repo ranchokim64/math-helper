@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cb6b27dc-38a5-4737-ab82-28330bac937e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004305",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.64,
+                            6.41,
+                            558.12,
+                            31.37
+                        ]
+                    ],
+                    "text_description": "다음에서 약수의 수가 가장 많은 수는 어느 것인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.76,
+                            46.81,
+                            503.64,
+                            103.05
+                        ]
+                    ],
+                    "text_description": "14 20 39"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            452.52,
+                            341.5,
+                            487.72,
+                            367.74
+                        ]
+                    ],
+                    "text_description": "$20$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.16,
+                            174.46,
+                            503.72,
+                            309.5
+                        ]
+                    ],
+                    "text_description": "14의 약수: $1, 2, 7, 14 \\rightarrow 4$ 개, 20의 약수: $1, 2, 4, 5, 10, 20 \\rightarrow 6$ 개, 39의 약수: I. $3, 13, 39 \\rightarrow 4$ 개입니다. 따라서 약수의 수가 가장 많은 수는 20입니다."
+                }
+            ]
+        }
+    ]
+}

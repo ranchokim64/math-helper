@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ce12a1ef-f61c-402a-8a38-a48bf8d3156c",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018560",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            7.21,
+                            524.56,
+                            22.06
+                        ]
+                    ],
+                    "text_description": "어떤 수를 $4$로 나누었더니 몫이 $11$이고 나머지가 $3$이었습니다. 어떤 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.39,
+                            114.73,
+                            37.65,
+                            129.06
+                        ]
+                    ],
+                    "text_description": "④ $47$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.42,
+                            47.44,
+                            37.65,
+                            107.34
+                        ]
+                    ],
+                    "text_description": "① $44$ ② $45$ ③ $46$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.37,
+                            227.15,
+                            265.49,
+                            249.68
+                        ]
+                    ],
+                    "text_description": "따라서 어떤 수는 $47$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.93,
+                            141.14,
+                            81.17,
+                            152.91
+                        ]
+                    ],
+                    "text_description": "$4 \\times 11=44$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.34,
+                            169.78,
+                            123.66,
+                            187.73
+                        ]
+                    ],
+                    "text_description": "$44+3=47$"
+                }
+            ]
+        }
+    ]
+}

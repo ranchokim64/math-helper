@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2faf4219-69da-4416-93dd-b0904c8df816",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012415",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42,
+                            8.92,
+                            415,
+                            102.92
+                        ]
+                    ],
+                    "text_description": "연필이 한 상자에 5 타씩 들어 있습니다. 24상자에는 연필이 모두 몇 자루 들어 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            112.92,
+                            393,
+                            248.92
+                        ]
+                    ],
+                    "text_description": "연필 12개가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293,
+                            258.5,
+                            370,
+                            284.5
+                        ]
+                    ],
+                    "text_description": "1440자루"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            287.5,
+                            352,
+                            349.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (한 상자에 들어 있는 연필 수) }=12 \\times 5=60 \\text { (자루) } \\\\ \\rightarrow \\text { (24상자에 들어 있는 연필 수) } \\\\ \\quad=60 \\times 24=1440 \\text { (자루) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9c337e21-b760-4251-bd99-e196ab4da12e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005333",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.38,
+                            23.81,
+                            470.34,
+                            135.17
+                        ]
+                    ],
+                    "text_description": "반지름이 10cm인 원과 오른쪽 직사각형의 넓이가 같을 때 직사각형의 세로는 몇 cm인가요? (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.9,
+                            151.22,
+                            404.54,
+                            282.62
+                        ]
+                    ],
+                    "text_description": "반지름이 10cm인 원과 한 변의 길이가 20cm인 직사각형의 평면도형."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            305.86,
+                            301.3,
+                            395.46,
+                            327.54
+                        ]
+                    ],
+                    "text_description": "15.7cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.14,
+                            336.5,
+                            357.7,
+                            408.18
+                        ]
+                    ],
+                    "text_description": "$($ 원의 넓이 $)=10 \\times 10 \\times 3. 14=314\\left(\\mathrm{~cm}^{2}\\right)$ 직사각형의 세로를 $\\square \\mathrm{cm}$라고 하면 $20 \\times \\square=314. \\square=314 \\div 20=15. 7(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

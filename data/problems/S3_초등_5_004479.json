@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "896fe272-6f80-493e-ad96-ba981609ba2f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004479",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15,
+                            13.92,
+                            522,
+                            39.92
+                        ]
+                    ],
+                    "text_description": "직사각형의 둘레가 34m 일 때 넓이는 몇 $\\mathrm{m}^{2}$ 인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72,
+                            216.5,
+                            342,
+                            241.5
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이는 몇 $\\mathrm{m}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289,
+                            50.5,
+                            512,
+                            201.5
+                        ]
+                    ],
+                    "text_description": "이 이미지에는 노란색 직사각형이 있고, 위쪽에는 \"11m\"이라는 기호가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            653,
+                            256.5,
+                            708,
+                            277.5
+                        ]
+                    ],
+                    "text_description": "$66 \\mathrm{~m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89,
+                            247.5,
+                            387,
+                            271.5
+                        ]
+                    ],
+                    "text_description": "$($ 직사각형의 넓이 $)=($ 가로 $) \\times($ 세로 $)=1 \\mid \\times 6=66\\left(\\mathrm{~m}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

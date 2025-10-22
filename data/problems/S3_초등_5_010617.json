@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7a1cd81f-04ad-46ef-9ef5-1e2007181594",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010617",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65,
+                            0.41,
+                            598,
+                            29.41
+                        ]
+                    ],
+                    "text_description": "계산 결과가 틀린 것을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            720,
+                            192,
+                            880,
+                            220
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            279,
+                            458,
+                            605
+                        ]
+                    ],
+                    "text_description": "㉠ \\[ \\begin{aligned} 63-9 \\times 5+18 \\div 3 & =63-45+18 \\div 3 \\\\ & =63-45+6 \\\\ & =18+6 \\\\ & =24 \\end{aligned} \\] ㉡ \\[ \\begin{aligned} 84 \\div 6+18-7 \\times 3 & =14+18-7 \\times 3 \\\\ & =14+18-21 \\\\ & =32-21 \\\\ & =11 \\end{aligned} \\] ㉢ \\[ \\begin{aligned} 3 \\times(15-7)+32 \\div 8 & =3 \\times 8+32 \\div 8 \\\\ & =24+32 \\div 8 \\\\ & =24+4 \\\\ & =28 \\end{aligned} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            282.0,
+                            52.0,
+                            534.0,
+                            90.0
+                        ]
+                    ],
+                    "text_description": "$63-9 \\times 5+18 \\div 3=24$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            277.0,
+                            133.0,
+                            554.0,
+                            163.0
+                        ]
+                    ],
+                    "text_description": "$3 \\times(15-7)+32 \\div 8=28$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            275.0,
+                            95.0,
+                            537.0,
+                            127.0
+                        ]
+                    ],
+                    "text_description": "$84 \\div 6+18-7 \\times 3=53$"
+                }
+            ]
+        }
+    ]
+}

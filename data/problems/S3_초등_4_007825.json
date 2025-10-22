@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3b1c825b-17ee-4410-a175-e2898b850f40",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007825",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38,
+                            7.42,
+                            852,
+                            69.42
+                        ]
+                    ],
+                    "text_description": "윤지와 민우의 키를 매년 5월에 조사하여 나타낸 꺾은선그래프입니다. 조사하는 동안 키가 더 많이 큰 사람은 누구인지 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            369,
+                            345,
+                            522,
+                            375
+                        ]
+                    ],
+                    "text_description": "(윤지, 민우)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82,
+                            84.42,
+                            809,
+                            340.42
+                        ]
+                    ],
+                    "text_description": "윤지의 키이 이미지는 \"윤지의 키\"라는 제목의 그래프입니다. 그래프는 윤지의 키가 학년이 지남에 따라 어떻게 변화했는지를 보여줍니다. 세로축은 키(cm)를 나타내고, 가로축은 학년(1학년, 2학년, 3학년, 4학년)을 나타냅니다. 그래프는 1학년부터 4학년까지의 키 변화를 선으로 연결하여 보여주고 있습니다. 민우의 키이 이미지는 \"민우의 키\"라는 제목의 키 성장 그래프입니다. 세로축은 키를 센티미터(cm)로 나타내고, 가로축은 학년을 나타냅니다. 그래프에는 1학년부터 4학년까지의 키 변화가 표시되어 있으며, 점들이 연결되어 성장 추세를 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            390,
+                            109,
+                            419
+                        ]
+                    ],
+                    "text_description": "민우"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19,
+                            436,
+                            615,
+                            619
+                        ]
+                    ],
+                    "text_description": "윤지의 1 학년 키는 127cm이고, 4 학년 키는 141cm이므로 조사하는 동안 $141-127=14(\\mathrm{~cm})$만큼 컸습니다. 민우의 1 학년 키는 125cm이고, 4 학년 키는 140cm이므로 조사하는 동안 $140-125=15(\\mathrm{~cm})$만큼 컸습니다. 따라서 조사하는 동안 키가 더 많이 큰 사람은 민우입니다."
+                }
+            ]
+        }
+    ]
+}

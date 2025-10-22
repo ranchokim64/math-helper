@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "af4a4b9d-abff-4869-ac65-783673070d63",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005635",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            5.41,
+                            513.5,
+                            114.16
+                        ]
+                    ],
+                    "text_description": "수 카드 중 3장을 골라 가장 작은 소수 두 자리 수를 만들고, 남은 수 카드의 수로 나누었을 때 몫은 얼마인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            124.75,
+                            121.13,
+                            392.25,
+                            188.63
+                        ]
+                    ],
+                    "text_description": "1, 3, 6, 8의 숫자 카드가 나란히 정렬되어 있음"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            321.13,
+                            98.5,
+                            361.13
+                        ]
+                    ],
+                    "text_description": "$0. 17$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1,
+                            193.13,
+                            647.25,
+                            294.88
+                        ]
+                    ],
+                    "text_description": "$1, 3, 6, 8$ 중 3개의 수를 이용하여 만들 수 있는 가장 작은 소수 두 자리 수는 1. 36 입니다. 그러므로 $1. 36 \\div 8=0. 17$이 됩니 다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c2e9d47-db8e-4e8a-b395-41e081016109",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017008",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            2.22,
+                            515,
+                            26.22
+                        ]
+                    ],
+                    "text_description": "다음에서 1에서 9 까지의 수 중 $\\square$ 안에 들어갈 수 있는 수의 개수를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3,
+                            28.22,
+                            129,
+                            52.22
+                        ]
+                    ],
+                    "text_description": "$55 \\times 3>66 \\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            87,
+                            55,
+                            107
+                        ]
+                    ],
+                    "text_description": "② 2 개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            62,
+                            55,
+                            82
+                        ]
+                    ],
+                    "text_description": "① 1 개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.73,
+                            112.2,
+                            53.76,
+                            159.3
+                        ]
+                    ],
+                    "text_description": "③ 3 개 ④ 4 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            168,
+                            646,
+                            267
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} 55 \\times 3=165 \\text { 이므로 } 165>66 \\times \\square \\text { 입니다. } \\\\ 66 \\times 1=66, 66 \\times 2=132, 66 \\times 3=198, 66 \\times 4=264, 66 \\times 5=330, 66 \\times 6=396, 66 \\times 7= \\\\ 462, 66 \\times 8=528, 66 \\times 9=594 \\end{array} \\] 따라서 $\\square$에 들어갈 수 있는 수는 1, 2로 모두 2개입니다."
+                }
+            ]
+        }
+    ]
+}

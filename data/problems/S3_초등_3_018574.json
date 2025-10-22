@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aa13c77d-6f73-4a62-9d8b-ed69b2b1790f",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018574",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.2,
+                            0.67,
+                            531.4,
+                            20.67
+                        ]
+                    ],
+                    "text_description": "어떤 수를 6으로 나누었더니 몫이 30 이고 나머지가 4였습니다. 어떤 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            41.47,
+                            51.4,
+                            59.87
+                        ]
+                    ],
+                    "text_description": "① 184"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.8,
+                            63.7,
+                            51.4,
+                            127.7
+                        ]
+                    ],
+                    "text_description": "② 185 ③ 186 ④ 187"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.2,
+                            158.9,
+                            178.6,
+                            178.9
+                        ]
+                    ],
+                    "text_description": "따라서 어떤 수는 184입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.6,
+                            137.3,
+                            202.6,
+                            157.3
+                        ]
+                    ],
+                    "text_description": "$6 \\times 30=180 \\rightarrow 180+4=184$"
+                }
+            ]
+        }
+    ]
+}

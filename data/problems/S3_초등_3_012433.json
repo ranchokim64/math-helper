@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "211fba9d-284d-476a-bd85-b61f10c59325",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012433",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42,
+                            11.65,
+                            418.8,
+                            107.65
+                        ]
+                    ],
+                    "text_description": "탁구공 90개를 바구니 3개에 똑같이 나 누어 담았습니다. 바구니 한 개에 담은 탁 구공은 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.8,
+                            115.3,
+                            393.2,
+                            196.9
+                        ]
+                    ],
+                    "text_description": "탁구공 바구니 3개가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            308.4,
+                            208.45,
+                            354.8,
+                            237.25
+                        ]
+                    ],
+                    "text_description": "30개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.6,
+                            238.5,
+                            152.4,
+                            260.1
+                        ]
+                    ],
+                    "text_description": "$90 \\div 3=30$ (개)"
+                }
+            ]
+        }
+    ]
+}

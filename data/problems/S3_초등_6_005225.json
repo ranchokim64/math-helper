@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5802de58-a7a3-45f7-81d1-ec22486b9ceb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005225",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.36,
+                            38.55,
+                            362.34,
+                            143.89
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 물음에 답하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            379.89,
+                            30.480000000000004,
+                            564.05,
+                            246.78
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위, 앞, 옆에서 본 모양에 수를 썼음 \\begin{tabular}{|l|l|l|} \\hline 3 & 2 & \\\\ \\hline 3 & 1 & 1 \\\\ \\hline 1 & & \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            413.88,
+                            359.41,
+                            450.99,
+                            393.77
+                        ]
+                    ],
+                    "text_description": "7개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.92,
+                            270.76,
+                            558.08,
+                            343.61
+                        ]
+                    ],
+                    "text_description": "완성된 모양을 옆에서 보면 쌓기나무가 몇개로 보이나요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.11,
+                            396.64,
+                            380.14,
+                            521.8
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|l|} \\hline---- & \\\\ \\hline & \\\\ \\hline & \\\\ & \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        }
+    ]
+}

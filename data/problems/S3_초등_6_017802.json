@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1fa3b962-e226-411f-a92e-09fc5c247658",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017802",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            21.92,
+                            439,
+                            68.92
+                        ]
+                    ],
+                    "text_description": "다음 계산을 해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            96.92,
+                            129,
+                            135.92
+                        ]
+                    ],
+                    "text_description": "$\\frac{21}{28} \\div \\frac{7}{28}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            141.5,
+                            92,
+                            165.5
+                        ]
+                    ],
+                    "text_description": "① 3"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48,
+                            179.5,
+                            92,
+                            315.5
+                        ]
+                    ],
+                    "text_description": "② 1 ③ 2 ④ 4 ⑤ 5"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14,
+                            356.5,
+                            484,
+                            419.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{21}{28} \\div \\frac{7}{28}=\\frac{21}{28} \\times \\frac{28}{7}=\\frac{21 \\times 28}{28 \\times 7}=\\frac{21}{7}=3$"
+                }
+            ]
+        }
+    ]
+}

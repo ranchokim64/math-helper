@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7f0a68d5-97eb-4f58-ba0d-4f12907c1e80",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009333",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.8,
+                            0.82,
+                            427.8,
+                            24.82
+                        ]
+                    ],
+                    "text_description": "똑같이 셋으로 나누어진 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            218.2,
+                            101.62,
+                            319.8,
+                            180.02
+                        ]
+                    ],
+                    "text_description": "⑤ 정육각형을 동일하게 3분할 한 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.4,
+                            224.02,
+                            451.8,
+                            247.22
+                        ]
+                    ],
+                    "text_description": "나누어진 세 부분의 모양과 크기가 같은 도형을 찾습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.4,
+                            28.02,
+                            113.4,
+                            96.02
+                        ]
+                    ],
+                    "text_description": "① 삼각형을 세로 선으로 불균형하게 3분할 한 그림이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            219.8,
+                            28.82,
+                            305.4,
+                            96.82
+                        ]
+                    ],
+                    "text_description": "② 정사각형을 십자가 모양으로 동일하게 4분할 한 그림이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            415.6,
+                            28.42,
+                            507,
+                            103.22
+                        ]
+                    ],
+                    "text_description": "③ 정원형을 가로 선 2줄로 불균형하게 3분할 한 그림이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.6,
+                            101.62,
+                            114.2,
+                            187.22
+                        ]
+                    ],
+                    "text_description": "④ 육각형을 x 모양으로 불균형하게 4분할 한 그림이다."
+                }
+            ]
+        }
+    ]
+}

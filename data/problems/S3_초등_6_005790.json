@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "70d7720f-c70c-455f-87d7-93f312dc948a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005790",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            7.42,
+                            431,
+                            61.42
+                        ]
+                    ],
+                    "text_description": "정육면체 가와 직육면체 나의 부피의 차는 몇 $\\mathrm{m}^{3}$인 가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.81,
+                            72.04,
+                            170.68,
+                            200.04
+                        ]
+                    ],
+                    "text_description": "가로, 세로, 높이가 각각 6m인 정육면체"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            244.38,
+                            71.99,
+                            409.66,
+                            201.55
+                        ]
+                    ],
+                    "text_description": "가로, 세로, 높이가 각각 7m, 600cm, 5m인 직육면체"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            258,
+                            392,
+                            325
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 가의부피 })=6 \\times 6 \\times 6=216\\left(\\mathrm{~m}^{3}\\right), \\\\ 600 \\mathrm{~cm}=6 \\mathrm{~m} \\text {이므로 (나의부피) }=7 \\times 6 \\times 5=210\\left(\\mathrm{m}^{3}\\right) \\\\ \\rightarrow 216-210=6\\left(\\mathrm{~m}^{3}\\right)\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            292.0,
+                            225.0,
+                            318.0,
+                            245.0
+                        ]
+                    ],
+                    "text_description": "6"
+                }
+            ]
+        }
+    ]
+}

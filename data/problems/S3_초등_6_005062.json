@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "42c79c87-1fb9-40da-af1d-6fc2011e0a94",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005062",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            33.92,
+                            626.5,
+                            191.92
+                        ]
+                    ],
+                    "text_description": "은태와 은영이는 오렌지주스를 다음과 같이 마셨습니다. 은태가 마신 오렌지주스 양은 은영이가 마신 오렌지주스 양의 몇 배인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            203.92,
+                            581.5,
+                            548.92
+                        ]
+                    ],
+                    "text_description": "은태 - $\\frac{5}{13} \\mathrm{~L}$ 마셨어. 은영 - $\\frac{7}{13} \\mathrm{~L}$ 마셨어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            627.5,
+                            76.5,
+                            695.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{7}$ 배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            556.5,
+                            277.5,
+                            621.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{13} \\div \\frac{7}{13}=5 \\div 7=\\frac{5}{7}$ (배)"
+                }
+            ]
+        }
+    ]
+}

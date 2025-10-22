@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "59981005-11c4-4784-a3b8-e2dfb9bc37fa",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-05-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_013546",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.5,
+                            9.92,
+                            694.5,
+                            60.92
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 없는 수는 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.5,
+                            120.92,
+                            745.5,
+                            266.92
+                        ]
+                    ],
+                    "text_description": "$1<\\frac{3}{5}+\\frac{\\square}{5}<2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            314.5,
+                            342.5,
+                            382.5,
+                            382.5
+                        ]
+                    ],
+                    "text_description": "⑤ 7"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.5,
+                            296.5,
+                            161.5,
+                            382.5
+                        ]
+                    ],
+                    "text_description": "① 3 ④ 6"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            310.5,
+                            294.5,
+                            609.5,
+                            333.5
+                        ]
+                    ],
+                    "text_description": "② 4 ③ 5"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            414.5,
+                            570.5,
+                            552.5
+                        ]
+                    ],
+                    "text_description": "\\[ 1=\\frac{5}{5}, 2=\\frac{10}{5} \\text { 이므로 } \\frac{5}{5}<\\frac{3+\\square}{5}<\\frac{10}{5} \\] 따라서 $\\square$ 안에 들어갈 수 있는 수는 3, 4, 5, 6 입니다."
+                }
+            ]
+        }
+    ]
+}

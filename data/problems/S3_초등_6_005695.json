@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f25f2821-9839-4f72-be1c-29668715f304",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005695",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.27,
+                            10.24,
+                            429.74,
+                            69.12
+                        ]
+                    ],
+                    "text_description": "상우와 지은이가 은행에 다음과 같이 예금했습니다. 물음에 답하세요. [19 20]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.32,
+                            352.77,
+                            428.72,
+                            409.6
+                        ]
+                    ],
+                    "text_description": "두 사람의 예금한 금액에 대한 이자의 비율을 백분 율로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.86,
+                            79.43,
+                            430.77,
+                            331.78
+                        ]
+                    ],
+                    "text_description": "상우: 50000원을 예금하고 이자를 1000원 받았어. 지은: 40000원을 예금하고 이자를 I200원 받았어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.9,
+                            423.94,
+                            430.77,
+                            488.96
+                        ]
+                    ],
+                    "text_description": "㉠ 상우: $(2 \\% \\quad)$ ㉡ 지은: $(3 \\% \\quad)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.34,
+                            500.62,
+                            227.04,
+                            584.19
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 상우: } \\frac{1000}{50000} \\times 100=2(\\%) \\\\ \\text { 지은: } \\frac{1200}{40000} \\times 100=3(\\%)\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

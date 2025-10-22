@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "41e0bc37-b80b-4fe4-9a07-fa239d7ea6b4",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012285",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            4.91,
+                            530,
+                            123.91
+                        ]
+                    ],
+                    "text_description": "含5 8 윤석이네 반 학생들이 사는 마을을 조사하여 나타낸 그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            436.5,
+                            486,
+                            513.5
+                        ]
+                    ],
+                    "text_description": "그래프의 가로와 세로는 각각 무엇을 나 타내었나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84,
+                            140.91,
+                            487,
+                            418.91
+                        ]
+                    ],
+                    "text_description": "이 이미지는 '학생들이 사는 마을'을 보여주는 막대 그래프입니다. 각 마을별 학생 수는 다음과 같습니다: - 라 마을: 약 18명 - 다 마을: 약 12명 - 나 마을: 약 15명 - 가 마을: 약 6명 그래프의 구성: - X축은 0부터 20까지의 학생 수를 표시 - Y축은가, 나, 다, 라 마을을 표시 - 막대는 베이지색으로 채워져 있으며, 5명 단위로 파란색 세로선으로 구분되어 있음 - 각 막대마다 작은 격자가 그려져 있어 정확한 수치 확인이 가능"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201,
+                            529.5,
+                            488,
+                            609.5
+                        ]
+                    ],
+                    "text_description": "가로 (학생 수) 세로 (마을)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33,
+                            616.5,
+                            490,
+                            666.5
+                        ]
+                    ],
+                    "text_description": "그래프의 가로에는 학생 수, 세로에는 마을을 나타내었습니 다."
+                }
+            ]
+        }
+    ]
+}

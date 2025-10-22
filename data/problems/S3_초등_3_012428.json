@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1af3b245-f917-48b7-9768-f08297f0853f",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012428",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            6.92,
+                            416,
+                            98.92
+                        ]
+                    ],
+                    "text_description": "수 카드를 한 번씩 사용하여 (두 자리 수) $\\div$ (한 자리 수)의 몫이 가장 크게 되는 나눗셈식을 만드세요 $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24,
+                            116.5,
+                            415,
+                            191.5
+                        ]
+                    ],
+                    "text_description": "$2$, $3$, $4$, $6$, $8$이 쓰여진 $5$개의 수 카드가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            267,
+                            206.5,
+                            352,
+                            230.5
+                        ]
+                    ],
+                    "text_description": "$86 \\div 2=43$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39,
+                            237.5,
+                            377,
+                            275.5
+                        ]
+                    ],
+                    "text_description": "가장 큰 수를 가장 작은 수로 나눌 때 몫이 가장 커집니다. $ \\rightarrow 86 \\div 2=43 $"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bef9493d-3a44-488b-bb47-94889168dd0b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008102",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.4,
+                            9.84,
+                            926.2,
+                            74.64
+                        ]
+                    ],
+                    "text_description": "㉠, ㉡, ㉢, ㉣에 알맞은 각도 중 가장 큰 각도를 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            369.4,
+                            220.9,
+                            587.8,
+                            253.5
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢, ㉣)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            166.2,
+                            85.04,
+                            791.8,
+                            217.84
+                        ]
+                    ],
+                    "text_description": "㉠ $-20^{\\circ}=75^{\\circ}$, $160^{\\circ}+㉡=330^{\\circ}$, $105^{\\circ}-$ ㉢ $=18^{\\circ}$, ㉣ $+85^{\\circ}=235^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            271.1,
+                            80.6,
+                            296.7
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.4,
+                            319.1,
+                            499,
+                            489.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { ㉠ }-20^{\\circ}=75^{\\circ} \\rightarrow \\text { ㉠ }=75^{\\circ}+20^{\\circ}=95^{\\circ} \\\\ 160^{\\circ}+\\text { ㉡ }=330^{\\circ} \\rightarrow \\text { ㉡ }=330^{\\circ}-160^{\\circ}=170^{\\circ} \\\\ 105^{\\circ}-\\text { ㉢ }=18^{\\circ} \\rightarrow \\text { ㉢ }=105^{\\circ}-18^{\\circ}=87^{\\circ} \\\\ \\text { ㉣ }+85^{\\circ}=235^{\\circ} \\rightarrow \\text { ㉣ }=235^{\\circ}-85^{\\circ}=150^{\\circ} \\\\ \\text { 따라서 가장 큰 각도는 ㉡ } 170^{\\circ} \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

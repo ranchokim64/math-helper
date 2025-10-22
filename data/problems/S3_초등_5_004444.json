@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df5470a9-1e4f-4f35-8299-1e8856ea836a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004444",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.82,
+                            3.97,
+                            435.26,
+                            58.75
+                        ]
+                    ],
+                    "text_description": "평행사변형과 삼각형의 넓이는 같습니다. 삼각형의 밑변의 길이는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            109.62,
+                            64.38,
+                            376.89,
+                            179.07
+                        ]
+                    ],
+                    "text_description": "평행사변형과 삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            311.35,
+                            196.26,
+                            364.09,
+                            218.79
+                        ]
+                    ],
+                    "text_description": "12cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.22,
+                            227.5,
+                            435.77,
+                            289.45
+                        ]
+                    ],
+                    "text_description": "평행사변형과 삼각형의 넓이가 같을 때 높이가 같으면 삼각형의 밑변의 길이는 평행사변형의 밑변의 길이의 2 배입니다. 따라서 삼각형의 밑변의 길이는 $6 \\times 2=12(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

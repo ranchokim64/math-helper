@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "87dbe71b-fb58-43a0-a068-3eb0585c2e2a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_015165",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.4,
+                            20.04,
+                            580,
+                            91.03999999999999
+                        ]
+                    ],
+                    "text_description": "다음 중 계산 결과가 가장 작은 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.6,
+                            205.64,
+                            206.6,
+                            274.64
+                        ]
+                    ],
+                    "text_description": "④ $\\frac{2}{9} \\div \\frac{1}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102,
+                            282.1,
+                            335.2,
+                            306.1
+                        ]
+                    ],
+                    "text_description": "① $3$ ② $5$ ③ $5$ ④ $2$ ⑤ $7$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.6,
+                            118.7,
+                            546.4,
+                            189.9
+                        ]
+                    ],
+                    "text_description": "① $\\frac{3}{4} \\div \\frac{1}{4}$ ② $\\frac{5}{6} \\div \\frac{1}{6}$ ③ $\\frac{5}{8} \\div \\frac{1}{8}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            241.4,
+                            206.1,
+                            398.6,
+                            276.5
+                        ]
+                    ],
+                    "text_description": "⑤ $\\frac{7}{10} \\div \\frac{1}{10}$"
+                }
+            ]
+        }
+    ]
+}

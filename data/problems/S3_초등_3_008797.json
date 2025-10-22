@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a4bedfa7-fb88-49a8-92a2-12b2b26cb956",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008797",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-05] 들이를 나타내는 표준 단위의 필요성을 인식하여 1L와 1mL의 단위를 알고, 이를 이용하여 들이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-17] 들이 단위 1L와 1mL를 알고, 이를 이용하여 들이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.2,
+                            4.44,
+                            924.8,
+                            111.84
+                        ]
+                    ],
+                    "text_description": "간장병과 기름병에 물을 가득 채운 후 모양과 크기가 같은 그릇에 옮겨 담았습니다. 그림과 같이 물이 채워졌을 때 간장병과 기름병 중 들이가 더 많은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            312,
+                            118.7,
+                            400,
+                            265.9
+                        ]
+                    ],
+                    "text_description": "50%이상 차있는 간장병"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            554.4,
+                            115.5,
+                            635.2,
+                            261.9
+                        ]
+                    ],
+                    "text_description": "50%미만 차있는 기름병"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.4,
+                            283.5,
+                            127.2,
+                            313.1
+                        ]
+                    ],
+                    "text_description": "간장병"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.2,
+                            330.7,
+                            864,
+                            357.1
+                        ]
+                    ],
+                    "text_description": "그릇에 담긴 물의 양이 간장병이 더 많으므로 간장병의 들이가 더 많습니다."
+                }
+            ]
+        }
+    ]
+}

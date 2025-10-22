@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cd240482-21a6-45a7-a800-dae3004a74d1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010509",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            5.92,
+                            962.5,
+                            112.92
+                        ]
+                    ],
+                    "text_description": "다음은 밀가루에 들어 있는 영양소를 조사하여 나타낸 원그래프입니다. 영양소 양이 전체의 $\\frac{7}{10}$ 만큼인 영양소를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.5,
+                            413.92,
+                            705.5,
+                            444.92
+                        ]
+                    ],
+                    "text_description": "(탄수화물, 수분, 단백질, 기타)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            357.5,
+                            115.5,
+                            648.5,
+                            410.5
+                        ]
+                    ],
+                    "text_description": "밀가루에 들어 있는 영양소의 원그래프이다 탄수화물 70%, 수분 15%, 단백질 10%, 기타 5% 차지하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.5,
+                            460.5,
+                            163.5,
+                            492.5
+                        ]
+                    ],
+                    "text_description": "탄수화물"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            514.5,
+                            695.5,
+                            605.5
+                        ]
+                    ],
+                    "text_description": "\\[ \\text { (해설) } \\frac{7}{10} \\times 100=70(\\%) \\] $\\Rightarrow$ 영양소 양이 전체의 $70 \\%$ 만큼인 영양소는 탄수화물입니다."
+                }
+            ]
+        }
+    ]
+}

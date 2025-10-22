@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c2ed83d6-3e15-4459-b032-cca5a21159ab",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011834",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            13.4,
+                            201,
+                            49.4
+                        ]
+                    ],
+                    "text_description": "계산을 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            64.4,
+                            141,
+                            129.4
+                        ]
+                    ],
+                    "text_description": "$23-4 \\frac{2}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79,
+                            230.4,
+                            133,
+                            275.4
+                        ]
+                    ],
+                    "text_description": "$18 \\frac{5}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            132.4,
+                            331,
+                            219.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 23-4 \\frac{2}{7} & =22 \\frac{7}{7}-4 \\frac{2}{7}=(22-4)+\\left(\\frac{7}{7}-\\frac{2}{7}\\right) \\\\ & =18+\\frac{5}{7}=18 \\frac{5}{7}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

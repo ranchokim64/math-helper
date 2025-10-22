@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d5003240-f61c-4e78-9c43-ef7886ebe57c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011199",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.78,
+                            4.29,
+                            455.42,
+                            31.47
+                        ]
+                    ],
+                    "text_description": "비율이 같은 두 비를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            191.93,
+                            36.46,
+                            708.92,
+                            111.35
+                        ]
+                    ],
+                    "text_description": "$16: 2 \\quad 8: 0. 5 \\quad 1: 16 \\quad 48: 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.03,
+                            125.54,
+                            159.2,
+                            148.84
+                        ]
+                    ],
+                    "text_description": "$8: 0. 5, 48: 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.35,
+                            170.24,
+                            369.99,
+                            213.74
+                        ]
+                    ],
+                    "text_description": "$16: 2$의 비율은 $\\frac{16}{2}(=8)$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.81,
+                            227.39,
+                            849.15,
+                            432.63
+                        ]
+                    ],
+                    "text_description": "$8: 0. 5$의 전항과 후항에 10을 곱하면 $80: 5$로 나타낼 수 있으므로 비율은 $\\frac{80}{5}(=16)$ 입 니다. $1: 16$의 비율은 $\\frac{1}{16}$ 입니다. $48: 3$의 비율은 $\\frac{48}{3}(=16)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

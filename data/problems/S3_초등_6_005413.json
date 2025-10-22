@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77de6ba8-898d-4b5b-98af-f058dcab92c4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005413",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.02,
+                            4.79,
+                            486.3,
+                            85.55
+                        ]
+                    ],
+                    "text_description": "다음 원기둥의 전개도에서 밑면의 둘레가 18cm 일 때 물음에 답하세요 (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116.47,
+                            87.33,
+                            327.38,
+                            248.01
+                        ]
+                    ],
+                    "text_description": "높이가 8cm인 사각형과 원이 합쳐진 원기둥의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309.77,
+                            328.47,
+                            379,
+                            357.31
+                        ]
+                    ],
+                    "text_description": "88cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.17,
+                            278.85,
+                            332.84,
+                            313.47
+                        ]
+                    ],
+                    "text_description": "위 전개도의 둘레는 몇 cm 인가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.25,
+                            362.69,
+                            295.92,
+                            420.77
+                        ]
+                    ],
+                    "text_description": "(밑면의 둘레)=(옆면의 가로)이므로 \\[ 18 \\times 4+8 \\times 2=72+16=88(\\mathrm{~cm}) \\]"
+                }
+            ]
+        }
+    ]
+}

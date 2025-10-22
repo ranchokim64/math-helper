@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b7d372e8-7b7e-4929-a01e-fc7717f895c1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012532",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            11.42,
+                            488,
+                            135.42
+                        ]
+                    ],
+                    "text_description": "수 카드 $3, 5, 7, 9$를 한 번씩 만 사용하여 만든 가장 큰 두 자리 수와 가장 작은 두 자리 수의 곱을 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            360,
+                            154.42,
+                            415,
+                            182.42
+                        ]
+                    ],
+                    "text_description": "$3395$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81,
+                            186,
+                            269,
+                            233
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 가장 큰 두 자리 수 : } 97 \\\\ \\text { 가장 작은 두 자리 수 : } 35 \\\\ \\rightarrow \\rightarrow 97 \\times 35=3395\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81,
+                            231,
+                            215,
+                            256
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow 97 \\times 35=3395$"
+                }
+            ]
+        }
+    ]
+}

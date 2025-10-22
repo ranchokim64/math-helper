@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6454986e-dd42-4883-ba3f-ceecdf387430",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004527",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43,
+                            1.52,
+                            295,
+                            28.72
+                        ]
+                    ],
+                    "text_description": "마름모의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122,
+                            37.4,
+                            345,
+                            149.4
+                        ]
+                    ],
+                    "text_description": "두 변의 길이가 13cm, 6cm인 직사각형의 각 변에 정 가운데 지점을 이어 만들어진 마름모가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            295.8,
+                            159.92,
+                            362.2,
+                            187.92
+                        ]
+                    ],
+                    "text_description": "$39 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.6,
+                            193.52,
+                            417.4,
+                            236.72
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 마름모의 넓이) } & =(\\text { 한 대각선의 길이 }) \\times(\\text { (다른 대각선의 길이 }) \\div 2 \\\\ & =13 \\times 6 \\div 2=39\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

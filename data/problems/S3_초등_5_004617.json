@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "94ef630f-9315-4495-b5d8-b16c79d185fc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004617",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.24,
+                            18.35,
+                            628.38,
+                            67.29
+                        ]
+                    ],
+                    "text_description": "잘못 계산한 곳을 찾아 옳게 고쳐 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            112.04,
+                            83.32,
+                            652.85,
+                            240.25
+                        ]
+                    ],
+                    "text_description": "박스안에 다음과 같은 식이 있다. $1 \\frac{1}{8} \\times 4=1 \\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            198.69,
+                            324.36,
+                            267.28,
+                            412.36
+                        ]
+                    ],
+                    "text_description": "$4 \\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.2,
+                            244.84,
+                            695.76,
+                            317.55
+                        ]
+                    ],
+                    "text_description": "대분수의 곱셈을 할 때에는 먼저 대분수를 가분수로 고친 후 ㅇ 분합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.74,
+                            325.15,
+                            171.1,
+                            428.92
+                        ]
+                    ],
+                    "text_description": "$\\frac{9}{8} \\times 4=\\frac{9}{2}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "30a62475-87c1-4c4f-8b29-0a7f3d182cce",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003130",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.94,
+                            6.25,
+                            182.5,
+                            33.13
+                        ]
+                    ],
+                    "text_description": "표를 완성해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.94,
+                            60.65,
+                            800.74,
+                            240.49
+                        ]
+                    ],
+                    "text_description": "반지름과 원주율을 이용해 원의 넓이를 구하는 식과 원의 넓이의 표"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.54,
+                            263.9,
+                            737.38,
+                            427.1
+                        ]
+                    ],
+                    "text_description": "원의 넓이는 10x10x3=300, 10x10x3. 1=310, 10x10x3. 14=314"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.3,
+                            434.7,
+                            653.7,
+                            459.5
+                        ]
+                    ],
+                    "text_description": "원의 넓이는 $($ 반지름 $) \\times($ 반지름 $) \\times($ 원주율 $)$이고 반지름이 모두 10cm입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "72f0b723-8bfe-47cf-b854-4d6fd1c3bff4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009157",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.83,
+                            4.05,
+                            802.72,
+                            31.91
+                        ]
+                    ],
+                    "text_description": "$28 \\div 4=7$을 뺄셈식으로 바르게 나타낸 것을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            368.95,
+                            145.27,
+                            484.51,
+                            175.81
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            225.02,
+                            56.59,
+                            560.34,
+                            118.89
+                        ]
+                    ],
+                    "text_description": "㉠ $28-4-4-4-4-4-4-4=0$ ㉡ $28-7-7-7-7=0$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.35,
+                            189.02,
+                            77.59,
+                            214.61
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.7,
+                            226.16,
+                            250.1,
+                            302.93
+                        ]
+                    ],
+                    "text_description": "$\\square - \\underbrace{\\triangle - \\cdots \\cdots - \\triangle}_{\\bigcirc번} = 0$ $\\Rightarrow \\square \\div \\triangle=0$"
+                }
+            ]
+        }
+    ]
+}

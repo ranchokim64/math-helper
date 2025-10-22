@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9d7336b1-2bba-41b0-afb9-f02d873d3bab",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005536",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.69,
+                            17.11,
+                            707.42,
+                            103.78
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 더 큰 것은 누구의 계산 결과인지 써보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.17,
+                            125.69,
+                            707.42,
+                            478.2
+                        ]
+                    ],
+                    "text_description": "애영:$\\frac{5}{4} \\div 6$의 몫은? 창국:$\\frac{7}{6} \\div 4$의 몫은?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            506.29,
+                            508.48,
+                            564.19,
+                            544.58
+                        ]
+                    ],
+                    "text_description": "창국"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.46,
+                            565.55,
+                            719.06,
+                            631.07
+                        ]
+                    ],
+                    "text_description": "애영: $\\frac{5}{4} \\div 6=\\frac{5}{4} \\times \\frac{1}{6}=\\frac{5}{24}$, 창국: $\\frac{7}{6} \\div 4=\\frac{7}{6} \\times \\frac{1}{4}=\\frac{7}{24}$"
+                }
+            ]
+        }
+    ]
+}

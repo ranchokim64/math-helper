@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "42877641-b524-4dd5-964f-e6ac7897bfb2",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012009",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            9.42,
+                            531,
+                            142.42
+                        ]
+                    ],
+                    "text_description": "현주가 수학 문제를 푸는 데 2분 35초가 걸렸습니다. 현주가 수학 문제를 푸는 데 걸린 시간은 몇 초일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            377,
+                            158.42,
+                            452,
+                            192.42
+                        ]
+                    ],
+                    "text_description": "155초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33,
+                            203,
+                            422,
+                            231
+                        ]
+                    ],
+                    "text_description": "2분 35초 $=2$ 분 +35초 $=120$ 초+35초 $=155$ 초"
+                }
+            ]
+        }
+    ]
+}

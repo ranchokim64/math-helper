@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dfdecb9d-091d-426f-9f8d-90e7c9e6179d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005753",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.1,
+                            13.04,
+                            281.3,
+                            131.64
+                        ]
+                    ],
+                    "text_description": "어느 지역의 곡물 생산량을 나타낸 원그래프입니다. 콩 생산량은 기타의 4배, 보리 생산량은 기타의 6배입니다. 전체 곡물 생산량이 30000t일 때, 쌀 생산량은 몇 t 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.3,
+                            145.7,
+                            166.1,
+                            311.5
+                        ]
+                    ],
+                    "text_description": "곡물별 생산량을 나타낸 원 그래프이다. 쌀, 보리, 콩과 기타(5%)로 구분되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.9,
+                            447.9,
+                            66.5,
+                            471.1
+                        ]
+                    ],
+                    "text_description": "13500 t"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.3,
+                            324.7,
+                            323.9,
+                            431.5
+                        ]
+                    ],
+                    "text_description": "콩 생산량은 전체의 $20 \\%$, 보리 생산량은 전체의 $30 \\%$ 입니다. 쌀 생산량은 전체의 $100-(30+20+5)=45(\\%)$ 입니다. 따라서 쌀 생산량은 $30000 \\times \\frac{45}{100}=13500(t)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

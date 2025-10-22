@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d2f64b0-f535-4917-8f69-efbb908b6050",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012274",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.32,
+                            10.32,
+                            789.32,
+                            121.32
+                        ]
+                    ],
+                    "text_description": "주어진 도형을 어떤 방향으로 돌린 도형인지 보기에서 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.32,
+                            134.32,
+                            794.32,
+                            444.32
+                        ]
+                    ],
+                    "text_description": "6x6 파란색 격자무늬 안에 직각삼각형 ㄱㄴㄷ이 있습니다. 오른쪽에는 노란색 원이 수직, 수평으로 나눈 선이 있고, ㉠, ㉡, ㉢, ㉣ 4개가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.32,
+                            482.32,
+                            309.32,
+                            711.32
+                        ]
+                    ],
+                    "text_description": "6x6 파란색 격자무늬 안에 직각삼각형 ㄱㄴㄷ이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            632.32,
+                            745.95,
+                            668.32,
+                            781.95
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120.32,
+                            803.95,
+                            812.32,
+                            871.95
+                        ]
+                    ],
+                    "text_description": "삼각형의 직각 부분이 왼쪽 아래에 있으므로 시계 방향으로 180ㅁ만큼 돌린 것입니다."
+                }
+            ]
+        }
+    ]
+}

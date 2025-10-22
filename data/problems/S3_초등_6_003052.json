@@ -1,0 +1,96 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "25224dc4-2eac-475a-a94a-5cb3f7b3dd39",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003052",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.52,
+                            5.09,
+                            661.52,
+                            61.89
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫을 반올림하여 소수 둘째 자리까지 나타내었을 때, 몫이 가장 큰 나눗셈을 찾아 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.12,
+                            97.52,
+                            611.12,
+                            129.52
+                        ]
+                    ],
+                    "text_description": "㉠ $35 \\div 12$ ㉡ $4. 95 \\div 1. 7$ ㉢ $8. 8 \\div 3$ ㉣ $25. 01 \\div 8. 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95.32,
+                            274.12,
+                            120.52000000000001,
+                            299.52
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.92,
+                            153.52,
+                            282.32,
+                            254.32
+                        ]
+                    ],
+                    "text_description": "$35 \\div 12=2. 916 \\cdots \\Rightarrow 2. 92$  $4. 95 \\div 1. 7=2. 911 \\cdots \\Rightarrow 2. 91$  $8. 8 \\div 3=2. 933 \\cdots \\Rightarrow 2. 93$  $25. 01 \\div 8. 6=2. 908 \\cdots \\Rightarrow 2. 91$"
+                }
+            ]
+        }
+    ]
+}

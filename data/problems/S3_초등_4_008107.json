@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "15a30a7b-cf5e-44f5-937f-b01522cac5d5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008107",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            3.42,
+                            787,
+                            33.42
+                        ]
+                    ],
+                    "text_description": "사각형의 네 각의 크기를 잘못 잰 사람의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            322,
+                            56.42,
+                            652,
+                            168.42
+                        ]
+                    ],
+                    "text_description": "- 현서: $90^{\\circ}, 50^{\\circ}, 110^{\\circ}, 120^{\\circ}$ - 승우: $45^{\\circ}, 80^{\\circ}, 135^{\\circ}, 100^{\\circ}$ - 지민: $65^{\\circ}, 105^{\\circ}, 70^{\\circ}, 120^{\\circ}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            351,
+                            187,
+                            602,
+                            222
+                        ]
+                    ],
+                    "text_description": "(현서, 승우, 지민)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            239,
+                            102,
+                            266
+                        ]
+                    ],
+                    "text_description": "현서"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            283,
+                            515,
+                            313
+                        ]
+                    ],
+                    "text_description": "사각형의 네 각의 크기의 합은 $360^{\\circ}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            430,
+                            679,
+                            459
+                        ]
+                    ],
+                    "text_description": "따라서 사각형의 네 각의 크기를 잘못 잰 사람은 현서입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            321,
+                            85,
+                            423
+                        ]
+                    ],
+                    "text_description": "현서: 승우: 지민:"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91,
+                            322,
+                            417,
+                            423
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}90^{\\circ}+50^{\\circ}+110^{\\circ}+120^{\\circ}=370^{\\circ} \\\\ 45^{\\circ}+80^{\\circ}+135^{\\circ}+100^{\\circ}=360^{\\circ} \\\\ 65^{\\circ}+105^{\\circ}+70^{\\circ}+120^{\\circ}=360^{\\circ}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

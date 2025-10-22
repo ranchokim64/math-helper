@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d86ab651-ff22-41bb-9c48-8c6cd47e3ef5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008849",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-11] 실생활 문제 상황을 통하여 무게의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-23] 실생활 문제 상황과 연결하여 무게의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.6,
+                            5.39,
+                            487.6,
+                            36.39
+                        ]
+                    ],
+                    "text_description": "무게가 더 무거운 쪽을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            170.6,
+                            89.39,
+                            792.6,
+                            174.39
+                        ]
+                    ],
+                    "text_description": "$9 \\mathrm{~kg}-2 \\mathrm{~kg} \\ 600 \\mathrm{~g}$, $7 \\mathrm{~kg} \\ 600 \\mathrm{~g}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.6,
+                            189.39,
+                            164.6,
+                            215.39
+                        ]
+                    ],
+                    "text_description": "$7kg$ $600g$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.6,
+                            257.0,
+                            228.6,
+                            391.0
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}9 \\mathrm{~kg} \\\\ -2 \\mathrm{~kg} 600 \\mathrm{~g} \\\\ \\hline 6 \\mathrm{~kg} 400 \\mathrm{~g}\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            286.6,
+                            360.0,
+                            521.6,
+                            390.0
+                        ]
+                    ],
+                    "text_description": "$6 \\mathrm{~kg} 400 \\mathrm{~g}<7 \\mathrm{~kg} 600 \\mathrm{~g}$"
+                }
+            ]
+        }
+    ]
+}

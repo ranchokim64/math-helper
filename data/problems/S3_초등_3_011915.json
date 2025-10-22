@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "14d75644-8149-44e6-aec1-0216d5537fb5",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011915",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            10.92,
+                            530.5,
+                            95.92
+                        ]
+                    ],
+                    "text_description": "소미가 설명하는 수보다 234 큰 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94.5,
+                            114.92,
+                            432.5,
+                            401.92
+                        ]
+                    ],
+                    "text_description": "소미: 100이 3개, 10이 5개, 1이 2개인 수야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            385.5,
+                            416.5,
+                            438.5,
+                            447.5
+                        ]
+                    ],
+                    "text_description": "$586$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            457.5,
+                            360.5,
+                            538.5
+                        ]
+                    ],
+                    "text_description": "100이 3개, 10이 5 개, 1이 2개인 수는 $300+50+2=352$ 입니다. $\\rightarrow 352+234=586$"
+                }
+            ]
+        }
+    ]
+}

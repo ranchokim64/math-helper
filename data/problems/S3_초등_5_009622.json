@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "50801658-823c-4ae4-93e5-38c1784d3de1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009622",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.51,
+                            -0.19,
+                            419.99,
+                            22.53
+                        ]
+                    ],
+                    "text_description": "계산 결과가 더 큰 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.36,
+                            97.21,
+                            345.43,
+                            120.22
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.3,
+                            157.14,
+                            367.44,
+                            278.56
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{4}{5} \\times \\frac{5}{9} \\times \\frac{7}{16}=\\left(\\frac{4}{5} \\times \\frac{5}{9}\\right) \\times \\frac{7}{16}=\\frac{4}{9} \\times \\frac{7}{16}=\\frac{7}{36}$ ㉡ $\\frac{7}{12} \\times \\frac{6}{15} \\times \\frac{5}{9}=\\left(\\frac{7}{12} \\times \\frac{6}{15}\\right) \\times \\frac{5}{9}=\\frac{7}{30} \\times \\frac{5}{9}=\\frac{7}{54}$ $\\frac{7}{36}>\\frac{7}{54}$ 이므로 계산 결과가 더 큰 것은 ㉠입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            202.0,
+                            42.0,
+                            292.0,
+                            78.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{5} \\times \\frac{5}{9} \\times \\frac{7}{16}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            338.0,
+                            39.0,
+                            431.0,
+                            81.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{12} \\times \\frac{6}{15} \\times \\frac{5}{9}$"
+                }
+            ]
+        }
+    ]
+}

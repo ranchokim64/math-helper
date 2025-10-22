@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "279b756f-554e-47a9-940a-2e2a60dbb516",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009216",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.02,
+                            3.69,
+                            349.82,
+                            26.89
+                        ]
+                    ],
+                    "text_description": "더 긴 시간을 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            260.22,
+                            51.32,
+                            515.42,
+                            77.72
+                        ]
+                    ],
+                    "text_description": "㉠ 5분 40초 ㉡ 330초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.42,
+                            109.72,
+                            63.42,
+                            134.52
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.62,
+                            177.72,
+                            287.42,
+                            228.92
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\Rightarrow 340 \\text { 초 }>330 \\text { 초 } \\\\ \\text { 따라서 더 긴 시간은 ㉠입니다. }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.02,
+                            145.12,
+                            452.22,
+                            172.12
+                        ]
+                    ],
+                    "text_description": "㉠ 5분 40초 =5분 +40초 =300초 +40초 =340초"
+                }
+            ]
+        }
+    ]
+}

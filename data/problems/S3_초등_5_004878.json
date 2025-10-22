@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6d32c8af-e9ce-410d-b8c5-730d983282e7",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004878",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.44,
+                            7.73,
+                            476.76,
+                            117.81
+                        ]
+                    ],
+                    "text_description": "영호네 모둠 학생들의 몸무게를 조사하여 나타낸 표입니다. 몸무게가 42kg 미만인 학생을 모두 찾아 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.44,
+                            133.17,
+                            477.4,
+                            273.33
+                        ]
+                    ],
+                    "text_description": "이 이미지는 영호네 모든 학생들의 몸무게를 나타내는 표입니다. 표에는 이름과 몸무게(kg)가 포함되어 있습니다: - 영호: 42kg - 경희: 38kg - 주원: 48kg - 용진: 45kg - 민우: 51kg - 성민: 36kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307.8,
+                            292.26,
+                            401.24,
+                            319.14
+                        ]
+                    ],
+                    "text_description": "경희, 성민"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.48,
+                            326.82,
+                            477.4,
+                            376.1
+                        ]
+                    ],
+                    "text_description": "몸무게가 42kg 미만인 학생은 42kg보다 가벼운 학생이므로 경희 $(38 \\mathrm{~kg})$와 성민 $(36 \\mathrm{~kg})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4b2c3f8c-c2f2-45f4-83e2-f9fd42a2d478",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012299",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.5,
+                            25.91,
+                            794.5,
+                            138.91
+                        ]
+                    ],
+                    "text_description": "규칙에 따라 쌓기나무를 쌓을 때 빈칸에 놓을 쌓기나무는 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.5,
+                            164.91,
+                            783.5,
+                            305.91
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 1개>3개>1개>3개>()로 변화하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            603.5,
+                            333.5,
+                            660.5,
+                            377.5
+                        ]
+                    ],
+                    "text_description": "I개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.5,
+                            390.5,
+                            796.5,
+                            466.5
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 1 개, 3 개가 반복되는 규칙이므로 빈칸에 놓을 쌓 기나무는 1개입니다."
+                }
+            ]
+        }
+    ]
+}

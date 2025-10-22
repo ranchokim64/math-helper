@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "91829250-f9af-44cc-a567-182a1bfe07e5",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003105",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.74,
+                            12.99,
+                            353.68,
+                            46.78
+                        ]
+                    ],
+                    "text_description": "빈칸에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.08,
+                            81.13,
+                            560.02,
+                            236.22
+                        ]
+                    ],
+                    "text_description": "84÷3. 5=$\\square$÷9. 6=$\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48,
+                            297.9,
+                            453,
+                            409.9
+                        ]
+                    ],
+                    "text_description": "$84\\div3. 5=24\\div9. 6=2. 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.47,
+                            247.69,
+                            297.87,
+                            277.9
+                        ]
+                    ],
+                    "text_description": "$84 \\div 3. 5=24, 24 \\div 9. 6=2. 5$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cd9f9c7d-1996-4dbd-81fb-4df25786d550",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011671",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.49,
+                            19.46,
+                            395.49,
+                            70.46
+                        ]
+                    ],
+                    "text_description": "두 직선이 서로 수직인 것을 찾아 기호를 쓰세요. \" 두 적선이 만나서 이루는 강이 $90^{\\circ}$ 입나다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.49,
+                            88.46,
+                            375.49,
+                            255.46
+                        ]
+                    ],
+                    "text_description": "㉠ 직선 위에 반직선이 있다. ㉡ 한점에서 시작하는 반직선 두 개가 있다. ㉢ 서로 교차하며 각이 90도인 직선이 있다. ㉣ 직선 두개가 교차하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.49,
+                            274.46,
+                            321.49,
+                            295.46
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.23,
+                            299.82,
+                            387.23,
+                            337.82
+                        ]
+                    ],
+                    "text_description": "두 직선이 이루는 각이 직각일 때, 두 직선은 서로 수직이라 고 합니다."
+                }
+            ]
+        }
+    ]
+}

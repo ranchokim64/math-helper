@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bcae52be-2819-4380-80a5-b99ed0365ccb",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007511",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-14] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-13] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.5,
+                            6.4,
+                            840.5,
+                            69.4
+                        ]
+                    ],
+                    "text_description": "$1, 0. 1, 0. 01, 0. 001$ 사이의 관계를 알아보려고 합니다. 알맞은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            279.4,
+                            412.5,
+                            336.4
+                        ]
+                    ],
+                    "text_description": "② 0. 001은 1의 $\\left(\\frac{1}{100}, \\frac{1}{1000}\\right)$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            144.5,
+                            71.4,
+                            714.5,
+                            267.4
+                        ]
+                    ],
+                    "text_description": "$1 \\xrightarrow{\\frac{1}{10}} 0. 1 \\xrightarrow{\\frac{1}{10}} 0. 01 \\xrightarrow{\\frac{1}{10}} 0. 001$을 직사각형의 분해를 통해 설명하고 있다. 1은 정사각형 1개, 0. 1은 10개로 나눈 것 중에 1개, 0. 01은 100개로 나눈 것 중에 1개, 0. 001은 1000개로 나눈 것 중에 1개로 그려진다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            428.4,
+                            87.5,
+                            486.4
+                        ]
+                    ],
+                    "text_description": "② $\\frac{1}{1000}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            350.4,
+                            314.5,
+                            404.4
+                        ]
+                    ],
+                    "text_description": "② 0. 001은 1의 $\\frac{1}{1000}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

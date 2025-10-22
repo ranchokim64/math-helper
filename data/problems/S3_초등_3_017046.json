@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fecdeb21-16c6-4911-b622-704b86dade9b",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017046",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.47,
+                            5.67,
+                            375.27,
+                            25.67
+                        ]
+                    ],
+                    "text_description": "$483$과 $296$의 합과 차를 순서대로 적은 것은 무엇인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.07,
+                            39.27,
+                            88.07,
+                            57.67
+                        ]
+                    ],
+                    "text_description": "① $779, 187$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.27,
+                            63.27,
+                            86.47,
+                            132.07
+                        ]
+                    ],
+                    "text_description": "② $780, 188$ ③ $779, 188$ ④ $780, 187$"
+                }
+            ]
+        },
+        {
+            "class_num": "2",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.47,
+                            143.76,
+                            127.27,
+                            164.56
+                        ]
+                    ],
+                    "text_description": "$483+296=779$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.07,
+                            169.36,
+                            121.67,
+                            189.36
+                        ]
+                    ],
+                    "text_description": "$483-296=187$"
+                }
+            ]
+        }
+    ]
+}

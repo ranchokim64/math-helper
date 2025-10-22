@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ef91efb3-7531-4980-9a13-e81a14f9e52b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008072",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.1,
+                            4.04,
+                            926.7,
+                            73.84
+                        ]
+                    ],
+                    "text_description": "$80^{\\circ}-30^{\\circ}$를 어떻게 계산하는지 알아보려고 합니다. 그림과 같이 잰 각도와 수의 차를 이용하여 계산한 것과 같으면 $\\bigcirc$, 다르면 $\\times$를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            364.3,
+                            248.5,
+                            538.7,
+                            354.1
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}\\frac{80^{\\circ}-30^{\\circ}}{}=50^{\\circ} \\\\ 80-30=50\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.1,
+                            371.1,
+                            51.5,
+                            420.7
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$ $\\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.9,
+                            83.3,
+                            853.1,
+                            226.9
+                        ]
+                    ],
+                    "text_description": "왼쪽엔 80도의 각도를 보여주는 이미지와 중앙에는 30도의 각도를 보여주는 이미지가 있습니다. 사이에는 - 기호가 있어 뺄셈을 하려는 것으로 보입니다. 오른쪽에는 80도의 각도 이미지와, 30도의 각도 이미지가 겹쳐 있고 80도에서 30도를 뺀 나머지가 화살표로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.3,
+                            438.9,
+                            80.3,
+                            461.3
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.9,
+                            485.1,
+                            495.5,
+                            510.1
+                        ]
+                    ],
+                    "text_description": "$80-30=50$ 이므로 $80^{\\circ}-30^{\\circ}=50^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

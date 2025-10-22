@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7dbfde84-f866-49a9-b191-77c89e63f6c9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005371",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            16.42,
+                            568,
+                            58.42
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이를 구해 보세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            129.88,
+                            71.39,
+                            476.56,
+                            268.95
+                        ]
+                    ],
+                    "text_description": "하나의 직선을 반으로 나눴을 때 왼쪽은 6cm의 지름을 가진 반원과 12cm의 지름을 가진 반원을 겹치고, 오른쪽은 아래로 그렸을 때 만들어지는 물결 모양의 기하학적 평면도형."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            389.5,
+                            287.92,
+                            495.75,
+                            328.23
+                        ]
+                    ],
+                    "text_description": "$81 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.989999999999995,
+                            333.38,
+                            453.24,
+                            524.63
+                        ]
+                    ],
+                    "text_description": "그림의 아랫쪽 부분을 왼쪽으로 옮기면 오른쪽 모양과 같습니다. 따라서 색칠한 부분의 넓이는 큰 원의 넓이에서 작은 원의 넓이를 뺀 것과 같습니다. \\[ \\begin{aligned} (\\text { 색칠한 부분의 넓0|) } & =6 \\times 6 \\times 3-3 \\times 3 \\times 3 \\\\ & =108-27=81\\left(\\mathrm{~cm}^{2}\\right) \\end{aligned} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            458.49,
+                            336.88,
+                            587.74,
+                            469.13
+                        ]
+                    ],
+                    "text_description": "반지름이 6cm인 큰 원의 넓이에서 반지름이 3cm인 작은 원의 넓이를 뺀 그림"
+                }
+            ]
+        }
+    ]
+}

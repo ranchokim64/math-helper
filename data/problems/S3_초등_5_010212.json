@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2546df5e-df32-4c9c-98ca-8f0eb9d07839",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010212",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.76,
+                            5.890000000000001,
+                            664.52,
+                            51.69
+                        ]
+                    ],
+                    "text_description": "500원짜리 동전 한 개들 던질 때 숫자 면이 나올 가능성을 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.32,
+                            54.37,
+                            617.64,
+                            213.41
+                        ]
+                    ],
+                    "text_description": "오백원짜리 동전이 앞 뒤가 표시된 그림이 있다. 왼쪽과 오른쪽에 두 직선이 그려져 있다. 왼쪽부터 보면 0에서 1로 표시된 두 수직선이 있다. 이 가운데 수직선이 하나 표시되있고 $\\frac{1}{2}$이 적혀있으며, 아래방향의 분홍색 화살표가 그려져있다. 오른쪽으르 보면 0에서 1로 표시된 두 수직선이 있다. 1에 아래방향의 분홍색 화살표가 그려져 있으며이 두직선 가운데 수직선 하나 표시되어 있는데 $\\frac{1}{2}$이 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.6,
+                            222.5,
+                            303.52,
+                            283.06
+                        ]
+                    ],
+                    "text_description": "0에서 1로 표시된 두 수직선이 있다. 이 가운데 수직선이 하나 표시되있고 $\\frac{1}{2}$이 적혀있으며, 아래방향의 분홍색 화살표가 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.68,
+                            290.62,
+                            662.68,
+                            355.86
+                        ]
+                    ],
+                    "text_description": "동전 한 개를 던질 때 숫자 면이 나올 가능성은 '반반이다’이고, 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

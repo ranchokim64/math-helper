@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77ef2572-b193-44d7-af5b-1c579ec777dc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011126",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.13,
+                            1.97,
+                            815.63,
+                            33.22
+                        ]
+                    ],
+                    "text_description": "간단한 자연수의 비로 나타낼 때 $3: 8$이 될 수 없는 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            161.88,
+                            38.22,
+                            723.13,
+                            115.72
+                        ]
+                    ],
+                    "text_description": "보라색 테두리의 박스에 다음과 같은 3개의 비가 있다.$0. 3: 0. 8$, $9: 21$, $2. 1: 5. 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.63,
+                            131.97,
+                            175.63,
+                            169.47
+                        ]
+                    ],
+                    "text_description": "9:21"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.879999999999999,
+                            185.75,
+                            859.38,
+                            309
+                        ]
+                    ],
+                    "text_description": "- $0. 3: 0. 8$의 전항과 후항에 10을 곱하면 $3: 8$이 됩니다. - 9:21의 전항과 후항을 9와 21의 최대공약수인 3으로 나누면 $3: 7$이 됩니다. - 2. 1:5. 6의 전항과 후항에 10을 곱하면 $21: 56$이 되고, $21: 56$의 전항과 후항을 21과 56의 최대공약수인 7로 나누면 $3: 8$이 됩니다."
+                }
+            ]
+        }
+    ]
+}

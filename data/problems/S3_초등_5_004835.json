@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "57a2e761-09a5-4394-8694-9d9e001d0d19",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004835",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.42,
+                            13.99,
+                            427.42,
+                            77.99
+                        ]
+                    ],
+                    "text_description": "주은이네 가족들의 나이입니다. 주은이네 가족들의 나이는 평균 몇 살인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.22,
+                            87.22,
+                            429.02,
+                            213.62
+                        ]
+                    ],
+                    "text_description": "주은이네 가족들의 나이를 나타낸 표."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.62,
+                            227.22,
+                            349.02,
+                            253.62
+                        ]
+                    ],
+                    "text_description": "27살"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.22,
+                            259.22,
+                            369.82,
+                            286.42
+                        ]
+                    ],
+                    "text_description": "$($ 평균 $)=(45+42+12+9) \\div 4=108 \\div 4=27$ (살)"
+                }
+            ]
+        }
+    ]
+}

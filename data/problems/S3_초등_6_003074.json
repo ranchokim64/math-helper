@@ -1,0 +1,139 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9d8b2be-9647-4e36-8558-fcf05b4cf79c",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003074",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            12.42,
+                            722,
+                            40.42
+                        ]
+                    ],
+                    "text_description": "어린이 보호 구역에 있는 최고 속도 제한 표지판입니다. 물음에 답해 보세요. (원주율: 3. 14)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24,
+                            325,
+                            734,
+                            355
+                        ]
+                    ],
+                    "text_description": "빨간색 부분의 두께가 7cm일 때 빨간색 부분의 안쪽 원주는 몇 cm인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            253,
+                            71,
+                            533,
+                            306
+                        ]
+                    ],
+                    "text_description": "최고 속도 제한 표지판"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            486,
+                            362,
+                            744,
+                            392
+                        ]
+                    ],
+                    "text_description": "$(\\quad 138. 16 \\quad$) cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            59,
+                            363
+                        ],
+                        [
+                            404,
+                            363
+                        ],
+                        [
+                            404,
+                            388
+                        ],
+                        [
+                            743,
+                            392
+                        ],
+                        [
+                            747,
+                            412
+                        ],
+                        [
+                            400,
+                            417
+                        ],
+                        [
+                            399,
+                            439
+                        ],
+                        [
+                            58,
+                            438
+                        ]
+                    ],
+                    "text_description": "빨간색 부분의 바깥쪽 지름이 58cm이므로 빨간색 부분의 안쪽 지름은 $58-7-7=44(\\mathrm{~cm})$ 입니다. 따라서 빨간색 부분의 안쪽 원주는 $44 \\times 3. 14=138. 16(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

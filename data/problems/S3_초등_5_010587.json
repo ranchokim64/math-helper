@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c14216c9-761a-48a7-ae14-aeb30b93a096",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010587",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            0.41,
+                            518,
+                            28.41
+                        ]
+                    ],
+                    "text_description": "계산 순서를 바르게 나타낸 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            458.0,
+                            41.0,
+                            641.0,
+                            198.0
+                        ]
+                    ],
+                    "text_description": "<div><span class=\"math-inline \">\n$24 \\times 2 \\div(3+5)-4$</span></div>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            200.0,
+                            41.0,
+                            379.0,
+                            226.0
+                        ]
+                    ],
+                    "text_description": "<div><span class=\"math-inline \">\n$24 \\times 2 \\div(3+5)-4$</span></div>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.0,
+                            409.0,
+                            438.0,
+                            436.0
+                        ]
+                    ],
+                    "text_description": "()안 계산 $\\Rightarrow \\times, \\div$ 계산 $\\Rightarrow+, -$ 계산"
+                }
+            ]
+        }
+    ]
+}

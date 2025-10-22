@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "55106f58-71d2-459f-b930-da93bbd17147",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009594",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.8,
+                            1.64,
+                            361,
+                            24.84
+                        ]
+                    ],
+                    "text_description": "다음 마름모의 둘레는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            268.0,
+                            34.0,
+                            428.0,
+                            161.0
+                        ]
+                    ],
+                    "text_description": "마름모 모양의 도형이 있다.변의 길이는 $2 \\frac{1}{6}$cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.0,
+                            221.3,
+                            108.2,
+                            265.1
+                        ]
+                    ],
+                    "text_description": "④ $8 \\frac{2}{3} \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            261.0,
+                            221.0,
+                            318.0,
+                            264.0
+                        ]
+                    ],
+                    "text_description": "$8 \\frac{1}{6} \\mathrm{~cm}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.0,
+                            170.0,
+                            538.0,
+                            212.0
+                        ]
+                    ],
+                    "text_description": "$8 \\frac{1}{24} \\mathrm{~cm}$ ② $8 \\frac{7}{12} \\mathrm{~cm}$③ $8 \\frac{1}{2} \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.0,
+                            313.3,
+                            579.4,
+                            354.1
+                        ]
+                    ],
+                    "text_description": "$\\left(\\right. $마름모의 둘레) $=($ 한 변의 길이 $) \\times 4=2 \\frac{1}{6} \\times 4=\\frac{13}{6} \\times 4=\\frac{26}{3}=8 \\frac{2}{3}(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

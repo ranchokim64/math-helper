@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "67bed460-bf7d-4ed6-b60e-297c72aa874e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010575",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.9,
+                            7.34,
+                            956.1,
+                            36.14
+                        ]
+                    ],
+                    "text_description": "직육면체 가와 정육면체 나 중 겉넓이가 더 작은 것의 기호를 선택해 보세"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.1,
+                            48.94,
+                            68.1,
+                            74.54
+                        ]
+                    ],
+                    "text_description": "요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            436.9,
+                            264.6,
+                            553.7,
+                            295.8
+                        ]
+                    ],
+                    "text_description": "(가, 나)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            254.5,
+                            87.8,
+                            698.5,
+                            259
+                        ]
+                    ],
+                    "text_description": "가 높이 8cm, 한 면의 길이가 각각 5cm, 6cm 나 높이 7cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            314.2,
+                            84.1,
+                            342.2
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            359,
+                            308.1,
+                            387.8
+                        ]
+                    ],
+                    "text_description": "(직육면체 가의 겉넓이)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.700000000000003,
+                            394.2,
+                            556.1,
+                            586
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} =(\\text { 한 꼭짓점에서 만나는 세 면의 넓이의 합 }) \\times 2 \\\\ =(5 \\times 6+6 \\times 8+5 \\times 8) \\times 2 \\\\ =(30+48+40) \\times 2=236\\left(\\mathrm{~cm}^{2}\\right) \\end{array} \\] (정육면체 나의 겉넓이) \\[ =(\\text { 한 면의 넓이 }) \\times 6=7 \\times 7 \\times 6=294\\left(\\mathrm{~cm}^{2}\\right) \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.1,
+                            601.6,
+                            682.5,
+                            633.4
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow 236 \\mathrm{~cm}^{2}<294 \\mathrm{~cm}^{2}$ 이므로 겉넓이가 더 작은 것은 가입니다."
+                }
+            ]
+        }
+    ]
+}

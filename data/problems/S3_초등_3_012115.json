@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "02962c25-8881-4ab4-8073-cd91d2b9fadf",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012115",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.7,
+                            2.84,
+                            649.3,
+                            70.84
+                        ]
+                    ],
+                    "text_description": "직각삼각형 가는 세 변의 길이의 합이 24cm 입니다. 정사 각형 나의 네 변의 길이의 합은 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            222.9,
+                            89.24,
+                            452.5,
+                            211.64
+                        ]
+                    ],
+                    "text_description": "삼각형 가와 정사각형 나가 붙어있다. 가의 길이는 10cm, 8cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            518.1,
+                            227.3,
+                            579.7,
+                            253.7
+                        ]
+                    ],
+                    "text_description": "24cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            260.9,
+                            608.5,
+                            308.9
+                        ]
+                    ],
+                    "text_description": "직각삼각형 가의 나머지 한 변의 길이는 $24-10-8=6(\\mathrm{~cm})$ 입니다. 정사각형의 한 변의 길이는 6cm이므로 네 변의 길이의 합은 $6 \\times 4=24(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

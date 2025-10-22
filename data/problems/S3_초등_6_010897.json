@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b4afe8a5-9dae-4df0-a225-a28943e104a2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010897",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.7,
+                            14.44,
+                            756.1,
+                            41.84
+                        ]
+                    ],
+                    "text_description": "$512 \\div 16=32$를 이용하여 바르게 계산한 식이 아닌 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181.7,
+                            43.44,
+                            708.1,
+                            101.84
+                        ]
+                    ],
+                    "text_description": "㉠ $5. 12 \\div 0. 16=32$ ㉡ $51. 2 \\div 0. 16=32$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            112.7,
+                            74.5,
+                            135.1
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.1,
+                            152.7,
+                            825.7,
+                            180.7
+                        ]
+                    ],
+                    "text_description": "㉠ 나누어지는 수와 나누는 수를 똑같이 100배 하여 $512 \\div 16=32$로 계산합니다."
+                }
+            ]
+        }
+    ]
+}

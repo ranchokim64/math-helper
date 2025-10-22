@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a50c9d02-dd04-4401-bf33-2af0593f675b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010088",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.4,
+                            0.84,
+                            666.6,
+                            81.84
+                        ]
+                    ],
+                    "text_description": "당첨 제비만 8 개 들어 있는 제비뽑기 상자에서 제비 1 개를 뽑을 때 뽑은 제비가 당첨 제비가 아닐 가능성을 수로 표현하려고 합니다. 알맞은 수를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            215.0,
+                            199.0,
+                            469.0,
+                            246.0
+                        ]
+                    ],
+                    "text_description": ""
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            291.0,
+                            88.0,
+                            394.0,
+                            189.0
+                        ]
+                    ],
+                    "text_description": "당첨 제비가 8개 들어 있는 제비뽑기 상자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.24,
+                            296.74,
+                            668.88,
+                            345.38
+                        ]
+                    ],
+                    "text_description": "제비뽑기 상자에 당첨 제비만 8 개 들어 있으므로 뽑은 제비 1 개가 당첨 제비가 아닐 가능성은 '불가능하다'이고, 이를 수로 표현하면 0 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.04,
+                            266.02,
+                            55.12,
+                            287.78
+                        ]
+                    ],
+                    "text_description": "0"
+                }
+            ]
+        }
+    ]
+}

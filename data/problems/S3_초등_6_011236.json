@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3fea01ee-706a-4ea5-b6eb-dc09d6714cac",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011236",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.22,
+                            9.39,
+                            860.02,
+                            35.55
+                        ]
+                    ],
+                    "text_description": "원 모양 와플의 원주를 원주율을 3. 14로 하여 구했더니 원주가 18.84cm 였"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.02,
+                            46.15,
+                            708.34,
+                            70.75
+                        ]
+                    ],
+                    "text_description": "습니다. 이 와플의 반지름을 바르게 구한 사람을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.54,
+                            215.76,
+                            767.22,
+                            332.88
+                        ]
+                    ],
+                    "text_description": "승훈: 와플의 반지름은 $18. 84 \\div 3. 14=6(\\mathrm{~cm})$ 야. 민영: 와플의 반지름은 $18. 84 \\div 3. 14 \\div 2=3(\\mathrm{~cm})$ 야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            340.66,
+                            77.88,
+                            547.06,
+                            215.76
+                        ]
+                    ],
+                    "text_description": "와플과 와플의 반지름이 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.34,
+                            345.68,
+                            92.02,
+                            368.08
+                        ]
+                    ],
+                    "text_description": "민영"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.7,
+                            387.28,
+                            620.02,
+                            412.24
+                        ]
+                    ],
+                    "text_description": "$($ 지름 $)=($ 원주 $) \\div($ 원주율 $)$에서 지름은 반지름의 2배이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.3,
+                            419.92,
+                            693.62,
+                            444.88
+                        ]
+                    ],
+                    "text_description": "$($ 반지름 $) \\times 2=($ 원주 $) \\div($ 원주율 $) \\Rightarrow($ 반지름 $)=($ 원주 $) \\div($ 원주율 $) \\div 2$"
+                }
+            ]
+        }
+    ]
+}

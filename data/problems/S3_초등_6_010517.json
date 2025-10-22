@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77f3d173-9f5d-4218-bced-11a296c81cc8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010517",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.01,
+                            2.4,
+                            960.51,
+                            72.4
+                        ]
+                    ],
+                    "text_description": "윤주네 반 학생들의 등교 방법을 조사하여 나타낸 띠그래프입니다. 등교 방법 중 학생 수가 가장 적은 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            304.26,
+                            243.65,
+                            686.76,
+                            276.15
+                        ]
+                    ],
+                    "text_description": "(도보, 버스, 지하철, 승용차)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            178.01,
+                            80.62,
+                            816.76,
+                            240.87
+                        ]
+                    ],
+                    "text_description": "등교 방법별 학생 수의 띠그래프가 있다. 0부터 100(%)의 눈금자가 있으며 왼쪽부터 도보는 40%, 버스는 35%, 지하철이 15%, 승용차가 10% 차지하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.76,
+                            291.87,
+                            135.51,
+                            328.12
+                        ]
+                    ],
+                    "text_description": "승용차"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.01,
+                            340.62,
+                            880.51,
+                            371.87
+                        ]
+                    ],
+                    "text_description": "띠그래프에서 차지하는 부분의 길이가 가장 짧은 등교 방법은 승용차입니다."
+                }
+            ]
+        }
+    ]
+}

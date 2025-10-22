@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b14b2a0e-5022-4b53-8d11-64b561a08041",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004375",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.88,
+                            12.59,
+                            368.09,
+                            53.56
+                        ]
+                    ],
+                    "text_description": "분수의 크기를 비교하여 큰 수부터 차례대로 써 보 세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108.34,
+                            63.33,
+                            307.51,
+                            120.25
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lll}\\frac{3}{4} & \\frac{5}{6} & \\frac{17}{18}\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            223.1,
+                            124.05,
+                            349.57,
+                            158.84
+                        ]
+                    ],
+                    "text_description": "$\\frac{17}{18}, \\frac{5}{6}, \\frac{3}{4}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.59,
+                            160.53,
+                            243.38,
+                            194.45
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{4}=\\frac{27}{36} \\cdot \\frac{5}{6}=\\frac{30}{36} \\cdot \\frac{17}{18}=\\frac{34}{36}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2f82a5ef-e354-4a5e-b34b-1043ce0dbe87",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011971",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.61,
+                            9.87,
+                            530.61,
+                            46.87
+                        ]
+                    ],
+                    "text_description": "㉠, ㉡에 알맞은 수를 각각 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.61,
+                            70.87,
+                            575.61,
+                            200.87
+                        ]
+                    ],
+                    "text_description": "$48$의 나눗셈 과정을 나타내었다. $ \\begin{aligned} 48 \\div 6 = ㉠ \\div 2 = ㉡ \\\\ \\end{aligned} $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.61,
+                            228.16,
+                            578.61,
+                            301.16
+                        ]
+                    ],
+                    "text_description": "㉠ $8$ ㉡ $4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.61,
+                            317.5,
+                            203.61,
+                            366.5
+                        ]
+                    ],
+                    "text_description": "㉠ : $48 \\div 6=8$ ㉡ : $8 \\div 2=4$"
+                }
+            ]
+        }
+    ]
+}

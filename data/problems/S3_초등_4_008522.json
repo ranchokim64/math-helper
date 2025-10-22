@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9795ac28-2cff-4a89-9803-a9c6e4241965",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008522",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.73,
+                            0.4,
+                            833.73,
+                            33.4
+                        ]
+                    ],
+                    "text_description": "두 계산식을 보고 설명에 맞는 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120.73,
+                            288.01,
+                            853.73,
+                            320.01
+                        ]
+                    ],
+                    "text_description": "같은 자리 수가 똑같이 커지는 두 수의 차는 항상 일정합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147.73,
+                            44.4,
+                            828.73,
+                            265.4
+                        ]
+                    ],
+                    "text_description": "㉠ \\[ \\begin{array}{l} 427-320=107 \\\\ 527-320=207 \\\\ 627-320=307 \\\\ 727-320=407 \\end{array} \\] ㉡ \\[ \\begin{array}{l} 468-220=248 \\\\ 568-320=248 \\\\ 668-420=248 \\\\ 768-520=248 \\end{array} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.73,
+                            358.01,
+                            90.73,
+                            386.01
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.73,
+                            402.01,
+                            937.73,
+                            433.01
+                        ]
+                    ],
+                    "text_description": "㉠은 백의 자리 숫자가 1씩 커지는 수에서 같은 수를 뺀 것이고, ㉡은 백의 자리"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.73,
+                            439.01,
+                            936.73,
+                            504.01
+                        ]
+                    ],
+                    "text_description": "숫자가 1씩 커지는 수에서 백의 자리 숫자가 1씩 커지는 수를 뺀 것입니다. 따라서 주어진 설명에 맞는 것은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

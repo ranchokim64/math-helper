@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5c993693-c1f2-45c2-b2c3-886095980c59",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009301",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-15] 소수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-14] 소수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.12,
+                            6.39,
+                            457.12,
+                            31.39
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 수를 모두 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            418.12,
+                            97.39,
+                            682.12,
+                            122.39
+                        ]
+                    ],
+                    "text_description": "$(1, 2, 3, 4, 5, 6, 7, 8, 9)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309.12,
+                            53.39,
+                            399.12,
+                            81.39
+                        ]
+                    ],
+                    "text_description": "$1. \\square<1. 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.12,
+                            136,
+                            113.12,
+                            155
+                        ]
+                    ],
+                    "text_description": "$1, 2, 3, 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.12,
+                            166,
+                            682.12,
+                            192
+                        ]
+                    ],
+                    "text_description": "자연수 부분이 1로 같으므로 소수 부분의 크기를 비교하면 $\\square<5$ 입니다. 따라서"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.12,
+                            195,
+                            382.12,
+                            218
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 수는 $1, 2, 3, 4$ 입니다."
+                }
+            ]
+        }
+    ]
+}

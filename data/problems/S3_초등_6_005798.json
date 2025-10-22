@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "09a6b032-3eeb-4cd1-911d-3f33cb71b1d4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005798",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.84,
+                            9.86,
+                            437.51,
+                            97.03
+                        ]
+                    ],
+                    "text_description": "두 상자에 다음 그림과 같은 직육면체 모양의 나무를 채워 넣었습니다. 상자 가와 나에 몇 개씩 채워 넣을 수 있나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            145.82,
+                            114.27,
+                            304.39,
+                            225.11
+                        ]
+                    ],
+                    "text_description": "가로1cm, 세로3cm, 높이 1cm의 직육면체 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.47,
+                            242.69,
+                            435.48,
+                            310.94
+                        ]
+                    ],
+                    "text_description": "가: (210개) 나: (192개)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.79,
+                            316.35,
+                            416.56,
+                            362.97
+                        ]
+                    ],
+                    "text_description": "가: 가로 7줄, 세로 3줄, 높이 10층 $\\rightarrow 7 \\times 3 \\times 10=210$(개) 나: 가로 12줄, 세로 2줄, 높이 8층 $\\rightarrow 12 \\times 2 \\times 8=192$(개)"
+                }
+            ]
+        }
+    ]
+}

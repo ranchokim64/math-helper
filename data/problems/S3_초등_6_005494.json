@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c8163ae8-1aad-48bf-a7b4-17ab0e2f8090",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005494",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.83,
+                            18.82,
+                            497.83,
+                            98.82
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요? (원주율: 3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            158.83,
+                            114.82,
+                            351.83,
+                            307.82
+                        ]
+                    ],
+                    "text_description": "반지름이 2CM인 정원형과, 반지름이 5CM인 원이 중점을 기준으로 겹쳐있다. 그에따라 작은 원과 큰 원의 반지름 차이는 3CM임을 표현한 이미지이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            320.83,
+                            324.45,
+                            421.83,
+                            357.45
+                        ]
+                    ],
+                    "text_description": "$65. 1 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.83,
+                            367.45,
+                            444.83,
+                            443.45
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 색칠한 부분의 넓이) } & =(\\text { 큰 원의 넓이) })(\\text { (작은 원의 넓이) } \\\\ & =5 \\times 5 \\times 3. 1-2 \\times 2 \\times 3. 1 \\\\ & =77. 5-12. 4=65. 1\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "121ad57e-5c48-4d14-8d29-3754fb5db6b8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009313",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.88,
+                            5.97,
+                            758.76,
+                            112.21
+                        ]
+                    ],
+                    "text_description": "냉장고에서 식혜 한 병을 꺼내 하진이는 전체의 $\\frac{6}{10}$을 마셨고 선영이는 전체의 $\\frac{3}{10}$을 마셨습니다. 식혜를 더 많이 마신 사람의 이름을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.52,
+                            116.05,
+                            762.6,
+                            258.77
+                        ]
+                    ],
+                    "text_description": "이 이미지는 두 아이가 음료수를 비교하는 장면을 보여줍니다. 왼쪽 아이는 \"내가 6/10을 마셨다. \"고 말하며, 오른쪽 아이는 \"난 3/10을 마셨다. 누가 더 많이 마셨지?\"라고 질문하고 있습니다. 두 아이는 각각 다른 양의 음료수를 마셨고, 이를 비교하는 상황을 나타내고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            635.88,
+                            261.7,
+                            678.12,
+                            286.02
+                        ]
+                    ],
+                    "text_description": "하진"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            699.8,
+                            262.34,
+                            741.48,
+                            284.74
+                        ]
+                    ],
+                    "text_description": "선영"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.96,
+                            342.34,
+                            756.84,
+                            412.74
+                        ]
+                    ],
+                    "text_description": "분자를 비교하면 $6>3$ 이므로 $\\frac{6}{10}>\\frac{3}{10}$ 입니다. 따라서 하진이가 더 많이 마셨습니다."
+                }
+            ]
+        }
+    ]
+}

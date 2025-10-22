@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "09d4ee11-38bd-48c5-9cde-1e0a2ec4f938",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010590",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.27,
+                            0.73,
+                            445.27,
+                            29.73
+                        ]
+                    ],
+                    "text_description": "바르게 계산한 사람을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            349.27,
+                            134.27,
+                            498.27,
+                            163.27
+                        ]
+                    ],
+                    "text_description": "(현우, 진아)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            125.27,
+                            32.27,
+                            721.27,
+                            133.27
+                        ]
+                    ],
+                    "text_description": "현우: $34-14+19=1$ 진아: $64 \\div(2 \\times 8)=4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.27,
+                            176.27,
+                            100.27,
+                            202.27
+                        ]
+                    ],
+                    "text_description": "진아"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.27,
+                            212.27,
+                            654.27,
+                            273.27
+                        ]
+                    ],
+                    "text_description": "현우: $34-14+19=20+19=39$, 진아: $64 \\div(2 \\times 8)=64 \\div 16=4$ $\\Rightarrow$ 바르게 계산한 사람은 진아입니다."
+                }
+            ]
+        }
+    ]
+}

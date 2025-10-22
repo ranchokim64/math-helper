@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "50529e2c-8b93-4573-b0d2-48f3220e1e7d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005234",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70,
+                            24.52,
+                            355.2,
+                            91.52
+                        ]
+                    ],
+                    "text_description": "1층에 쌓은 쌓기나무가 7개 일 때 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68,
+                            290.72,
+                            551.8,
+                            359.92
+                        ]
+                    ],
+                    "text_description": "똑같은 모양으로 쌓는 데 필요한 쌓기나무는 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.8,
+                            97.72,
+                            194.4,
+                            271.52
+                        ]
+                    ],
+                    "text_description": "총 11개의 쌓기 나무를 사용해 쌓은 나무 모형은 1층에 7개, 2층에 3개, 3층에 1개로 쌓여져 있음"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            407.2,
+                            381.52,
+                            455.4,
+                            407.32
+                        ]
+                    ],
+                    "text_description": "11개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.6,
+                            418.52,
+                            232.2,
+                            440.32
+                        ]
+                    ],
+                    "text_description": "$7+3+1=11$(개)"
+                }
+            ]
+        }
+    ]
+}

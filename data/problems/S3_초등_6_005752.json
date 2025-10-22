@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8aef0624-4060-4c4b-8552-11ec74ca6450",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005752",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.42,
+                            2.39,
+                            536.82,
+                            74.39
+                        ]
+                    ],
+                    "text_description": "학생 40명이 좋아하는 과목을 조사하여 나타낸 원그래프입니다. 체육을 좋아하는 학생이 음악을 좋아하는 학생의 2배일 때, 수학을 좋아하는 학생은 몇 명인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.02,
+                            262.02,
+                            281.62,
+                            290.02
+                        ]
+                    ],
+                    "text_description": "수학을 좋아하는 학생은 몇 명인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.62,
+                            90.82,
+                            144.02,
+                            252.42
+                        ]
+                    ],
+                    "text_description": "이 이미지는 학생들이 좋아하는 과목별 수치를 나타내는 원형 그래프입니다. 과목별 비율은 다음과 같습니다: - 국어: 25% - 체육: 20% - 과학: 15% - 음악: 나머지 비율 (40%) 그래프의 제목은 \"좋아하는 과목별 학생 수\"입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            528.02,
+                            295.62,
+                            573.62,
+                            322.82
+                        ]
+                    ],
+                    "text_description": "12명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.82,
+                            294.02,
+                            133.62,
+                            330.02
+                        ]
+                    ],
+                    "text_description": "$40 \\times \\frac{30}{100}=12$ (명)"
+                }
+            ]
+        }
+    ]
+}

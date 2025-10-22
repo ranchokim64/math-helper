@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a53eeea5-26b6-4350-9f65-5c6bdd9b9a47",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011274",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            9.42,
+                            602,
+                            34.42
+                        ]
+                    ],
+                    "text_description": "둘레가 가장 긴 도형은 어느 것일까요? (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            295,
+                            42.42,
+                            455,
+                            166.42
+                        ]
+                    ],
+                    "text_description": "② 반지름이 8cm인 원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            360,
+                            611,
+                            452
+                        ]
+                    ],
+                    "text_description": "① $8 \\times 4=32(\\mathrm{~cm})$ ② $16 \\times 3=48(\\mathrm{~cm})$ ③ $8 \\times 3=24(\\mathrm{~cm})$ ④ $8 \\times 4=32(\\mathrm{~cm})$ ⑤ $15 \\times 3=45(\\mathrm{~cm})$ 따라서 둘레가 가장 긴 도형은 ②입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            568,
+                            40,
+                            737,
+                            163
+                        ]
+                    ],
+                    "text_description": "③한변이 8cm 정삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            42,
+                            187,
+                            165
+                        ]
+                    ],
+                    "text_description": "① 한 변이 8cm인 정사각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            174,
+                            458,
+                            305
+                        ]
+                    ],
+                    "text_description": "④한변이 8cm인 마름모 ⑤ 지름이 15cm인 원"
+                }
+            ]
+        }
+    ]
+}

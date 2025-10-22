@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4abebb33-56d1-4291-b5e0-b35b54f748a3",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002904",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            11.4,
+                            566.5,
+                            108.4
+                        ]
+                    ],
+                    "text_description": "시우가 산 과자의 영양 정보를 살펴보니 과자 한 봉지는 130g이고 그중 0. 41만큼이 지방 성분입니다. 이 과자에 들어 있는 지방 성분은 몇 g일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            603.5,
+                            8.4,
+                            712.5,
+                            155.4
+                        ]
+                    ],
+                    "text_description": "과자를 먹는 시우 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.5,
+                            242.4,
+                            210.5,
+                            275.4
+                        ]
+                    ],
+                    "text_description": "$53. 3 \\mathrm{~g}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            164.4,
+                            584.5,
+                            221.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 과자에 들어 있는 지방 성분의 무게 }) & =(\\text { 과자 한 봉지의 무게 }) \\times 0. 41 \\\\ & =130 \\times 0. 41=53. 3(\\mathrm{~g})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

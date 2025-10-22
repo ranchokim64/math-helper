@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aa59da28-9012-4f8b-a187-b524f73f44be",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005064",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100,
+                            26.42,
+                            464,
+                            73.42
+                        ]
+                    ],
+                    "text_description": "보기와 같이 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.0,
+                            130.0,
+                            614.0,
+                            208.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{12} \\div \\frac{5}{12}=8 \\div 5=\\frac{8}{5}=1 \\frac{3}{5}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.0,
+                            245.0,
+                            173.0,
+                            329.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3} \\div \\frac{5}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            419,
+                            617,
+                            475
+                        ]
+                    ],
+                    "text_description": "분모가 다른 (분수) $\\div$ (분수)의 계산을 할 때에는 통분하여 분자끼리 나눕니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.0,
+                            339.0,
+                            348.0,
+                            410.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{12} \\div \\frac{5}{12}=8 \\div 5=\\frac{8}{5}=1 \\frac{3}{5}$"
+                }
+            ]
+        }
+    ]
+}

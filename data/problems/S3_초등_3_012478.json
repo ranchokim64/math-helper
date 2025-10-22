@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "691b75f3-32e9-48f4-acab-db8fe5f348be",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012478",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-07] 실생활 문제 상황을 통하여 들이의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-19] 실생활 문제 상황과 연결하여 들이의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            6.9399999999999995,
+                            417.2,
+                            134.54
+                        ]
+                    ],
+                    "text_description": "빨강 페인트 2L 500mL와 노랑 페인 트 4300mL를 섞었더니 주황 페인트가 되 었습니다. 주황 페인트의 양은 몇 L 몇 mL 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            270,
+                            148.94,
+                            367.6,
+                            173.74
+                        ]
+                    ],
+                    "text_description": "6L 800mL"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.2,
+                            181.4,
+                            341.2,
+                            221.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 2 \\mathrm{~L} 500 \\mathrm{~mL}+4300 \\mathrm{~mL} & =2500 \\mathrm{~mL}+4300 \\mathrm{~mL} \\\\ & =6800 \\mathrm{~mL}=6 \\mathrm{~L} 800 \\mathrm{~mL}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

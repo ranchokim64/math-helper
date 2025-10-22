@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cf967fdb-b135-49ff-8af6-7cd6d239d71a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007900",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.8,
+                            7.54,
+                            496.6,
+                            33.94
+                        ]
+                    ],
+                    "text_description": "정다각형이면 $\\bigcirc$ 표, 아니면 $\\times$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            382.6,
+                            42.94,
+                            504.6,
+                            164.34
+                        ]
+                    ],
+                    "text_description": "정사각형이 마름모 모양처럼 누워 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.4,
+                            224,
+                            80.6,
+                            246.4
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.2,
+                            264,
+                            555,
+                            280.8
+                        ]
+                    ],
+                    "text_description": "변의 길이가 모두 같고, 각의 크기가 모두 같은 다각형이므로 정다각형입니다."
+                }
+            ]
+        }
+    ]
+}

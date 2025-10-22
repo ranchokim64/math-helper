@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2ab61170-eb08-4a07-a7d5-1c7eef5379b2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004550",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.06,
+                            3.5,
+                            121.44,
+                            41.83
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{4}{5}-2 \\frac{7}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            91.9,
+                            40.5,
+                            134.9
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{1}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            48.9,
+                            288.5,
+                            90.9
+                        ]
+                    ],
+                    "text_description": "$=\\frac{19}{5}-\\frac{27}{10}=\\frac{38}{10}-\\frac{27}{10}=\\frac{11}{10}=1 \\frac{1}{10}$"
+                }
+            ]
+        }
+    ]
+}

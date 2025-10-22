@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a5181aa6-e9f6-417d-a5e0-ad57f2eab591",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009015",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.78,
+                            2.7300000000000004,
+                            300.17,
+                            30.240000000000002
+                        ]
+                    ],
+                    "text_description": "반직선을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133.7,
+                            78.72,
+                            284.06,
+                            95.4
+                        ]
+                    ],
+                    "text_description": "선분"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            360.3,
+                            53.52,
+                            510.06,
+                            120.28
+                        ]
+                    ],
+                    "text_description": "반직선"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            608,
+                            34,
+                            719,
+                            140
+                        ]
+                    ],
+                    "text_description": "굽은 직선"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            145,
+                            170,
+                            196
+                        ]
+                    ],
+                    "text_description": "반직선"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.16,
+                            204.87,
+                            710.55,
+                            231.01
+                        ]
+                    ],
+                    "text_description": "반직선은 한 점에서 시작하여 한쪽으로 끝없이 늘인 곧은 선입니다."
+                }
+            ]
+        }
+    ]
+}

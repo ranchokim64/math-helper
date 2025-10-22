@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eca184d8-6a7a-421c-b2cd-f558fa516eb3",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002987",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.7,
+                            10.65,
+                            520.7,
+                            37.53
+                        ]
+                    ],
+                    "text_description": "두 분수의 크기를 비교하여 $\\bigcirc$ 안에 >, =, <를 알맞게 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.34,
+                            71.25,
+                            191.9,
+                            113.53
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{8}{15} \\bigcirc 2 \\frac{11}{20}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.98,
+                            228.26,
+                            208.22,
+                            281.62
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{8}{15}<2 \\frac{11}{20}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.38,
+                            141.46,
+                            432.38,
+                            194.7
+                        ]
+                    ],
+                    "text_description": "$\\left(2 \\frac{8}{15}, 2 \\frac{11}{20}\\right) \\Rightarrow\\left(2 \\frac{32}{60}, 2 \\frac{33}{60}\\right) \\Rightarrow 2 \\frac{8}{15}<2 \\frac{11}{20}$"
+                }
+            ]
+        }
+    ]
+}

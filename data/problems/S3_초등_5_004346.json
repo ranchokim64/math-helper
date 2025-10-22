@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "14118015-1eb5-42fb-a543-cedbcc0198ce",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004346",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.93,
+                            2.67,
+                            367.93,
+                            48.11
+                        ]
+                    ],
+                    "text_description": "휘발유 1L로 12km 갈 수 있는 자동차가 있습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.93,
+                            61.25,
+                            367.29,
+                            105.41
+                        ]
+                    ],
+                    "text_description": "휘발유 양과 갈 수 있는 거리 사이의 대응 관계를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.49,
+                            116.93,
+                            347.45,
+                            139.33
+                        ]
+                    ],
+                    "text_description": "(예) 갈 수 있는 거리는 휘발유 양의 12배입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.65,
+                            145.73,
+                            179.77,
+                            161.73
+                        ]
+                    ],
+                    "text_description": "표를 만들어 생각합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.29,
+                            165.57,
+                            364.09,
+                            212.29
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|c|c|c|c|c|} \\hline 휘발유 양(L) & I & 2 & 3 & 4 & 5 & $\\cdots \\cdots$ \\\\ \\hline 갈 수 있는 거리(km) & 12 & 24 & 36 & 48 & 60 & $\\cdots \\cdots. $. \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        }
+    ]
+}

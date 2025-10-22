@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "40ee826f-b83c-4ed2-a2ca-a0d4992d58ea",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005592",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.56,
+                            12.6,
+                            356.33,
+                            38.95
+                        ]
+                    ],
+                    "text_description": "육각뿔에서 다음 식의 결과는 얼마인가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.98,
+                            67.55,
+                            369.74,
+                            93.15
+                        ]
+                    ],
+                    "text_description": "(면의 수)+(꼭짓점의 수)-(모서리의 수)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            311.98,
+                            125.15,
+                            333.6,
+                            151.51
+                        ]
+                    ],
+                    "text_description": "$2$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.83,
+                            162.26,
+                            428.58,
+                            182.24
+                        ]
+                    ],
+                    "text_description": "육각뿔에서 면의 수는 7개, 꼭짓점의 수는 7개, 모서리의 수는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.17,
+                            183.26,
+                            104.53,
+                            202.2
+                        ]
+                    ],
+                    "text_description": "12개이므로"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.55,
+                            183.77,
+                            246.86,
+                            202.2
+                        ]
+                    ],
+                    "text_description": "$7+7-12=2$입니다."
+                }
+            ]
+        }
+    ]
+}

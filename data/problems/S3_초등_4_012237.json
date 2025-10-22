@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4a644416-50d6-4b8b-97df-0440de6d00d8",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012237",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.32,
+                            19.78,
+                            549.36,
+                            51.2
+                        ]
+                    ],
+                    "text_description": "브기가 가장 큰 각은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            410.02,
+                            124.15,
+                            590.81,
+                            211.8
+                        ]
+                    ],
+                    "text_description": "③ 각이 제일 크게 벌어져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.49,
+                            324.18,
+                            584.66,
+                            374.91
+                        ]
+                    ],
+                    "text_description": "투명 종이로 한 각의 본을 뜬 다음 본 뜬 각을 다른 각에 겹쳐 봅니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.28,
+                            123.47,
+                            211.93,
+                            213.63
+                        ]
+                    ],
+                    "text_description": "① 예각"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            232.92,
+                            123.45,
+                            376.79,
+                            213.12
+                        ]
+                    ],
+                    "text_description": "② 직각"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.84,
+                            226.38,
+                            406.49,
+                            307.84
+                        ]
+                    ],
+                    "text_description": "④ 예각 ⑤ 예각"
+                }
+            ]
+        }
+    ]
+}

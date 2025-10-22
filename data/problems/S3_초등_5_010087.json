@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c95b77ca-8c47-42f9-ab66-c0bc66c33502",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010087",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.75,
+                            4.44,
+                            570,
+                            29.19
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111.4,
+                            45.1,
+                            574.78,
+                            76.77
+                        ]
+                    ],
+                    "text_description": "계산기로 ' $5 \\times 2=2=$ '을 눌렀을 때 10이 나올 가능성"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            178.76,
+                            94.87,
+                            512.29,
+                            247.82
+                        ]
+                    ],
+                    "text_description": "선 그래프가 있고 좌측에 $0$, 중앙 $\\frac{1}{2}$, 우측 $1$이다. 화살표는 $1$을 가리키고 있다. 선 그래프가 있고 좌측에 $0$, 중앙 $\\frac{1}{2}$, 우측 $1$이다. 화살표는 $\\frac{1}{2}$을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            255.25,
+                            369.96,
+                            328.28
+                        ]
+                    ],
+                    "text_description": "선 그래프가 있고 좌측에 $0$, 중앙 $\\frac{1}{2}$, 우측 $1$이다. 화살표는 $1$을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            334.87,
+                            660,
+                            355.12
+                        ]
+                    ],
+                    "text_description": "$5 \\times 2=10$ 이므로 10이 나올 가능성은 '학실하다'이고, 이들 수로 표현하면 1 입니다."
+                }
+            ]
+        }
+    ]
+}

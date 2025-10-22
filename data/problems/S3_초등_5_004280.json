@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "672fbd89-4084-4dc6-b73c-9a490a7f4440",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004280",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.5,
+                            16.92,
+                            644.5,
+                            98.92
+                        ]
+                    ],
+                    "text_description": "18을 다음과 같이 나타낼 때, () 안에 공통으로 들어갈 수를 모두 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            139.77,
+                            188.28,
+                            576.77,
+                            265.28
+                        ]
+                    ],
+                    "text_description": "- 18은 ()의 배수입니다. - ()은/는 18의 약수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            246.77,
+                            115.28,
+                            467.77,
+                            169.28
+                        ]
+                    ],
+                    "text_description": "$18=2 \\times 3 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.5,
+                            416.5,
+                            344.5,
+                            452.5
+                        ]
+                    ],
+                    "text_description": "1, 2, 3, 6, 9, 18"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            299.5,
+                            454.5,
+                            390.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}18 \\text { 은 } 1, 2, 3, 2 \\times 3, 3 \\times 3, 2 \\times 3 \\times 3 \\text { 의 배수입니다. } \\\\ 1, 2, 3, 2 \\times 3, 3 \\times 3, 2 \\times 3 \\times 3 \\text { 은 } \\\\ 18 \\text { 의 약수입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

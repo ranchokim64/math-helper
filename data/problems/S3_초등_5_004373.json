@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b7cdc889-15ec-4644-9801-855b32c0f42d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004373",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.7,
+                            14.13,
+                            357.1,
+                            57.33
+                        ]
+                    ],
+                    "text_description": "분모의 최소공배수를 구하고, 분모의 최소공배수를 공통분모로 하여 통분해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.9,
+                            65.93,
+                            297.5,
+                            122.93
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{20} \\quad \\frac{3}{16}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97.1,
+                            134,
+                            356.9,
+                            198
+                        ]
+                    ],
+                    "text_description": "㉠ 최소공배수: ($(80$) ㉡ 통분: $\\left(\\frac{28}{80}, \\frac{15}{80}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162.79,
+                            232.51,
+                            310.66,
+                            250.12
+                        ]
+                    ],
+                    "text_description": "최소공배수: $2 \\times 2 \\times 5 \\times 4=80$"
+                }
+            ]
+        }
+    ]
+}

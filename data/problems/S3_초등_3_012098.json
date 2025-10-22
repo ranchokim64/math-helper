@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1d380e09-a1bc-448b-a170-d7ee9bae0b8f",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012098",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.439999999999998,
+                            10.73,
+                            535.12,
+                            87.55
+                        ]
+                    ],
+                    "text_description": "삼각형 안에 있는 수들의 합을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.44,
+                            117.25,
+                            535.12,
+                            367.1
+                        ]
+                    ],
+                    "text_description": "사다리꼴 234, 원 305, 직각삼각형 425, 삼각형 162, 직사각형 321, 원 621"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            396.88,
+                            396.29,
+                            444.5,
+                            422.4
+                        ]
+                    ],
+                    "text_description": "$587$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.02,
+                            434.69,
+                            182.35,
+                            455.68
+                        ]
+                    ],
+                    "text_description": "$425+162=587$"
+                }
+            ]
+        }
+    ]
+}

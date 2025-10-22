@@ -1,0 +1,138 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eeb603f0-d3a3-4f09-9d8d-1176c355e561",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009841",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.6,
+                            1.64,
+                            635.8,
+                            24.84
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 3보다 큰 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            310.6,
+                            102.5,
+                            432.8,
+                            127.5
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.79,
+                            145.19,
+                            411.06,
+                            166.18
+                        ]
+                    ],
+                    "text_description": "㉠ $0. 48 \\times 6$은 $0. 5$와 $6$의 곱인 $3$보다 작습니다 $. $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.66,
+                            173.84,
+                            380.34,
+                            245.03
+                        ]
+                    ],
+                    "text_description": "㉡ $0. 61 \\times 5$는 $0. 6$과 $5$의 곱인 $3$보다 큽니다. ㉢ $0. 97 \\times 3$은 $1$과 $3$의 곱인 $3$보다 작습니다. 따라서 계산 결과가 $3$보다 큰 것은 ㉡입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216.0,
+                            47.0,
+                            296.0,
+                            72.0
+                        ]
+                    ],
+                    "text_description": "0. 48 \\times 6$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            474.0,
+                            48.0,
+                            552.0,
+                            72.0
+                        ]
+                    ],
+                    "text_description": "$0. 97 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            345.0,
+                            49.0,
+                            426.0,
+                            70.0
+                        ]
+                    ],
+                    "text_description": "$0. 61 \\times 5$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eb22bf04-f8d9-448d-b1b6-422221e88153",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010796",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.72,
+                            8.440000000000001,
+                            595.6,
+                            62.4
+                        ]
+                    ],
+                    "text_description": "$\\frac{27}{54}$을 약분한 분수가 아닌 것을 찾아 선택하세요"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            243.8,
+                            92.62,
+                            647.4,
+                            149.82
+                        ]
+                    ],
+                    "text_description": "$\\frac{9}{18} \\quad \\frac{1}{2} \\quad \\frac{4}{9} \\quad \\frac{3}{6}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46,
+                            189.22,
+                            69.2,
+                            237.22
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.8,
+                            258.02,
+                            621.2,
+                            306.82
+                        ]
+                    ],
+                    "text_description": "$\\frac{27}{54}=\\frac{27 \\div 3}{54 \\div 3}=\\frac{9}{18}, \\frac{27}{54}=\\frac{27 \\div 27}{54 \\div 27}=\\frac{1}{2}, \\frac{27}{54}=\\frac{27 \\div 9}{54 \\div 9}=\\frac{3}{6}$"
+                }
+            ]
+        }
+    ]
+}

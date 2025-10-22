@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c59ebf47-aa45-4fbb-a912-57829eeae5e6",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011840",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.06,
+                            24.27,
+                            490.86,
+                            217.07
+                        ]
+                    ],
+                    "text_description": "서울에서 대구까지 가는 데 $2 \\frac{3}{6}$ 시간이 걸렸 고, 대구에서 부산까지 가는 데 $\\frac{8}{6}$ 시간이 걸렸습니다. 서울에서 대구를 거쳐 부산까지 가는 데 걸린 시간은 모두 몇 시간일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            357.26,
+                            228.07,
+                            429.26,
+                            272.27
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{5}{6}$ 시간"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.86,
+                            273.55,
+                            310.06,
+                            355.35
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\frac{8}{6}=1 \\frac{2}{6} \\\\ 2 \\frac{3}{6}+1 \\frac{2}{6}=3+\\frac{5}{6}=3 \\frac{5}{6} \\text { (시간) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

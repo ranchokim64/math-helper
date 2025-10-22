@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9e43aedd-8c65-4b92-aaee-87403c174aa3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011624",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.74,
+                            14.61,
+                            216.45,
+                            37.22
+                        ]
+                    ],
+                    "text_description": "다음을 계산하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.13,
+                            56.11,
+                            125.69,
+                            106.89
+                        ]
+                    ],
+                    "text_description": "$4 \\frac{6}{7}-1 \\frac{3}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.52,
+                            162.24,
+                            113.16,
+                            200.28
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{3}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.9299999999999997,
+                            116.6,
+                            207.87,
+                            149.24
+                        ]
+                    ],
+                    "text_description": "$(4-1)+\\left(\\frac{6}{7}-\\frac{3}{7}\\right)=3+\\frac{3}{7}=3 \\frac{3}{7}$"
+                }
+            ]
+        }
+    ]
+}

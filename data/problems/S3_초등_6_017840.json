@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2a485112-8931-439b-8238-6ee172a95cca",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017840",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.36,
+                            4.1,
+                            438.71,
+                            38.91
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{8}: \\frac{5}{12}$을 간단한 자연수의 비로 나타내세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.82,
+                            58.86,
+                            86.97,
+                            80.38
+                        ]
+                    ],
+                    "text_description": "① $9:10$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.85,
+                            96.77,
+                            98.74,
+                            232.45
+                        ]
+                    ],
+                    "text_description": "② $12:15$ ③ $15:20$ ④ $5:4$ ⑤ $4:5$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.51,
+                            253.44,
+                            623.54,
+                            275.46
+                        ]
+                    ],
+                    "text_description": "두 분수를 비율로 나타내기 위해 나누기를 곱셈으로 변환합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.51,
+                            374.27,
+                            576.44,
+                            448.51
+                        ]
+                    ],
+                    "text_description": "$\\frac{36}{40}$은 $36:40$으로 나타낼 수 있습니다. $36:40$을 더 간단하게 표현하려면, 최대공약수 $4$로 나눕니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            278.97,
+                            302.59,
+                            646.07,
+                            359.42
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{8}: \\frac{5}{12}=\\frac{3}{8} \\times \\frac{12}{5}=\\frac{3 \\times 12}{8 \\times 5}=\\frac{36}{40}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            373.18,
+                            475.09,
+                            554.42,
+                            532.48
+                        ]
+                    ],
+                    "text_description": "$\\frac{36}{4}: \\frac{40}{4}=9: 10$"
+                }
+            ]
+        }
+    ]
+}

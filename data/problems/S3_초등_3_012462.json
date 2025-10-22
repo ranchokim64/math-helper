@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "08f3944e-41e7-40ad-84be-e4f045282817",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012462",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그려서 다양한 모양을 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            21.91,
+                            423,
+                            78.91
+                        ]
+                    ],
+                    "text_description": "컴퍼스를 다음과 같이 벌려서 원을 그렸습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            234.5,
+                            312,
+                            259.5
+                        ]
+                    ],
+                    "text_description": "원의 반지름은 몇 cm일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138,
+                            93.91,
+                            337,
+                            212.91
+                        ]
+                    ],
+                    "text_description": "컴퍼스에 연필을 연결한 이미지와 그 길이(4cm)를 자로 표시하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            320,
+                            277.5,
+                            359,
+                            296.5
+                        ]
+                    ],
+                    "text_description": "4cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71,
+                            306.5,
+                            390,
+                            323.5
+                        ]
+                    ],
+                    "text_description": "컴퍼스를 벌린 길이가 원의 반지름이므로 4cm입니다."
+                }
+            ]
+        }
+    ]
+}

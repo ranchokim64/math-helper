@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "15aacfdb-bf7f-4e6a-b071-7acd0f295512",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008893",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.3,
+                            6,
+                            933.3,
+                            118
+                        ]
+                    ],
+                    "text_description": "영희네 학교 학생들이 지구 온난화를 막기 위해 각자 실천하고 있는 활동을 조사하여 그림그래프로 나타내었습니다. 가장 많은 학생이하고 있는 활동을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            202.3,
+                            127,
+                            762.3,
+                            480
+                        ]
+                    ],
+                    "text_description": "실천하고 있는 활동별 학생 수를 조사하여 나타낸 그림그래프이다. 활동은 $4$개의 군으로 설정되어 있고, 학생 수는 사람 얼굴 스티커를 통해 표시된다. 큰 사람 얼굴 스티커는 $10$명, 작은 사람 얼굴 스티커는 $1$명을 나타내며, 전기 절약하기는 $31$명, 나무심기는 $24$명, 쓰레기 줄이기는 $22$명, 물 아껴 쓰기는 $33$명의 데이터를 보여준다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            480.3,
+                            535.8,
+                            658.3,
+                            566.8
+                        ]
+                    ],
+                    "text_description": "④ 물 아껴 쓰기"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.3,
+                            490.8,
+                            227.3,
+                            568.8
+                        ]
+                    ],
+                    "text_description": "① 전기 절약하기 ③ 쓰레기 줄이기"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            478.3,
+                            490.8,
+                            621.3,
+                            523.8
+                        ]
+                    ],
+                    "text_description": "② 나무 심기"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.3,
+                            626.8,
+                            673.3,
+                            729.8
+                        ]
+                    ],
+                    "text_description": "전기 절약하기: $31$명, 나무 심기: $24$명, 쓰레기 줄이기: $22$명, 물 아껴 쓰기: $33$명 $\\Rightarrow$ 가장 많은 학생이하고 있는 활동은 물 아껴 쓰기입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c97b1749-b566-4cec-a44c-b0fc15b3a142",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003082",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            15.34,
+                            766.6,
+                            78.54
+                        ]
+                    ],
+                    "text_description": "반지름이 8cm 인 원을 한없이 잘라서 이어 붙여 직사각형을 만들었습니다. 이 직사각형의 가로는 몇 cm인지 구해 보세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.2,
+                            102.2,
+                            750.6,
+                            233.4
+                        ]
+                    ],
+                    "text_description": "반지름이 8cm인 원을 한없이 잘라서 붙인 그림입니다. 자세히는이 이미지는 원의 일부와 그것을 변형하여 생성된 도형을 보여줍니다. 왼쪽에는 반지름이 8cm인 원이 있으며, 그 다음에는 원을 잘라내어 만든 물결 모양의 형태가 있고, 마지막으로 그 형태를 직사각형으로 변형한 것이 나와 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            464,
+                            254.5,
+                            724,
+                            287.5
+                        ]
+                    ],
+                    "text_description": "$(24)\\quad \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.73,
+                            254.6,
+                            366.33,
+                            301.8
+                        ]
+                    ],
+                    "text_description": "직사각형의 가로는 원주의 $\\frac{1}{2}$ 이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.13,
+                            305,
+                            534.33,
+                            357.8
+                        ]
+                    ],
+                    "text_description": "$($ 지름 $) \\times($ 원주율 $) \\times \\frac{1}{2}=16 \\times 3 \\times \\frac{1}{2}=24(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

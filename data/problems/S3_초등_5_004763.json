@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "72d3c3df-bc42-4e6f-a8d5-176886f5358a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004763",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.49,
+                            9.97,
+                            441.96,
+                            44.43
+                        ]
+                    ],
+                    "text_description": "곱이 작은 것부터 차례로 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.97,
+                            51.81,
+                            487.9,
+                            159.27
+                        ]
+                    ],
+                    "text_description": "㉠ $376 \\times 0. 1$ ㉡ $0. 376 \\times 10$ ㉢ $376 \\times 0. 001$ ㉣ $0. 376 \\times 1000$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.57,
+                            178.14,
+                            469.85,
+                            206.03
+                        ]
+                    ],
+                    "text_description": "㉢, ㉡, ㉠, ㉣"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.35,
+                            211.47,
+                            377.97,
+                            269.71
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text { ㉠ } 37. 6 \\text { ㉡ } 3. 76 \\text { ㉢ } 0. 376 \\text { ㉣ } 376 \\end{array} \\] ->㉢>㉡>㉠>㉣"
+                }
+            ]
+        }
+    ]
+}

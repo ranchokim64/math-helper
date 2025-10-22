@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b982a53a-9196-411f-a2f3-09d954a13a19",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004418",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-04] 넓이를 나타내는 표준 단위의 필요성을 인식하여 1cm², 1m², 1km²의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-12] 넓이 단위 1cm², 1m², 1km²를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.95,
+                            10.99,
+                            275.07,
+                            34.67
+                        ]
+                    ],
+                    "text_description": "두 도형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.47,
+                            43.77,
+                            389.71,
+                            148.93
+                        ]
+                    ],
+                    "text_description": "한 칸의 넓이가 $1 \\mathrm{~cm}^{2}$인 모눈종이에 가와 나 두 도형이 있다. 가: 4x3인 직사각형 도형에서 둘 째 줄 2, 3번째 칸이 빠진 도형이다. 나: 4x3인 직사각형 도형에서 둘 째 줄 1, 4번째 칸이 빠진 도형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            202.75,
+                            161.53,
+                            430.59,
+                            219.97
+                        ]
+                    ],
+                    "text_description": "가: ($10 \\mathrm{~cm}^{2}$) 나: ($10 \\mathrm{~cm}^{2}$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.51,
+                            228.29,
+                            429.95,
+                            266.69
+                        ]
+                    ],
+                    "text_description": "모눈종이 한 칸의 넓이가 $1 \\mathrm{~cm}^{2}$이고 가와 나는 모눈종이 10칸이므로 넓이는 $10 \\mathrm{~cm}^{2}$입니다."
+                }
+            ]
+        }
+    ]
+}

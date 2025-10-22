@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "88deeb1a-ccc5-4f10-9ff0-03cf181b6590",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005491",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.7,
+                            118.82,
+                            543.5,
+                            228.42
+                        ]
+                    ],
+                    "text_description": "아버지께서 지윤이와 승수에게 용돈을 56000원 주셨습니다. 지윤이와 승수가 $3: 4$로 나누면 각각 얼마씩 가지게 되나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            233.9,
+                            243.62,
+                            542.7,
+                            314.82
+                        ]
+                    ],
+                    "text_description": "지윤: (24000원) 승수: (32000원)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.7,
+                            4.220000000000001,
+                            489.5,
+                            118.82
+                        ]
+                    ],
+                    "text_description": "지윤: $56000 \\times \\frac{3}{3+4}=56000 \\times \\frac{3}{7}=24000$(원) 승수: $56000 \\times \\frac{4}{3+4}=56000 \\times \\frac{4}{7}=32000$(원)"
+                }
+            ]
+        }
+    ]
+}

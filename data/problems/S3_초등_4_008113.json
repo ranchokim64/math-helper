@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "770df1d9-f1ee-4fb6-bfe3-ce3e59a05ee0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008113",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.23,
+                            6.71,
+                            553.38,
+                            37.33
+                        ]
+                    ],
+                    "text_description": "몫이 두 자리 수인 나눗셈을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.02,
+                            65.87,
+                            366.11,
+                            92.55
+                        ]
+                    ],
+                    "text_description": "$275 \\div 25$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            596.4,
+                            66.63,
+                            701.05,
+                            94.09
+                        ]
+                    ],
+                    "text_description": "$495 \\div 54$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.9,
+                            129.4,
+                            148.98,
+                            152.14
+                        ]
+                    ],
+                    "text_description": "$275 \\div 25$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.46,
+                            173.55,
+                            379.08,
+                            201.51
+                        ]
+                    ],
+                    "text_description": "$25 \\times 10=250 \\Rightarrow 275>250 (\\bigcirc)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.05,
+                            209.49,
+                            348.02,
+                            235.35
+                        ]
+                    ],
+                    "text_description": "$54 \\times 10=540 \\Rightarrow 495<540(\\times)$"
+                }
+            ]
+        }
+    ]
+}

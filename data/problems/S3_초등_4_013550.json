@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cf8b5b26-eafd-45d6-9044-76d977ceaad3",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-05-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_013550",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.5,
+                            8.42,
+                            773.5,
+                            101.42
+                        ]
+                    ],
+                    "text_description": "사각형 ㄱㄷㄷㅇ에서 어느 부분을 잘라 내면 사다리 꼴이 되나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.5,
+                            118.42,
+                            390.5,
+                            392.42
+                        ]
+                    ],
+                    "text_description": "모눈종이 위에 사각형 ㄱㄴㄷㄹ가 있다. 그리고 변ㄱㄴ에 ㅁ점, ㅂ점이 있고, 변 ㄴㄷ에 점 ㅅ이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            426.5,
+                            220,
+                            656.5,
+                            258
+                        ]
+                    ],
+                    "text_description": "③ 삼각형 ㄱㄴㅅ"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            429.5,
+                            123,
+                            653.5,
+                            207
+                        ]
+                    ],
+                    "text_description": "① 삼각형 ㄱㄴㄷ ② 삼각형 ㄱㄷㄹ"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            426.5,
+                            268,
+                            652.5,
+                            353
+                        ]
+                    ],
+                    "text_description": "④ 삼각형 ㄹㅅㄷ ⑤ 삼각형 ㅂㄴㅅ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            422,
+                            584.5,
+                            489
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㅅ을 잘라내면 변 ㄹㄷ과 변 ㄱㅅ이 평행 하므로 사다리꼴이 됩니다."
+                }
+            ]
+        }
+    ]
+}

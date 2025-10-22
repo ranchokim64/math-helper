@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1aebd1f5-0583-48c8-9a37-b9a8229aac0b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009806",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.67,
+                            4.87,
+                            561.52,
+                            26.7
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 2보다 큰 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.84,
+                            124.2,
+                            387.77,
+                            174.29
+                        ]
+                    ],
+                    "text_description": "㉠ $0. 8 \\times 2$는 1과 2의 곱인 2보다 작습니다. ㉡ $0. 53 \\times 4$는 0. 5와 4의 곱인 2보다 큽니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            454.0,
+                            44.0,
+                            534.0,
+                            68.0
+                        ]
+                    ],
+                    "text_description": "$0.53 \\times 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            242.0,
+                            48.0,
+                            313.0,
+                            70.0
+                        ]
+                    ],
+                    "text_description": "$0.8 \\times 2$"
+                }
+            ]
+        }
+    ]
+}

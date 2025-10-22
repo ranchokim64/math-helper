@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e8184d99-fa30-4c18-8530-9077985ddcde",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010600",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            6.42,
+                            467.5,
+                            26.42
+                        ]
+                    ],
+                    "text_description": "계산 순서를 바르게 나타낸 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            177.5,
+                            33.42,
+                            371.5,
+                            196.42
+                        ]
+                    ],
+                    "text_description": "(10-4)x2+31 ① ② ③"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            387.5,
+                            34,
+                            581.5,
+                            197
+                        ]
+                    ],
+                    "text_description": "(10-4)x2+31 ① ② ③"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            205,
+                            179.5,
+                            310
+                        ]
+                    ],
+                    "text_description": "$\\underbrace{(10-4) \\times 2+31}_{\\underbrace{(2)}_{(3)}}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.82,
+                            322.92,
+                            729.82,
+                            369.72
+                        ]
+                    ],
+                    "text_description": "덧셈, 뺄셈, 곱셈이 섞여 있고 ()가 있는 식에서는 () 안을 먼저 계산해야 하므로 10에서 4를 뺀 값과 2를 곱한 후 31을 더합니다."
+                }
+            ]
+        }
+    ]
+}

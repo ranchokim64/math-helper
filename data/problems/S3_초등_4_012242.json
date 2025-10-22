@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "434d3f05-095c-4443-a691-4c82739eb644",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012242",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            15.41,
+                            468,
+                            55.41
+                        ]
+                    ],
+                    "text_description": "두 각도의 합과 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100,
+                            72.41,
+                            552,
+                            217.41
+                        ]
+                    ],
+                    "text_description": "80도인 각도그림과, 35도인 각도그림이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315,
+                            229,
+                            598,
+                            322
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lll}\\text { 합 }(& 115^{\\circ} &) \\\\ \\text { 차 }(& 45^{\\circ} & \\text {) }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90,
+                            328,
+                            440,
+                            359
+                        ]
+                    ],
+                    "text_description": "합 : $80^{\\circ}+35^{\\circ}=115^{\\circ}$, 차 : $80^{\\circ}-35^{\\circ}=45^{\\circ}$"
+                }
+            ]
+        }
+    ]
+}

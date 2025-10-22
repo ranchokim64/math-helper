@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a7ba9510-6159-46b5-9619-5e5f3f8cf300",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008054",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            4.42,
+                            935.5,
+                            71.42
+                        ]
+                    ],
+                    "text_description": "각도를 잘못 읽은 사람을 찾아 이유를 설명한 것입니다. 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            307,
+                            907.5,
+                            457
+                        ]
+                    ],
+                    "text_description": "② (호영, 재석)이는 각의 한 변이 (안쪽, 바깥쪽) 눈금 0에 맞춰져 있으므로 (안쪽, 바깥쪽) 눈금을 읽어야 하는데（안쪽, 바깥쪽）눈금을 잘못 읽었습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162.5,
+                            82.42,
+                            813.5,
+                            295.42
+                        ]
+                    ],
+                    "text_description": "180도를 측정할 수 있는 각도기 두 개가 있습니다. 왼쪽은 55도를 가리키는 선분이 있고, 오른쪽은 120도를 가리키는 선분이 있습니다. 왼쪽 아래에는 호영: $55^\\circ$, 오른쪽 아래에는 재석: $60^\\circ$라 적혀있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            550,
+                            296.5,
+                            580
+                        ]
+                    ],
+                    "text_description": "② 재석, 안쪽, 안쪽, 바깥쪽"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            465,
+                            925.5,
+                            527
+                        ]
+                    ],
+                    "text_description": "각의 한 변이 안쪽 눈금 0에 맞춰져 있으면 각의 나머지 변과 만나는 안쪽 눈금을 읽어야 합니다. 따라서 재석이는 $60^{\\circ}$가 아닌 $120^{\\circ}$로 읽어야 합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "913d41e7-c5d5-45e1-9a38-86c9b67ae970",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009764",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.77,
+                            2.99,
+                            682.07,
+                            54.14
+                        ]
+                    ],
+                    "text_description": "다음 도형은 선대칭도형입니다. 대칭축이 가장 많은 도형을 찾아 선택해 보 세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            320.0,
+                            81.0,
+                            393.0,
+                            163.0
+                        ]
+                    ],
+                    "text_description": "정6각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.69,
+                            276.45,
+                            355.88,
+                            400.23
+                        ]
+                    ],
+                    "text_description": "별 모양 도형 5개, 육각형 6개, 사다리꼴 1개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            425.0,
+                            86.0,
+                            523.0,
+                            156.0
+                        ]
+                    ],
+                    "text_description": "사다리꼴 모양의 도형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196.0,
+                            85.0,
+                            277.0,
+                            166.0
+                        ]
+                    ],
+                    "text_description": "별모양의 도형"
+                }
+            ]
+        }
+    ]
+}

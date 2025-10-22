@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "01acf5b5-ecf2-41d3-80fd-2428ccfea356",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004488",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.1,
+                            120.03,
+                            434.1,
+                            170.63
+                        ]
+                    ],
+                    "text_description": "분수와 소수의 크기를 비교하여 큰 수부터 차례대로 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.9,
+                            179.43,
+                            395.7,
+                            253.03
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{llll}\\frac{17}{20} & 1. 5 & 1 \\frac{1}{4} & 0. 98\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            158.9,
+                            254.7,
+                            408.5,
+                            299.5
+                        ]
+                    ],
+                    "text_description": "$1. 5, 1 \\frac{1}{4}, 0. 98, \\frac{17}{20}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.3,
+                            11.1,
+                            430.9,
+                            109.5
+                        ]
+                    ],
+                    "text_description": "분수를 소수로 고쳐서 크기를 비교합니다. $\\frac{17}{20}=\\frac{85}{100}=0. 85, 1 \\frac{1}{4}=1 \\frac{25}{100}=1. 25$ 이므로 큰 수부 터 차례대로 쓰면 $1. 5, 1 \\frac{1}{4}, 0. 98, \\frac{17}{20}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

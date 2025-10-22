@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6952f2a4-9b88-4b4c-918d-3539ba1e199c",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002881",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            4.75,
+                            454,
+                            52.25
+                        ]
+                    ],
+                    "text_description": "계산 결과가 $\\frac{5}{24}$보다 작은 곱셈에 모두 $\\bigcirc$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.75,
+                            73.75,
+                            745,
+                            176.5
+                        ]
+                    ],
+                    "text_description": "핑크색 테두리의 네모 박스에 다음과 같은 곱셈 식이 들어있다.$\\frac{5}{24} \\times \\frac{2}{3} \\quad \\frac{5}{24} \\times 1 \\quad \\frac{5}{24} \\times 2 \\quad \\frac{5}{24} \\times \\frac{3}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.5,
+                            213.5,
+                            227.75,
+                            281.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{24} \\times \\frac{2}{3}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            527.5,
+                            212.75,
+                            658.5,
+                            281
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{24} \\times \\frac{3}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.25,
+                            311,
+                            762.75,
+                            382.25
+                        ]
+                    ],
+                    "text_description": "어떤 수에 1보다 작은 수를 곱하면 계산 결과는 어떤 수보다 작아지므로 $\\frac{5}{24}$에 진분수를 곱한 것을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e1353aa4-3c21-41ea-9dd3-b5a5fb2dabb7",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005773",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            17.48,
+                            245.64,
+                            39.72
+                        ]
+                    ],
+                    "text_description": "직육면체의 부피는 몇 $\\mathrm{cm}^{3}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            112.12,
+                            48.12,
+                            237.44,
+                            159.12
+                        ]
+                    ],
+                    "text_description": "밑변의 가로 길이가 5cm, 세로 길이가 9cm이고 높이가 6cm인 직육면체 입체도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.52,
+                            172.2,
+                            296.84,
+                            192.68
+                        ]
+                    ],
+                    "text_description": "$270 \\mathrm{~cm}^{3}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.92,
+                            199.72,
+                            241.8,
+                            236.84
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 직육면체의 부피) } & =(\\text { 가로 }) \\times(\\text { 세로 }) \\times(\\text { 높이) } \\\\ & =5 \\times 9 \\times 6=270\\left(\\mathrm{~cm}^{3}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

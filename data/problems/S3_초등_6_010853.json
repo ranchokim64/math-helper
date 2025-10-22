@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "572cc82d-7e65-4ed3-99e3-39a7cc9a4665",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010853",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.3,
+                            12.74,
+                            421.9,
+                            34.94
+                        ]
+                    ],
+                    "text_description": "계산 결과가 더 큰 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            257.7,
+                            64.53999999999999,
+                            345.5,
+                            108.74000000000001
+                        ]
+                    ],
+                    "text_description": "$\\frac{13}{15} \\div \\frac{7}{15}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            437.5,
+                            64.6,
+                            525.3,
+                            108.19999999999999
+                        ]
+                    ],
+                    "text_description": "$\\frac{10}{11} \\div \\frac{5}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.7,
+                            146.6,
+                            121.1,
+                            185.8
+                        ]
+                    ],
+                    "text_description": "$\\frac{10}{11} \\div \\frac{5}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.1,
+                            207,
+                            308.3,
+                            247
+                        ]
+                    ],
+                    "text_description": "- $\\frac{13}{15} \\div \\frac{7}{15}=13 \\div 7=\\frac{13}{7}=1 \\frac{6}{7}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.299999999999997,
+                            259.2,
+                            514.3,
+                            353.2
+                        ]
+                    ],
+                    "text_description": "- $\\begin{array}{l}\\frac{10}{11} \\div \\frac{5}{11}=10 \\div 5=2 \\\\ 1 \\frac{6}{7}<2 \\text { 이므로 계산 결과가 더 큰 것은 } \\frac{10}{11} \\div \\frac{5}{11} \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

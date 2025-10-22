@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "744ac0d7-22a0-45e7-a1c4-bcb44b0c5022",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011015",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.1,
+                            6.04,
+                            855.7,
+                            72.04
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 가, 나, 다 모양 중 옆에서 본 모양이 다른 하나를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            125.3,
+                            74.04,
+                            740.5,
+                            266.84
+                        ]
+                    ],
+                    "text_description": "가 위에서 보면 + 모양이고 맨 위에는 2 / 가운데는 1 2 1 / 아래에는 3개의 쌓기나무가 있다. 나 맨위에는 2 / 가운데는 1 2 / 아래에는 3 1개의 쌓기나무가 있다. 다 맨위에는 1 2 / 가운데는 1 1 1 / 아래에는 3개의 쌓기나무가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.3,
+                            277.7,
+                            69.3,
+                            300.9
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.5,
+                            334.5,
+                            482.1,
+                            476.1
+                        ]
+                    ],
+                    "text_description": "가 나 다 옆에서 본 모양이 다른 하나는 다입니다."
+                }
+            ]
+        }
+    ]
+}

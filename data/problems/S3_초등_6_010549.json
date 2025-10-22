@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e57a216c-1cb6-4e3c-916c-2420b01352c8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010549",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.92,
+                            5.74,
+                            873.28,
+                            39.84
+                        ]
+                    ],
+                    "text_description": "두 직육면체의 부피를 비교하려고 합니다. 알맞은 말에 $\\bigcirc$표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.77,
+                            204.86,
+                            874.99,
+                            290.96
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { 가와 나는 세로가 } 3 \\mathrm{~cm} \\text {, 높이가 } 4 \\mathrm{~cm} \\text { 로 (같습니다, 다릅니다). } \\\\ \\Rightarrow \\Rightarrow \\text { 부피가 더 큰 것은 가로가 더 긴 (가, 나)입니다. }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            272,
+                            46.4,
+                            701,
+                            183.4
+                        ]
+                    ],
+                    "text_description": "가 직육면체이며 가로 $3cm$, 세로 $3cm$, 높이 $4cm$이다. 나 직육면체이며 가로 $5cm$, 세로 $3cm$, 높이 $4cm$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.33,
+                            322.5,
+                            192.8,
+                            354.12
+                        ]
+                    ],
+                    "text_description": "같습니다, 나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.7,
+                            371.09,
+                            961.09,
+                            434.47
+                        ]
+                    ],
+                    "text_description": "면끼리 직접 맞대어 비교하면 가와 나의 세로와 높이가 같으므로 가로가 더 긴 나의 부피가 더 큽니다."
+                }
+            ]
+        }
+    ]
+}

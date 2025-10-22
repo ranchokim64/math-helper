@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e6d08f0d-e609-4dd8-9c46-894d7fc1197e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004682",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-01] 구체적인 조작 활동을 통하여 도형의 합동의 의미를 알고, 합동인 도형을 찾을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            50,
+                            7.5
+                        ],
+                        [
+                            48.75,
+                            71.25
+                        ],
+                        [
+                            113.75,
+                            76.25
+                        ],
+                        [
+                            116.25,
+                            38.75
+                        ],
+                        [
+                            478.75,
+                            37.5
+                        ],
+                        [
+                            480,
+                            10
+                        ]
+                    ],
+                    "text_description": "도형을 서로 합동이 되도록 나눈 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            267.5,
+                            186.5,
+                            416.25,
+                            272.75
+                        ]
+                    ],
+                    "text_description": "④ 녹색 배경의 마지막 도형으로, 평행사변형과 유사한 형태에 수직선이 그어진 도형"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            93.88,
+                            202.5,
+                            354.38
+                        ]
+                    ],
+                    "text_description": "①직각 형태의 두 선분이 서로 연결되어 \"ㄱ\"자 모양을 이루고 있으며, 대각선이 그어져 있는 도형 ③직사각형 안에 한 개의 대각선이 그어진 도형 ⑤직사각형 안에 X자 형태로 두 개의 대각선이 교차하여 그어진 도형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.5,
+                            90.13,
+                            412.5,
+                            174.63
+                        ]
+                    ],
+                    "text_description": "④녹색 배경의 마지막 도형으로, 평행사변형과 유사한 형태에 수직선이 그어진 도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.25,
+                            357.13,
+                            480,
+                            382.13
+                        ]
+                    ],
+                    "text_description": "나누어진 두 도형을 포개었을 때 완전히 겹치는 것은 ④입니다."
+                }
+            ]
+        }
+    ]
+}

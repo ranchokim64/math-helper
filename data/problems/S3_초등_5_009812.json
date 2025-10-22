@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7d8725b4-281c-4d4a-bb63-07fce1b826dd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009812",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            1.44,
+                            512.5,
+                            24.19
+                        ]
+                    ],
+                    "text_description": "<보기>를 이용하여 곱셈식의 결과 값을 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            358,
+                            109.12,
+                            497.5,
+                            136.87
+                        ]
+                    ],
+                    "text_description": "$(11. 05, 1105)$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.0,
+                            64.0,
+                            437.0,
+                            89.0
+                        ]
+                    ],
+                    "text_description": "$ 1.7 \\times 65=110.5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.25,
+                            109.87,
+                            301.75,
+                            136.87
+                        ]
+                    ],
+                    "text_description": "$0. 17 \\times 65$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.25,
+                            165.12,
+                            661.5,
+                            209.62
+                        ]
+                    ],
+                    "text_description": "$0. 17 \\times 65$는 $1. 7 \\times 65$보다 1. 7에 소수점 아래 자리 수가 1 개 더 늘어났으므로 110. 5에서 소수점을 왼쪽으로 한 칸 옮기면 11. 05입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.5,
+                            139.12,
+                            77.5,
+                            162.87
+                        ]
+                    ],
+                    "text_description": "$11. 05$"
+                }
+            ]
+        }
+    ]
+}

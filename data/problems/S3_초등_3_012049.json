@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ee95f873-1fde-4d11-a80f-e924315daaa4",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012049",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.8,
+                            11.54,
+                            516.8,
+                            42.74
+                        ]
+                    ],
+                    "text_description": "곧은 선과 굽은 선으로 분류하여 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.8,
+                            55.54,
+                            815.2,
+                            158.74
+                        ]
+                    ],
+                    "text_description": "㉠곡선 ㉡ 직선 ㉢ 직선 ㉣ 직선 ㉤ 원 ㉥ s자로 굽은선"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            547.2,
+                            170.4,
+                            851.2,
+                            239.2
+                        ]
+                    ],
+                    "text_description": "곧은 선 (㉡, ㉢, ㉣) 굽은 선 (㉠, ㉤, ㉥)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.8,
+                            241.6,
+                            466.4,
+                            263.2
+                        ]
+                    ],
+                    "text_description": "곧은 선은 구부러지거나 휘어지지 않고 반듯하게 쭉 뻗은 선입니다."
+                }
+            ]
+        }
+    ]
+}

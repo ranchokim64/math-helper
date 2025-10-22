@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "442c0900-2ac0-4a40-91ba-dd87976db6e7",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004576",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.22,
+                            11.69,
+                            501.02,
+                            48.49
+                        ]
+                    ],
+                    "text_description": "수직선에 나타낸 수의 범위를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.02,
+                            70.52,
+                            632.22,
+                            138.52
+                        ]
+                    ],
+                    "text_description": "② 수직선 위에 42, 43, 44, 45, 46, 47, 48, 49, 50이 표시되어 있고 '43초과 47 이하인 수'가 빨강색으로 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            231.42,
+                            155.52,
+                            498.82,
+                            188.12
+                        ]
+                    ],
+                    "text_description": "43초과 47 이하인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.22,
+                            204.92,
+                            586.62,
+                            262.52
+                        ]
+                    ],
+                    "text_description": "② 43보다 크고 47과 같거나 작은 수이므로 43초과 47 이하인 수입니다."
+                }
+            ]
+        }
+    ]
+}

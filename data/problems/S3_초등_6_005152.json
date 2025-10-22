@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "27b9cacb-74d0-473a-ab17-83c96e954c05",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005152",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.5,
+                            37.92,
+                            832.5,
+                            83.92
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 큰 것부터 치례로 기호를 써보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            221.5,
+                            105.92,
+                            718.5,
+                            309.92
+                        ]
+                    ],
+                    "text_description": "㉠ $80 \\div 6. 4$ ㉡ $26 \\div 0. 13$ ㉢ $157 \\div 3. 14$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            528.5,
+                            339.5,
+                            789.5,
+                            381.5
+                        ]
+                    ],
+                    "text_description": "㉡, ㉢, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.5,
+                            399.5,
+                            813.5,
+                            547.5
+                        ]
+                    ],
+                    "text_description": "㉠ $80 \\div 6. 4=12. 5$ ㉡ $26 \\div 0. 13=200$ ㉢ $157 \\div 3. 14=50$ 따라서 몫이 큰 것부터 차례로 기호를 쓰면 ㉡, ㉢, ㉠입니다."
+                }
+            ]
+        }
+    ]
+}

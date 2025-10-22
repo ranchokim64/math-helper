@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0c0d1cff-e429-4f78-9a25-a60f8ef7da97",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011818",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            4.92,
+                            257.5,
+                            36.92
+                        ]
+                    ],
+                    "text_description": "분수의 뺄셈을 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            51.92,
+                            148.5,
+                            114.92
+                        ]
+                    ],
+                    "text_description": "① $\\frac{8}{11}-\\frac{4}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.5,
+                            225.5,
+                            127.5,
+                            273.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.5,
+                            136.5,
+                            210.5,
+                            202.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{11}-\\frac{4}{11}=\\frac{8-4}{11}=\\frac{4}{11}$"
+                }
+            ]
+        }
+    ]
+}

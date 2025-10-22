@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cdac3dc2-29c4-4275-9adb-05dcea3580d4",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012232",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.67,
+                            17.2,
+                            590.78,
+                            105.89
+                        ]
+                    ],
+                    "text_description": "가장 큰 각과 가장 작은 각의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.63,
+                            150.42,
+                            499.1,
+                            293.11
+                        ]
+                    ],
+                    "text_description": "㉠ $125^{\\circ}$ ㉡ $85^{\\circ}$ ㉢ $95^{\\circ}$ ㉣ $130^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111.08,
+                            415.52,
+                            156.86,
+                            441.27
+                        ]
+                    ],
+                    "text_description": "$45^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.689999999999998,
+                            309.02,
+                            204.54,
+                            391.99
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 가장 큰 각 : ㉣ } \\\\ \\text { 가장 작은 각 : ㉡ } \\\\ \\rightarrow 130^{\\circ}-85^{\\circ}=45^{\\circ}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

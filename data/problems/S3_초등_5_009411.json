@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bf16f3e7-4ecb-4ab8-b00d-f62b0e9bd1bb",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009411",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.28,
+                            -0.76,
+                            723.28,
+                            54.24
+                        ]
+                    ],
+                    "text_description": "어떤 수를 반올림하여 백의 자리까지 나타내었더니 600이 되었습니다. 어떤 수가 될 수 있는 수의 범위를 바르게 나타낸 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.28,
+                            148.78,
+                            566.28,
+                            191.78
+                        ]
+                    ],
+                    "text_description": "눈금선 위에 480부터 720까지의 눈금이 표시되어 있고, 500, 600, 700의 숫자가 표시되어 있다. 550 위에 채워진 파란점부터 650 위에 비워진 파란점까지 파란선으로 이어져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.27,
+                            233.78,
+                            723.27,
+                            281.78
+                        ]
+                    ],
+                    "text_description": "- 십의 자리에서 올림하여 어림한 수들 만들었다면 십의 자리 숫자가 $5, 6, 7, 8, 9$ 중 하나여야 하므로 550 이상이어야 합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.27,
+                            287.78,
+                            724.27,
+                            335.78
+                        ]
+                    ],
+                    "text_description": "- 십의 자리에서 버림하여 어림한 수들 만들었다면 십의 자리 숫자가 $0, 1, 2, 3, 4$ 중 하나여야 하므로 650 미만이어야 합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.27,
+                            339.78,
+                            681.27,
+                            389.78
+                        ]
+                    ],
+                    "text_description": "두 범위들 만족하는 수의 범위는 550 이상 650 미만입니다. 따라서 550을 점 ●으로, 650을 점 ○으로 나타내고 그 사이들 선으로 연결합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.28,
+                            60.78,
+                            565.28,
+                            146.78
+                        ]
+                    ],
+                    "text_description": "눈금선 위에 480부터 720까지의 눈금이 표시되어 있고, 550 위에 비워진 파란점부터 650 위에 채워진 파란점까지 파란선으로 이어져 있다. 눈금선 위에 480부터 720까지의 눈금이 표시되어 있고, 500 위에 비워진 파란점부터 600 위에 채워진 파란점까지 파란선으로 이어져 있다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "240886b7-8b27-4dac-8284-214e86822485",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012466",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-06] 1L와 1mL의 관계를 이해하고, 들이를 단명수와 복명수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-18] 1L와 1mL의 관계를 이해하고, 들이를 ‘몇 L 몇 mL’와 ‘몇 mL’로 표현할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43,
+                            15.92,
+                            416,
+                            73.92
+                        ]
+                    ],
+                    "text_description": "물통에 생수가 $4L$ 들어 있습니다. 생수는 몇 $mL$ 일까요? $?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            91.92,
+                            119,
+                            196.92
+                        ]
+                    ],
+                    "text_description": "생수 $4L$가 들어있는 물통이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294,
+                            177.5,
+                            372,
+                            201.5
+                        ]
+                    ],
+                    "text_description": "$4000mL$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            206.5,
+                            267,
+                            226.5
+                        ]
+                    ],
+                    "text_description": "$1 \\mathrm{~L}=1000 \\mathrm{~mL} \\rightarrow 4 \\mathrm{~L}=4000 \\mathrm{~mL}$"
+                }
+            ]
+        }
+    ]
+}

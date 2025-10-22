@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aa804801-0e7b-4a64-a78f-8ff954ec86ac",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008315",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.2,
+                            4.16,
+                            935.7,
+                            41.04
+                        ]
+                    ],
+                    "text_description": "시계의 짧은바늘이 연필 모양일 때이 시계의 짧은바늘을 시계 반대 방"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.02,
+                            42.88,
+                            942.46,
+                            118.8
+                        ]
+                    ],
+                    "text_description": "향으로 $90^{\\circ}, 180^{\\circ}, 270^{\\circ}, 360^{\\circ}$만큼 돌리고 있습니다. 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.96,
+                            125.85,
+                            891.45,
+                            668.83
+                        ]
+                    ],
+                    "text_description": "① 시계 반대 방향으로 $90^{\\circ}$만큼 돌리면 연필의 위쪽 부분이 왼쪽으로 이동해. ③ 시계 반대 방향으로 $270^{\\circ}$만큼 돌리면 연필의 위쪽 부분이 (아래쪽, 오른쪽)으로 이동해. ② 시계 반대 방향으로 $180^{\\circ}$만큼 돌 리면 연필의 위쪽 부분이 (아래쪽, 오른쪽)으로 이동해."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.07,
+                            675.91,
+                            278.16,
+                            709.09
+                        ]
+                    ],
+                    "text_description": "② 아래쪽 ③ 오른쪽"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.04,
+                            759.8,
+                            930.16,
+                            822.49
+                        ]
+                    ],
+                    "text_description": "다. 시계 반대 방향으로 $270^{\\circ}$만큼 돌리면 연필의 위쪽 부분이 오른쪽으로 이동합니다. 6"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.15,
+                            726.61,
+                            926.48,
+                            753.34
+                        ]
+                    ],
+                    "text_description": "시계 반대 방향으로 $180^{\\circ}$만큼 돌리면 연필의 위쪽 부분이 아래쪽으로 이동합니"
+                }
+            ]
+        }
+    ]
+}

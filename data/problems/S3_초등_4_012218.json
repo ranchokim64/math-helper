@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0295dc19-51bf-448b-aa22-aad19e9eb642",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012218",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고 수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            15.41,
+                            470,
+                            122.41
+                        ]
+                    ],
+                    "text_description": "어느 해 우리 나라에서 외국으로 수출한 금액입니다. 수출을 가장 많이 한 나라는 어느 나라일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            130.41,
+                            473,
+                            280.41
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|} \\hline 미국 & 726 조 5432억 원 \\\\ \\hline 호주 & 1178430000000 원 \\\\ \\hline 중국 & 1205 조 3614억 원 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            356,
+                            294,
+                            393,
+                            319
+                        ]
+                    ],
+                    "text_description": "중국"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72,
+                            324,
+                            388,
+                            370
+                        ]
+                    ],
+                    "text_description": "호주 : 11조 7843억 원 따라서 수출을 가장 많이 한 나라는 중국입니다."
+                }
+            ]
+        }
+    ]
+}

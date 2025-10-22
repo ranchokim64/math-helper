@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e53a3e47-a446-4605-bd4c-b20aee28e2f5",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004499",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.41,
+                            8.56,
+                            425.93,
+                            84.85
+                        ]
+                    ],
+                    "text_description": "오각형 1개를 만드는 데 성냥개비가 5개 필요합니다. 오각형의 수와 성냥개비의 수 사이에는 어떤 대응 관계가 있는지 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.63,
+                            198.28,
+                            436.68,
+                            249.48
+                        ]
+                    ],
+                    "text_description": "오각형을 10개 만들려면 성낭개비가 몇 개 필요한가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.53,
+                            90.25,
+                            424.39,
+                            185.99
+                        ]
+                    ],
+                    "text_description": "성냥개비 5개를 이용해 만든 오각형 4개가 정렬되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315.85,
+                            266.89,
+                            358.34,
+                            287.37
+                        ]
+                    ],
+                    "text_description": "50개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.62,
+                            299.14,
+                            345.03,
+                            338.57
+                        ]
+                    ],
+                    "text_description": "성낭개비의 수는 오각형의 수를 5배 하면 되므로 $10 \\times 5=50$ (개)가 필요합니다."
+                }
+            ]
+        }
+    ]
+}

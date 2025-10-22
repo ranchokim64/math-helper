@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ca552ee0-b6a1-4c57-b402-e1ffffa303fd",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004530",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.5,
+                            7.42,
+                            103.5,
+                            48.42
+                        ]
+                    ],
+                    "text_description": "$\\frac{9}{12}+\\frac{7}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            144.42,
+                            37.5,
+                            187.42
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{5}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.5,
+                            53,
+                            248.5,
+                            145
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}=\\frac{9 \\times 8}{12 \\times 8}+\\frac{7 \\times 12}{8 \\times 12}=\\frac{72}{96}+\\frac{84}{96} \\\\ =\\frac{156}{96}=1 \\frac{60}{96}=1 \\frac{5}{8}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

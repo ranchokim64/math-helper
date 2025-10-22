@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1e5c97f0-5f7d-4e3c-881b-2e0a0928139a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005643",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.37,
+                            19.89,
+                            415.44,
+                            51.66
+                        ]
+                    ],
+                    "text_description": "다음 중 몫이 다른 하나는 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.87,
+                            109.68,
+                            127.47,
+                            133.29
+                        ]
+                    ],
+                    "text_description": "$10. 4 \\div 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.16,
+                            187.36,
+                            176.04,
+                            233.27
+                        ]
+                    ],
+                    "text_description": "①, ②, ④, ⑤ 2. 05 ③ 2. 08"
+                }
+            ]
+        },
+        {
+            "class_num": "3",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            254.73000000000002,
+                            67.42,
+                            384.66,
+                            137.29
+                        ]
+                    ],
+                    "text_description": "② $16.4 \\div 8$\n④ $12.3 \\div 6$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.2,
+                            140.78,
+                            145.94,
+                            173.39
+                        ]
+                    ],
+                    "text_description": "⑤ $18.45 \\div 9$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.2,
+                            62.76,
+                            115.66,
+                            100.03
+                        ]
+                    ],
+                    "text_description": "① $8.2 \\div 4$"
+                }
+            ]
+        }
+    ]
+}

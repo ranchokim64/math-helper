@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f7e68b12-1c80-46d8-a286-ec4ffd7d6789",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005115",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            12.42,
+                            478.5,
+                            60.42
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 알맞은 대분수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            277,
+                            260.5,
+                            382
+                        ]
+                    ],
+                    "text_description": "$\\square \\times \\frac{2}{3}=3 \\frac{3}{4}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            201,
+                            64.5,
+                            274
+                        ]
+                    ],
+                    "text_description": "$5 \\frac{5}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            64,
+                            592.5,
+                            202
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\square \\times \\frac{2}{3}=3 \\frac{3}{4} \\\\ \\rightarrow \\square=3 \\frac{3}{4} \\div \\frac{2}{3}=\\frac{15}{4} \\div \\frac{2}{3}=\\frac{15}{4} \\times \\frac{3}{2}=\\frac{45}{8}=5 \\frac{5}{8}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

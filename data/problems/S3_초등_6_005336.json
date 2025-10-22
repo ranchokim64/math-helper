@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7c321670-792d-4e4f-ac8d-be801f6ed67f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005336",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            19.92,
+                            462,
+                            90.92
+                        ]
+                    ],
+                    "text_description": "지름을 ㉠, 원주를 ㉡이라고 했을 때, 원주율을 바르게 나타낸 식은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            162.5,
+                            105,
+                            187.5
+                        ]
+                    ],
+                    "text_description": "③ ㉡ $\\div$ ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            111.5,
+                            102,
+                            136.5
+                        ]
+                    ],
+                    "text_description": "① ㉠ $\\div$ ㉡"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            237,
+                            111.5,
+                            375,
+                            202.5
+                        ]
+                    ],
+                    "text_description": "② ㉠ $\\times$ ㉡ ④ ㉠ $\\times \\frac{1}{2} \\div$ ㉡"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            213.5,
+                            149,
+                            268.5
+                        ]
+                    ],
+                    "text_description": "⑤ ㉡ $\\div$ ㉠ $\\times \\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.37,
+                            276.25,
+                            258.89,
+                            301.45
+                        ]
+                    ],
+                    "text_description": "$($ 원주율 $)=($ 원주 $) \\div($ 지름 $)=$㉡ $\\div$ ㉠"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "24c27454-c289-4669-b648-a25202a4d42a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007467",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            15.92,
+                            846.5,
+                            71.92
+                        ]
+                    ],
+                    "text_description": "제니가 색종이로 만든 삼각형의 일부가 찢어진 것입니다. 제니가 만든 삼각형은 어떤 삼각형인지 모두 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            252.5,
+                            248.5,
+                            557.5,
+                            318.5
+                        ]
+                    ],
+                    "text_description": "이등변삼각형 정삼각형 예각삼각형 둔각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            391.5,
+                            77.92,
+                            495.5,
+                            227.92
+                        ]
+                    ],
+                    "text_description": "삼각형의 일부가 찢어진 모양이 있습니다. 각 꼭짓점의 각도가 60도로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            356.5,
+                            402.5,
+                            381.5
+                        ]
+                    ],
+                    "text_description": "이등변삼각형, 정삼각형, 예각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            398.5,
+                            845.5,
+                            488.5
+                        ]
+                    ],
+                    "text_description": "나머지 한 각의 크기는 $180^{\\circ}-60^{\\circ}-60^{\\circ}=60^{\\circ}$ 이므로이 삼각형의 세 각의 크기는 모두 $60^{\\circ}$ 입니다. 따라서 제니가 만든 삼각형은 정삼각형이고 이등변삼각형과 예각삼각형도 될 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

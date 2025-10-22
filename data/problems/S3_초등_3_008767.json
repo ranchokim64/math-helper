@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c207186a-a0ae-43da-871b-4ff724e72c06",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008767",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-09] 1kg과 1g의 관계를 이해하고, 무게를 단명수와 복명수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-21] 1kg과 1g의 관계를 이해하고, 무게를 ‘몇 kg 몇 g’과 ‘몇 g’으로 표현할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.81,
+                            4,
+                            932.16,
+                            76.14
+                        ]
+                    ],
+                    "text_description": "체리 상자와 소고기 팩에는 각각 어떤 단위가 표시되어 있는지 선택해보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            203.06,
+                            276.4,
+                            764.15,
+                            314.16
+                        ]
+                    ],
+                    "text_description": "체리 상자 $\\Rightarrow(\\mathrm{kg}, \\mathrm{g})$, 소고기 팩 $\\Rightarrow(\\mathrm{kg}, \\mathrm{g})$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.52,
+                            81.09,
+                            916.05,
+                            236.91
+                        ]
+                    ],
+                    "text_description": "체리 1kg, 소고기 팩 600g 무게의 단위에는 킬로그램과 그램 등이 있어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.55,
+                            332.51,
+                            116.74,
+                            360.56
+                        ]
+                    ],
+                    "text_description": "$\\mathrm{kg}, \\mathrm{g}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.31,
+                            374.59,
+                            931.4,
+                            443.65
+                        ]
+                    ],
+                    "text_description": "체리 상자에 1kg이 써있으므로 표시된 단위는 kg, 소고기 팩에 600g이 써있으므로 표시된 단위는 g입니다."
+                }
+            ]
+        }
+    ]
+}

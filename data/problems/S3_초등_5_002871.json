@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2b947a93-588d-4b00-b473-d1055f132c52",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002871",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.42,
+                            14.49,
+                            615.62,
+                            38.49
+                        ]
+                    ],
+                    "text_description": "크레파스의 길이를 반올림하여 일의 자리까지 나타내면 몇 cm인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            135.62,
+                            54.12,
+                            554.02,
+                            157.32
+                        ]
+                    ],
+                    "text_description": "크레파스와 자가 위아래로 붙어있는 그림으로 크레파스의 길이를 6. 2cm로 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.22,
+                            203.72,
+                            218.82,
+                            226.12
+                        ]
+                    ],
+                    "text_description": "$6 \\mathrm{cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.82,
+                            172.52,
+                            579.62,
+                            196.52
+                        ]
+                    ],
+                    "text_description": "크레파스의 길이가 6.2cm이므로 반올림하여 일의 자리까지 나타내면 6cm입니다."
+                }
+            ]
+        }
+    ]
+}

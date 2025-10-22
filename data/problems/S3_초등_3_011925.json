@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "48b3f8ae-36f6-4b35-9478-04e25501e2a3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011925",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93,
+                            186.5,
+                            415,
+                            220.5
+                        ]
+                    ],
+                    "text_description": "5 3 8 1"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.99,
+                            10.19,
+                            487.71,
+                            38.98
+                        ]
+                    ],
+                    "text_description": "수 카드 4장 중에서 3장을 뽑아 한"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.3,
+                            47.1,
+                            488.15,
+                            154.62
+                        ]
+                    ],
+                    "text_description": "번씩만 사용하여 세 자리 수를 만들려고 합니다. 만들 수 있는 가장 큰 수와 가장 작은 수의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370,
+                            253.5,
+                            414,
+                            280.5
+                        ]
+                    ],
+                    "text_description": "$718$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            237.5,
+                            288,
+                            298.5
+                        ]
+                    ],
+                    "text_description": "수의 크기를 비교하면 $8>5>3>1$이 므로 만들 수 있는 가장 큰 수는 853 이고, 가장 작은 수는 I35입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77,
+                            299.5,
+                            221,
+                            318.5
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow 853-135=718$"
+                }
+            ]
+        }
+    ]
+}

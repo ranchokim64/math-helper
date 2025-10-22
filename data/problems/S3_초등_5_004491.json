@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b3f97cfe-411b-4df3-a195-c094d08bed80",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004491",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.9,
+                            10.23,
+                            256.3,
+                            31.83
+                        ]
+                    ],
+                    "text_description": "㉠ $+㉡$의 값을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.3,
+                            39.03,
+                            421.9,
+                            161.43
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{8} + \\frac{5}{6} = ㉠$, $㉠ + 1\\frac{3}{8} = ㉡$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.3,
+                            165.1,
+                            361.1,
+                            213.9
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{7}{24}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.5,
+                            209.9,
+                            261.1,
+                            333.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\frac{1}{8}+\\frac{5}{6}=(7), ㉠=\\frac{23}{24} \\\\ \\frac{23}{24}+1 \\frac{3}{8}=㉡, ㉡=2 \\frac{1}{3} \\\\ \\rightarrow \\text { ㉠ }+㉡=\\frac{23}{24}+2 \\frac{1}{3}=3 \\frac{7}{24}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

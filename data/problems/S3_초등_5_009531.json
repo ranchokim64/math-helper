@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "91d44db3-4992-4f49-aa41-65eff80bdf23",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009531",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.74,
+                            2.15,
+                            785.49,
+                            68.15
+                        ]
+                    ],
+                    "text_description": "다음 수를 반올림하여 백의 자리까지 나타내면 57300이 된다고 합니다. $\\square$ 안에 들어갈 수 없는 수를 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            306.99,
+                            66.62,
+                            503.24,
+                            141.62
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|} \\hline $572 \\square 9$ \\\\ \\hline \\end{tabular}$572 \\square 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.24,
+                            135.37,
+                            69.49,
+                            166.62
+                        ]
+                    ],
+                    "text_description": "① 4"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            271.99,
+                            140.37,
+                            564.49,
+                            167.87
+                        ]
+                    ],
+                    "text_description": "② 5 ③ 6"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.24,
+                            171.62,
+                            319.49,
+                            201.62
+                        ]
+                    ],
+                    "text_description": "④ 7 ⑤ 8"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.49,
+                            241.62,
+                            784.49,
+                            361.62
+                        ]
+                    ],
+                    "text_description": "주어진 수의 백의 자리 숫자가 2이므로 십의 자리에서 올림한 것을 알 수 있습니다. 즉, 십의 자리에서 반올림했는데 올림한 것과 같은 결과를 얻으려면 십의 자리의 숫자가 5, 6, 7, 8, 9 중 하나여야 합니다."
+                }
+            ]
+        }
+    ]
+}

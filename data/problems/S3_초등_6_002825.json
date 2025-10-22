@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ff28242c-3d07-4212-afb4-b55ff78de5bb",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002825",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            8,
+                            718.5,
+                            72.8
+                        ]
+                    ],
+                    "text_description": "예지와 다희는 각각 물에 포도 원액을 섞어 포도주스를 만들었습니다. 포도주스 양에 대한 포도 원액 양의 비율을 각각 구하고, 누가 만든 포도주스가 더 진한지 알아보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            135.5,
+                            377.2,
+                            717.7,
+                            459.2
+                        ]
+                    ],
+                    "text_description": "예지 (), 다희 () $\\square$가 만든 포도주스가 더 진합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.1,
+                            81.6,
+                            716.1,
+                            356.8
+                        ]
+                    ],
+                    "text_description": "예지: 나는 물에 포도 원액 50mL를 넣어서 포도주스 200mL를 만들었어. 다희: 나는 물에 포도 원액 30mL를 넣어서 포도주스 150mL를 만들었어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.7,
+                            576.8,
+                            584.1,
+                            681.6
+                        ]
+                    ],
+                    "text_description": "\\[ \\text { 예지 }\\left(\\frac{50}{200}\\left(=\\frac{1}{4}=0. 25\\right)\\right) \\text {, 다희 }\\left(\\frac{30}{150}\\left(=\\frac{1}{5}=0. 2\\right)\\right) \\] 예지가 만든 포도주스가 더 진합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.3,
+                            463.2,
+                            723.3,
+                            576.8
+                        ]
+                    ],
+                    "text_description": "두 사람이 만든 포도주스 양에 대한 포도 원액 양의 비율을 각각 구하면 다음과 같습니다. 예지: $\\frac{50}{200}=\\frac{1}{4}=0. 25$, 다희: $\\frac{30}{150}=\\frac{1}{5}=0. 2$ 따라서 예지가 만든 포도주스가 더 진합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "38d3cb68-6da4-451f-8dac-2ce8a9c58fc7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012408",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.279999999999999,
+                            13.74,
+                            414.28,
+                            140.74
+                        ]
+                    ],
+                    "text_description": "붙임 딱지를 윤아는 56장씩 15 묶음을 가지고 있고, 진아는 69장씩 12묶음을 가지고 있습니다. 누가 붙임 딱지를 몇 장 더 많이 가지고 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            194.28,
+                            157.27,
+                            413.28,
+                            183.27
+                        ]
+                    ],
+                    "text_description": "$($ 윤아, 12장 $)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.28,
+                            189.27,
+                            277.28,
+                            226.27
+                        ]
+                    ],
+                    "text_description": "윤아의 붙임 딱지 수 : $56\\times 15=840$(장) 진아의 붙임 딱지 수 : $69 \\times 12=828$(장)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.28,
+                            226.27,
+                            174.28,
+                            246.27
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow 840-828=12$ (장)"
+                }
+            ]
+        }
+    ]
+}

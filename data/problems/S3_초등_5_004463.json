@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "690817f4-ae86-4fb8-be41-303ef7571482",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004463",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.74,
+                            12.39,
+                            324.7,
+                            35.43
+                        ]
+                    ],
+                    "text_description": "정사각형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            197.34,
+                            45.67,
+                            306.14,
+                            123.75
+                        ]
+                    ],
+                    "text_description": "한 변이 4cm인 정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            290.14,
+                            135,
+                            398.3,
+                            157.4
+                        ]
+                    ],
+                    "text_description": "$160000 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.74,
+                            166.8,
+                            441.82,
+                            186.2
+                        ]
+                    ],
+                    "text_description": "(정사각형의 넓이) $=4 \\mathrm{~m} \\times 4 \\mathrm{~m}=400 \\mathrm{~cm} \\times 400 \\mathrm{~cm}=160000\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "74bb6609-8473-4d08-ac0a-10f4200b7203",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012472",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-07] 실생활 문제 상황을 통하여 들이의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-19] 실생활 문제 상황과 연결하여 들이의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.93,
+                            7.65,
+                            230.95,
+                            34.91
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            157.12,
+                            55.67,
+                            317.26,
+                            126.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}4 \\mathrm{~L} 560 \\mathrm{~mL} \\\\ +\\quad 3 \\mathrm{~L} 270 \\mathrm{~mL} \\\\ \\hline\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.43,
+                            178.69,
+                            133.27,
+                            202.54
+                        ]
+                    ],
+                    "text_description": "7L 830mL"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.7,
+                            127.58,
+                            219.59,
+                            167.33
+                        ]
+                    ],
+                    "text_description": "mL 단위 : 560+270=830(mL) L 단위 : $4+3=7(\\mathrm{~L})$"
+                }
+            ]
+        }
+    ]
+}

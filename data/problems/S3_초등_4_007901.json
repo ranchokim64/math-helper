@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6ec77955-4ef5-4634-bcc7-66cd431b2d0e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007901",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            4.42,
+                            500,
+                            38.42
+                        ]
+                    ],
+                    "text_description": "정다각형이면 $\\bigcirc$ 표, 아니면 $\\times$ 표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            155,
+                            57,
+                            204
+                        ]
+                    ],
+                    "text_description": "Ⓞ Ⓧ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            255,
+                            844,
+                            319
+                        ]
+                    ],
+                    "text_description": "변의 길이가 모두 같지 않고 각의 크기도 모두 같지 않기 때문에 정다각형이 아닙니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.0,
+                            213.0,
+                            76.0,
+                            241.0
+                        ]
+                    ],
+                    "text_description": "$\\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            381.0,
+                            44.0,
+                            497.0,
+                            159.0
+                        ]
+                    ],
+                    "text_description": "변의 길이가 다른 오각형"
+                }
+            ]
+        }
+    ]
+}

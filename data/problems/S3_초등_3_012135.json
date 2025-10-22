@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4ca8c703-fabd-4d4c-9898-b66ec2d743db",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012135",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            6.92,
+                            820,
+                            92.92
+                        ]
+                    ],
+                    "text_description": "2부터 9 까지의 숫자 중에서 $\\square$ 안에 들어갈 수 있는 수를 모두 더하면 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            277,
+                            114.92,
+                            603,
+                            210.92
+                        ]
+                    ],
+                    "text_description": "$16 \\times \\square<90$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            687,
+                            235.5,
+                            721,
+                            265.5
+                        ]
+                    ],
+                    "text_description": "$14$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83,
+                            273.5,
+                            737,
+                            325.5
+                        ]
+                    ],
+                    "text_description": "$16 \\times 5=80, 16 \\times 6=96$ 이므로 $\\square$ 안에 들어갈 수 있는 수는 $2, 3, 4, 5$ 입니다. \\[ \\rightarrow 2+3+4+5=14 \\]"
+                }
+            ]
+        }
+    ]
+}

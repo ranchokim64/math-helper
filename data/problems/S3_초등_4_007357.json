@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "428ca27c-0e00-45c3-b5bd-09ef46483ecd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007357",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.7,
+                            0.22,
+                            526.9,
+                            32.22
+                        ]
+                    ],
+                    "text_description": "계산 결과가 1보다 큰 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            569.3,
+                            43.42,
+                            690.9,
+                            101.82
+                        ]
+                    ],
+                    "text_description": "③ $\\frac{9}{11}+\\frac{4}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.3,
+                            41.82,
+                            421.3,
+                            169.02
+                        ]
+                    ],
+                    "text_description": "① $\\frac{3}{11}+\\frac{8}{11}$ ② $\\frac{7}{11}+\\frac{2}{11}$ ④ $\\frac{4}{11}+\\frac{6}{11}$ ⑤ $\\frac{1}{11}+\\frac{7}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.9,
+                            227.42,
+                            734.9,
+                            372.22
+                        ]
+                    ],
+                    "text_description": "① $\\frac{3}{11}+\\frac{8}{11}=1$ ② $\\frac{7}{11}+\\frac{2}{11}=\\frac{9}{11}$ ③ $\\frac{9}{11}+\\frac{4}{11}=\\frac{13}{11}$ ④ $\\frac{4}{11}+\\frac{6}{11}=\\frac{10}{11}$ ⑤ $\\frac{1}{11}+\\frac{7}{11}=\\frac{8}{11}$ 따라서 계산 결과가 1보다 큰 것은 분자가 분모보다 더 큰 수인 ③입니다."
+                }
+            ]
+        }
+    ]
+}

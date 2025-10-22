@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9a3f7924-c930-4312-b294-780463c52a51",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010846",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.62,
+                            3.45,
+                            760.54,
+                            177.53
+                        ]
+                    ],
+                    "text_description": "가 자동차는 휘발유 $\\frac{4}{17} \\mathrm{~L}$로 $\\frac{12}{13} \\mathrm{~km}$를 갈 수 있고, 나 자동차는 휘발유 $\\frac{5}{16} \\mathrm{~L}$로 $\\frac{7}{8} \\mathrm{~km}$를 갈 수 있습니다. 가와 나 자동차 중 휘발유 $1L$로 더 멀리 갈 수 있는 자동차는 어느 것인지 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.18,
+                            191.34,
+                            124.38,
+                            211.18
+                        ]
+                    ],
+                    "text_description": "가 자동차"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.54,
+                            226.54,
+                            416.86,
+                            250.86
+                        ]
+                    ],
+                    "text_description": "(가 자동차가 휘발유 $1$ L로 갈 수 있는 거리)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.06,
+                            337.9,
+                            706.78,
+                            492.78
+                        ]
+                    ],
+                    "text_description": "(나 자동차가 휘발유 $1L$로 갈 수 있는 거리) \\[ =\\frac{7}{8} \\div \\frac{5}{16}=\\frac{7}{1} \\times \\frac{2}{5}=\\frac{14}{5}=2 \\frac{4}{5}(\\mathrm{km}) \\] $\\Rightarrow 3 \\frac{12}{13}>2 \\frac{4}{5}$ 이므로 휘발유 $1L$로 더 멀리 갈 수 있는 자동차는가 자동차입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.62,
+                            257.9,
+                            362.46,
+                            332.78
+                        ]
+                    ],
+                    "text_description": "$=\\frac{12}{13} \\div \\frac{4}{17}=\\frac{3}{13} \\times \\frac{17}{1}=\\frac{51}{13}=3 \\frac{12}{13}(\\mathrm{~km})$"
+                }
+            ]
+        }
+    ]
+}

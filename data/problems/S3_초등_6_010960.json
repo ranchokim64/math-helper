@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5dcf82ff-86cd-423e-92d1-8b1a51be5598",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010960",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.64,
+                            8.01,
+                            765.24,
+                            63.05
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 앞에서 본 모양을 그린 것으로 알맞은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            173.88,
+                            70.73,
+                            292.92,
+                            242.25
+                        ]
+                    ],
+                    "text_description": "위에서 본 모양이 위에서 중간 2, 오른쪽 3, 중간은 왼쪽, 오른쪽, 중간 모두 1, 아래에서 왼쪽 1이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.24,
+                            69.82,
+                            458.04,
+                            201.66
+                        ]
+                    ],
+                    "text_description": "3x3의 모눈종이이다. 앞에서 본 모습은 위에서 오른쪽 한칸, 중간 오르쪽에서부터 2칸 아래 3칸이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            506.68,
+                            70.46,
+                            607.16,
+                            197.82
+                        ]
+                    ],
+                    "text_description": "3x3의 모눈종이이다. 앞에서 본 모습은 위에서 오른쪽 한칸, 중간 3칸 아래 3칸이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.84,
+                            245.18,
+                            128.44,
+                            353.98
+                        ]
+                    ],
+                    "text_description": "3x3의 모눈종이이다. 앞에서 본 모습은 위에서 오른쪽 한칸, 중간 오르쪽에서부터 2칸 아래 3칸이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.28,
+                            361.66,
+                            770.36,
+                            415.42
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (해설)위에서 본 모양에 수를 쓴 것을 보면 앞에서 보았을 때 왼쪽에서부터 } 2 \\text { 층, } 2 \\text { 층, } 3 \\text { 층으 } \\\\ \\text { 로 보입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

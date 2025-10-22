@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f6ef7103-5bcd-47ba-b814-81db38f55fe0",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005597",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24,
+                            95.42,
+                            668,
+                            144.42
+                        ]
+                    ],
+                    "text_description": "다음에서 설명하는 입체도형의 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.48,
+                            180.95,
+                            682.03,
+                            325.07
+                        ]
+                    ],
+                    "text_description": "$\\bullet$22개의 밑면은 합동이며 서로 평행한 다각형입니다. $\\bullet$옆면은 모두 직사각형입니다. $\\bullet$ 모서리의 수는 24개입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            468,
+                            374.42,
+                            587,
+                            418.42
+                        ]
+                    ],
+                    "text_description": "팔각기둥"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.46,
+                            7.09,
+                            613.07,
+                            85.35
+                        ]
+                    ],
+                    "text_description": "■각기둥의 모서리의 수는 $(\\mathbf{\\square} \\times 3)$ 개입니다. $\\square \\times 3=24$에서 $\\square=24 \\div 3=8$ 이므로 팔각기둥입니다."
+                }
+            ]
+        }
+    ]
+}

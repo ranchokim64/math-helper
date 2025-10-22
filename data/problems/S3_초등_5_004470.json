@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d81e9569-18b8-4f53-a81e-132fe7de25b4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004470",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.34,
+                            3.33,
+                            338.34,
+                            32.33
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            154.34,
+                            36.94,
+                            313.34,
+                            181.94
+                        ]
+                    ],
+                    "text_description": "삼각형의 높이는 9cm + 3cm이고 밑변은 14cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.34,
+                            194.33,
+                            376.34,
+                            220.33
+                        ]
+                    ],
+                    "text_description": "$63 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.34,
+                            226.33,
+                            301.34,
+                            293.33
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (큰 삼각형의 넓이)-(작은 삼각형의 넓이) } \\\\ =14 \\times(9+3) \\div 2-14 \\times 3 \\div 2 \\\\ =84-21=63\\left(\\mathrm{~cm}^{2}\\right)\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

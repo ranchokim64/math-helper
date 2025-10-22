@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cb00c3a8-58ae-44d8-96ea-8a2fe68c7b02",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005770",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            8.92,
+                            428,
+                            36.92
+                        ]
+                    ],
+                    "text_description": "부피가 큰 직육면체부터 차례로 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            46.92,
+                            438,
+                            225.92
+                        ]
+                    ],
+                    "text_description": "각기 다른 부피의 직육면체가, 나, 다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            258,
+                            242.5,
+                            410,
+                            268.5
+                        ]
+                    ],
+                    "text_description": "다, 가, 나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33,
+                            276.5,
+                            395,
+                            300.5
+                        ]
+                    ],
+                    "text_description": "세 직육면체의 높이는 같으므로 밑면의 크기를 비교합니다."
+                }
+            ]
+        }
+    ]
+}

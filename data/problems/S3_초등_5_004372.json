@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "914cc051-8f5f-474a-9f7c-a5db92479b51",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004372",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            10.83,
+                            363.3,
+                            73.83
+                        ]
+                    ],
+                    "text_description": "분모와 분자의 차가 18 이고, 기약분수로 나타내면 $\\frac{2}{5}$가 되는 분수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            270.5,
+                            75.83,
+                            299.3,
+                            113.03
+                        ]
+                    ],
+                    "text_description": "$\\frac{12}{30}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.7,
+                            145.1,
+                            358.3,
+                            257.9
+                        ]
+                    ],
+                    "text_description": "이 중에서 분모와 분자의 차가 18 인 분수는 $\\frac{12}{30}$ 입니다. [다른 풀이] $\\frac{2}{5}$의 분모와 분자의 차가 3 입니다. 차가 18이 되려면 6을 분모와 분자에 곱해야 합니다. $\\rightarrow \\frac{2}{5}=\\frac{2 \\times 6}{5 \\times 6}=\\frac{12}{30}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.7,
+                            113.1,
+                            306.3,
+                            142.9
+                        ]
+                    ],
+                    "text_description": "\\[ \\frac{2}{5}=\\frac{4}{10}=\\frac{6}{15}=\\frac{8}{20}=\\frac{10}{25}=\\frac{12}{30}=\\frac{14}{35} \\ldots. . \\]"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "468e0e30-57a4-48db-9af5-b4981d5eea7e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008564",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.26,
+                            6.49,
+                            589.66,
+                            37.85
+                        ]
+                    ],
+                    "text_description": "계산 결과가 더 작은 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            214.42000000000002,
+                            52.81,
+                            433.38,
+                            190.93
+                        ]
+                    ],
+                    "text_description": "민재 $73 \\times 28$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            533.18,
+                            48.81999999999999,
+                            752.1,
+                            193.34
+                        ]
+                    ],
+                    "text_description": "서윤 $31 \\times 65$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.66,
+                            210.38,
+                            108.38,
+                            237.26
+                        ]
+                    ],
+                    "text_description": "서윤"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.94,
+                            259.82,
+                            679.9,
+                            287.7
+                        ]
+                    ],
+                    "text_description": "미재: $73 \\times 28=2044$. 서유: $31 \\times 65=2015 \\Rightarrow 2044>2015$"
+                }
+            ]
+        }
+    ]
+}

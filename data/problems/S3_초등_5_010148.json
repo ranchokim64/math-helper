@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2239b627-8dd8-4954-a2f0-310e59b95e0d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010148",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.72,
+                            5.9,
+                            666.72,
+                            53.9
+                        ]
+                    ],
+                    "text_description": "회전판을 돌렸을 때 일이 일어날 가능성을 비교하려고 합니다. 화살이 초록색에 멈출 가능성이 가장 높은 회전판을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.72,
+                            57.9,
+                            571.72,
+                            138.9
+                        ]
+                    ],
+                    "text_description": "서로 다른 종류의 회전판이 4개 있습니다. - 초록색이 75% 노란색이 25%인 회전판 - 초록색 50% 노란색 50%인 회전판 - 초록색 100%인 회전판 - 노란색 100%인 회전판"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.719999999999999,
+                            146.5,
+                            105.72,
+                            210.5
+                        ]
+                    ],
+                    "text_description": "초록색 100%인 회전판"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.72,
+                            216.5,
+                            664.72,
+                            281.5
+                        ]
+                    ],
+                    "text_description": "화살이 초록색에 멈출 가능성이 가장 높은 회전판은 화살이 초록색에 멈출 가능성이 '확실하다'인 회전판이므로 () 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "30419d03-96f3-4bf4-bf7f-c868684492ec",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004477",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            8.42,
+                            507.5,
+                            59.42
+                        ]
+                    ],
+                    "text_description": "두 정다각형의 둘레가 같을 때 정오각형의 한 변의 길이는 몇 cm인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.5,
+                            74.42,
+                            230.5,
+                            195.42
+                        ]
+                    ],
+                    "text_description": "정삼각형 $15cm$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.5,
+                            74,
+                            435.5,
+                            195
+                        ]
+                    ],
+                    "text_description": "정오각형 $ \\square $cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            396.5,
+                            417,
+                            439.5,
+                            438
+                        ]
+                    ],
+                    "text_description": "$9cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            269,
+                            495.5,
+                            387
+                        ]
+                    ],
+                    "text_description": "(정삼각형의 둘레) $=15 \\times 3=45(\\mathrm{~cm})$ 정오각형의 둘레는 정삼각형의 둘레와 같으므로 $45cm$ 입니다. 정오각형은 다섯 변의 길이가 모두 같으므로 한 변의 길이는 $45 \\div 5=9(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

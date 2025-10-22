@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9ef2bec-ea4d-44e6-8bbc-1acb0428f4cf",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010066",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.75,
+                            -0.55,
+                            627.98,
+                            25.19
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성이 '불가능하다'인 경우를 말한 친구를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.34,
+                            30.82,
+                            610.16,
+                            219.53
+                        ]
+                    ],
+                    "text_description": "정서: 내년 3월에는 6학년이 될 거야. 해일: 지금은 오후 4사니까 1시간 후에는 6시가 될 거야. 수연: 내일 전학 오는 학생은 여학생일 거야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.75,
+                            230.75,
+                            73.72,
+                            250.54
+                        ]
+                    ],
+                    "text_description": "해일"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.76,
+                            262.42,
+                            664.93,
+                            360.73
+                        ]
+                    ],
+                    "text_description": "정서: 현재 5학년이기 때문에 내년 3월에 6학년이 될 가능성은 '확실하다'입니다. 해일: 오후 4시에서 1시간 후는 5시이므로 1시간 후에 6시가 될 가능성은 '불가능하다'입니다. 수연: 내일 전학 오는 학생이 여학생일 가능성은 '반반이다'입니다."
+                }
+            ]
+        }
+    ]
+}

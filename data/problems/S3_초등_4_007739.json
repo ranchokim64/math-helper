@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9d7eb3d-e5ea-4fbe-b5ff-7b19fc854935",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007739",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.51,
+                            3.4,
+                            846.76,
+                            72.15
+                        ]
+                    ],
+                    "text_description": "어느 헬스장에 월별로 등록된 회원 수를 조사하여 나타낸 꺾은선그래프입니다. 회원 수가 점점 줄어들고 있는 것은 남자와 여자 중 어느 쪽인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.51,
+                            82.15,
+                            848.01,
+                            359.65
+                        ]
+                    ],
+                    "text_description": "남자 회원 수 : 가로가 월이고 세로가 회원수이다. 3월에서 4월에는 증가하다가 5월에 감소하더니 6월에 증가하였다. 여자 회원 수 : 가로가 월이고 세로가 회원수이다. 3월에서 4월에 감소하다가 5월에 일정하더니 6월에 다시 감소한다. (남자, 여자)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.76,
+                            372.87,
+                            100.51,
+                            397.87
+                        ]
+                    ],
+                    "text_description": "여자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.26,
+                            416.62,
+                            488.01,
+                            442.87
+                        ]
+                    ],
+                    "text_description": "선이 내려가는 그래프는 여자 회원 수입니다."
+                }
+            ]
+        }
+    ]
+}

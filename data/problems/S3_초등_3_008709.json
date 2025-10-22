@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fca74bc5-e578-48e1-9394-cde554d1587b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008709",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.5,
+                            12.42,
+                            770.5,
+                            42.42
+                        ]
+                    ],
+                    "text_description": "안에 공통으로 들어갈 선분으로 알맞은 것은 무엇인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            380.5,
+                            45.42,
+                            565.5,
+                            221.42
+                        ]
+                    ],
+                    "text_description": "정원형에 중심 ㅇ가 있고 선분 ㄱㄴ, ㄷㄹ, ㅁㅂ, ㅅㅈ이 잇습니다. ㅁㅂ은 점 ㅇ를 지납니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.7,
+                            219,
+                            855.18,
+                            358.64
+                        ]
+                    ],
+                    "text_description": "선분 $\\square$은 원 안에 그을 수 있는 가장 긴 선분입니다. $\\Rightarrow$ 원의 지름은 선분 $\\square$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            410,
+                            100.5,
+                            434
+                        ]
+                    ],
+                    "text_description": "③ ㅁ ㅂ"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.5,
+                            368,
+                            99.5,
+                            391
+                        ]
+                    ],
+                    "text_description": "① ㄱㄴ"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            470.5,
+                            365,
+                            549.5,
+                            435
+                        ]
+                    ],
+                    "text_description": "②ㄷㄹ ④ㅅㅈ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            500,
+                            761.5,
+                            528
+                        ]
+                    ],
+                    "text_description": "지름은 원 안에 그을 수 있는 가장 긴 선분이므로 선분 ㅁㅂ입니다."
+                }
+            ]
+        }
+    ]
+}

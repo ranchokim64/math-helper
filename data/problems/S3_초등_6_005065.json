@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b25fa874-e323-4eb1-b794-1a43cf7a3d89",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005065",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.49,
+                            22.46,
+                            441.2,
+                            64.05
+                        ]
+                    ],
+                    "text_description": "보기와 같이 계산해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            165.35,
+                            132.76999999999998,
+                            596.91,
+                            200.77
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{4} \\div \\frac{5}{8}=\\frac{6}{8} \\div \\frac{5}{8}=6 \\div 5=\\frac{6}{5}=1 \\frac{1}{5}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.9,
+                            241.66,
+                            165.74,
+                            311.88
+                        ]
+                    ],
+                    "text_description": "② $\\frac{5}{8} \\div \\frac{2}{16}$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.02,
+                            84.48,
+                            688.94,
+                            231.94
+                        ]
+                    ],
+                    "text_description": "보기\n\\[ \\frac{3}{4} \\div \\frac{5}{8}=\\frac{6}{8} \\div \\frac{5}{8}=6 \\div 5=\\frac{6}{5}=1 \\frac{1}{5} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.22,
+                            324.68,
+                            274.82,
+                            393.73
+                        ]
+                    ],
+                    "text_description": "$\\frac{10}{16} \\div \\frac{2}{16}=10 \\div 2=5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.37,
+                            402.43,
+                            582.95,
+                            459.26
+                        ]
+                    ],
+                    "text_description": "분모가 다른 (분수) $\\div$ (분수)의 계산을 할 때에는 통분하여 분자끼리 나눕니다."
+                }
+            ]
+        }
+    ]
+}

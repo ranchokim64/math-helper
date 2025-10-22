@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cc776c5a-aa0e-4697-9b07-385bc2bcb40a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012184",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            8.91,
+                            815.5,
+                            46.91
+                        ]
+                    ],
+                    "text_description": "어느 아이스크림 가게의 월별 판매량을 조사하여 나타낸ㄴ 표입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            200.5,
+                            450.5,
+                            235.5
+                        ]
+                    ],
+                    "text_description": "6월의 아이스크림 판매량은 몇 상자인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            60.91,
+                            757.5,
+                            183.91
+                        ]
+                    ],
+                    "text_description": "아이스크림 판매량 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 월 & 5월 & 6월 & 7 7월 & 8월 & 합계 \\\\ \\hline 판매량(상자) & 80 & & 140 & 160 & 480 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            800.5,
+                            253.5,
+                            875.5,
+                            280.5
+                        ]
+                    ],
+                    "text_description": "100 상자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            277.5,
+                            298.5,
+                            302.5
+                        ]
+                    ],
+                    "text_description": "480-80-140-160=100(상자)"
+                }
+            ]
+        }
+    ]
+}

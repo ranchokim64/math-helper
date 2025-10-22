@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ce271c2c-94fd-4455-aed1-3861b4280b93",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012100",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            13.92,
+                            536,
+                            140.92
+                        ]
+                    ],
+                    "text_description": "어느 자동차 공장에 승용차 834대, 트럭 697대가 있습니다. 이공장에 있는 승용차와 트럭은 모두 몇 대일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            382.72,
+                            167.33,
+                            462.72,
+                            195.33
+                        ]
+                    ],
+                    "text_description": "1531대"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            203.5,
+                            225,
+                            230.5
+                        ]
+                    ],
+                    "text_description": "$834+697=1531$ (대)"
+                }
+            ]
+        }
+    ]
+}

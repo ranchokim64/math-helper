@@ -1,0 +1,120 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1048f888-1dad-4997-b12c-95d322943e5d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011432",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41,
+                            6.92,
+                            1158,
+                            91.92
+                        ]
+                    ],
+                    "text_description": "다음은 원기둥의 전개도입니다. 원기둥의 밑면의 반지름은 몇 cm 인가요? (원주율: 3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            412,
+                            105.92,
+                            795,
+                            384.92
+                        ]
+                    ],
+                    "text_description": "원기둥의 전개도 입니다. 가로 49. 6cm 세로 11cm 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            774,
+                            400.5,
+                            875,
+                            432.5
+                        ]
+                    ],
+                    "text_description": "③ 8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            400.5,
+                            523,
+                            484.5
+                        ]
+                    ],
+                    "text_description": "① 6cm ② 7cm ④ 10cm ⑤ 11cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19,
+                            562.5,
+                            1054,
+                            724.5
+                        ]
+                    ],
+                    "text_description": "원기둥의 밑면인 원의 원주는 원기둥의 옆면인 직사각형의 가로와 같습니다. 원읜 반지름을 $\\square$cm라고 하면 $2 \\times \\square 3. 1 = 49. 6, \\square =8$입니다. 따라서 원기둥의 밑면의 반지름은 8cm 입니다."
+                }
+            ]
+        }
+    ]
+}

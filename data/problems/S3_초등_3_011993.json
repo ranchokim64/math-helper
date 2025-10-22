@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0540edfa-637d-4c5e-8f1f-25925dd4eb40",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011993",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.18,
+                            10.3,
+                            709.12,
+                            116.8
+                        ]
+                    ],
+                    "text_description": "다음 계산에서 숫자 9가 나타내는 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            250.35,
+                            152.09,
+                            483.52,
+                            399.12
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}32 \\\\ \\times \\quad 3 \\\\ \\hline 96\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            533.93,
+                            434.41,
+                            583.72,
+                            469.07
+                        ]
+                    ],
+                    "text_description": "$90$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.689999999999998,
+                            484.83,
+                            633.5,
+                            522.01
+                        ]
+                    ],
+                    "text_description": "$30 \\times 3=90$ 이므로 숫자 9가 나타내는 수는 90입니다."
+                }
+            ]
+        }
+    ]
+}

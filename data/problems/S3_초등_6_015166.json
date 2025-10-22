@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b2a540c3-d96c-4a8e-b663-fdbbe46f1500",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_015166",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.22,
+                            16.4,
+                            584.22,
+                            93.4
+                        ]
+                    ],
+                    "text_description": "다음 중 나눗셈의 몫이 가장 큰 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            235.22,
+                            116.4,
+                            370.22,
+                            189.4
+                        ]
+                    ],
+                    "text_description": "② $\\frac{5}{8} \\div \\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.22,
+                            116.4,
+                            197.22,
+                            270.4
+                        ]
+                    ],
+                    "text_description": "① $\\frac{5}{8} \\div \\frac{9}{8}$ ④ $\\frac{5}{8} \\div 2$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            233.22,
+                            201.01,
+                            371.22,
+                            270.01
+                        ]
+                    ],
+                    "text_description": "⑤ $\\frac{5}{8} \\div \\frac{2}{3}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            408.22,
+                            116.01,
+                            526.22,
+                            188.01
+                        ]
+                    ],
+                    "text_description": "③ $\\frac{5}{8} \\div 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.22,
+                            278.01,
+                            583.22,
+                            334.01
+                        ]
+                    ],
+                    "text_description": "나누어지는 수가 같으면 나누는 수가 작을수록 몫이 커집니다."
+                }
+            ]
+        }
+    ]
+}

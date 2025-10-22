@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6aad1623-61bc-4b36-8383-14d5d0a91870",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009614",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.16,
+                            4.140000000000001,
+                            452.56,
+                            38.62
+                        ]
+                    ],
+                    "text_description": "다음 중 계산 결과가 $3 \\frac{2}{9} \\times 4$와 다른 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.56,
+                            96.86,
+                            107.6,
+                            130.78
+                        ]
+                    ],
+                    "text_description": "④ $3+\\frac{2 \\times 4}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.92,
+                            50.22,
+                            435.28,
+                            85.98
+                        ]
+                    ],
+                    "text_description": "① $3 \\frac{2}{9}+3 \\frac{2}{9}+3 \\frac{2}{9}+3 \\frac{2}{9} \\quad$ ② $(3 \\times 4)+\\left(\\frac{2}{9} \\times 4\\right) \\quad$ ③ $\\frac{29}{9} \\times 4$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            205.88,
+                            103.62,
+                            251.88,
+                            126.58
+                        ]
+                    ],
+                    "text_description": "⑤ $12+\\frac{8}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.04,
+                            173.02,
+                            463.44,
+                            285.66
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{aligned} 3 \\frac{2}{9} \\times 4 & =\\frac{3 \\frac{2}{9}+3 \\frac{2}{9}+3 \\frac{2}{9}+3 \\frac{2}{9}}{①}=\\frac{(3 \\times 4)+\\left(\\frac{2}{9} \\times 4\\right)}{②}=\\frac{12+\\frac{8}{9}}{⑤} \\\\ \\text { 또는 } 3 \\frac{2}{9} \\times 4 & =\\frac{\\frac{29}{9} \\times 4}{③} \\end{aligned} \\]"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f4c8cc40-46a9-4682-9a5d-3e7bc8132e3a",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016964",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.92,
+                            0.75,
+                            144.58,
+                            47.86
+                        ]
+                    ],
+                    "text_description": "다음 계산을 하세요. \\[ 83 \\times 7 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.99,
+                            54.8,
+                            58.56,
+                            74.77
+                        ]
+                    ],
+                    "text_description": "① 581"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.97,
+                            78.35,
+                            59.58,
+                            147.47
+                        ]
+                    ],
+                    "text_description": "② 590 ③ 600 ④ 570"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.36,
+                            161.81,
+                            99.52,
+                            181.78
+                        ]
+                    ],
+                    "text_description": "$83 \\times 7=581$"
+                }
+            ]
+        }
+    ]
+}

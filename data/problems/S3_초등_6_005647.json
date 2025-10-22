@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1dd4b334-b8f9-4a8c-8046-7950b60f0cce",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005647",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.18,
+                            15.37,
+                            684.66,
+                            101.05
+                        ]
+                    ],
+                    "text_description": "몫을 어림해 보고 알맞은 식을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.46,
+                            124.73,
+                            686.74,
+                            259.13
+                        ]
+                    ],
+                    "text_description": "상자에 다음과 같은 내용이 들어 있다 ㉠ $33. 84 \\div 4=846$ ㉡ $33. 84 \\div 4=84. 6$ ㉢ $33. 84 \\div 4=8. 46$ ㉣ $33. 84 \\div 4=0. 846$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            499.98,
+                            294.22,
+                            530.9,
+                            324.9
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.54,
+                            352.1,
+                            686.74,
+                            413.74
+                        ]
+                    ],
+                    "text_description": "33. 84를 소수 첫째 자리에서 반올림하면 34입니다. $34 \\div 4$의 몫은 8보다 크고 9보다 작은 수이므로 $33. 84 \\div 4=8. 46$ 입니다."
+                }
+            ]
+        }
+    ]
+}

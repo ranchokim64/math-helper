@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "58077709-07ae-47e3-81d7-76b0922fc60d",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003039",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.81,
+                            10.98,
+                            558.57,
+                            39.78
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 알맞은 수가 더 작은 나눗셈을 들고 있는 친구의 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.85,
+                            49.73,
+                            388.33,
+                            259.01
+                        ]
+                    ],
+                    "text_description": "시우: $\\frac{7}{8} \\div \\frac{3}{4}=1 \\frac{1}{\\square}$2 예지: $\\frac{2}{9} \\div \\frac{\\square}{11}=\\frac{11}{18}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.57,
+                            369.09,
+                            54.89,
+                            392.77
+                        ]
+                    ],
+                    "text_description": "예지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.09,
+                            264.13,
+                            518.25,
+                            354.37
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 시우: } \\frac{7}{8} \\div \\frac{3}{4}=\\frac{7}{8} \\div \\frac{6}{8}=7 \\div 6=\\frac{7}{6}=1 \\frac{1}{6} \\Rightarrow \\square=6 \\\\ \\text { 예지: } \\frac{\\square}{11}=\\frac{2}{9} \\div \\frac{11}{18}=\\frac{4}{18} \\div \\frac{11}{18}=4 \\div 11=\\frac{4}{11} \\Rightarrow \\square=4\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

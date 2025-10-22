@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ee187d73-dc96-4b3a-a431-816a12eb5e00",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005531",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.9,
+                            8.34,
+                            155.3,
+                            45.14
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.1,
+                            70.74,
+                            273.7,
+                            227.54
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{7} \\div 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.7,
+                            374.4,
+                            222.5,
+                            488.8
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{35}\\left(=\\frac{1}{7}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.1,
+                            248,
+                            567.3,
+                            352
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{7} \\div 5=\\frac{5}{7} \\times \\frac{1}{5}=\\frac{5}{35}\\left(=\\frac{1}{7}\\right)$"
+                }
+            ]
+        }
+    ]
+}

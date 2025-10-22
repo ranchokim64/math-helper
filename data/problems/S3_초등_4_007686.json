@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1db819b9-c415-4ae7-a0fa-32b5f98cff2c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007686",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.78,
+                            3.74,
+                            538.78,
+                            36.74
+                        ]
+                    ],
+                    "text_description": "두 직선이 서로 평행한 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.78,
+                            38.27,
+                            433.78,
+                            133.27
+                        ]
+                    ],
+                    "text_description": "② 평행하는 두 직선이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.78,
+                            300.27,
+                            620.78,
+                            333.27
+                        ]
+                    ],
+                    "text_description": "아무리 길게 늘여도 서로 만나지 않는 두 직선은 ②입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.78,
+                            41.27,
+                            128.78,
+                            252.27
+                        ]
+                    ],
+                    "text_description": "① 두 직선이 있다. ④ 두 직선이 한 점에서 만난다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.78,
+                            137.27,
+                            437.78,
+                            221.27
+                        ]
+                    ],
+                    "text_description": "⑤ 두 직선이 교차된다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            562.78,
+                            37.27,
+                            679.78,
+                            147.27
+                        ]
+                    ],
+                    "text_description": "③ 두 직선이 직각을 이룬다."
+                }
+            ]
+        }
+    ]
+}

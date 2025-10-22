@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "37183580-132e-4ce5-8b28-d24fd25c3822",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004829",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.78,
+                            8.15,
+                            495.22,
+                            113.11
+                        ]
+                    ],
+                    "text_description": "4일 동안 어느 박물관의 입장객 수를 나타낸 표 입니다. 하루 입장객 수는 평균 몇 명인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.36,
+                            120.28,
+                            495.73,
+                            258.01
+                        ]
+                    ],
+                    "text_description": "4일 동안 어느 박물관의 입장객 수를 나타낸 표"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            354.42,
+                            277.76,
+                            412.78,
+                            302.34
+                        ]
+                    ],
+                    "text_description": "185명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.58,
+                            304.96,
+                            386.54,
+                            351.68
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { 평귱} & =(\\text { 자료의 값을 모두 더한 수 }) \\div(\\text { 자료의 수 }) \\\\ & =(160+180+280+120) \\div 4\\end{aligned}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.58,
+                            352.96,
+                            261.1,
+                            377.92
+                        ]
+                    ],
+                    "text_description": "$=740 \\div 4=185$(명)"
+                }
+            ]
+        }
+    ]
+}

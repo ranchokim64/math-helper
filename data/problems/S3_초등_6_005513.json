@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "358fea46-9947-42d3-9cd0-92552fb55050",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005513",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            1.92,
+                            529,
+                            120.92
+                        ]
+                    ],
+                    "text_description": "$35.6kg$의 설탕을 한 봉지에 $4kg$씩 나누어 포장하려고 합니다. 포장할 수 있는 것은 몇 봉지이고 남는 설탕은 몇 $kg$인가요 ?."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15,
+                            272.4,
+                            278,
+                            305.4
+                        ]
+                    ],
+                    "text_description": "$8$봉지, $3.6kg$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            143.4,
+                            123,
+                            252.4
+                        ]
+                    ],
+                    "text_description": "$ \\begin{array}{rrrr} & 8 \\\\ \\hline 4) & 35. 6 \\\\ \\hline &32 \\\\ \\hline & 3. 6 \\end{array} $"
+                }
+            ]
+        }
+    ]
+}

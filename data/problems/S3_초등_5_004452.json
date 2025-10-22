@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a942958e-4cc8-46ed-a126-c7b9d644741c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004452",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            14.92,
+                            435,
+                            121.92
+                        ]
+                    ],
+                    "text_description": "가로, 세로가 $20 \\mathrm{~cm}, 15 \\mathrm{~cm}$ 인 직사각형 모양의 종이에 폭이 $1 \\mathrm{cm}$ 인 테이프를 그림과 같이 붙였습니다. 테이프를 붙인 부분을 제외한 종이의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123,
+                            134.5,
+                            366,
+                            272.5
+                        ]
+                    ],
+                    "text_description": "가로, 세로가 각각 $20cm$, $15cm$인 직사각형에 폭이 $1$인 테이프라 십자가 모양으로 붙어 있다 $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            300,
+                            295.5,
+                            374,
+                            317.5
+                        ]
+                    ],
+                    "text_description": "$266 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72,
+                            326.5,
+                            332,
+                            367.5
+                        ]
+                    ],
+                    "text_description": "(테이프를 붙인 부분을 제외한 종이의 넓이) \\[ =(20-1) \\times(15-1)=19 \\times 14=266\\left(\\mathrm{~cm}^{2}\\right) \\]"
+                }
+            ]
+        }
+    ]
+}

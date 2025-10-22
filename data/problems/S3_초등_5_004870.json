@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a6627037-53dc-4436-9f57-5fd543f8a217",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004870",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.34,
+                            4.82,
+                            393.3,
+                            95.4
+                        ]
+                    ],
+                    "text_description": "8장의 카드 중 한 장을 뽑을 때 ♠모양의 카드를 뽑을 가능성을 말로 표현해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.58,
+                            101.03,
+                            385.64,
+                            164.52
+                        ]
+                    ],
+                    "text_description": "♠모양의 카드 4장과 ♣모양의 카드 4장이 섞여있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            260.2,
+                            173.02,
+                            327.78,
+                            193.5
+                        ]
+                    ],
+                    "text_description": "반반이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.24,
+                            200.66,
+                            391.78,
+                            274.39
+                        ]
+                    ],
+                    "text_description": "♠모양의 카드가 4장이므로 카드 8장 중 한 장을 뽑을 때 모양의 ♠카드를 뽑을 가능성이 '반반이다'입니다."
+                }
+            ]
+        }
+    ]
+}

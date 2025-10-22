@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ebcdef44-b267-4313-a2e1-76773e615e7a",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002777",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-10] ‘(자연수)÷(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-10] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.9,
+                            13.84,
+                            216.3,
+                            37.84
+                        ]
+                    ],
+                    "text_description": "마름모의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            210.7,
+                            58.24,
+                            423.5,
+                            189.04
+                        ]
+                    ],
+                    "text_description": "두 대각선의 길이가 3cm, 5cm인 마름모 평면도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.3,
+                            361.9,
+                            284.9,
+                            421.5
+                        ]
+                    ],
+                    "text_description": "$(\\left. 7 \\frac{1}{2}\\left(=\\frac{15}{2}\\right) \\quad\\right) \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.3,
+                            258.3,
+                            568.9,
+                            336.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 마름모의 넓이 }) & =(\\text { 한 대각선의 길이 }) \\times(\\text { 다른 대각선의 길이 }) \\div 2 \\\\ & =5 \\times 3 \\div 2=15 \\div 2=\\frac{15}{2}=7 \\frac{1}{2}\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d183f314-63fc-419f-af15-c1f3a31f33d6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011124",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            7.92,
+                            871.5,
+                            70.92
+                        ]
+                    ],
+                    "text_description": "[보기]의 모양에 쌓기나무 1 개를 붙여서 만들 수 있는 모양이 아닌 것을 선 택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            347.5,
+                            79.92,
+                            554.5,
+                            204.92
+                        ]
+                    ],
+                    "text_description": "한 개 두 개 한 개 모양"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            249.5,
+                            207.5,
+                            651.5,
+                            300.5
+                        ]
+                    ],
+                    "text_description": "한개 3개 한개, 두 개 두개, 한개, 3개 두개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            315.5,
+                            156.5,
+                            416.5
+                        ]
+                    ],
+                    "text_description": "3개 두개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.5,
+                            422.5,
+                            302.5,
+                            524.5
+                        ]
+                    ],
+                    "text_description": "나머지 두개는 1개를 붙여서 만들 수 있는 모양이다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "51c8f54c-329a-48e4-875b-c1465493102c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004435",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            13.92,
+                            436,
+                            62.92
+                        ]
+                    ],
+                    "text_description": "다음 정사각형에서 색칠한 부분의 넓이를 구해 보 세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188,
+                            75.92,
+                            301,
+                            188.92
+                        ]
+                    ],
+                    "text_description": "정사각형에 점슨으로 된 대각선이 있고 꼭맞기 들어간 기울어진 마름모가 있다$. $여백은 $3cm$이고 안쪽 가로의 길이는 $6cm$이다$. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            306,
+                            206.5,
+                            369,
+                            224.5
+                        ]
+                    ],
+                    "text_description": "$36 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71,
+                            237.5,
+                            369,
+                            313.5
+                        ]
+                    ],
+                    "text_description": "정사각형은 마름모이므로 (정사각형의 넓이) $=12 \\times 12 \\, \\div 2=72\\left(\\mathrm{~cm}^{2}\\right)$ (색칠하지 않은 부분의 넓이) $=12 \\times 6 \\div 2=36\\left(\\mathrm{~cm}^{2}\\right)$ $\\Rightarrow($ 색칠한 부분의 넓이 $)=72-36=36\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

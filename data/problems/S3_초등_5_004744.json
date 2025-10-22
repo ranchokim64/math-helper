@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "72dfedd9-ca96-4beb-a79a-62ee95dfaf61",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004744",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.25,
+                            5.16,
+                            504.75,
+                            77.66
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 소수 두 자리 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            143.75,
+                            105.16,
+                            410.25,
+                            129.16
+                        ]
+                    ],
+                    "text_description": "$2. 37 \\times 4. 5<\\square<26. 7 \\times 0. 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            360,
+                            166.88,
+                            417.75,
+                            189.63
+                        ]
+                    ],
+                    "text_description": "$10. 67$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.25,
+                            198.63,
+                            404.75,
+                            252.13
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}2.37 \\times 4.5=10.665 .26 .7 \\times 0.4=10.68 \\\\ \\rightarrow 10.665<10.67<10.68\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

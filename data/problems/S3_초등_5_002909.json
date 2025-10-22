@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "63c9f315-cc90-42ae-9156-aac5fc631acb",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002909",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.33,
+                            10.26,
+                            489.33,
+                            40.26
+                        ]
+                    ],
+                    "text_description": "$0. 41 \\times 0. 5$의 값을 바르게 어림한 것을 찾아 $\\bigcirc$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.33,
+                            58.26,
+                            676.33,
+                            178.26
+                        ]
+                    ],
+                    "text_description": "0. 205 (), 2. 05 (), 20. 5 ()"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.33,
+                            190.69,
+                            704.33,
+                            308.69
+                        ]
+                    ],
+                    "text_description": "0. 205"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.33,
+                            313.89,
+                            762.33,
+                            368.89
+                        ]
+                    ],
+                    "text_description": "$0. 41 \\times 0. 5$를 0. 4의 0. 5로 어림하면 0. 4의 반은 0. 2이므로 계산 결과는 0. 2에 가깝습니다."
+                }
+            ]
+        }
+    ]
+}

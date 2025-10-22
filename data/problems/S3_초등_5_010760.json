@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "80dce7f9-14c1-43a9-90f3-12baf6761ee6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010760",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.77,
+                            1.74,
+                            594.77,
+                            55.74
+                        ]
+                    ],
+                    "text_description": "$\\frac{12}{16}$를 바르게 약분한 사람의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            357.77,
+                            186.28,
+                            533.77,
+                            220.28
+                        ]
+                    ],
+                    "text_description": "(현지, 민호)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            151.77,
+                            57.28,
+                            742.77,
+                            186.28
+                        ]
+                    ],
+                    "text_description": "현지: 분모와 분자에 각각 공약수 2를 곱하니 $\\frac{24}{32}$가 되었어. 민호: 분모와 분자를 각각 공약수 4로 나누니 $\\frac{3}{4}$이 되었어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.77,
+                            236.28,
+                            93.77,
+                            263.28
+                        ]
+                    ],
+                    "text_description": "민호"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.77,
+                            277.28,
+                            869.77,
+                            338.28
+                        ]
+                    ],
+                    "text_description": "현지: 약분을 한 것이 아니라 분모와 분자에 각각 0이 아닌 같은 수를 곱하여 크기가 같은 분수를 만들었습니다."
+                }
+            ]
+        }
+    ]
+}

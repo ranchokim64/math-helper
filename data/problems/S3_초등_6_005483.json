@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "18caf953-5a7f-43c0-89a5-5466ef0d282b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005483",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            13.42,
+                            444.5,
+                            113.42
+                        ]
+                    ],
+                    "text_description": "지름이 2.4cm인 100원짜리 동전을 7바퀴 굴렸습니다. 동전이 굴러간 거리는 몇 cm인지 소수로 나타내어 보세요. (원주율: 3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            285.26,
+                            133.04,
+                            379.47,
+                            155.57
+                        ]
+                    ],
+                    "text_description": "$52.08cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            168,
+                            380.5,
+                            190
+                        ]
+                    ],
+                    "text_description": "(동전이 굴러간 거리) $=2. 4 \\times 3. 1 \\times 7=52. 08(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

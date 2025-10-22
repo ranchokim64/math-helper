@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6ea48c75-8f48-4fc2-af1f-a931a18d04c1",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002964",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            5.9,
+                            469,
+                            31.9
+                        ]
+                    ],
+                    "text_description": "16을 두 수의 곱으로 나타내고 약수와 배수의 관계를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            145,
+                            144.9,
+                            512,
+                            223.9
+                        ]
+                    ],
+                    "text_description": "$\\qquad$은/는 16의 약수이고, 16은 $\\qquad$의 배수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83,
+                            71.9,
+                            559,
+                            110.9
+                        ]
+                    ],
+                    "text_description": "$16=1 \\times \\square \\quad 16=\\square \\times 8 \\quad 16=4 \\times \\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            296.9,
+                            429,
+                            381.9
+                        ]
+                    ],
+                    "text_description": "1, 2, 4, 8, 16은/는 16의 약수이고, 16은 1, 2, 4, 8, 16의 배수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            230.9,
+                            603,
+                            282.9
+                        ]
+                    ],
+                    "text_description": "\\[ 16=1 \\times 16, 16=2 \\times 8, 16=4 \\times 4 \\] $1, 2, 4, 8, 16$은 16의 약수이고 16은 $1, 2, 4, 8, 16$의 배수입니다."
+                }
+            ]
+        }
+    ]
+}

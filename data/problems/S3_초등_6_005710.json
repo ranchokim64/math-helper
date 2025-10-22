@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7d76f8b2-b095-4e57-be5f-1b2a5eeef6b6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005710",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.87,
+                            6.48,
+                            448.85,
+                            50.83
+                        ]
+                    ],
+                    "text_description": "세 사람이 축구 연습을하고 있습니다. 골 성공률이 높은 사람부터 차례로 이름을 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.01,
+                            74.18,
+                            431.74,
+                            144.61
+                        ]
+                    ],
+                    "text_description": "민석: 나의 골 성공률은 $56 \\%$ 야. 예한: 나는 공을 24 번 차서 골대에 12번 공을 넣었어. 석현: 나의 찬 횟수에 대한 골대에 넣은 골의 수의 비는 $11: 20$ 이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.11,
+                            284.41,
+                            210.61,
+                            307.85
+                        ]
+                    ],
+                    "text_description": "민석, 석현, 예한"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.51,
+                            158.22,
+                            397.53,
+                            271.74
+                        ]
+                    ],
+                    "text_description": "예한이의 골 성공률은 $\\frac{12}{24} \\times 100=50(\\%)$ 입니다. 석현이의 골 성공률은 $\\frac{11}{20} \\times 100=55(\\%)$ 입니다. 따라서 골 성공를이 높은 사람부티 이름을 쓰면 민석 석현 예한입나다."
+                }
+            ]
+        }
+    ]
+}

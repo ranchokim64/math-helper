@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b70d4019-96e9-4ae5-b27f-b2ad2ac5869c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010536",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            4.42,
+                            959.5,
+                            109.42
+                        ]
+                    ],
+                    "text_description": "A 지역의 2008년과 2018년의 주택 유형별 주택 수를 조사하여 각각 띠그래프로 나타냈습니다. 2018년에는 2008년보다 아파트의 비율이 늘었나요, 줄었나요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            322.5,
+                            297.42,
+                            664.5,
+                            331.42
+                        ]
+                    ],
+                    "text_description": "(늘었습니다, 줄었습니다)."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            174.5,
+                            120,
+                            808.5,
+                            291
+                        ]
+                    ],
+                    "text_description": "A 지역의 주택 유형별 주택 수의 띠그래프가 있다. 2008년에는 아파트가 30%, 단독주택이 28%, 기타가 42%를 차지했다 2018년에는 아파트가 45%, 단독주택이 21%, 기타가 34%를 차지했다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            343,
+                            189.5,
+                            379
+                        ]
+                    ],
+                    "text_description": "늘었습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            396,
+                            400.5,
+                            425
+                        ]
+                    ],
+                    "text_description": "2008년의 아파트의 비율: $30 \\%$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            431,
+                            374.5,
+                            459
+                        ]
+                    ],
+                    "text_description": "2018년의 아파트의 비율: $45 \\%$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            463,
+                            629.5,
+                            496
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow 2018$ 년에는 2008년보다 아파트의 비율이 늘었습니다."
+                }
+            ]
+        }
+    ]
+}

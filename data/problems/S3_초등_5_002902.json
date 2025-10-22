@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d51d0772-8121-44e1-b543-a1c7d8f13f9d",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002902",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            15.4,
+                            495,
+                            38.4
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 $6. 3 ~cm$인 정오각형의 둘레는 몇 $cm$일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            286,
+                            62.4,
+                            442,
+                            195.4
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 $6. 3 ~cm$인 오각형."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37,
+                            276.4,
+                            217,
+                            306.4
+                        ]
+                    ],
+                    "text_description": "$31. 5 ~cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            205.4,
+                            374,
+                            254.39999999999998
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 정오각형의 둘레 }) & =(\\text { 한 변의 길이 }) \\times 5 \\\\ & =6. 3 \\times 5=31. 5(\\mathrm{~cm})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

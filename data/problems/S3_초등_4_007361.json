@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "efdf9194-300a-4d9e-81b7-8abf345aafe4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007361",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.5,
+                            0.92,
+                            372.5,
+                            28.92
+                        ]
+                    ],
+                    "text_description": "정삼각형을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            214.06,
+                            35.76,
+                            369.15,
+                            184.9
+                        ]
+                    ],
+                    "text_description": "두 변의 길이가 $7cm$이고 나머지 한 변의 길이가 $8cm$인 삼각형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            487.85,
+                            32,
+                            655.29,
+                            192.86
+                        ]
+                    ],
+                    "text_description": "모든 변 길이가 $9cm$인 정삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.72,
+                            199.48,
+                            210.11,
+                            360.57
+                        ]
+                    ],
+                    "text_description": "모든 변 길이가 $9cm$인 정삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            367.5,
+                            286.5,
+                            389.5
+                        ]
+                    ],
+                    "text_description": "정삼각형은 세 변의 길이가 같습니다."
+                }
+            ]
+        }
+    ]
+}

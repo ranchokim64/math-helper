@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b7ac2ae1-8750-4f4e-bff3-d09cb45f5e44",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011165",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            -0.58,
+                            618,
+                            27.42
+                        ]
+                    ],
+                    "text_description": "비율이 $60: 84$와 같은 비를 모두 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127,
+                            32.42,
+                            763,
+                            109.42
+                        ]
+                    ],
+                    "text_description": "$5: 6$, $5: 7$, $30: 28$, $15: 21$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            123,
+                            148,
+                            147
+                        ]
+                    ],
+                    "text_description": "5:7, $15: 21$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            162,
+                            532,
+                            219
+                        ]
+                    ],
+                    "text_description": "60:84의 전항과 후항을 12로 나누면 $5: 7$이 됩니다. 60:84의 전항과 후항을 4로 나누면 $15: 21$이 됩니다."
+                }
+            ]
+        }
+    ]
+}

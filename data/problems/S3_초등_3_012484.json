@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b417efe1-bd96-4cf1-b711-1aa0b73317e8",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012484",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-05] 들이를 나타내는 표준 단위의 필요성을 인식하여 1L와 1mL의 단위를 알고, 이를 이용하여 들이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-17] 들이 단위 1L와 1mL를 알고, 이를 이용하여 들이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.76,
+                            20.07,
+                            421.96,
+                            77.67
+                        ]
+                    ],
+                    "text_description": "그림과 같은 그릇의 들이를 나타낼 때 L와 mL 중에서 알맞은 단위를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.36,
+                            92.87,
+                            112.36,
+                            173.67
+                        ]
+                    ],
+                    "text_description": "작은 컵 이미지가 있고 왼쪽 위에 ①로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.96,
+                            245.36,
+                            65.16,
+                            265.36
+                        ]
+                    ],
+                    "text_description": "mL"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.16,
+                            183.27,
+                            378.76,
+                            220.87
+                        ]
+                    ],
+                    "text_description": "컵은 적은 양을 나타내므로 mL를, 양동이는 많은 양을 나타내므로 L를 사용합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5f2dd1f2-b9e1-4ebb-b436-d4d2b9f51696",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008414",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.12,
+                            3.75,
+                            935.12,
+                            111.25
+                        ]
+                    ],
+                    "text_description": "효진이네 마을에서 일주일 동안 버려진 쓰레기 양을 조사하여 나타낸 막대그래 프입니다. 일주일 동안 버려진 쓰레기 양이 종이류의 2 배인 것은 무엇인가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            210.12,
+                            418.75,
+                            758.87,
+                            450
+                        ]
+                    ],
+                    "text_description": "(음식물, 플라스틱류, 병류, 종이류, 기타)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162.62,
+                            119.75,
+                            806.87,
+                            416.25
+                        ]
+                    ],
+                    "text_description": "일주일 동안 버려진 쓰레기 양의 막대그래프가 있다. 가로는 종류 세로는 쓰레기양(kg)이다. 음식물은 20, 플라스틱류는 12, 병류는 6, 종이류는 10, 기타는 8에 표시되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.12,
+                            461.25,
+                            133.87,
+                            500
+                        ]
+                    ],
+                    "text_description": "음식물"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.12,
+                            507.5,
+                            815.12,
+                            543.75
+                        ]
+                    ],
+                    "text_description": "종이류의 막대 길이는 5 칸이므로 10 칸인 막대를 찾으면 음식물입니다."
+                }
+            ]
+        }
+    ]
+}

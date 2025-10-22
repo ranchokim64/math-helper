@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "88ef214c-f953-4697-aa57-21251efbcc57",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010186",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.9,
+                            2.34,
+                            663.5,
+                            54.34
+                        ]
+                    ],
+                    "text_description": "예주네 학교와 병헌이네 학교의 운동장의 넓이와 학생 수는 다음과 같습니다. 바르게 비교한 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.7,
+                            166,
+                            619.5,
+                            224.4
+                        ]
+                    ],
+                    "text_description": "㉠ 예주네 학교 학생들이 운동장을 더 넓게 사용할 수 있습니다. ㉡ 병헌이네 학교 학생들이 운동장을 더 넓게 사용할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.7,
+                            55.6,
+                            609.1,
+                            158.8
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|c|} \\hline & 예주네 학교 & 병헌이네 학교 \\\\ \\hline 운동장의 넓이 $\\left(\\mathrm{m}^{2}\\right)$ & 9000 & 10400 \\\\ \\hline 학생 수(명) & 600 & 800 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.3,
+                            240.4,
+                            61.1,
+                            265.2
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.9,
+                            276.4,
+                            664.3,
+                            424.4
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text { (예주네 학교 학생 한 명이 사용할 수 있는 운동장의 넓이) } \\\\ =9000 \\div 600=15\\left(\\mathrm{~m}^{2}\\right) \\\\ \\text { (병헌이네 학교 학생 한 명이 사용할 수 있는 운동장의 넓이) } \\\\ =10400 \\div 800=13\\left(\\mathrm{~m}^{2}\\right) \\\\ 15>13 \\text { 이므로 예주네 학교 학생들이 운동장을 더 넓게 사용할 수 있습니다. } \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

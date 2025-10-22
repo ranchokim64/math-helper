@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df05a33e-fff3-4a16-85f7-005782a05fd0",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004887",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.77,
+                            11.74,
+                            462.77,
+                            78.74
+                        ]
+                    ],
+                    "text_description": "직육면체의 전개도가 아닌 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.77,
+                            89.28,
+                            440.77,
+                            332.28
+                        ]
+                    ],
+                    "text_description": "가: 직육면체 전개도 다: 직육면체 전개도 나: 직육면체 전개도 라: 한 면이 부족한 전개도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            335.77,
+                            343.28,
+                            358.77,
+                            369.28
+                        ]
+                    ],
+                    "text_description": "라"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.77,
+                            377.28,
+                            385.77,
+                            405.28
+                        ]
+                    ],
+                    "text_description": "라: 면이 5개이므로 직육면체의 전개도가 아닙니다."
+                }
+            ]
+        }
+    ]
+}

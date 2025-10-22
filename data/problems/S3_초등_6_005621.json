@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f89675d5-a5c5-4c7c-ab0b-b8e386b7682e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005621",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.27,
+                            11.74,
+                            520.27,
+                            86.74
+                        ]
+                    ],
+                    "text_description": "다음 전개도로 만들 수 있는 입체도형은 무엇인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            165.27,
+                            92.28,
+                            368.27,
+                            295.28
+                        ]
+                    ],
+                    "text_description": "삼각기둥의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            347.27,
+                            315.28,
+                            434.27,
+                            349.28
+                        ]
+                    ],
+                    "text_description": "삼각기둥"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.27,
+                            359.28,
+                            521.27,
+                            385.28
+                        ]
+                    ],
+                    "text_description": "두 밑면이 합동인 삼각형이고 옆면이 직사각형이므로 삼각기둥입"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.27,
+                            386.28,
+                            133.27,
+                            413.28
+                        ]
+                    ],
+                    "text_description": "니다."
+                }
+            ]
+        }
+    ]
+}

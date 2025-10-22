@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2e77cea9-8375-494b-be32-e481a7ddce1a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007948",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고 수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.66,
+                            10.56,
+                            932.63,
+                            74.8
+                        ]
+                    ],
+                    "text_description": "수직선을 보고 28300과 28600의 크기를 비교하여 알맞은 수를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.96,
+                            181.34,
+                            911.41,
+                            251.31
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { 수직선에서 오른쪽에 위치한 수가 왼쪽에 위치한 수보다 더 큰 수이므로 } \\\\ (28300, 28600) \\text { 이 더 큰 수입니다. }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.69,
+                            85.65,
+                            952.78,
+                            151.66
+                        ]
+                    ],
+                    "text_description": "수직선의 양끝이 왼 끝은 작은 수, 오른 끝은 큰 수라고 표시된다. 수직선은 눈금이 표시되고 28100, 28500, 29000을 나타내고 그 사이에 네 개의 눈금이 있다. 28300과 28600이 수직선 눈금에 점으로 표시돼 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.75999999999999,
+                            274.46,
+                            124.16,
+                            293.52
+                        ]
+                    ],
+                    "text_description": "$28600$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.72,
+                            313.94,
+                            748.93,
+                            330.97
+                        ]
+                    ],
+                    "text_description": "수직선에서 오른쪽에 위치한 수가 왼쪽에 위치한 수보다 더 큰 수이므로 28600이 더 큰 수입니다."
+                }
+            ]
+        }
+    ]
+}

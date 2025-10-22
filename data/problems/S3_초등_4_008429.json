@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "42cfb251-c930-41b1-bfb4-e4dcdb0c0580",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008429",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.75,
+                            0.75,
+                            929.75,
+                            73.25
+                        ]
+                    ],
+                    "text_description": "다음은 어느 지역 병원별 하루 동안 태어난 신생아 수를 조사하여 나타낸 막대그래프입니다. 신생아 수가 가장 적은 병원을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            278.5,
+                            380.75,
+                            674.75,
+                            413.25
+                        ]
+                    ],
+                    "text_description": "(하늘, 바른, 가나, 진주) 병원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            261,
+                            83.25,
+                            699.75,
+                            380.75
+                        ]
+                    ],
+                    "text_description": "병원별 태어난 신생아 수의 막대그래프이다. 가로는 병원, 세로는 신생아 수(명)이다. 하늘은 4, 바른은 7, 가나는 3, 진주는 5를 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            428.25,
+                            107.25,
+                            457
+                        ]
+                    ],
+                    "text_description": "가나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            473.25,
+                            517.25,
+                            508.25
+                        ]
+                    ],
+                    "text_description": "막대의 길이가 가장 짧은 가나 병원입니다."
+                }
+            ]
+        }
+    ]
+}

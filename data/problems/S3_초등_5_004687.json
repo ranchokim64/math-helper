@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "936fa392-14bc-490f-a7ee-64ea8d8feb1c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004687",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-02] 합동인 두 도형에서 대응점, 대응변, 대응각을 각각 찾고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42,
+                            20.5,
+                            455,
+                            49.5
+                        ]
+                    ],
+                    "text_description": "두 삼각형은 서로 합동입니다. 물음에 답하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36,
+                            92.92,
+                            448,
+                            229.92
+                        ]
+                    ],
+                    "text_description": "서로 합동인 두 삼각형이 있으며, 첫번째 삼각형은 ㄱ, ㄴ, ㄷ의 꼭지점으로 이루어져있다. ㄱㄴ은 4cm, ㄱㄷ은 10cm이며 각ㄱ은 130도, 각 ㄴ은 35도이다. 두번째 삼각형은 ㄹㅁㅂ의 꼭지점으로 이루어져있으며, ㅁㄹ이 12cm이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66,
+                            265.5,
+                            293,
+                            295.5
+                        ]
+                    ],
+                    "text_description": "변 ㄴㄷ은 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            348,
+                            310.5,
+                            410,
+                            339.5
+                        ]
+                    ],
+                    "text_description": "12cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84,
+                            343.5,
+                            366,
+                            390.5
+                        ]
+                    ],
+                    "text_description": "합동인 도형에서 대응변의 길이는 같으므로 (변 ㄴㄷ)=(변 ㅁㄹ) $=12 \\mathrm{~cm}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

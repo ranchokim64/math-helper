@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aff683f9-7add-444e-8dff-eb213dbb740a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008094",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-13] 주어진 각도와 크기가 같은 각을 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            7.42,
+                            930,
+                            77.42
+                        ]
+                    ],
+                    "text_description": "2. 다음 시계의 시각에서 30분 후에 시계의 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 예각, 직각, 둔각 중 어느 것인지 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            352,
+                            247,
+                            605,
+                            280
+                        ]
+                    ],
+                    "text_description": "(예각, 직각, 둔각)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            401,
+                            86.42,
+                            560,
+                            241.42
+                        ]
+                    ],
+                    "text_description": "시계가 4시 30분을 가리키고 있는 삽화이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            296,
+                            106,
+                            326
+                        ]
+                    ],
+                    "text_description": "둔각"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            343,
+                            930,
+                            480
+                        ]
+                    ],
+                    "text_description": "시계가 나타내는 시각은 4시 30분이므로 30분 후의 시각은 5시 입니다. 이 시각은 짧은 바늘이 5를 가리키고, 긴 바늘이 12를 가리킵니다. 따라서 5시는 긴바늘과 짧은 바늘이 이루는 작은 쪽의 각의 크기가 직각보다 크고 180°보다 작으므로 둔각입니다."
+                }
+            ]
+        }
+    ]
+}

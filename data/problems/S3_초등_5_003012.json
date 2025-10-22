@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2c01ff03-12d9-4f64-81ae-e4d5755e9267",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003012",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.4,
+                            9.77,
+                            267.4,
+                            36.77
+                        ]
+                    ],
+                    "text_description": "다각형의 둘레를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.2,
+                            73.4,
+                            323.2,
+                            174.2
+                        ]
+                    ],
+                    "text_description": "두 변의 길이가 각각 3cm, 9cm인 평행사변형 평면도형."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94.28,
+                            274.27,
+                            242.28,
+                            304.27
+                        ]
+                    ],
+                    "text_description": "$24 \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.72,
+                            176.27,
+                            819.28,
+                            277.27
+                        ]
+                    ],
+                    "text_description": "평행사변형의 둘레: ((한 변의 길이) + (다른 한 변의 길이))$ \\times 2$ 이므로 $(9+3) \\times 2=24(\\mathrm{~cm})$ 입니다. $(9+3) \\times 2=24$ 또는 $9+3+9+3=24$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0b7a3708-ce17-4a97-b964-e9faa0992553",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010615",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            0.41,
+                            570,
+                            29.41
+                        ]
+                    ],
+                    "text_description": "문장을 식으로 바르게 나타낸 것은 어느 것인가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122,
+                            53.41,
+                            704,
+                            113.41
+                        ]
+                    ],
+                    "text_description": "한 상자에 6 개씩 들어 있는 음료수 4 상자를 한 사람에게 2 개씩 나누어 주려고 합니다. 몇 명에게 줄 수 있나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            411,
+                            144,
+                            524,
+                            169
+                        ]
+                    ],
+                    "text_description": "② $6 \\times 4 \\div 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            411,
+                            144,
+                            524,
+                            169
+                        ]
+                    ],
+                    "text_description": "② $6 \\times 4 \\div 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            294,
+                            800,
+                            349
+                        ]
+                    ],
+                    "text_description": "(해설)한 상자에 6 개씩 들어 있는 음료수 4 상자들 한 사람에게 2 개씩 나누어 주면 $6 \\times 4 \\div 2-12$ (명)에게 니누어 줄 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            144,
+                            156,
+                            242
+                        ]
+                    ],
+                    "text_description": "① $6 \\times(4+2)$ ③ $6+(4 \\div 2)$ ⑤ $6 \\div 2 \\times 3$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            410,
+                            179,
+                            539,
+                            209
+                        ]
+                    ],
+                    "text_description": "④ $6+(4 \\times 2)$"
+                }
+            ]
+        }
+    ]
+}

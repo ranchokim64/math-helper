@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8ed367c1-d138-4104-af14-ef2da448c090",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010054",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.28,
+                            2.24,
+                            631.28,
+                            87.24
+                        ]
+                    ],
+                    "text_description": "왼쪽은 지난주 요일별 최고 기온을 막대그래프로 나타낸 것입니다. 막대의 높이를 고르게 하여 그래프를 그린 것으로 알맞은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.28,
+                            164.78,
+                            279.28,
+                            298.78
+                        ]
+                    ],
+                    "text_description": "이 이미지는 요일별 최고 기온을 나타낸 막대그래프이다. 수평축은 요일을 수직축은 기온을 표시하고, 월요일은 8°C, 화요일은 10°C, 수요일은 5°C, 목요일은 7°C, 금요일은 5°C의 데이터를 보여주고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            351.28,
+                            88.78,
+                            589.28,
+                            228.77999999999997
+                        ]
+                    ],
+                    "text_description": "이 이미지는 요일별 최고 기온을 나타낸 막대그래프이다. 수평축은 요일을 수직축은 기온을 표시하고, 월~금까지 7칸으로 표시된 데이터를 보여주고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            349.28,
+                            234.78,
+                            591.28,
+                            370.78
+                        ]
+                    ],
+                    "text_description": "이 이미지는 요일별 최고 기온을 나타낸 막대그래프이다. 수평축은 요일을 수직축은 기온을 표시하고, 월~금까지 6칸으로 표시된 데이터를 보여주고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.28,
+                            379.78,
+                            267.28,
+                            509.78
+                        ]
+                    ],
+                    "text_description": "이 이미지는 요일별 최고 기온을 나타낸 막대그래프이다. 수평축은 요일을 수직축은 기온을 표시하고, 월~금까지 7칸으로 표시된 데이터를 보여주고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.28,
+                            517.78,
+                            631.28,
+                            649.78
+                        ]
+                    ],
+                    "text_description": "지난주 요일별 최고 기온에 대한 그래프에서 막대 한 칸은 1°C를 나타냅니다. 월요일은 8칸, 화요일은 10칸, 수요일은 5칸, 목요일은 7칸, 금요일은 5칸이므로 막대의 높이를 고르게 하기 위해 월요일의 막대 한 칸을 수요일로, 화요일의 막대 두 칸을 금요일로, 화요일의 막대 한 칸을 수요일로 옮기면 막대가 7칸으로 모두 고르게 됩니다."
+                }
+            ]
+        }
+    ]
+}

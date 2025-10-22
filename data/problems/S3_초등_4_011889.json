@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "646c04d4-325f-4cf4-b999-ebe3b9077291",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011889",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            9.9,
+                            394.5,
+                            62.900000000000006
+                        ]
+                    ],
+                    "text_description": "인경이의 몸무게를 조사하여 나타낸 그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.5,
+                            323.9,
+                            386.5,
+                            373.9
+                        ]
+                    ],
+                    "text_description": "6월 30일의 몸무게는 약 몇 kg이라고 할 수 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            77.9,
+                            394.5,
+                            302.9
+                        ]
+                    ],
+                    "text_description": "인경이의 몸무게의 꺾은선 그래프이다. (매월 15일 조사) 가로는 월(월) 세로는 몸무게(kg)이다. 1월에서 2월은 증가하다가 4월까지는 감소한다. 6월까지 다시 증가하다가 8월까지 다시 감소한다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            415.9,
+                            393.5,
+                            451.9
+                        ]
+                    ],
+                    "text_description": "6월 15 일의 몸무게 30kg과 7월 15 일의 몸무게 28kg의 중간이므로 약 29kg이라고 할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283.0,
+                            388.0,
+                            349.0,
+                            412.0
+                        ]
+                    ],
+                    "text_description": "약 29kg"
+                }
+            ]
+        }
+    ]
+}

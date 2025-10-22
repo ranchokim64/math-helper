@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "51551352-e3ca-44e8-9f0c-2b95b53a4c6d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005171",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104.5,
+                            174.54,
+                            835.5,
+                            338.74
+                        ]
+                    ],
+                    "text_description": "은찬이의 몸무게는 $39. 68 ~kg$이고 은선이의 몸무게의 1. 24배입니다. 은선이의 몸무게는 몇 kg인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            600.3,
+                            371.34,
+                            698.1,
+                            408.54
+                        ]
+                    ],
+                    "text_description": "$32 ~kg$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.87,
+                            32.38,
+                            658.14,
+                            147.42
+                        ]
+                    ],
+                    "text_description": "(은선이의 몸무게)$\\times 1. 24 =$(은찬이의 몸무게) (은선이의 몸무게)$\\times 1. 24 = 39. 68$ (은선이의 몸무게) $39. 68 \\div 1. 24 = 32 (kg)$"
+                }
+            ]
+        }
+    ]
+}

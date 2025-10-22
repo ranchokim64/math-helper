@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "37fd3598-ee03-4069-b392-2a25f7117fc8",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005179",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            151,
+                            152.9,
+                            887,
+                            323.9
+                        ]
+                    ],
+                    "text_description": "어떤 수를 3. 2로 나누었더니 몫이 9였습니다. 이 수를 |I로 나눈 몫을 반올림하여 소수 둘째 자리까지 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            645,
+                            351.9,
+                            746,
+                            395.9
+                        ]
+                    ],
+                    "text_description": "$2. 62$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            189.78,
+                            23.88,
+                            496.49,
+                            63.5
+                        ]
+                    ],
+                    "text_description": "$($ 어떤 수) $=3. 2 \\times 9=28. 8$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            478.15,
+                            66.44,
+                            884.65,
+                            96.52
+                        ]
+                    ],
+                    "text_description": "이므로 몫을 반올림하여 소수 둘째"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            186.85,
+                            100.93,
+                            550.06,
+                            134.68
+                        ]
+                    ],
+                    "text_description": "자리까지 나타내면 2. 62입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            184.64,
+                            62.77,
+                            481.09,
+                            97.99
+                        ]
+                    ],
+                    "text_description": "$28. 8 \\div 11=2. 618 \\cdots \\cdots$"
+                }
+            ]
+        }
+    ]
+}

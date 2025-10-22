@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f570fa6e-f4cf-4e1a-94ac-edb34d519973",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005107",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            17.42,
+                            622,
+                            145.42
+                        ]
+                    ],
+                    "text_description": "우유 $\\frac{6}{7} \\mathrm{~L}$를 한 사람이 $\\frac{2}{7} \\mathrm{~L}$ 씩 마신다면 몇 명이 마실 수 있나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            243,
+                            59,
+                            277
+                        ]
+                    ],
+                    "text_description": "3명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1,
+                            159.42,
+                            232,
+                            219.42
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{7} \\div \\frac{2}{7}=6 \\div 2=3$ (명)"
+                }
+            ]
+        }
+    ]
+}

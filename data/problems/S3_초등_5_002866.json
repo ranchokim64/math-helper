@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b4562bc5-1d10-4b6f-af7c-9ba53a95b5f9",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002866",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            6.42,
+                            676,
+                            67.42
+                        ]
+                    ],
+                    "text_description": "딸기파이 한 판을 만드는 데 딸기 370g이 필요합니다. 가게에서 딸기를 100g단위로 판매한다면 딸기파이 한 판을 만들기 위해 딸기를 최소 몇 g 사야하는지 구해보시오."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            155,
+                            96.42,
+                            530,
+                            336.42
+                        ]
+                    ],
+                    "text_description": "딸기 가판대 이미지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97,
+                            437,
+                            252,
+                            470
+                        ]
+                    ],
+                    "text_description": "$400 \\quad \\mathrm{~g}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            390,
+                            686,
+                            416
+                        ]
+                    ],
+                    "text_description": "370을 올림하여 백의 자리까지 나타내면 400 이므로 최소 400g을 사야 합니다."
+                }
+            ]
+        }
+    ]
+}

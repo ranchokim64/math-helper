@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0725bf09-714c-45e0-bbd0-a5d801748979",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010216",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            303.13,
+                            659.5,
+                            353.38
+                        ]
+                    ],
+                    "text_description": "상자 안에는 파란색 제비만 들어있으므로 뽑은 제비가 파란색 제비일 가능성은 '확실하다'이고, 수로 표현하면 $1$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.0,
+                            172.0,
+                            326.0,
+                            230.0
+                        ]
+                    ],
+                    "text_description": "눈금이 표시된 수평선이 있다. $0$, $\\frac{1}{2}$, $1$이 표시되어 있으며  $\\frac{1}{2}$ 위치에 화살표가 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            341.0,
+                            171.0,
+                            624.0,
+                            228.0
+                        ]
+                    ],
+                    "text_description": "눈금이 표시된 수평선이 있다. $0$, $\\frac{1}{2}$, $1$이 표시되어 있으며  $$1$ 위치에 화살표가 표시되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            285.0,
+                            57.0,
+                            392.0,
+                            161.0
+                        ]
+                    ],
+                    "text_description": "파란색 제비만 8개 들어 있는 상자"
+                }
+            ]
+        }
+    ]
+}

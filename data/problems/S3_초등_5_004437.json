@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cea14e4a-e4a3-4746-8a78-1053e86620f1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004437",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            9.92,
+                            271,
+                            36.92
+                        ]
+                    ],
+                    "text_description": "다각형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90,
+                            45.92,
+                            391,
+                            209.92
+                        ]
+                    ],
+                    "text_description": "왼쪽 위에 직사각형, 왼쪽 아래 사각형, 오른쪽에 정삼각형이 모여 다각형을 이루고 있는 평면도형이다. 직사각형은 가로 8cm, 세로 6cm로, 사각형은 윗변 8cm, 아랫변 7cm로, 삼각형은 두 변의 길이가 8cm로 표시되어 있다. 이 다각형을 직사각형 틀에 맞추기 위해서 필요한 길이들이 나열되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            298,
+                            220.5,
+                            365,
+                            247.5
+                        ]
+                    ],
+                    "text_description": "$95 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.72,
+                            253.76,
+                            441.58,
+                            274.26
+                        ]
+                    ],
+                    "text_description": "$(8 \\times 6)+\\{(8+7) \\times 2 \\div 2\\}+(8 \\times 8 \\div 2)=48+15+32=95\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

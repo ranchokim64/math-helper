@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "76a482fe-b6d1-47db-8809-13865c4d8cad",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005732",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            5.9,
+                            426.5,
+                            97.9
+                        ]
+                    ],
+                    "text_description": "윤진이네 과수원에 과일별 심은 넓이를 조사하여 나타낸 원그래프입니다. 수박을 심은 넓이가 딸기를 심은 넓이의 5배일 때, 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            341.9,
+                            349.5,
+                            366.9
+                        ]
+                    ],
+                    "text_description": "포도를 심은 넓이는 전체의 몇 $\\%$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.5,
+                            105.9,
+                            348.5,
+                            313.9
+                        ]
+                    ],
+                    "text_description": "과일별 심은 넓이를 조사하여 나타낸 원그래프입니다. 전체 100% 중에 사과(%), 딸기(%), 수박, 포도($6490\\mathrm{m}^{2}$)로 차지하는 비율을 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.5,
+                            380.9,
+                            349.5,
+                            406.9
+                        ]
+                    ],
+                    "text_description": "$55 \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            418.9,
+                            224.5,
+                            444.9
+                        ]
+                    ],
+                    "text_description": "$100-(15+5+25)=55(\\%)$"
+                }
+            ]
+        }
+    ]
+}

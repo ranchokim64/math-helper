@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "42599c97-579d-498b-9f97-485638c97f2f",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018530",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.28,
+                            8.24,
+                            640.28,
+                            50.24
+                        ]
+                    ],
+                    "text_description": "책이 54권 있습니다. 한 명에게 6권씩 나누어 주려고 합니다. 모두 몇 명에게 나누어 줄 수 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.28,
+                            65.78,
+                            58.28,
+                            85.78
+                        ]
+                    ],
+                    "text_description": "① 9명"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.28,
+                            242.78,
+                            51.28,
+                            261.78
+                        ]
+                    ],
+                    "text_description": "① 9명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.28,
+                            90.78,
+                            57.28,
+                            161.78
+                        ]
+                    ],
+                    "text_description": "② 8명 ③ 7명 ④ 6명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.28,
+                            202.78,
+                            421.28,
+                            221.78
+                        ]
+                    ],
+                    "text_description": "따라서 54권의 책을 6권씩 나누면 9명에게 나눠줄 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.28,
+                            177.78,
+                            86.28,
+                            194.78
+                        ]
+                    ],
+                    "text_description": "$54 \\div 6=9$"
+                }
+            ]
+        }
+    ]
+}

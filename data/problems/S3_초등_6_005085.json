@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "939383c2-a990-4873-ad67-78d0095f2727",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005085",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.04,
+                            16.55,
+                            624.12,
+                            202.15
+                        ]
+                    ],
+                    "text_description": "넓이가 $\\frac{7}{17} \\mathrm{~m}^{2}$ 인 벽을 칠하는 데 $\\frac{15}{17} \\mathrm{~L}$의 페 인트를 사용하였습니다. $1 \\mathrm{~m}^{2}$의 벽을 칠하는 데 필요한 페인트는 몇 L인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.96,
+                            269.72,
+                            94.84,
+                            333.72
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{1}{7} \\mathrm{~L}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.12,
+                            206.36,
+                            379,
+                            269.72
+                        ]
+                    ],
+                    "text_description": "$\\frac{15}{17} \\div \\frac{7}{17}=15 \\div 7=\\frac{15}{7}=2 \\frac{1}{7}$ (L)"
+                }
+            ]
+        }
+    ]
+}

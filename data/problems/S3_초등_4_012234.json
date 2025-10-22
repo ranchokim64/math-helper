@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a04f30e0-036e-4d59-af34-681dfe35f7d7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012234",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.5,
+                            28.91,
+                            590.5,
+                            107.91
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ을 잘라서 세 각을 직선 위에 맞춘 것입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            276.5,
+                            532.5,
+                            363.5
+                        ]
+                    ],
+                    "text_description": "삼각형의 세 각의 크기의 합은 몇 도일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120.5,
+                            134.91,
+                            539.5,
+                            267.91
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱ, ㄴ, 이 중섬을 기준으로 점선으로 갈라져 있으며, 각 각이 작은 호로 표현되어있다. 점선을 따라 잘라진 조각들이 작은 호를 기준으로 수평전 위에 모여있는 그림이 오른쪽에 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.5,
+                            429.5,
+                            156.5,
+                            454.5
+                        ]
+                    ],
+                    "text_description": "$180^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            372.5,
+                            391.5,
+                            403.5
+                        ]
+                    ],
+                    "text_description": "삼각형의 세 각의 크기의 합은 $180^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

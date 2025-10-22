@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c172a508-bb6c-4622-b536-e1b30c4f5197",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012160",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            10.42,
+                            494.5,
+                            84.42
+                        ]
+                    ],
+                    "text_description": "색칠한 부분이 나타내는 분수가 나머지 넷과 다른 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            100.42,
+                            178.5,
+                            197.42
+                        ]
+                    ],
+                    "text_description": "① 원형이 사등분 되어있고 그 중 한칸이 색칠 되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.5,
+                            322,
+                            310.5,
+                            361
+                        ]
+                    ],
+                    "text_description": "② ~⑤는 $\\frac{2}{4}$ 이고, ①은 $\\frac{1}{4}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            193.5,
+                            101,
+                            468.5,
+                            312
+                        ]
+                    ],
+                    "text_description": "② 정사각형이 4등분 되어있고 그 중 절반이 색칠되어있다. ③ 정사각형이 4등분 되어있고 그 중 절반이 색칠되어있다. ⑤ 삼각형이 4등분 되어있고 그 중 두 칸이 색칠되어있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            216,
+                            175.5,
+                            309
+                        ]
+                    ],
+                    "text_description": "④ 정사각형이 4등분 되어있고 그 중 두 칸이 색칠되어있다."
+                }
+            ]
+        }
+    ]
+}

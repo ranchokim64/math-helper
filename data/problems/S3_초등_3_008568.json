@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7a8508fb-8f85-4b42-950d-c4e5c5a2b6c0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008568",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            0.92,
+                            925.5,
+                            68.92
+                        ]
+                    ],
+                    "text_description": "곱셈을 계산할 때 $4 \\times 9=36$에서 6은 어느 자리에 써야 하는지 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            661.5,
+                            206.5,
+                            924.5,
+                            242.5
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢, ㉣)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            403.5,
+                            85.92,
+                            552.5,
+                            193.92
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}40 \\\\ \\times \\quad 90 \\\\ \\hline \\text { ㉠ ㉡ ㉢ ㉣ }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            263.5,
+                            79.5,
+                            288.5
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            310.5,
+                            747.5,
+                            337.5
+                        ]
+                    ],
+                    "text_description": "$($ 몇십 $) \\times($ 몇십 $)$은 $($ 몇 $) \\times($ 몇 $)$에 0을 2 개 더 붙이는 것과 같으므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            347.5,
+                            347.5,
+                            372.5
+                        ]
+                    ],
+                    "text_description": "6은 ㉡의 자리에 써야 합니다."
+                }
+            ]
+        }
+    ]
+}

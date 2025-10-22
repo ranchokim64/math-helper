@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cbf37b99-f983-4bb2-bb91-b1002fcd0e9d",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017857",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.72,
+                            4.48,
+                            343.53,
+                            26.91
+                        ]
+                    ],
+                    "text_description": "$200$을 $5:3$의 비율로 나누어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.47,
+                            54.56,
+                            108.11,
+                            76.98
+                        ]
+                    ],
+                    "text_description": "① $125, 75$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.72,
+                            91.93,
+                            120.07,
+                            227.95
+                        ]
+                    ],
+                    "text_description": "② $120, 80$ ③ $100, 100$ ④ $150, 50$ ⑤ $110, 90$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.83,
+                            248.13,
+                            691.06,
+                            323.61
+                        ]
+                    ],
+                    "text_description": "전체 비율 합 구하기: 비율의 합은 $5+3=8$ 입니다. 각 부분의 비율 계산: 전체 금액($200$)을 비율의 합($8$)으로 나눕니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.57,
+                            399.1,
+                            478.06,
+                            522.41
+                        ]
+                    ],
+                    "text_description": "각 부분에 해당하는 값 구하기: - $5$의 비율에 해당하는 값: $5 \\times 25=125$ - $3$의 비율에 해당하는 값: $3 \\times 25=75$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.48,
+                            561.27,
+                            591.66,
+                            585.94
+                        ]
+                    ],
+                    "text_description": "따라서, $200$을 $5:3$의 비율로 나누면 각각 $125$와 $75$가 됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            433.96,
+                            354.25,
+                            581.2,
+                            377.42
+                        ]
+                    ],
+                    "text_description": "$200 \\div 8=25$"
+                }
+            ]
+        }
+    ]
+}

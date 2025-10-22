@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "98d53e59-451a-40d4-931d-d68a619bfda0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011003",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.2,
+                            9.440000000000001,
+                            781.4,
+                            35.04
+                        ]
+                    ],
+                    "text_description": "왼쪽 모양을 위에서 내려다보면 어떤 모양인지 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            151.8,
+                            42.84,
+                            268,
+                            222.64
+                        ]
+                    ],
+                    "text_description": "육각기둥 위에 한 점으로 모이는 붉은 실선에 육각뿔이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            474.2,
+                            75.86,
+                            618.48,
+                            194.18
+                        ]
+                    ],
+                    "text_description": "② 육각기둥 위에 붉은 실선의 육각형이 모든 꼭짓점에서 대각선이 그어져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            312.56,
+                            76.14,
+                            454.64,
+                            194.18
+                        ]
+                    ],
+                    "text_description": "① 육각기둥 위에 붉은 실선의 육각형."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            638.96,
+                            75.86,
+                            781.48,
+                            194.18
+                        ]
+                    ],
+                    "text_description": "③ 육각기둥 위에 붉은 실선의 기울어진 육각형이 모든 꼭짓점에서 대각선이 그어져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.4,
+                            277.1,
+                            721.2,
+                            299.9
+                        ]
+                    ],
+                    "text_description": "육각뿔 모양을 만들고 있는 빨간 빨대가 가운데서 만나므로 ②입니다."
+                }
+            ]
+        }
+    ]
+}

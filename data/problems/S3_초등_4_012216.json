@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6913cfb4-8784-427a-84b8-9416a7c74e15",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012216",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.92,
+                            10.52,
+                            385.56,
+                            40.6
+                        ]
+                    ],
+                    "text_description": "얼마씩 뛰어서 센 수인지 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.08,
+                            55.96,
+                            455.96,
+                            105.88
+                        ]
+                    ],
+                    "text_description": "① 39 만 ㅡ 49 만ㅡ 59 만 ㅡ 69 만"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            342.04,
+                            118.42,
+                            402.84,
+                            142.74
+                        ]
+                    ],
+                    "text_description": "10만씩"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.12,
+                            151.06,
+                            476.44,
+                            173.46
+                        ]
+                    ],
+                    "text_description": "십만의 자리 숫자가 I씩 커지므로 10 만씩 뛰어서 센 수입니다."
+                }
+            ]
+        }
+    ]
+}

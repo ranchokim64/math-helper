@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fdfd85e3-37e8-44dc-a497-168e967bf914",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002779",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.28,
+                            12.68,
+                            776.28,
+                            79.68
+                        ]
+                    ],
+                    "text_description": "수 카드 3장을 모두 사용하여 몫이 가장 큰 $(분수) $\\div$ (자연수)$의 나눗셈을 만들고, 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            277.28,
+                            101.22,
+                            500.28,
+                            343.22
+                        ]
+                    ],
+                    "text_description": "상단에 2, 5, 7 카드가 한장씩. 가운데에 분모, 분자 빈 칸/나누기/빈 칸/=/분모, 분자 빈 칸 하단에 2, 5, 7 카드가 한장씩."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            287.04,
+                            359.6,
+                            683.04,
+                            443.2
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{2} \\div 5=\\frac{7}{10}$ 또는 $\\frac{7}{5} \\div 2=\\frac{7}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.64,
+                            317,
+                            250.44,
+                            442.4
+                        ]
+                    ],
+                    "text_description": "$\\frac{\\Delta}{\\bigcirc} \\div \\boldsymbol{\\square}$는 $\\frac{\\boldsymbol{\\Delta}}{\\mathbf{\\bigcirc}} \\times \\frac{1}{\\square}$로 계산할 수 있으므로 몫이 가장 클 때는 $\\Delta$가 가장 크고 $\\bigcirc$와 $\\square$의 곱이 가장"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.84,
+                            444.8,
+                            561.44,
+                            542.4
+                        ]
+                    ],
+                    "text_description": "작을 때입니다. 따라서 $\\frac{7}{2} \\div 5$ 또는 $\\frac{7}{5} \\div 2$를 만들어야 합니다. \\[ \\frac{7}{2} \\div 5=\\frac{7}{2} \\times \\frac{1}{5}=\\frac{7}{10}, \\frac{7}{5} \\div 2=\\frac{7}{5} \\times \\frac{1}{2}=\\frac{7}{10} \\]"
+                }
+            ]
+        }
+    ]
+}

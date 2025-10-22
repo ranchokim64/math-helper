@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e7c52176-f640-4b7e-93fe-034f5547be67",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002962",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.38,
+                            12.39,
+                            610.9,
+                            35.43
+                        ]
+                    ],
+                    "text_description": "어떤 수의 배수를 가장 작은 수부터 차례대로 쓴 것입니다. 아홉 번째 수를 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            182.5,
+                            58.75,
+                            483.86,
+                            117.91
+                        ]
+                    ],
+                    "text_description": "$8, 16, 24, 32, 40, \\ldots$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.46,
+                            256.6,
+                            120.66,
+                            281.56
+                        ]
+                    ],
+                    "text_description": "$72$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.62,
+                            197.08,
+                            303.7,
+                            240.6
+                        ]
+                    ],
+                    "text_description": "아홉 번째 수는 8을 9배 한 수입니다. 따라서 $8 \\times 9=72$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.06,
+                            173.4,
+                            619.22,
+                            196.44
+                        ]
+                    ],
+                    "text_description": "$8 \\times 1=8, 8 \\times 2=16, 8 \\times 3=24, 8 \\times 4=32, 8 \\times 5=40, \\ldots$은 8의 배수이므로"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bc1b6a88-432f-4775-afad-6fa5fc534e51",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004480",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1,
+                            5.92,
+                            507,
+                            29.92
+                        ]
+                    ],
+                    "text_description": "직사각형의 둘레가 42cm 일 때 넓이는 몇 \\mathrm{cm}^{2}$ 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            134,
+                            37.5,
+                            383,
+                            174.5
+                        ]
+                    ],
+                    "text_description": "직사각형 평면도형이며 높이가 8CM이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            374,
+                            429.5,
+                            452,
+                            457.5
+                        ]
+                    ],
+                    "text_description": "$104 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            234.5,
+                            353,
+                            354.5
+                        ]
+                    ],
+                    "text_description": "직사각형의 가로를 $\\square \\mathrm{cm}$ 라 하면 $(\\square+8) \\times 2=42$ 이므로 $\\square+8=21. \\square=13(\\mathrm{~cm})$ 입니다. $($ 직사각형의 넓이 $)=($ 가로 $) \\times($ 세로 $)=13 \\times 8=104\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

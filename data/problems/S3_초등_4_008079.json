@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "55185cbc-94ad-46b8-80f5-a5303706e7cd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008079",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-13] 주어진 각도와 크기가 같은 각을 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.2,
+                            7.74,
+                            690.6,
+                            36.34
+                        ]
+                    ],
+                    "text_description": "주어진 크기의 각을 각도기에 그린 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            134.6,
+                            103.94,
+                            184.2,
+                            134.34
+                        ]
+                    ],
+                    "text_description": "$90^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            238.4,
+                            45.2,
+                            809,
+                            193.2
+                        ]
+                    ],
+                    "text_description": "각도기의 각이 80도를 가리키고 있습니다. 각도기의 각이 90도를 가리키고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.8,
+                            200.4,
+                            309.8,
+                            350.8
+                        ]
+                    ],
+                    "text_description": "각도기의 각이 90도를 가리키고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.6,
+                            358,
+                            925.8,
+                            426.8
+                        ]
+                    ],
+                    "text_description": "각도기에서 $90^{\\circ}$가 되는 눈금 위에 점을 찍고 그 점을 지나는 직선을 그 완성합니다."
+                }
+            ]
+        }
+    ]
+}

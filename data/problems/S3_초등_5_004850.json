@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "078d9b82-8492-4150-90f6-fe840b110be2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004850",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.2,
+                            13.95,
+                            534.17,
+                            83.67
+                        ]
+                    ],
+                    "text_description": "회전판에서 화살이 빨간색에 멈출 가능성이 높은 것부터 순서대로 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.3,
+                            100.8,
+                            520.23,
+                            270.71
+                        ]
+                    ],
+                    "text_description": "가: 파란색이 $\\frac{3}{4}$을 차지하고, 빨간색이 $\\frac{1}{4}$을 차지하는 회전판이 있다. 나: 파란색이 $\\frac{1}{4}$을 차지하고, 빨간색이 $\\frac{3}{4}$을 차지하는 회전판이 있다. 다: 파란색이 $\\frac{1}{2}$을 차지하고, 빨간색이 $\\frac{1}{2}$을 차지하는 회전판이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            332.37,
+                            296.14,
+                            505.46,
+                            325.67
+                        ]
+                    ],
+                    "text_description": "나, 다, 가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.99,
+                            335.21,
+                            534.99,
+                            382.97
+                        ]
+                    ],
+                    "text_description": "빨간색 부분이 넓을수록 회전판에서 화살이 빨간색에 멈출 가능성이 높으므로 나, 다, 가입니다."
+                }
+            ]
+        }
+    ]
+}

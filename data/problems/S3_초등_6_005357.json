@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fe27e782-bd44-41af-83af-60eda1a0557d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005357",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.13,
+                            12.62,
+                            536.51,
+                            137.92
+                        ]
+                    ],
+                    "text_description": "과녁의 중심에 있는 가장 작은 원의 지름은 8cm, 각 원의 반지름은 바로 안쪽에 있는 원의 반지름보다 3cm 씩 깁니다. 물음에 답하세요 (원주율: 3. 14)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.19,
+                            434.84,
+                            389.71,
+                            474.12
+                        ]
+                    ],
+                    "text_description": "10점짜리 원의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147.52,
+                            202.01,
+                            358.85,
+                            415.21
+                        ]
+                    ],
+                    "text_description": "과녁의 안쪽에 있는 작은원 10점, 중간원 5점, 큰원 10점인 구의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            326.92,
+                            485.88,
+                            448.62,
+                            521.81
+                        ]
+                    ],
+                    "text_description": "$50. 24 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            532.09,
+                            457.97,
+                            586.33
+                        ]
+                    ],
+                    "text_description": "(10점짜리 원의 반지름) $=8 \\div 2=4$ (cm) (10점짜리 원의 넓ㅇ)=4×4×3. 14=50. 24 (cm²)"
+                }
+            ]
+        }
+    ]
+}

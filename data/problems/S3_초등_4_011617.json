@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "81ffbde8-9fcd-4cce-84d3-f453ed74cb74",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011617",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.04,
+                            7.43,
+                            445.24,
+                            154.19
+                        ]
+                    ],
+                    "text_description": "3-2 승민이는 오늘 수학 공부를 $2 \\frac{5}{6}$ 시간, 영어 공부를 $1 \\frac{4}{6}$ 시간 했습니다. 어느 과목을 몇 시간 더 공부했을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.88,
+                            153.55,
+                            433.16,
+                            197.71
+                        ]
+                    ],
+                    "text_description": "수학, $\\quad \\left\\lvert\\, \\frac{1}{6}\\right. $ 시간"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.52,
+                            200.64,
+                            386.36,
+                            242.88
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{5}{6}-1 \\frac{4}{6}=(2-1)+\\left(\\frac{5}{6}-\\frac{4}{6}\\right)=1+\\frac{1}{6}=1 \\frac{1}{6}$ (시간)"
+                }
+            ]
+        }
+    ]
+}

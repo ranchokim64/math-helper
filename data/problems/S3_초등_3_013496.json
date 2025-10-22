@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4181247e-09b9-4b0c-b596-1d077cb97a29",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013496",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108.5,
+                            36.42,
+                            418.5,
+                            78.42
+                        ]
+                    ],
+                    "text_description": "직선을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.5,
+                            112.42,
+                            694.5,
+                            375.42
+                        ]
+                    ],
+                    "text_description": "① 선분 ② 반직선 ③ 직선 ④ 직선 ⑤ 곡선"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            519,
+                            115.5,
+                            553
+                        ]
+                    ],
+                    "text_description": "③, ④"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.5,
+                            422,
+                            729.5,
+                            508
+                        ]
+                    ],
+                    "text_description": "직선은 양쪽으로 끝없이 늘인 곧은 선이므로 ③, ④ 입니다. ①은 선분이고 ②는 반직선입니다."
+                }
+            ]
+        }
+    ]
+}

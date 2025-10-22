@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "515b55aa-b053-4c90-9db0-d839b26ad887",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011616",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.16,
+                            21.07,
+                            436.76,
+                            102.27
+                        ]
+                    ],
+                    "text_description": "소금 $1 \\frac{11}{12} \\mathrm{~kg}$과 설탕 $5 \\frac{9}{12} \\mathrm{~kg}$이 있습니다. 소금과 설탕은 모두 몇 kg일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            321.56,
+                            106.67,
+                            389.16,
+                            146.07
+                        ]
+                    ],
+                    "text_description": "$7 \\frac{8}{12} \\mathrm{~kg}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.36,
+                            146.44,
+                            330.36,
+                            182.84
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{11}{12}+5 \\frac{9}{12}=6+\\frac{20}{12}=6+1 \\frac{8}{12}=7 \\frac{8}{12}(\\mathrm{~kg})$"
+                }
+            ]
+        }
+    ]
+}

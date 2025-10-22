@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "73bdd50e-09bc-49da-aa6c-b114f762b17f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004823",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            7.92,
+                            467.5,
+                            117.92
+                        ]
+                    ],
+                    "text_description": "다음 상자를 묶는 데 끈을 1m 37cm 사용하였습니다. 그중에서 매듭을 짓기 위해 사용한 길 이는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146.5,
+                            128.92,
+                            337.5,
+                            287.92
+                        ]
+                    ],
+                    "text_description": "이 이미지에는 포장된 선물 상자가 있습니다. 상자의 높이는 17cm, 너비는 12cm, 깊이는 10cm입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.5,
+                            308.5,
+                            383.5,
+                            337.5
+                        ]
+                    ],
+                    "text_description": "25cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            346.5,
+                            248.5,
+                            418.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (매듭을 제외한 끈의 길이) } \\\\ =10 \\times 2+12 \\times 2+17 \\times 4 \\\\ =20+24+68=112(\\mathrm{~cm})\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            420.5,
+                            431.5,
+                            444.5
+                        ]
+                    ],
+                    "text_description": "(매듭을 짓기 위해 사용한 길이)= $137-1 12=25(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

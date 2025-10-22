@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6e3c0247-f4ab-4b23-b05b-7d1bdf0fe11e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005564",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            11.42,
+                            688.5,
+                            201.42
+                        ]
+                    ],
+                    "text_description": "정육각형을 6등분해서 3칸에 색칠했습니다. 정육각형의 넓이가 $4 \\frac{3}{5} \\mathrm{~cm}^{2}$ 일 때 색칠한 부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            218.19,
+                            216.22,
+                            478.25,
+                            444.85
+                        ]
+                    ],
+                    "text_description": "정육각형을 6등분해서 3칸에 색칠한 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            380.69,
+                            449.54,
+                            651,
+                            527.35
+                        ]
+                    ],
+                    "text_description": "$\\frac{23}{10}\\left(=2 \\frac{3}{10}\\right) \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.38,
+                            530.79,
+                            726,
+                            716.72
+                        ]
+                    ],
+                    "text_description": "6 등분한 것 중 한 칸의 넓이는 $4 \\frac{3}{5} \\div 6=\\frac{23}{5} \\times \\frac{1}{6}=\\frac{23}{30}\\left(\\mathrm{~cm}^{2}\\right)$ 이므로 색칠한 3칸의 넓이는 $\\frac{23}{30} \\times 3=\\frac{69}{30}=\\frac{23}{10}\\left(=2 \\frac{3}{10}\\right)\\left(\\mathrm{cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

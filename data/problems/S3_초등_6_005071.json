@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eea3f5dd-c6a3-4357-a8b5-e3267a0ae392",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005071",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105,
+                            165.42,
+                            685,
+                            206.42
+                        ]
+                    ],
+                    "text_description": "누구의 계산 결과가 더 큰지 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146,
+                            223.42,
+                            662,
+                            567.42
+                        ]
+                    ],
+                    "text_description": "진영:$\\frac{4}{5} \\div \\frac{3}{4}=? \\quad 진호:\\frac{3}{4} \\div \\frac{4}{5}=?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            530,
+                            594,
+                            590,
+                            630
+                        ]
+                    ],
+                    "text_description": "$\\frac{\\bar{W}}{K}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            131,
+                            25,
+                            539,
+                            156
+                        ]
+                    ],
+                    "text_description": "진영: $\\frac{4}{5} \\div \\frac{3}{4}=\\frac{4}{5} \\times \\frac{4}{3}=\\frac{16}{15}=1 \\frac{1}{15}$ 진호: $\\frac{3}{4} \\div \\frac{4}{5}=\\frac{3}{4} \\times \\frac{5}{4}=\\frac{15}{16}$"
+                }
+            ]
+        }
+    ]
+}

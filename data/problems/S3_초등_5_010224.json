@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0931d0ff-6204-4057-8dec-fc149bb88cd6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010224",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19,
+                            2.19,
+                            662.5,
+                            76.44
+                        ]
+                    ],
+                    "text_description": "냉장고에 딸기 우유 3 개와 초콜릿 우유 3 개가 들어 있습니다. 냉장고에서 우유 1 개들 꺼낼 때 꺼낸 우유가 초콜릿 우유일 가능성과 화살이 파란색에 멈출 가능성이 같도록 회전판을 알맞게 색칠한 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            204.14,
+                            82.5,
+                            473.15,
+                            202.44
+                        ]
+                    ],
+                    "text_description": "원을 6등분 한 회전판에 화살이 달려있다. 왼쪽 원판에는 3개의 칸에 파란색이 칠해져있고 오른쪽 원판에는 2개의 칸에 파란색이 칠해져 있다. "
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            334.87,
+                            662.5,
+                            404.62
+                        ]
+                    ],
+                    "text_description": "(해성)꺼낸 우유가 초콜릿 우유일 가능성은 '반반이다'이고, 이를 수로 표현하면 $\\frac{1}{2}\\left(=\\frac{3}{6}\\right)$ 입니다. 따라서 회전판의 6 칸 중 3 칸을 파란색으로 색칠합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.14,
+                            208.5,
+                            158.15,
+                            326.44
+                        ]
+                    ],
+                    "text_description": "원을 6등분 한 회전판에 화살이 달려있다. 3개의 칸에 파란색이 칠해져있다."
+                }
+            ]
+        }
+    ]
+}

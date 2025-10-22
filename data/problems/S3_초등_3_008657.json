@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "21cac006-a70a-47b5-98cb-ee6619ffd2e3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008657",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그려서 다양한 모양을 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            11.42,
+                            822,
+                            43.42
+                        ]
+                    ],
+                    "text_description": "원을 그릴 때 컴퍼스를 바르게 사용한 것을 찾아 선택해보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            217.0,
+                            70.42,
+                            701.0,
+                            220.42
+                        ]
+                    ],
+                    "text_description": "가 컴퍼스의 중심을 원의 원자에 두고 연필을 원자에 두고 있습니다. 나 컴퍼스의 중심을 원의 중심에 두고 연필을 원자에 두고 있습니다. 다 컴퍼스의 중슴을 원의 원자에 두고 옆을을 원의 중심에 두고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            257,
+                            87,
+                            283
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.0,
+                            302.0,
+                            934.0,
+                            369.0
+                        ]
+                    ],
+                    "text_description": "컴퍼스의 침을 원의 중심에 꽂아야 하므로 컴퍼스를 바르게 사용한 것은 나입니다."
+                }
+            ]
+        }
+    ]
+}

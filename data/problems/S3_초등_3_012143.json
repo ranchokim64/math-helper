@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c81c853d-cd83-4564-b1f1-43d9a2b8631e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012143",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-04] 1cm와 1mm, 1km와 1m의 관계를 이해하고, 길이를 단명수와 복명수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-16] 1cm와 1mm, 1km와 1m의 관계를 이해하고, 길이를 ‘몇 cm 몇 mm’와 ‘몇 mm’, ‘몇 km 몇 m’와 ‘몇 m’로 다양하게 표현할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.36,
+                            23.05,
+                            755.12,
+                            69.89
+                        ]
+                    ],
+                    "text_description": "집에서 학교까지의 거리는 몇 m일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.96,
+                            105.05,
+                            750.6,
+                            263.89
+                        ]
+                    ],
+                    "text_description": "이 이미지에는 집과 학교 이미지가 있고, 사이의 거리인 1km 300m가 나타나 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            514.68,
+                            301.82,
+                            620.28,
+                            337.22
+                        ]
+                    ],
+                    "text_description": "1300m"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.72,
+                            352.38,
+                            455.8,
+                            457.34
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 1 \\mathrm{~km} 300 \\mathrm{~m} & =1 \\mathrm{~km}+300 \\mathrm{~m} \\\\ & =1000 \\mathrm{~m}+300 \\mathrm{~m} \\\\ & =1300 \\mathrm{~m}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

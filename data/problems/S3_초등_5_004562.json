@@ -1,0 +1,77 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2168c98b-ac79-4f9e-8869-94621270b5f9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004562",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.6,
+                            17.84,
+                            418.2,
+                            60.24
+                        ]
+                    ],
+                    "text_description": "수직선에 나타내어 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            251.8,
+                            93.04,
+                            520.6,
+                            138.64
+                        ]
+                    ],
+                    "text_description": "16초과 24 이하인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.4,
+                            335.1,
+                            607.8,
+                            406.3
+                        ]
+                    ],
+                    "text_description": "10, 20, 30이 써진 수직선이 있으며, 1간격으로 눈금이 있다. 16번째부터 24번째 눈금에 파란색 표식이 있다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e0eb7ada-83ac-4d02-87af-254719830e56",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011867",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66,
+                            22.42,
+                            480,
+                            124.42
+                        ]
+                    ],
+                    "text_description": "길이가 24cm 인 철사로 오른쪽과 같은 사다리꼴을 만들었습니다. 평행선 사이의 거리는 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            498,
+                            24.42,
+                            701,
+                            157.42
+                        ]
+                    ],
+                    "text_description": "왼쪽의 두 각이 직각이고, 윗변의 길이가 6cm, 모선의 길이가 5cm, 밑변의 길이가 9cm인 사다리꼴"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            352,
+                            138,
+                            408,
+                            167
+                        ]
+                    ],
+                    "text_description": "4cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87,
+                            172,
+                            356,
+                            219
+                        ]
+                    ],
+                    "text_description": "평행선 사이의 수선의 길이를 구합니다. \\[ \\rightarrow 24-6-5-9=4(\\mathrm{~cm}) \\]"
+                }
+            ]
+        }
+    ]
+}

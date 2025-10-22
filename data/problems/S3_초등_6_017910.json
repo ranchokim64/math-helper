@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c08716c0-35d7-458a-9c03-8ff4e848720e",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017910",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            6.92,
+                            307.5,
+                            72.92
+                        ]
+                    ],
+                    "text_description": "다음의 계산 결과를 구하시오. \\[ 27. 0 \\div 6 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            134.5,
+                            80.5,
+                            161.5
+                        ]
+                    ],
+                    "text_description": "② 4. 5"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            95.5,
+                            79.5,
+                            123.5
+                        ]
+                    ],
+                    "text_description": "① 4. 4"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            171.5,
+                            77.5,
+                            274.5
+                        ]
+                    ],
+                    "text_description": "③ 4. 6 ④ 4. 7 ⑤ 4. 8"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.5,
+                            317.5,
+                            449.5,
+                            457.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}27. 0 \\div 6=\\frac{270}{10} \\div 6=\\frac{270}{10} \\times \\frac{1}{6}=\\frac{270}{60} \\\\ \\frac{270}{60}=4. 5\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

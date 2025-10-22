@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "59f9fa1f-ea0a-4d57-b17a-bf8d70ad5456",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008065",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71,
+                            -0.08,
+                            515,
+                            28.92
+                        ]
+                    ],
+                    "text_description": "예각을 바르게 그린 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147,
+                            38.92,
+                            815,
+                            210.92
+                        ]
+                    ],
+                    "text_description": "두 가지 이미지가 있으며 두 변이 만나서 이루는 각의 형태 모양을 보여줍니다. 왼쪽 주황색 테두리 안에는 예각이 있고, 오른쪽 주황색 테두리 안에는 둔각이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            222.5,
+                            300,
+                            361.5
+                        ]
+                    ],
+                    "text_description": "두 변이 만나서 이루는 각의 형태 모양을 보여줍니다. 주황색 테두리 안에 예각이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            374.5,
+                            741,
+                            401.5
+                        ]
+                    ],
+                    "text_description": "예각이란 각의 크기가 $0^{\\circ}$보다 크고 $90^{\\circ}$보다 작은 각을 말합니다."
+                }
+            ]
+        }
+    ]
+}

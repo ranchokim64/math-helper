@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bf9de454-d71f-4ee2-851b-3944c47f9c6a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004568",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.76,
+                            36.66,
+                            694.26,
+                            184.16
+                        ]
+                    ],
+                    "text_description": "어떤 수를 반올림하여 백의 자리까지 나타내었더니 5600이 되었습니다. 어떤 수가 될 수 있는 수의 범위를 수직선에 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.5,
+                            194.75,
+                            694.25,
+                            273.5
+                        ]
+                    ],
+                    "text_description": "5500~5700의 범위의 수직선"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            264.5,
+                            196.9,
+                            517.5,
+                            270.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}5600\\end{array}$ 범위를 선택"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.51,
+                            277.38,
+                            696.76,
+                            343.63
+                        ]
+                    ],
+                    "text_description": "5550 이상 5650 미만인 경우, 반올림하여 백의 자리까지 나타내면 5600이 됩니다."
+                }
+            ]
+        }
+    ]
+}

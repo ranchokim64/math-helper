@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "87f981fe-52f8-4dc2-8a6d-fd960f195e7d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011724",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.92,
+                            6.25,
+                            390.04,
+                            60.01
+                        ]
+                    ],
+                    "text_description": "A 5 8, 다음은 어느 도시의 온도를 월별로 나 타낸 그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.76,
+                            303.58,
+                            386.2,
+                            353.5
+                        ]
+                    ],
+                    "text_description": "가장 높은 온도와 가장 낮은 온도의 차는 몇 ${ }^{\\circ} \\mathrm{C}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.8,
+                            72.17,
+                            370.84,
+                            260.33
+                        ]
+                    ],
+                    "text_description": "이 이미지는 특정 도시의 월별 온도 변화를 나타낸 그래프입니다. 그래프는 매월 15일에 조사된 온도를 °C로 표시하고 있으며, 3월부터 9월까지의 데이터가 포함되어 있습니다. 그래프의 곡선은 온도의 상승과 하강을 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            288.28,
+                            368.86,
+                            327.32,
+                            391.26
+                        ]
+                    ],
+                    "text_description": "$24^{\\circ} \\mathrm{C}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.96,
+                            399.58,
+                            143.64,
+                            418.14
+                        ]
+                    ],
+                    "text_description": "$28-4=24\\left(^{\\circ} \\mathrm{C}\\right)$"
+                }
+            ]
+        }
+    ]
+}

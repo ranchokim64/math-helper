@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df43a816-46e0-4bf3-b6ea-c4ffc3dd7b38",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005277",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81,
+                            13.92,
+                            613,
+                            92.92
+                        ]
+                    ],
+                    "text_description": "비례식에서 내항의 곱은 80이라고 합니다. ㉠ 과 ㉡은 각각 얼마인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180,
+                            107.92,
+                            508,
+                            182.92
+                        ]
+                    ],
+                    "text_description": "$5: 4=$ ㉠ : ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307,
+                            196.5,
+                            611,
+                            288.5
+                        ]
+                    ],
+                    "text_description": "㉠ $($ 20 $)$ ㉡ $($ 16$)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103,
+                            292.5,
+                            611,
+                            401.5
+                        ]
+                    ],
+                    "text_description": "비례식에서 외항의 곱과 내항의 곱은 같으므로 외항의 곱도 80입니다. \\[ \\begin{array}{l} 4 \\times㉠=80, \\quad㉠=80 \\div 4=20 \\\\ 5 \\times㉡=80, \\quad㉡=80 \\div 5=16 \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

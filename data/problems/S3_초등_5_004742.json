@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0be2d456-7640-4614-9620-a3ad08e256e0",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004742",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.78,
+                            13.91,
+                            476.09,
+                            43.44
+                        ]
+                    ],
+                    "text_description": "가장 큰 수와 가장 작은 수의 곱을 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104.27,
+                            76.77,
+                            403.27,
+                            110.77
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{llll}12 & 11. 6 & 7 & 14. 08\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            336.63,
+                            147.62,
+                            411.28,
+                            177.15
+                        ]
+                    ],
+                    "text_description": "$98. 56$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.270000000000003,
+                            185.77,
+                            502.27,
+                            236.77
+                        ]
+                    ],
+                    "text_description": "$14. 08>12>11. 6>7$이므로 가장 큰 수는 14. 08이고 가장 작은 수는 7입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.27,
+                            236.77,
+                            218.27,
+                            265.77
+                        ]
+                    ],
+                    "text_description": "$14. 08 \\times 7=98. 56$"
+                }
+            ]
+        }
+    ]
+}

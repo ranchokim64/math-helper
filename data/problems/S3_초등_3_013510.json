@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3409ad0c-4c71-4df4-9c37-672db21e25ff",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013510",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.8,
+                            19.37,
+                            345.96,
+                            53.29
+                        ]
+                    ],
+                    "text_description": "직사각형을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            327.72,
+                            74.14,
+                            476.2,
+                            169.5
+                        ]
+                    ],
+                    "text_description": "② 직사각형 평면도형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.12,
+                            295.58,
+                            172.84,
+                            390.94
+                        ]
+                    ],
+                    "text_description": "⑤ 직사각형 평면도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.64,
+                            414.62,
+                            458.6,
+                            438.94
+                        ]
+                    ],
+                    "text_description": "직사각형은 네 각이 모두 직각인 사각형입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.64,
+                            77.66,
+                            213.8,
+                            175.9
+                        ]
+                    ],
+                    "text_description": "① 비대칭사각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.48,
+                            186.14,
+                            254.12,
+                            282.78
+                        ]
+                    ],
+                    "text_description": "③ 마름모꼴"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            325.8,
+                            185.5,
+                            476.84,
+                            280.22
+                        ]
+                    ],
+                    "text_description": "④ 비대칭 사각형"
+                }
+            ]
+        }
+    ]
+}

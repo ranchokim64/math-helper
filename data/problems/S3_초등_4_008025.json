@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d29d3234-31ee-4195-bdd1-6af67a0c6511",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008025",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.3,
+                            5.34,
+                            925.9,
+                            71.74
+                        ]
+                    ],
+                    "text_description": "미연이와 준호가 각도를 어림했습니다. 주어진 각의 크기가 $70^{\\circ}$ 일 때 어림을 더 잘한 사람의 이름을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            374.3,
+                            233.8,
+                            585.9,
+                            271.4
+                        ]
+                    ],
+                    "text_description": "(미연,준호)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            134.1,
+                            79.74,
+                            826.7,
+                            228.54
+                        ]
+                    ],
+                    "text_description": "두 학생이 가운데의 한 각도를 보고 이야기하고 있습니다. 미연: 내 생각에는 60도쯤 되는 것 같아. 준호: 음. 내 생각에는 75도쯤 되는 것 같아."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.9,
+                            290.6,
+                            105.1,
+                            317.8
+                        ]
+                    ],
+                    "text_description": "준호"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.7,
+                            339.4,
+                            782.7,
+                            401
+                        ]
+                    ],
+                    "text_description": "주어진 각의 크기가 $70^{\\circ}$ 이므로 $70^{\\circ}-60^{\\circ}=10^{\\circ}, 75^{\\circ}-70^{\\circ}=5^{\\circ}$ 입니다. 따라서 $70^{\\circ}$에 더 가깝게 어림한 사람은 준호입니다."
+                }
+            ]
+        }
+    ]
+}

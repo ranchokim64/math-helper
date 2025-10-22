@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b290508a-5070-4104-ae53-280801f2fb16",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004894",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.7,
+                            4.69,
+                            153.22,
+                            28.69
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.35,
+                            48.56,
+                            166.56,
+                            100.78
+                        ]
+                    ],
+                    "text_description": "① $3 \\frac{16}{35} \\times 2 \\frac{3}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.20000000000000018,
+                            187.71,
+                            40.16,
+                            236.24
+                        ]
+                    ],
+                    "text_description": "$7 \\frac{6}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.7,
+                            107.47,
+                            339.62,
+                            183.25
+                        ]
+                    ],
+                    "text_description": "① $3 \\frac{16}{35} \\times 2 \\frac{3}{11}=\\frac{121}{\\frac{121}{75}} \\times \\frac{25}{11}=\\frac{55}{7}=7 \\frac{6}{7}$"
+                }
+            ]
+        }
+    ]
+}

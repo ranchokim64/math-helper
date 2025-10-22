@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6cbdeed3-9e16-42a4-b452-1621533eefd6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004753",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.61,
+                            5.5600000000000005,
+                            339.08,
+                            30.12
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            136.28,
+                            40.53,
+                            334.19,
+                            188.85
+                        ]
+                    ],
+                    "text_description": "밑면이 8. 6cm, 윗면이 5. 2cm인 사다리꼴 안에 마름모가 딱맞게 들어 있는 도형이다. 마름모의 가로 길이는 7. 4cm이고, 세로 길이는 5cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            297.95,
+                            197.21,
+                            357.24,
+                            219.67
+                        ]
+                    ],
+                    "text_description": "$16 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.98,
+                            234.05,
+                            393.78,
+                            294.83
+                        ]
+                    ],
+                    "text_description": "$($ 사다리꼴의 넓이 $)=(5. 2+8. 6) \\times 5 \\times 0. 5=34. 5\\left(\\mathrm{~cm}^{2}\\right)$ (마름모의 넓이) $=7. 4 \\times 5 \\times 0. 5=18. 5\\left(\\mathrm{~cm}^{2}\\right)$ $($ 색칠한 부분의 넓이 $)=34. 5-18. 5=16\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

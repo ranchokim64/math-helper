@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9083daa8-76f6-4c9f-ad08-c54411ec9be0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008728",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.5,
+                            7.42,
+                            635.5,
+                            35.42
+                        ]
+                    ],
+                    "text_description": "그림을 보고 바르게 말한 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.5,
+                            63.42,
+                            782.5,
+                            165.42
+                        ]
+                    ],
+                    "text_description": "색칠 된 자동차 두 대 색칠 된 자동차 두 대 색칠 된 자동차 두 대 색칠 안 된 자동차 두 대 색칠 안 된 자동차 두 대 색칠 안 된 자동차 두 대 색칠 안 된 자동차 두 대"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            153.5,
+                            201,
+                            441.5,
+                            505
+                        ]
+                    ],
+                    "text_description": "색칠한 부분은 7 묶음 중에서 3 묶음이므로 전체의 $\\frac{3}{7}$ 이야. 진경"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            513.5,
+                            197,
+                            801.5,
+                            504
+                        ]
+                    ],
+                    "text_description": "색칠하지 않은 부분은 7 묶음 중에서 4 묶음이므로 전체의 $\\frac{7}{4}$ 이야. 현진"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.5,
+                            516,
+                            102.5,
+                            546
+                        ]
+                    ],
+                    "text_description": "진경"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            567,
+                            830.5,
+                            622
+                        ]
+                    ],
+                    "text_description": "현진: 색칠하지 않은 부분은 7 묶음 중에서 4 묶음이므로 전체의 $\\frac{4}{7}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

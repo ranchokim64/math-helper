@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "89f4d6ea-defd-4832-a7ad-6066a07ba714",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004866",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.72,
+                            24.13,
+                            454.16,
+                            88.11
+                        ]
+                    ],
+                    "text_description": "당첨 제비만 5개 들어 있는 제비봅기 상자에서 제비 1개를 뽑았습니다. 물음에 답하세요. [6~7]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.87,
+                            368.36,
+                            463.19,
+                            431.53
+                        ]
+                    ],
+                    "text_description": "뽑은 제비가 당첨 제비가 아닐 가능성을 수로 표현해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116.19,
+                            102.88,
+                            304.86,
+                            250.54
+                        ]
+                    ],
+                    "text_description": "당첨 5개의 쪽지가 뽑기함에 들어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            342.6,
+                            451.29,
+                            362.75,
+                            479.11
+                        ]
+                    ],
+                    "text_description": "$0$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.56,
+                            288.71,
+                            465.65,
+                            355.24
+                        ]
+                    ],
+                    "text_description": "제비봅기 상사에 당점 제비만 5개 들어 있으므로이 상사에서 뽑은 제비 1개가 당첨 제비가 아닐 가능성은 '불가능하다'이고. 이를 수로 표현하면 O입니다. 1"
+                }
+            ]
+        }
+    ]
+}

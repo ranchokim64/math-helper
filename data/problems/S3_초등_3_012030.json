@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0edbf070-862c-4139-bbde-dad00fb0b51e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012030",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.7,
+                            12.14,
+                            521.9,
+                            153.74
+                        ]
+                    ],
+                    "text_description": "탁자 위에 사탕이 12개씩 담겨 있는 접시가 3개 놓여 있습니다. 사탕은 모두 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            376.7,
+                            182,
+                            430.9,
+                            210.2
+                        ]
+                    ],
+                    "text_description": "36개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.77,
+                            216.28,
+                            350.77,
+                            273.28
+                        ]
+                    ],
+                    "text_description": "(전체 사탕 수) =(한 접시에 담긴 사탕 수)×(접시 수)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.77,
+                            274.28,
+                            179.77,
+                            297.28
+                        ]
+                    ],
+                    "text_description": "$=12 \\times 3=36$ (개)"
+                }
+            ]
+        }
+    ]
+}

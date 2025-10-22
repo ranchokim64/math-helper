@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "76a59c4e-64c7-437e-aac4-dab15e5c8c1a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005121",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.34,
+                            13.21,
+                            367.14,
+                            90.21
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{5}{6} \\div \\frac{4}{5}$를 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.66,
+                            220.66,
+                            203.38,
+                            285.62
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{7}{24}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.379999999999995,
+                            111.01,
+                            534.46,
+                            167.41
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{5}{6} \\div \\frac{4}{5}=\\frac{11}{6} \\div \\frac{4}{5}=\\frac{11}{6} \\times \\frac{5}{4}=\\frac{55}{24}=2 \\frac{7}{24}$"
+                }
+            ]
+        }
+    ]
+}

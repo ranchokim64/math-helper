@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d1911a64-9efb-4c82-9e45-ec5f8d165c53",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008150",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.75,
+                            4.59,
+                            540.92,
+                            34.49
+                        ]
+                    ],
+                    "text_description": "몫이 두 자리 수인 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.6,
+                            99.97,
+                            175.8,
+                            124.88
+                        ]
+                    ],
+                    "text_description": "③ $260 \\div 21$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.47,
+                            54.83,
+                            177.22,
+                            79.74
+                        ]
+                    ],
+                    "text_description": "① $507 \\div 80$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            479.71,
+                            55.54,
+                            632.73,
+                            127.42
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { ② } 198 \\div 24 \\\\ \\text { ④ } 437 \\div 54\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.6,
+                            140.95,
+                            177.22,
+                            173.69
+                        ]
+                    ],
+                    "text_description": "⑤ $636 \\div 65$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.52,
+                            235.61,
+                            808.53,
+                            264.79
+                        ]
+                    ],
+                    "text_description": "나누는 수의 $10$배가 나누어지는 수보다 작으면 몫은 두 자리 수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.32,
+                            270.48,
+                            540.92,
+                            446.99
+                        ]
+                    ],
+                    "text_description": "① $80 \\times 10=800 \\rightarrow 507<800$ (몫은 한 자리 수) ② $24 \\times 10=240 \\rightarrow 198<240$ (몫은 한 자리 수) ③ $21 \\times 10=210 \\rightarrow 260>210$ (몫은 두 자리 수) ④ $54 \\times 10=540 \\rightarrow 437<540$ (몫은 한 자리 수) ⑤ $65 \\times 10=650 \\rightarrow 636<650$ (몫은 한 자리 수)"
+                }
+            ]
+        }
+    ]
+}

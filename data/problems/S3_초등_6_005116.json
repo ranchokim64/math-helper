@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d7f3cc4a-9b10-4f93-839f-76e79466eefc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005116",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.2,
+                            238.08,
+                            683.2,
+                            363.52
+                        ]
+                    ],
+                    "text_description": "다음 삼각형의 넓이는 $2 \\frac{1}{10} \\mathrm{~cm}^{2}$ 입니다. 이 삼각형의 밑변의 길이는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176.32,
+                            395.64,
+                            573.12,
+                            561.92
+                        ]
+                    ],
+                    "text_description": "세로가 $\\frac{4}{3}$cm, 가로가 □cm인 직각삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            477.12,
+                            573.44,
+                            580.8,
+                            645.12
+                        ]
+                    ],
+                    "text_description": "$5 \\frac{1}{4} \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.08,
+                            26.08,
+                            597.44,
+                            221.44
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 밑변의 길이 }) \\times \\frac{4}{5} \\div 2=2 \\frac{1}{10} \\\\ \\begin{aligned} \\rightarrow(\\text { 밑변의 길이 }) & =2 \\frac{1}{10} \\times 2 \\div \\frac{4}{5}=\\frac{21}{10} \\times 2 \\times \\frac{1}{2} \\times \\frac{5}{4} \\\\ & =\\frac{21}{4}=5 \\frac{1}{4}(\\mathrm{~cm})\\end{aligned}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

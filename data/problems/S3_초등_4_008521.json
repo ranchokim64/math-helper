@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3aa7ee11-ddb6-4375-a391-626528c57a4a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008521",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            4.92,
+                            937.5,
+                            74.92
+                        ]
+                    ],
+                    "text_description": "도형의 배열을 보고 여섯째에 알맞은 도형을 아래에서 찾아 선택해 보세 요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.5,
+                            88.92,
+                            861.5,
+                            410.92
+                        ]
+                    ],
+                    "text_description": "도형을 반시계 방향으로 $90^{\\circ}$ 씩 돌리며 파란색 사각형이 1 개에서 시작하여 1 개씩 늘어나는 규칙으로 1~5번 째까지 그려져 있습니다. 분홍색 블록 1개 오른쪽 옆으로 4개의 파란색 블록이 있습니다. 분홍색 블록 1개 오른쪽 옆으로 6개의 파란색 블록이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.5,
+                            426.5,
+                            236.5,
+                            460.5
+                        ]
+                    ],
+                    "text_description": "분홍색 블록 1개 오른쪽 옆으로 6개의 파란색 블록이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.5,
+                            467.5,
+                            936.5,
+                            570.5
+                        ]
+                    ],
+                    "text_description": "도형을 반시계 방향으로 $90^{\\circ}$ 씩 돌리며 파란색 사각형이 1 개에서 시작하여 1 개씩 늘어나는 규칙입니다. 따라서 여섯째 도형은 다섯째 도형을 반시계 방향으로 $90^{\\circ}$ 돌 리고 파란색 사각형이 $5+1=6$ 개인 도형입니다."
+                }
+            ]
+        }
+    ]
+}

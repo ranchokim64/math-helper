@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "46faa74b-6cfd-4017-b7aa-5128c3d38937",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005127",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            0.42,
+                            748.5,
+                            27.42
+                        ]
+                    ],
+                    "text_description": "직사각형 모양의 꽃밭 가와 나의 넓이가 같습니다. 꽃밭 가의 가로는 몇 m 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            142.5,
+                            41.42,
+                            638.5,
+                            160.42
+                        ]
+                    ],
+                    "text_description": "이 이미지는 두 개의 도형을 보여줍니다. 왼쪽에는 노란색 정사각형이 있고, 그 한 변의 길이는 \\(\\frac{2}{7} \\) 미터입니다. 오른쪽에는 보라색 직사각형이 있으며, 그 너비는 \\(\\frac{3}{4} \\) 미터이고, 길이는 \\(\\frac{1}{6} \\) 미터입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.5,
+                            265,
+                            75.5,
+                            311
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{16} \\mathrm{~m}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            166,
+                            483.5,
+                            265
+                        ]
+                    ],
+                    "text_description": "꽃밭 나의 넓이는 $\\frac{3}{4} \\times \\frac{1}{6}=\\frac{1}{8}\\left(\\mathrm{~m}^{2}\\right)$ 입니다. 두 꽃밭의 넓이가 같으므로 꽃밭 가의 가로는 $\\frac{1}{8} \\div \\frac{2}{7}=\\frac{1}{8} \\times \\frac{7}{2}=\\frac{7}{16}(\\mathrm{~m})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

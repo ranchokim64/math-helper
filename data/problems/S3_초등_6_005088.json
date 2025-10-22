@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ea859d4c-588f-41d1-b8fe-f1168c525141",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005088",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89,
+                            92,
+                            660,
+                            167
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{7} \\div \\frac{4}{5}$를 바르게 계산한 것을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.8,
+                            332,
+                            345.8,
+                            410
+                        ]
+                    ],
+                    "text_description": "② $\\frac{2}{7} \\div \\frac{4}{5}=\\frac{2}{7} \\times \\frac{5}{4}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.8,
+                            603.6,
+                            386.8,
+                            679.6
+                        ]
+                    ],
+                    "text_description": "⑤ $\\frac{2}{7} \\div \\frac{4}{5}=\\frac{10}{35} \\div \\frac{28}{35}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.8,
+                            245,
+                            345.8,
+                            319
+                        ]
+                    ],
+                    "text_description": "① $\\frac{2}{7} \\div \\frac{4}{5}=\\frac{2}{7} \\times \\frac{4}{5}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.8,
+                            425,
+                            345.8,
+                            590
+                        ]
+                    ],
+                    "text_description": "③ $\\frac{2}{7} \\div \\frac{4}{5}=\\frac{2}{5} \\times \\frac{4}{7}$ ④ $\\frac{2}{7} \\div \\frac{4}{5}=\\frac{7}{2} \\times \\frac{5}{4}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            112.8,
+                            689.6,
+                            552.8,
+                            882.6
+                        ]
+                    ],
+                    "text_description": "② 나누는 수의 분모와 분자를 바꾸어 곱합니다. \\[ \\frac{2}{7} \\div \\frac{4}{5}=\\frac{2}{7} \\times \\frac{5}{4} \\] ⑤ 분모를 통분하여 분자끼리 나눗셈을 합니다. \\[ \\frac{2}{7} \\div \\frac{4}{5}=\\frac{10}{35} \\div \\frac{28}{35} \\]"
+                }
+            ]
+        }
+    ]
+}

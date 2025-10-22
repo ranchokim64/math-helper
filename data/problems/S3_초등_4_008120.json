@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "71002e25-3f5a-42e1-a61f-063444b92dd4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008120",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            2.92,
+                            926.5,
+                            72.92
+                        ]
+                    ],
+                    "text_description": "330원짜리 우표 15장의 값은 얼마인지 구하는 식을 바르게 세운 사람의 이름을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            197.5,
+                            223.5,
+                            378.5,
+                            325.5
+                        ]
+                    ],
+                    "text_description": "\\[ 330+15=345 \\] 지현"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            567.5,
+                            222.5,
+                            762.5,
+                            326.5
+                        ]
+                    ],
+                    "text_description": "\\[ 330 \\times 15=4950 \\] 성준"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            399.5,
+                            76.92,
+                            558.5,
+                            203.92
+                        ]
+                    ],
+                    "text_description": "330원짜리 우표"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            346.5,
+                            105.5,
+                            374.5
+                        ]
+                    ],
+                    "text_description": "성준"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            393.5,
+                            928.5,
+                            457.5
+                        ]
+                    ],
+                    "text_description": "(우표 15장의 값) $=$ (우표 한 장의 값) $\\times$ (우표 수)이므로 우표 15 장의 값을 구하는 식을 바르게 세운 사람은 성준입니다."
+                }
+            ]
+        }
+    ]
+}

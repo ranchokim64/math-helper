@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "209df937-e105-44f4-9fa1-35cbc55b41df",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012486",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-05] 들이를 나타내는 표준 단위의 필요성을 인식하여 1L와 1mL의 단위를 알고, 이를 이용하여 들이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-17] 들이 단위 1L와 1mL를 알고, 이를 이용하여 들이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.82,
+                            15.39,
+                            378.54,
+                            170.35
+                        ]
+                    ],
+                    "text_description": "물통에 물을 가득 채우려면 바가지로 4번 부어야 합니다. 바가지에 물을 가득 채우 려면 컵으로 5번 부어야 합니다. 컵으로 물통을 가득 채우려면 적어도 물을 몇 번 부어야 할까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            276.06,
+                            189.92,
+                            315.1,
+                            209.76
+                        ]
+                    ],
+                    "text_description": "20번"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.02,
+                            218.08,
+                            331.74,
+                            276.04
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{aligned} (\\text { 물통의 들이) } & =(\\text { 바가지의 들이 }) \\times 4 \\\\ & =(\\text { 컵의 들이 }) \\times 5 \\times 4 \\end{aligned} \\] 따라서 물통은 컵 20번으로 가득 채울 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

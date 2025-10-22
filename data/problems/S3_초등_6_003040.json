@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0f5928c8-689d-4e1a-80eb-19bf6c7353ce",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003040",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.26,
+                            12.72,
+                            291.88,
+                            29.11
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 차례대로 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.19,
+                            46,
+                            413.74,
+                            115.64
+                        ]
+                    ],
+                    "text_description": "㉠ $10 \\div \\frac{5}{7}$ ㉡ $12 \\div \\frac{2}{5}$ ㉢ $14 \\div \\frac{7}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.68,
+                            283.06,
+                            248.36,
+                            306.61
+                        ]
+                    ],
+                    "text_description": "㉡, ㉢, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.12,
+                            134.02,
+                            282.67,
+                            264.63
+                        ]
+                    ],
+                    "text_description": "㉠ $10 \\div \\frac{5}{7}=(10 \\div 5) \\times 7=14$ ㉡ $12 \\div \\frac{2}{5}=(12 \\div 2) \\times 5=30$ ㉢ $14 \\div \\frac{7}{8}=(14 \\div 7) \\times 8=16$"
+                }
+            ]
+        }
+    ]
+}

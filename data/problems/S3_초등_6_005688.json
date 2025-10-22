@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "102b97db-60c5-47ad-8421-247e0d6d6560",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005688",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.52,
+                            8.69,
+                            425.32,
+                            95.89
+                        ]
+                    ],
+                    "text_description": "지아는 소금 50g을 녹여 소금물 200g을 만들었 고 민주는 소금 30g을 녹여 소금물 150g을 만 들었습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.32,
+                            116.32,
+                            428.52,
+                            179.52
+                        ]
+                    ],
+                    "text_description": "지아와 민주가 만든 소금물에서 소금물의 양에 대 한 소금의 양의 비율은 몇 $\\%$ 인지 각각 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132.12,
+                            192.32,
+                            428.52,
+                            255.32
+                        ]
+                    ],
+                    "text_description": "㉠ 지아: $(25 \\% \\quad)$ ㉡ 민주: ($\\quad 20 \\% \\quad$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.32,
+                            266.72,
+                            213.32,
+                            353.12
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 지아: } \\frac{50}{200} \\times 100=25(\\%) \\\\ \\text { 민주: } \\frac{30}{150} \\times 100=20(\\%)\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

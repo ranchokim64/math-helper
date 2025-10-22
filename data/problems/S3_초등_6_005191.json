@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a868c877-1340-4633-8a52-047896d3d1d7",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005191",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.52,
+                            13.09,
+                            501.52,
+                            88.29
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양입니다. 위, 앞, 옆에서 본 모양을 각각 그려 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162.82,
+                            99.95,
+                            353.77,
+                            339.28
+                        ]
+                    ],
+                    "text_description": "쌓기나무 모양이 총 9개 있습니다. 1층에는 5개 2층 3개 3층 1개 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.49,
+                            344.46,
+                            503.02,
+                            396.28
+                        ]
+                    ],
+                    "text_description": "똑같은 모양으로 쌓는 데 필요한 쌓기나무의 개수는 9 개입 니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.67,
+                            406.65,
+                            437.87,
+                            562.04
+                        ]
+                    ],
+                    "text_description": "3x3형태의 표입니다.\n위에서 본 모습입니다.\n2행 1,2,3열. 3행 1,2열\n앞에서 본 모습입니다.\n1행 1열, 2행 1,2열, 3행 1,2,3열\n옆에서 본 모습입니다.\n1행 1열, 2행 1,2열. 3행 1, 2열\n에 위치 하고 있습니다."
+                }
+            ]
+        }
+    ]
+}

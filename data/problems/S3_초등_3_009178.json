@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "45f4429c-b2e6-4af1-aae5-817120141fda",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009178",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.2,
+                            -0.66,
+                            590.4,
+                            28.14
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 알맞은 단위를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.6,
+                            37.14,
+                            624.0,
+                            196.54
+                        ]
+                    ],
+                    "text_description": "지우개 그림이 있다. 지우개의 두께는 약 $\\square$입니다. mm cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.6,
+                            223,
+                            96.8,
+                            248.6
+                        ]
+                    ],
+                    "text_description": "mm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            263.8,
+                            661.6,
+                            295.8
+                        ]
+                    ],
+                    "text_description": "지우개의 두께는 $9cm$보다 얇으므로 $9mm$가 알맞습니다."
+                }
+            ]
+        }
+    ]
+}

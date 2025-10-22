@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a06c9b61-7edb-47c0-8ba1-977dda27a01f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010723",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            1.9,
+                            793.5,
+                            60.9
+                        ]
+                    ],
+                    "text_description": "탁자 1개에 의자를 3개씩 놓고 있습니다. 탁자의 수와 의자의 수 사이에는 어떤 대응 관계가 있는지 알아보려고 합니다. 알맞은 수를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            137.9,
+                            773.5,
+                            265.9
+                        ]
+                    ],
+                    "text_description": "탁자의 수가 1개씩 늘어날 때마다 의자의 수는 (1, 2, 3)개씩 늘어납니다. 의자의 수는 탁자의 수의 (2, 3)배입니다. 탁자의 수는 의자의 수를 (2, 3)(으)로 나눈 수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            60.9,
+                            765.5,
+                            121.9
+                        ]
+                    ],
+                    "text_description": "이 이미지는 탁자와 의자의 규칙적인 배열을 보여주는 그림이다. 탁자 하나에 의자가 세 개씩 있는 그림이 규칙적으로 하나씩 늘어나는 배열을 보인다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.5,
+                            297.9,
+                            106.5,
+                            319.9
+                        ]
+                    ],
+                    "text_description": "$3, 3, 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            331.9,
+                            632.5,
+                            417.9
+                        ]
+                    ],
+                    "text_description": "``` (해서ᄅ)타ᄀ자의 수가 1개씨ᄀ 느ᄅ어나ᄅ 때마다 의자의 수느ᄂ 3개씨ᄀ 느ᄅ어나ᄇ니다. 의자 수느ᄂ 타ᄀ자의 수의 3배이ᄇ니다. 타ᄀ자의 수느ᄂ 의자의 수드ᄅ 3으로 나누ᄂ 수이ᄇ니다. ```"
+                }
+            ]
+        }
+    ]
+}

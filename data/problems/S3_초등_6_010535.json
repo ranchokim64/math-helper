@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b78c71ae-a84a-4e14-a907-f971cbc52c98",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010535",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            13.42,
+                            956,
+                            115.42
+                        ]
+                    ],
+                    "text_description": "다음은 어느 식품에 들어 있는 영양소를 조사하여 나타낸 원그래프입니다. 영양소 양이 전체의 $\\frac{3}{20}$만큼인 영양소를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            291,
+                            441.42,
+                            699,
+                            472.42
+                        ]
+                    ],
+                    "text_description": "(탄수화물, 수분, 단백질, 칼슘)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            359,
+                            132,
+                            640,
+                            438
+                        ]
+                    ],
+                    "text_description": "식품의 영양소의 원그래프가 있다. 탄수화물은 50%, 수분은 25%, 단백질은 15%, 칼슘은 10% 차지하였다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            490,
+                            130,
+                            519
+                        ]
+                    ],
+                    "text_description": "단백질"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            540,
+                            667,
+                            632
+                        ]
+                    ],
+                    "text_description": "\\[ \\frac{3}{20} \\times 100=15(\\%) \\] $\\Rightarrow$ 영양소 양이 전체의 $15 \\%$ 만큼인 영양소는 단백질입니다."
+                }
+            ]
+        }
+    ]
+}

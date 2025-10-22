@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e0e4ffd3-2665-45ca-b9b0-b3b14b291be2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010646",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.75,
+                            1.5,
+                            875.5,
+                            70.25
+                        ]
+                    ],
+                    "text_description": "왼쪽 수가 오른쪽 수의 약수이면 $\\bigcirc$, 왼쪽 수가 오른쪽 수의 약수가 아니면 $\\times$를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.25,
+                            75.25,
+                            173,
+                            162.75
+                        ]
+                    ],
+                    "text_description": "$3 \\quad 27$ ($\\bigcirc, \\times$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.75,
+                            245.25,
+                            30.5,
+                            271.5
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.25,
+                            170.25,
+                            711.75,
+                            203.75
+                        ]
+                    ],
+                    "text_description": "오른쪽 수를 왼쪽 수로 나누었을 때 나누어떨어지는지 알아봅니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.75,
+                            206.5,
+                            151.75,
+                            240.25
+                        ]
+                    ],
+                    "text_description": "$27 \\div 3=9(\\bigcirc)$"
+                }
+            ]
+        }
+    ]
+}

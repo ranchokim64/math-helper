@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d260897-e1fd-4888-a794-e199c93d577d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009626",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.74,
+                            1.43,
+                            538.34,
+                            25.57
+                        ]
+                    ],
+                    "text_description": "가장 큰 수와 가장 작은 수의 곱을 대분수로 나타낸 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            223.08,
+                            88.34,
+                            379.29,
+                            126.68
+                        ]
+                    ],
+                    "text_description": "$\\left(6 \\frac{3}{8}, 7 \\frac{5}{16}, 7 \\frac{7}{8}\\right)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            235.0,
+                            37.0,
+                            369.0,
+                            74.0
+                        ]
+                    ],
+                    "text_description": "$\\left(6 \\frac{3}{8}, 7 \\frac{5}{16}, 7 \\frac{7}{8}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.34,
+                            135.33,
+                            58.36,
+                            159.47
+                        ]
+                    ],
+                    "text_description": "$7 \\frac{7}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.23,
+                            169.41,
+                            445.32,
+                            246.8
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text {} \\frac{17}{8}=2 \\frac{1}{8} \\text { 이므로 } 4 \\frac{1}{2}>\\frac{17}{8}>1 \\frac{3}{4} \\text { 입니다. } \\\\ \\Rightarrow(\\text { 가장 큰 수 }) \\times(\\text { 가장 작은 수 })=4 \\frac{1}{2} \\times 1 \\frac{3}{4}=\\frac{9}{2} \\times \\frac{7}{4}=\\frac{63}{8}=7 \\frac{7}{8}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

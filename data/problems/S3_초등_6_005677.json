@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fd3e53b1-397f-480f-82a2-e5ca960fbcf2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005677",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.2,
+                            8.74,
+                            516.6,
+                            70.54
+                        ]
+                    ],
+                    "text_description": "그림을 보고 전체에 대한 색칠한 부분의 비율을 백 분율로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.4,
+                            92.6,
+                            305.8,
+                            331.6
+                        ]
+                    ],
+                    "text_description": "1개의 정사각형을 16개의 정사각형으로 나눈 모습이며, 4개의 정사각형이 색칠한 상태이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.4,
+                            352.6,
+                            434,
+                            445
+                        ]
+                    ],
+                    "text_description": "전체 16칸 중 색칠한 부분은 4칸이므로 $\\frac{4}{16} \\times 100=25(\\%)$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.0,
+                            462.0,
+                            101.0,
+                            496.0
+                        ]
+                    ],
+                    "text_description": "25%"
+                }
+            ]
+        }
+    ]
+}

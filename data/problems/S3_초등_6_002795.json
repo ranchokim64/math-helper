@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "863e06b4-fb42-4d25-8590-70f0f1e15f67",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002795",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            16.42,
+                            561,
+                            50.42
+                        ]
+                    ],
+                    "text_description": "태오와 다희의 대화를 읽고 $\\square$ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            68,
+                            808,
+                            349
+                        ]
+                    ],
+                    "text_description": "태오: 리본 84.8cm를 네 명에게 똑같이 나누어 주려면 한 명에게 몇 cm를 주어야 할까? 다희: 84. 8cm=$\\square$mm야. $\\square$÷4=$\\square$이므로 한 명에게 줄 리본은 $\\square$ mm, 즉 $\\square$ cm야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            436,
+                            376,
+                            683
+                        ]
+                    ],
+                    "text_description": "다희: \\[ \\begin{array}{l} 84. 8 \\mathrm{~cm}=848 \\mathrm{~mm} \\text { 야. } \\\\ 848 \\div 4=212 \\text { 이므로 } \\end{array} \\] 한 명에게 줄 리본은 212mm, 즉 21.2cm 야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43,
+                            375,
+                            653,
+                            429
+                        ]
+                    ],
+                    "text_description": "$84. 8 \\mathrm{~cm}=848 \\mathrm{~mm}$ 이고 $848 \\div 4=212$ 이므로 한 명에게 줄 리본은 212mm, 즉 21.2cm 입니다."
+                }
+            ]
+        }
+    ]
+}

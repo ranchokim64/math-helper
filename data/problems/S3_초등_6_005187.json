@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1bfcfa5b-b95a-46bb-84f3-7043caf6125a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005187",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.27,
+                            14.73,
+                            504.27,
+                            88.73
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 다음과 같은 모양으로 쌓았습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.27,
+                            368.27,
+                            505.27,
+                            433.27
+                        ]
+                    ],
+                    "text_description": "가와 같은 모양을 만들기 위해 필요한 쌓기나무는 몇 개인지 수의 범위를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.0,
+                            92.0,
+                            498.0,
+                            352.0
+                        ]
+                    ],
+                    "text_description": "쌓기나무 이미지와 위에서 본 모양"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.27,
+                            480.27,
+                            467.27,
+                            532.27
+                        ]
+                    ],
+                    "text_description": "똑같아 보이는 모양일지라도 뒤쪽에 더 있을 수 있는 쌓기나무가 있을 수 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.27,
+                            532.27,
+                            442.27,
+                            674.27
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 뒤쪽에 없을경우 1개+5개로 총 6개이다 또는 쌓기나무가 뒤쪽에 있을경우 1개+6개로 총 7개이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            342.27,
+                            442.27,
+                            419.27,
+                            471.27
+                        ]
+                    ],
+                    "text_description": "6 7개"
+                }
+            ]
+        }
+    ]
+}

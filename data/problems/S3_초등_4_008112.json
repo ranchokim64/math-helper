@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a5ef3918-729b-4c78-9062-1b24678e8063",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008112",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.15,
+                            5.2,
+                            718.9,
+                            34.99
+                        ]
+                    ],
+                    "text_description": "어림한 나눗셈의 몫으로 가장 적절한 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            495.91,
+                            58.63,
+                            691.03,
+                            93.23
+                        ]
+                    ],
+                    "text_description": "$(2, 3, 20, 30)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.45,
+                            40.76,
+                            420.94,
+                            111.89
+                        ]
+                    ],
+                    "text_description": "$91 \\div 28$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.73,
+                            127.84,
+                            71.07,
+                            148.98
+                        ]
+                    ],
+                    "text_description": "$3$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.629999999999999,
+                            170.28,
+                            928.44,
+                            234.53
+                        ]
+                    ],
+                    "text_description": "28을 30으로 생각하면 $30 \\times 3=90$ 이므로 $91 \\div 28$의 몫은 3정도라고 어림할 수 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            241.26,
+                            154.69,
+                            368.13
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r|l} & 3 \\\\ \\hline 28 & 91 \\\\ & 84 \\\\ \\hline & 7 \\end{array}$"
+                }
+            ]
+        }
+    ]
+}

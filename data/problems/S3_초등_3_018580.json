@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8db49900-f0f2-4c53-8cea-94cd757a98fb",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018580",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.64,
+                            4.36,
+                            553.64,
+                            22.28
+                        ]
+                    ],
+                    "text_description": "감자 180 개를 9 개의 자루에 똑같이 나누어 담았습니다. 자루 한 개에 담은 감자는 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.64,
+                            26.76,
+                            54.44,
+                            45.96
+                        ]
+                    ],
+                    "text_description": "① 20개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.64,
+                            49.8,
+                            54.44,
+                            111.88
+                        ]
+                    ],
+                    "text_description": "② 19개 ③ 18개 ④ 21개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.08,
+                            128.3,
+                            108.2,
+                            144.3
+                        ]
+                    ],
+                    "text_description": "$180 \\div 9=20$ (개)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9607612c-4d65-4243-9cb8-ed69af003d0a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012497",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-11] 실생활 문제 상황을 통하여 무게의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-23] 실생활 문제 상황과 연결하여 무게의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.5,
+                            17.42,
+                            447.5,
+                            169.42
+                        ]
+                    ],
+                    "text_description": "정은이의 몸무게는 $39kg$ $600g$ 이고, 오빠의 몸무게는 정은이의 몸무게보다 $11kg$ $700g$이 더 무겁다고 합니다. 오빠의 몸무게는 몇 $kg$ 몇 $g$ 일까요? $?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            275.5,
+                            186,
+                            393.5,
+                            214
+                        ]
+                    ],
+                    "text_description": "$51kg$ $300g$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            220,
+                            342.5,
+                            274
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 39 \\mathrm{~kg} 600 \\mathrm{~g}+1 \\mathrm{~kg} 700 \\mathrm{~g} & =50 \\mathrm{~kg} 1300 \\mathrm{~g} \\\\ & =51 \\mathrm{~kg} \\mathrm{300g}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

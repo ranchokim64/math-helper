@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "14ac7135-1dbe-4a1f-852f-34eb39defeb1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012031",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            7.42,
+                            520.5,
+                            98.42
+                        ]
+                    ],
+                    "text_description": "두 수의 곱이 200에 가장 가까운 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.7,
+                            175.7,
+                            153.3,
+                            219.7
+                        ]
+                    ],
+                    "text_description": "③ $52 \\times 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            277,
+                            500.5,
+                            359
+                        ]
+                    ],
+                    "text_description": "① 168② 183 ③208④ 219 ⑤ 188 따라서 두 수의 곱이 200에 가장 가까운 것은 208입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            122.9,
+                            405.3,
+                            165.3
+                        ]
+                    ],
+                    "text_description": "① $42 \\times 4$ ② $61 \\times 3$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            263.9,
+                            176.5,
+                            406.9,
+                            214.7
+                        ]
+                    ],
+                    "text_description": "④ $73 \\times 3$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            226.3,
+                            151.7,
+                            266.1
+                        ]
+                    ],
+                    "text_description": "⑤ $94 \\times 2$"
+                }
+            ]
+        }
+    ]
+}

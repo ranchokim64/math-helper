@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5a287481-f692-45c5-a046-1e7716ee7e5e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004485",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.46,
+                            4.74,
+                            571.39,
+                            61.57
+                        ]
+                    ],
+                    "text_description": "오른쪽 도형에서 삼각형 ㄱㅁㄴ넓이가 $20 \\mathrm{~cm}^{2}$ 입니다. 평행사변형 ㄱㄴㄷㄹ의 넓이는 몇$\\mathrm{cm}^{2}$ 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            584.3,
+                            9.3,
+                            790.3,
+                            169.5
+                        ]
+                    ],
+                    "text_description": "평행사변형."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            651.9,
+                            343.5,
+                            726.3,
+                            369.5
+                        ]
+                    ],
+                    "text_description": "$130 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.1,
+                            194.3,
+                            749.9,
+                            318.1
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㅁ의 높이를 $\\square \\mathrm{cm}$ 라 하면 (삼각형의 넓이)=(밑변의 길이) $\\times$ (높이 $) \\div 2, 20=4 \\times \\square \\div 2, 40=4 \\times \\square, \\square=10(\\mathrm{~cm})$ 삼각형 ㄱㄴㅁ와 평행사변형 ㄱㄴ ㄷㄹ의 높이는 같습니다. $\\rightarrow($ 평행사변형 ㄱㄴㄷㄹㅇ의 넓이 $)=13 \\times 10=130\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

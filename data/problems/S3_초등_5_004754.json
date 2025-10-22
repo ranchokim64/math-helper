@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cde444f0-99b4-44b8-ad7a-6e934a9915e8",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004754",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            13.91,
+                            354,
+                            33.91
+                        ]
+                    ],
+                    "text_description": "곱의 소수점을 바르게 찍은 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            150.91,
+                            198,
+                            172.91
+                        ]
+                    ],
+                    "text_description": "④ $36 \\times 0. 017=61. 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            201.5,
+                            277,
+                            218.5
+                        ]
+                    ],
+                    "text_description": "① 6. 12 ② 6. 12 ③ 61. 2 ④ 0. 612"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43,
+                            78.5,
+                            186,
+                            148.5
+                        ]
+                    ],
+                    "text_description": "① $36 \\times 0. 17=612$ ② $0. 36 \\times 17=61. 2$ ③ $3. 6 \\times 17=0. 612$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            173.5,
+                            206,
+                            199.5
+                        ]
+                    ],
+                    "text_description": "⑤ $0. 036 \\times 17=0. 612$"
+                }
+            ]
+        }
+    ]
+}

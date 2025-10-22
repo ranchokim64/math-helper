@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fc01d533-991a-4e27-8433-a8150ddc1217",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004261",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.2,
+                            5.84,
+                            456,
+                            121.84
+                        ]
+                    ],
+                    "text_description": "과자 1봉지는 900원, 빵 2개는 1600 원, 사탕 1 봉지는 I500원입니다. 과자 1봉지와 빵 1 개를 같이 산 값은 사탕 1봉지의 값보다 얼마나 비싼지 구하는 식은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.2,
+                            219.1,
+                            284,
+                            244.7
+                        ]
+                    ],
+                    "text_description": "④ $900+1600 \\div 2-1500$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.8,
+                            281.5,
+                            388.8,
+                            323.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (과자 1봉지의 값) }+ \\text { (빵 1개의 값-(사탕 1봉지의 값) } \\\\ =900+1600 \\div 2-1500\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            131.9,
+                            283.2,
+                            217.5
+                        ]
+                    ],
+                    "text_description": "① $900+1600+1500$ ② $900+1600-1500$ ③ $900+1600 \\times 2+1500$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.6,
+                            248.7,
+                            283.2,
+                            271.9
+                        ]
+                    ],
+                    "text_description": "⑤ $900+1600 \\div 2+1500$"
+                }
+            ]
+        }
+    ]
+}

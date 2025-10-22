@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "62cfe2d3-f8da-44b5-8bda-0844f4a212a3",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005224",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.75,
+                            34.64,
+                            357.49,
+                            142.87
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 물음에 답하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            380.94,
+                            32.42,
+                            551.99,
+                            241.94
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|l|} \\multicolumn{2}{|c|}{ 위 } \\\\ \\hline 3 & 2 \\\\ \\hline 3 & 1 \\\\ \\hline 1 & \\\\ $\\leftarrow$ 옆 \\hline \\end{tabular} $\\begin{array}{c}\\uparrow \\\\ \\text { 앞 }\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.2,
+                            269.62,
+                            445.88,
+                            302.09
+                        ]
+                    ],
+                    "text_description": "2층에 쌓은 쌓기나무는 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            414.31,
+                            319.23,
+                            457.6,
+                            347.19
+                        ]
+                    ],
+                    "text_description": "3개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.33,
+                            354.4,
+                            258.28,
+                            461.73
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|l|l} \\hline 3 & 2 & \\\\ \\hline 3 & 1 & 1 \\end{tabular}$\\rightarrow 3$ 개"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1b6cfa82-cf48-471d-af9c-20d4f6075a0a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004273",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.68,
+                            1.18,
+                            636.16,
+                            26.14
+                        ]
+                    ],
+                    "text_description": "1에서 9까지의 수 중에서 $\\square$ 안에 들어갈 수 있는 수는 모두 몇 개인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.72,
+                            105.88,
+                            355.84,
+                            127
+                        ]
+                    ],
+                    "text_description": "$56-7 \\times(6+8) \\div 2$를 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.6,
+                            36.38,
+                            545.28,
+                            88.22
+                        ]
+                    ],
+                    "text_description": "$56-7 \\times(6+8) \\div 2>21 \\div 7+\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            634.44,
+                            143,
+                            652.16,
+                            161.56
+                        ]
+                    ],
+                    "text_description": "$7$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.96,
+                            136.6,
+                            457.6,
+                            154.52
+                        ]
+                    ],
+                    "text_description": "$56-7 \\times(6+8) \\div 2=56-7 \\times 14 \\div 2=56-98 \\div 2=56-49=7$"
+                }
+            ]
+        }
+    ]
+}

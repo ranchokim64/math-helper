@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2c2b63b3-01a9-4379-be0e-f1e251767e2a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012164",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-13] 분모가 10인 진분수를 통하여 소수 한 자리 수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-12] 분모가 10인 진분수와 연결하여 소수 한 자리 수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.62,
+                            13.9,
+                            494.62,
+                            80.9
+                        ]
+                    ],
+                    "text_description": "연필의 길이는 몇 $cm$ 인지 소수로 나타 내세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            129.62,
+                            92.9,
+                            417.62,
+                            205.9
+                        ]
+                    ],
+                    "text_description": "연필과 $6cm$짜리 눈금자가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            364.62,
+                            229.9,
+                            427.62,
+                            254.9
+                        ]
+                    ],
+                    "text_description": "$5.7cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.62,
+                            261.49,
+                            364.62,
+                            280.49
+                        ]
+                    ],
+                    "text_description": "$5cm$와 $0.7cm$ 만큼이므로 $5.7cm$ 입니다."
+                }
+            ]
+        }
+    ]
+}

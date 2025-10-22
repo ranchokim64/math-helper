@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "28d49bc6-8eb3-44a0-956d-88a74eb79d69",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003007",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.06,
+                            11.41,
+                            603.66,
+                            77.65
+                        ]
+                    ],
+                    "text_description": "길이가 $3 \\frac{7}{15} \\mathrm{~cm}$ 인 색 테이프 2 장을 $1 \\frac{2}{5} \\mathrm{~cm}$ 겹쳐지게 이어 붙였습니다. 이어 붙인 색 테이프의 길이는 몇 cm인지 구해 보세요. 두삐"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.79,
+                            92.35,
+                            533.94,
+                            193.77
+                        ]
+                    ],
+                    "text_description": "길이가 $3 \\frac{7}{15} \\mathrm{~cm}$ 인 색 테이프 2 장을 $1 \\frac{2}{5} \\mathrm{~cm}$ 겹쳐지게 이어 붙인 상태이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            565.19,
+                            202.99,
+                            828.87,
+                            253.17
+                        ]
+                    ],
+                    "text_description": "$\\left(\\begin{array}{ll}5 \\frac{8}{15} &) \\mathrm{cm}\\end{array}\\right. $"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.66,
+                            199.61,
+                            545.74,
+                            250.3
+                        ]
+                    ],
+                    "text_description": "색 테이프 2 장의 길이는 $3 \\frac{7}{15}+3 \\frac{7}{15}=6 \\frac{14}{15}(\\mathrm{~cm})$ 이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.14,
+                            251.32,
+                            724.94,
+                            297.4
+                        ]
+                    ],
+                    "text_description": "이어 붙인 색 테이프의 길이는 $6 \\frac{14}{15}-1 \\frac{2}{5}=6 \\frac{14}{15}-1 \\frac{6}{15}=5 \\frac{8}{15}(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

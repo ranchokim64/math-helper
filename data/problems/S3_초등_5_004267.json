@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bec010af-11af-461c-997b-99707e4095d9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004267",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            17.42,
+                            557,
+                            84.42
+                        ]
+                    ],
+                    "text_description": "식당에 있는 음식의 가격을 나타낸 것입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            221,
+                            562,
+                            323
+                        ]
+                    ],
+                    "text_description": "효주는 우동을 먹었고 지솔이는 김밥과 떡볶이를 먹었습니다. 지솔이는 효주보다 얼마를 더 내야 하는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            95.42,
+                            551,
+                            204.42
+                        ]
+                    ],
+                    "text_description": "식당 메뉴판."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            390,
+                            339,
+                            483,
+                            372
+                        ]
+                    ],
+                    "text_description": "1500원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87,
+                            383,
+                            411,
+                            435
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 2500+3500-4500 & =6000-4500 \\\\ & =1500(\\text { 원 })\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

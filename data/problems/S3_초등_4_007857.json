@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ae62cbcf-73af-4e26-8bcc-c962e147cfed",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007857",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채울 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채우고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            2.42,
+                            846.5,
+                            62.42
+                        ]
+                    ],
+                    "text_description": "다음 모양 조각을 모두 사용하여 오각형을 만들 수 있으면 $\\bigcirc$, 만들 수 없으면 $\\times$를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            190.5,
+                            73.42,
+                            704.5,
+                            125.42
+                        ]
+                    ],
+                    "text_description": "삼각형 두 개와 사다리꼴, 평행사변형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            188,
+                            78.5,
+                            209
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            229,
+                            848.5,
+                            284
+                        ]
+                    ],
+                    "text_description": "정삼각형 모양 조각 2개, 마름모 모양 조각 1개, 사다리꼴 모양 조각 1 개를 사용하여 오각형을 만들 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            289,
+                            124.5,
+                            405
+                        ]
+                    ],
+                    "text_description": "정삼각형 모양 조각 2개, 마름모 모양 조각 1개, 사다리꼴 모양 조각 1 개를 사용하여 오각형을 만들었습니다."
+                }
+            ]
+        }
+    ]
+}

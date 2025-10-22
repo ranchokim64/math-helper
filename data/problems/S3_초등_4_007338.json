@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f1784a87-c164-48c2-8410-f661fefd50cd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007338",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            2.4,
+                            432.5,
+                            34.4
+                        ]
+                    ],
+                    "text_description": "계산 결과가 더 큰 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.5,
+                            42.4,
+                            594.5,
+                            155.4
+                        ]
+                    ],
+                    "text_description": "숫자 $5 \\frac{6}{8}+2 \\frac{5}{8}$와 $3 \\frac{7}{8}+4 \\frac{1}{8}$가 들어 있는 풍선 2개가 끈으로 묶여있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            167.4,
+                            136.5,
+                            223.4
+                        ]
+                    ],
+                    "text_description": "$5 \\frac{6}{8}+2 \\frac{5}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            239.4,
+                            382.5,
+                            411.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l} 5 \\frac{6}{8}+2 \\frac{5}{8}=7+\\frac{11}{8}=7+1 \\frac{3}{8}=8 \\frac{3}{8} \\\\ 3 \\frac{7}{8}+4 \\frac{1}{8}=7+\\frac{8}{8}=7+1=8 \\\\ \\Rightarrow 8 \\frac{3}{8}>8\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

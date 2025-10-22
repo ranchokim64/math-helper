@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c94267a8-c24b-4cf2-9a48-0e80b691b42c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011659",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71,
+                            22.42,
+                            445,
+                            48.42
+                        ]
+                    ],
+                    "text_description": "$0.91kg$의 밀가루가 담겨 있는 그릇에서"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24,
+                            54.42,
+                            446,
+                            114.42
+                        ]
+                    ],
+                    "text_description": "$0. 35kg$을 덜어 내어 비스킷을 만들었습니다. 남은 밀가루의 무게는 몇 $kg$ 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            322,
+                            133,
+                            390,
+                            156
+                        ]
+                    ],
+                    "text_description": "$0.56kg$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            162,
+                            276,
+                            205
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 남은 밀가루의 무게) } & =0. 91-0. 35 \\\\ & =0. 56(\\mathrm{~kg})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

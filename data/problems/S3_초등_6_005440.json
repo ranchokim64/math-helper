@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c9ac76b7-e089-4d5d-af7d-9cefa17f55d8",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005440",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-09] 원뿔과 구를 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            22.12,
+                            465.2,
+                            122.52
+                        ]
+                    ],
+                    "text_description": "한 변을 기준으로 직각삼각형 모양의 종이를 돌려 만든 입체도형입니다. 돌리기 전 직각삼각형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            150,
+                            138.52,
+                            334.8,
+                            291.32
+                        ]
+                    ],
+                    "text_description": "이 이미지는 원뿔의 도면입니다. 원뿔의 모선은 10cm, 높이는 8cm, 밑면의 지름 길이는 12cm로 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            313.6,
+                            307.92,
+                            386,
+                            337.72
+                        ]
+                    ],
+                    "text_description": "$24 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.4,
+                            344.92,
+                            463.6,
+                            396.12
+                        ]
+                    ],
+                    "text_description": "돌리기 전 직각삼각형의 밑변의 길이는 6cm, 높이는 8cm이 므로 넓이는 $6 \\times 8 \\div 2=24\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

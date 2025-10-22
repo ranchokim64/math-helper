@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fe79913d-4424-4ad6-b6cd-ba93a65547c3",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017111",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.55,
+                            1.98,
+                            274.34,
+                            22.24
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 큰 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.55,
+                            37.43,
+                            119.89,
+                            61.22
+                        ]
+                    ],
+                    "text_description": "$432+876$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.87,
+                            68.66,
+                            116.52,
+                            87.76
+                        ]
+                    ],
+                    "text_description": "$543+432$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.71,
+                            96.18,
+                            122.42,
+                            116.43
+                        ]
+                    ],
+                    "text_description": "654 + 321"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.96,
+                            124.87,
+                            171.37,
+                            202.52
+                        ]
+                    ],
+                    "text_description": "ㄱ) $432+876=1308$ ㄴ) $543+432=975$ ㄷ) $654+321=975$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.47,
+                            222.77,
+                            65.88,
+                            242.18
+                        ]
+                    ],
+                    "text_description": "ㄱ"
+                }
+            ]
+        }
+    ]
+}

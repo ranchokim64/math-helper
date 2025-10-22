@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ae94d68d-f5dc-42fb-ae06-6f96d25f836e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004575",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            24.9,
+                            516,
+                            59.9
+                        ]
+                    ],
+                    "text_description": "수직선에 나타낸 수의 범위를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            86.9,
+                            627,
+                            154.9
+                        ]
+                    ],
+                    "text_description": "① 수직선 위에 22부터 30까지의 자연수가 표시되어 있고, 26 위에 채워진 빨간점부터 29 위에 비워진 빨간점까지 빨간선으로 이어져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            231,
+                            169.9,
+                            495,
+                            204.9
+                        ]
+                    ],
+                    "text_description": "26 이상 29 미만인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0,
+                            222.9,
+                            579,
+                            277.9
+                        ]
+                    ],
+                    "text_description": "① 26과 같거나 크고 29보다 작은 수이므로 26 이상 29 미만인 수입니다."
+                }
+            ]
+        }
+    ]
+}

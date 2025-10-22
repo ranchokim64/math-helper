@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "55071146-3e43-4c79-b45c-7215cc005f1b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005356",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.06,
+                            20.01,
+                            660.68,
+                            179.43
+                        ]
+                    ],
+                    "text_description": "넓이가 $50. 24 \\mathrm{~m}^{2}$ 인 원 모양의 잔디밭이 있습니다. 이 잔디밭의 반지름과 원주는 각각 몇 m 인가요? (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            212.0,
+                            188.0,
+                            468.0,
+                            444.0
+                        ]
+                    ],
+                    "text_description": "원형 잔디밭 이미지"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.76,
+                            580.63,
+                            639.13,
+                            611.62
+                        ]
+                    ],
+                    "text_description": "잔디밭의 반지름을 $\\square \\mathrm{m}$라고 하면 $\\square \\times \\square \\times 3. 14=50. 24$,"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.47,
+                            614.32,
+                            428.56,
+                            715.42
+                        ]
+                    ],
+                    "text_description": "\\[ \\square \\times \\square=16, \\square=4(\\mathrm{~m}) \\text { 입니다. } \\] 잔디밭의 반지름이 4m이므로 원주는 \\[ 4 \\times 2 \\times 3. 14=25. 12(\\mathrm{~m}) \\text { 입니다. } \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            232.96,
+                            470.46,
+                            658.09,
+                            514.52
+                        ]
+                    ],
+                    "text_description": "반지름: ($4 \\mathrm{~m} \\quad$)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            260.18,
+                            524.89,
+                            656.79,
+                            568.96
+                        ]
+                    ],
+                    "text_description": "원주: $(25. 12 \\mathrm{~m} \\quad$)"
+                }
+            ]
+        }
+    ]
+}

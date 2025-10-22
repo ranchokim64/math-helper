@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5e137c04-2098-4eb1-a65f-d8e00ca57c43",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008969",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.18,
+                            5.07,
+                            349.55,
+                            22.99
+                        ]
+                    ],
+                    "text_description": "계산 결과가 700보다 작은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            198,
+                            33.51,
+                            377.71,
+                            50.92
+                        ]
+                    ],
+                    "text_description": "$376+380 \\quad 351+290$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.13,
+                            90.85,
+                            100.72,
+                            107.24
+                        ]
+                    ],
+                    "text_description": "$351+290$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.75,
+                            139.49,
+                            358.25,
+                            158.44
+                        ]
+                    ],
+                    "text_description": "$641<700$ 이므로 700보다 작은 것은 $351+290$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.64,
+                            117.48,
+                            247.66,
+                            135.91
+                        ]
+                    ],
+                    "text_description": "$376+380=756, 351+290=641$"
+                }
+            ]
+        }
+    ]
+}

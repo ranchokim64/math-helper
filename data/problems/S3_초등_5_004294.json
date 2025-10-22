@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e1269d23-afb9-41e3-bd9d-775bd4cc2c2f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004294",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.22,
+                            19.39,
+                            331.22,
+                            45.99
+                        ]
+                    ],
+                    "text_description": "72의 약수는 모두 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            358.62,
+                            64.22,
+                            403.62,
+                            86.22
+                        ]
+                    ],
+                    "text_description": "12개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.08,
+                            101.91,
+                            355.96,
+                            143.51
+                        ]
+                    ],
+                    "text_description": "I. 2, 3. 4. 6. ৪. 9. I2, ।৪, 24. 36. 72 [다른 풀이]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.16,
+                            146.71,
+                            355.96,
+                            254.87
+                        ]
+                    ],
+                    "text_description": "$72=\\underset{\\text { 3개 }}{2 \\times 2 \\times 2} \\times \\underset{\\text { 2개 }}{3 \\times 3} ($ 약수의 개수 $)=(3+1) \\times(2+1)=12$ (개)"
+                }
+            ]
+        }
+    ]
+}

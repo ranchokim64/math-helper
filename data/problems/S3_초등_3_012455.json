@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a5bcbaed-fc6e-4423-9296-0cac2ed48575",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012455",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            8.92,
+                            353,
+                            40.92
+                        ]
+                    ],
+                    "text_description": "선분 O의 길이는 몇 cm일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            151,
+                            47.5,
+                            307,
+                            209.5
+                        ]
+                    ],
+                    "text_description": "원이 있고 중심점 ㅇ가 있습니다 지름 ㄱㄷ은 8cm이고 반지름 선분 ㄴㅇ 이있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            306,
+                            221.92,
+                            356,
+                            245.92
+                        ]
+                    ],
+                    "text_description": "4cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            250.5,
+                            415,
+                            292.5
+                        ]
+                    ],
+                    "text_description": "선분 ㅇㄴ은 원의 반지름이고, 선분 ㄱㄷ은 원의 지름입니 다. $\\rightarrow 8 \\div 2=4(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

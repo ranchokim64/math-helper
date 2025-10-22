@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b06d9ee9-4e8f-47f3-83b4-d10666b24e80",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011621",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.1,
+                            11.84,
+                            405.3,
+                            151.84
+                        ]
+                    ],
+                    "text_description": "승범이는 벽에 페인트를 칠했습니다. 오전에는 전체의 $\\frac{4}{9}$를 칠했고, 오후에는 전체의 $\\frac{3}{9}$을 칠했습니다. 오전과 오후에 칠한 부분은 전체의 몇 분의 몇일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.3,
+                            159.5,
+                            326.9,
+                            204.3
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.3,
+                            203.5,
+                            110.1,
+                            243.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{9}+\\frac{3}{9}=\\frac{7}{9}$"
+                }
+            ]
+        }
+    ]
+}

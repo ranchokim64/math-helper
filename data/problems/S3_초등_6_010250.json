@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "550252da-b97a-47b8-b7e2-6d2f9e851a5b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010250",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-10] ‘(자연수)÷(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-10] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.1,
+                            9.4,
+                            942.5,
+                            115.2
+                        ]
+                    ],
+                    "text_description": "(가, 나) 병"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            763.54,
+                            244.01,
+                            940.23,
+                            280.76
+                        ]
+                    ],
+                    "text_description": "주스 1L는 병 3개에, 주스 2L는 병 5개에 남김없이 똑같이 나누어 담으려고 합니다. 나누어 담는 병의 모양과 크기가 같다면 가와 나 중 어느 병에 주스가 더 많을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            124.9,
+                            124.37,
+                            848.39,
+                            239.81
+                        ]
+                    ],
+                    "text_description": "주스 1L와가 병 3개가 있고 주스 2L와 나 병 5개가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.55,
+                            302.26,
+                            78.38,
+                            325.08
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.68,
+                            351.4,
+                            687.92,
+                            466
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (해설)가: } 1 \\div 3=\\frac{1}{3}(\\mathrm{~L}), \\text { 나: } 2 \\div 5=\\frac{2}{5}(\\mathrm{~L}) \\\\ \\quad \\Rightarrow \\frac{1}{3}\\left(=\\frac{5}{15}\\right)<\\frac{2}{5}\\left(=\\frac{6}{15}\\right) \\text { 이므로 나 병에 주스가 더 많습니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

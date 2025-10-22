@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5016b734-f9f2-44a7-be00-73ee15648880",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010860",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.5,
+                            6.42,
+                            774.5,
+                            37.42
+                        ]
+                    ],
+                    "text_description": "분수의 나눗셈에서 계산한 값이 더 큰 것을 찾아 기호를 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            232.5,
+                            44.42,
+                            672.5,
+                            146.42
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{25}{32} \\div \\frac{3}{8}$ ㉡ $\\frac{15}{21} \\div \\frac{5}{84}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            822.5,
+                            146,
+                            853.5,
+                            177
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            778.5,
+                            144,
+                            804.5,
+                            179
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.5,
+                            355,
+                            586.5,
+                            416
+                        ]
+                    ],
+                    "text_description": "따라서 $12>2 \\frac{1}{12}$ 이므로 계산한 값이 더 큰 것은 ㉡입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            237,
+                            401.5,
+                            292
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{25}{32} \\div \\frac{3}{8}=\\frac{25}{32} \\div \\frac{12}{32}=\\frac{25}{12}=2 \\frac{1}{12}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            296,
+                            414.5,
+                            351
+                        ]
+                    ],
+                    "text_description": "㉡ $\\frac{15}{21} \\div \\frac{5}{84}=\\frac{60}{84} \\div \\frac{5}{84}=60 \\div 5=12$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4b0ea2fa-5240-407d-9a20-71f63446c157",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011158",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.22,
+                            2.95,
+                            330.9,
+                            28.06
+                        ]
+                    ],
+                    "text_description": "비례식을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.48,
+                            36.27,
+                            627.1,
+                            247.43
+                        ]
+                    ],
+                    "text_description": "㉠ $4: 9=8: 16$ ㉡ $0. 5: 0. 8=15: 24$ ㉢ $\\frac{1}{7}: \\frac{1}{2}=7: 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.31,
+                            258.36,
+                            77.72,
+                            282.47
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.31,
+                            300.57,
+                            573.78,
+                            328.48
+                        ]
+                    ],
+                    "text_description": "㉠ $($ 외항의 곱 $)=4 \\times 16=64$, (내항의 곱) $=9 \\times 8=72$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.2,
+                            332.98,
+                            596.29,
+                            456.32
+                        ]
+                    ],
+                    "text_description": "㉡ $($ 외항의 곱 $)=0. 5 \\times 24=12, ($ 내항의 곱 $)=0. 8 \\times 15=12$ ㉢ $($ 외항의 곱 $)=\\frac{1}{7} \\times 2=\\frac{2}{7}, ($ 내항의 곱 $)=\\frac{1}{2} \\times 7=\\frac{7}{2}$ $\\Rightarrow$ 외항의 곱과 내항의 곱이 같은 ㉡이 비례식입니다."
+                }
+            ]
+        }
+    ]
+}

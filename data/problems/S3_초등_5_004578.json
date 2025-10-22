@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f41dd8bd-c08c-4b05-a5e1-efbe7dd42a4f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004578",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.99,
+                            29.41,
+                            704.49,
+                            177.66
+                        ]
+                    ],
+                    "text_description": "다음 수를 반올림하여 천의 자리까지 나타내면 5000입니다. $\\square$ 안에 들어갈 수 있는 수를 모두 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            343.24,
+                            215.88,
+                            450.74,
+                            257.13
+                        ]
+                    ],
+                    "text_description": "$4 \\square 73$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            363.24,
+                            300.88,
+                            525.74,
+                            340.88
+                        ]
+                    ],
+                    "text_description": "$5, 6, 7, 8, 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.49,
+                            349.63,
+                            708.24,
+                            412.13
+                        ]
+                    ],
+                    "text_description": "천의 자리 숫자가 5로 바뀌었으므로 $\\square$ 안에는 $5, 6, 7, 8, 9$가 들어갈 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

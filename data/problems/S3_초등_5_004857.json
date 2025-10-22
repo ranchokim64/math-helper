@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f070e52f-7627-48b7-9067-b5b9bbfbc48b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004857",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.1,
+                            269.01,
+                            436.41,
+                            333.82
+                        ]
+                    ],
+                    "text_description": "다음 주머니 속에서 공 1개를 꺼낼 때 물음에 답하세요. [13~14]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.66,
+                            538.9,
+                            425.75,
+                            601.25
+                        ]
+                    ],
+                    "text_description": "공 1개를 꺼낼 때, 빨간색 공일 가능성을 수로 표현해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.13,
+                            81.46,
+                            294.5,
+                            259.66
+                        ]
+                    ],
+                    "text_description": "파란구슬2개, 빨간구슬3개, 노란구슬1개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.2,
+                            349.71,
+                            297.78,
+                            522.8
+                        ]
+                    ],
+                    "text_description": "파란구슬2개, 빨간구슬3개, 노란구슬1개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            308.08,
+                            605.09,
+                            334.9,
+                            654.57
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.79,
+                            651.29,
+                            429.03,
+                            716.92
+                        ]
+                    ],
+                    "text_description": "공 1 개를 꺼낼 때 빨간색인 것은 6 개 중의 3 개이므로 가능성이 $\\frac{1}{2}\\left(=\\frac{3}{6}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

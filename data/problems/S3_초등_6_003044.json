@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fa760d29-2571-472b-bae3-379a16cfe69f",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003044",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            6.91,
+                            552.5,
+                            140.91
+                        ]
+                    ],
+                    "text_description": "머핀 틀 한 판을 채울 수 있는 반죽을 만드는 데 설탕 $\\frac{5}{14}$ 컵을 넣습니다. 설탕 $2 \\frac{1}{7}$ 컵을 넣은 반죽으로 머핀 틀 몇 판을 채울 수 있는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            162.5,
+                            307.5,
+                            363.5
+                        ]
+                    ],
+                    "text_description": "머핀 6개의 사진"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.5,
+                            450.5,
+                            176.5,
+                            484.5
+                        ]
+                    ],
+                    "text_description": "\\[ 6판 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.77,
+                            370.33,
+                            382.86,
+                            439.96
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{1}{7} \\div \\frac{5}{14}=\\frac{15}{7} \\div \\frac{5}{14}=\\frac{\\frac{3}{15}}{71} \\times \\frac{\\stackrel{2}{14}}{\\not 1}=6$ (판)"
+                }
+            ]
+        }
+    ]
+}

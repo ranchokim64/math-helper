@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8225d94d-5016-4938-b75e-285609b73cae",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008681",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그려서 다양한 모양을 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            7.42,
+                            926.5,
+                            73.42
+                        ]
+                    ],
+                    "text_description": "반지름이 3cm인 원을 그리도록 컴퍼스를 벌린 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195.5,
+                            85.42,
+                            765.5,
+                            239.42
+                        ]
+                    ],
+                    "text_description": "이미지에는 세 개의 자를 이용하여 각각 도형을 그리는 컴퍼스가 배치되어 있습니다. 각 컴퍼스는 다음과 같은 상태입니다: - 첫 번째 컴퍼스: 자의 0에서 2까지 간격으로 조정되어 있으며, 연필 끝이 자의 2쪽에 위치해 있습니다. - 두 번째 컴퍼스: 자의 0에서 1까지 간격으로 설정되어 있으며, 연필 끝이 자의 1쪽에 위치해 있습니다. - 세 번째 컴퍼스: 자의 0에서 3까지 간격으로 조정되어 있으며, 연필 끝이 자의 3쪽에 위치해 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            250,
+                            146.5,
+                            399
+                        ]
+                    ],
+                    "text_description": "이미지에는 자를 이용하여 각각 도형을 그리는 컴퍼스가 배치되어 있습니다. 각 컴퍼스는 다음과 같은 상태입니다: 자의 0에서 3까지 간격으로 조정되어 있으며, 연필 끝이 자의 3쪽에 위치해 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            413,
+                            606.5,
+                            441
+                        ]
+                    ],
+                    "text_description": "왼쪽부터 차례로 $2 \\mathrm{~cm}, 1 \\mathrm{~cm}, 3 \\mathrm{~cm}$만큼 벌렸습니다."
+                }
+            ]
+        }
+    ]
+}

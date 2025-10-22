@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f0e45736-3e87-408e-83a0-22273d4793c6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008142",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.61,
+                            5.88,
+                            725.61,
+                            33.88
+                        ]
+                    ],
+                    "text_description": "다음 나눗셈에서 나머지가 될 수 없는 수를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            350.61,
+                            129.88,
+                            606.61,
+                            163.88
+                        ]
+                    ],
+                    "text_description": "$(4, 15, 20, 36, 41)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            287.61,
+                            40.88,
+                            669.61,
+                            128.88
+                        ]
+                    ],
+                    "text_description": "$\\square\\div 40$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.61,
+                            183.49,
+                            79.61,
+                            204.49
+                        ]
+                    ],
+                    "text_description": "$41$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.57,
+                            225.46,
+                            926.57,
+                            287.06
+                        ]
+                    ],
+                    "text_description": "나머지는 나누는 수보다 항상 작아야 하므로 나누는 수 $40$보다 큰 $41$은 나머지가 될 수 없습니다 $. $"
+                }
+            ]
+        }
+    ]
+}

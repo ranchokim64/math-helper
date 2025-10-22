@@ -1,0 +1,179 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "00d2b533-00e4-45a2-84d0-08cfc86203e9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004441",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            4.42,
+                            438,
+                            111.42
+                        ]
+                    ],
+                    "text_description": "넓이가 $100cm^{2}$ 인 정사각형 모양의 노란색 종이가 있습니다. 이 노란색 종이의 둘레를 따라 폭이 $2cm$ 인 파란색 종이를 겹치지 않게 이어 붙였습니다. 이어 붙인 파란색 종이의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            192.51,
+                            230.2
+                        ],
+                        [
+                            299.42,
+                            230.6
+                        ],
+                        [
+                            299.42,
+                            195.79
+                        ],
+                        [
+                            335.46,
+                            195.79
+                        ],
+                        [
+                            335.87,
+                            181.86
+                        ],
+                        [
+                            299.01,
+                            182.27
+                        ],
+                        [
+                            299.83,
+                            123.29
+                        ],
+                        [
+                            192.51,
+                            122.88
+                        ],
+                        [
+                            193.33,
+                            178.59
+                        ],
+                        [
+                            156.47,
+                            179.81
+                        ],
+                        [
+                            155.65,
+                            193.74
+                        ],
+                        [
+                            192.51,
+                            194.56
+                        ]
+                    ],
+                    "text_description": "이미지에는 중앙에 갈색 정사각형이 있고, 그 주위에는 파란색 테두리가 있는 형태의 사각형이 배치되어 있다. 파란색 테두리의 각 변에는 $2cm$씩의 길이가 표시되어 있으며, 정사각형의 변 길이는 $12cm$이다. 왼쪽과 오른쪽에는 각각 $2cm$의 길이를 가진 두 개의 구분된 부분이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309,
+                            249,
+                            371,
+                            271
+                        ]
+                    ],
+                    "text_description": "$96 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.2,
+                            208.98,
+                            173.6,
+                            228.18
+                        ]
+                    ],
+                    "text_description": "정사각형 모양의 노란색"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.4,
+                            230.78,
+                            210.2,
+                            285.58
+                        ]
+                    ],
+                    "text_description": "종이의 넓이가 $100 \\mathrm{~cm}^{2}$ 이고 $100=10 \\times 10$ 이므로 종이의 한 변의 길이는 10cm 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.4,
+                            286.58,
+                            376,
+                            304.98
+                        ]
+                    ],
+                    "text_description": "(파란색 종이를 포함한 종이의 한 변) $=10+2+2=14(\\mathrm{~cm})$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            305.78,
+                            216,
+                            343.38
+                        ]
+                    ],
+                    "text_description": "(파란색 종이의 넓이) \\[ =(14 \\times 14)-100=96\\left(\\mathrm{~cm}^{2}\\right) \\]"
+                }
+            ]
+        }
+    ]
+}

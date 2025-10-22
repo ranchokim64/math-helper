@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "31a2c734-ca44-4576-b6fd-415709025d08",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008032",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-13] 주어진 각도와 크기가 같은 각을 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.1,
+                            1.6,
+                            642.5,
+                            32
+                        ]
+                    ],
+                    "text_description": "각도기 위에 $110^{\\circ}$ 인 각을 그린 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            304.3,
+                            40,
+                            658.5,
+                            231.2
+                        ]
+                    ],
+                    "text_description": "두 변이 만나 각도기 위에 각도를 형성하였고 각도기의 각이 70도 이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            305.7,
+                            319.2,
+                            657.7,
+                            509.6
+                        ]
+                    ],
+                    "text_description": "두 변이 만나 각도기 위에 각도를 형성하였고 각도기의 각이 110도 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.3,
+                            534,
+                            352.9,
+                            697.6
+                        ]
+                    ],
+                    "text_description": "두 변이 만나 각도기 위에 각도를 형성하였고 각도기의 각이 110도 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.9,
+                            710.4,
+                            923.1,
+                            773.6
+                        ]
+                    ],
+                    "text_description": "각도기의 밑금에서 시작하여 크기가 $110^{\\circ}$가 되는 눈금에 점을 찍어 각을 완성합 니다."
+                }
+            ]
+        }
+    ]
+}

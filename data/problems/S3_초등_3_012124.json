@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fd1558e3-c52e-4bff-b23b-00a4e073c2d9",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012124",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.6,
+                            9.34,
+                            623,
+                            43.74
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 중에서 가장 큰 수를 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.8,
+                            64.54,
+                            556.6,
+                            170.14
+                        ]
+                    ],
+                    "text_description": "㉠ $18 \\div \\square=6$ ㉡ $40 \\div \\square=8$ ㉢ $64 \\div 8=\\square$ ㉣ $27 \\div 3=\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            523.4,
+                            191.6,
+                            545.2,
+                            214.4
+                        ]
+                    ],
+                    "text_description": "㉣"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.2,
+                            220.2,
+                            279.8,
+                            322.6
+                        ]
+                    ],
+                    "text_description": "㉠ $18 \\div \\square=6 \\rightarrow 6 \\times \\square=18, \\square=3$ ㉡ $40 \\div \\square=8 \\rightarrow 8 \\times \\square=40, \\square=5$ ㉢ $64 \\div 8=8$ ㉣ $27 \\div 3=9$"
+                }
+            ]
+        }
+    ]
+}

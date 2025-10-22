@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c44cc939-d0f9-4f93-90c5-f564d39ec367",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008543",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            6.42,
+                            723,
+                            41.42
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 순서대로 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.1,
+                            69.3,
+                            374.9,
+                            102.1
+                        ]
+                    ],
+                    "text_description": "$4 \\times 28$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            457.3,
+                            71.7,
+                            536.5,
+                            100.5
+                        ]
+                    ],
+                    "text_description": "$3 \\times 34$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            618.1,
+                            73.3,
+                            701.3,
+                            101.3
+                        ]
+                    ],
+                    "text_description": "$2 \\times 76$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.3,
+                            180.3,
+                            169.3,
+                            211.9
+                        ]
+                    ],
+                    "text_description": "③ ㉢, ㉠, ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.1,
+                            136.9,
+                            168.3,
+                            169.7
+                        ]
+                    ],
+                    "text_description": "① ㉠, ㉡, ㉢"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            478.5,
+                            136.5,
+                            618.5,
+                            213.9
+                        ]
+                    ],
+                    "text_description": "② ㉢, ㉡, ㉠ ④ ㉡, ㉠, ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            277,
+                            927,
+                            376
+                        ]
+                    ],
+                    "text_description": "㉠ $4 \\times 28=112$ $\\quad$ ㉡ $3 \\times 34=102$ $\\quad$ ㉢ $2 \\times 76=152$ $\\Rightarrow 152>112>102 이므로 계산 결과가 큰 것부터 순서대로 기호를 쓰면 ㉢, ㉠, ㉡입니다. $"
+                }
+            ]
+        }
+    ]
+}

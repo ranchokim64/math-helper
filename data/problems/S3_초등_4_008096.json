@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "46c77451-f02f-4863-bbce-d92f3b1c0cfe",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008096",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            6.42,
+                            931.5,
+                            74.42
+                        ]
+                    ],
+                    "text_description": "지수와 서준이가 각도를 어림했습니다. 주어진 각의 크기가 $30^{\\circ}$ 일 때 어림을 더 잘한 사람의 이름을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            287.9,
+                            117.04,
+                            744.7,
+                            189.84
+                        ]
+                    ],
+                    "text_description": "지수: 내 생각에는 $25^{\\circ}$ 즘 되는 것 같아. 서준: 내 생각에는 $20^{\\circ}$ 즘 되는 것 같아."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            400.7,
+                            255.9,
+                            568.7,
+                            287.9
+                        ]
+                    ],
+                    "text_description": "(지수, 서준)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146.3,
+                            101.5,
+                            209.5,
+                            215.1
+                        ]
+                    ],
+                    "text_description": "$30^{\\circ}$인 각이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.7,
+                            305.5,
+                            107.9,
+                            331.9
+                        ]
+                    ],
+                    "text_description": "지수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.9,
+                            355.1,
+                            660.7,
+                            415.9
+                        ]
+                    ],
+                    "text_description": "$20^{\\circ}<25^{\\circ}<30^{\\circ}$ 이므로 $30^{\\circ}$에 더 가까운 각도는 $25^{\\circ}$ 입니다. 따라서 $30^{\\circ}$에 더 가깝게 어림한 사람은 지수입니다."
+                }
+            ]
+        }
+    ]
+}

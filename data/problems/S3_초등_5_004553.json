@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bda000a2-f02b-43ce-a032-e5f25df877ba",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004553",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42,
+                            4.91,
+                            120.01,
+                            45.32
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{2}{4}-1 \\frac{7}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.8399999999999999,
+                            145.22,
+                            43.13,
+                            191.24
+                        ]
+                    ],
+                    "text_description": "$\\frac{11}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.63,
+                            49.58,
+                            300.17,
+                            142.74
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}=3 \\frac{6}{12}-1 \\frac{7}{12}=2 \\frac{18}{12}-1 \\frac{7}{12} \\\\ =(2-1)+\\left(\\frac{18}{12}-\\frac{7}{12}\\right)=1+\\frac{11}{12}=1 \\frac{11}{12}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

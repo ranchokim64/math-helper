@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77f4b08c-8820-4063-8bea-abb5c98b2c63",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017001",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.7,
+                            2.28,
+                            513.5,
+                            25.48
+                        ]
+                    ],
+                    "text_description": "다음에서 1에서 9 까지의 수 중 $\\square$ 안에 들어갈 수 있는 수의 개수를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            28.68,
+                            131.9,
+                            51.08
+                        ]
+                    ],
+                    "text_description": "$36 \\times 2>42 \\times \\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.3,
+                            60.1,
+                            57.5,
+                            82.5
+                        ]
+                    ],
+                    "text_description": "① 1 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            84.5,
+                            56.7,
+                            158.1
+                        ]
+                    ],
+                    "text_description": "② 2 개 ③ 3 개 ④ 4개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.7,
+                            162.9,
+                            639.9,
+                            258.9
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} 36 \\times 2=72 \\text { 이므로 } 72>42 \\times \\square \\text { 입 니다. } \\\\ 42 \\times 1=42, 42 \\times 2=84, 42 \\times 3=126, 42 \\times 4=168, 42 \\times 5=210, 42 \\times 6=252, 42 \\times 7= \\\\ 294, 42 \\times 8=336, 42 \\times 9=378 \\end{array} \\] 따라서 $\\square$에 들어갈 수 있는 수는 1로 모두 1개입니다."
+                }
+            ]
+        }
+    ]
+}

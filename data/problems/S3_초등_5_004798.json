@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0939ece2-cfe6-4ecd-a87d-b0a22c3c385c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004798",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.84,
+                            14.32,
+                            489.84,
+                            89.32
+                        ]
+                    ],
+                    "text_description": "직육면체에서 색칠한 면과 평행한 면의 네 변의 길이의 합은 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127.84,
+                            98.32,
+                            358.84,
+                            243.32
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도이며 가로 9cm, 세로 13cm, 높이 5cm이고 색칠된 한 면이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.84,
+                            306.95,
+                            491.84,
+                            389.95
+                        ]
+                    ],
+                    "text_description": "평행한 면의 네 변의 길이의 합은 색칠한 면의 네 변의 길이의 합과 같습니다. (네 변의 길이의 합) $=13+5+13+5=36(\\mathrm{~cm})$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            325.84,
+                            263.95,
+                            397.84,
+                            293.95
+                        ]
+                    ],
+                    "text_description": "36cm"
+                }
+            ]
+        }
+    ]
+}

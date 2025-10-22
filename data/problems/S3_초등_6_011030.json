@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7e2e1cde-3a0b-4b4c-b479-8dab9d3a2605",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011030",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.6,
+                            2.4,
+                            815.6,
+                            30.4
+                        ]
+                    ],
+                    "text_description": "<보기>와 같이 컵을 놓았을 때 찍을 수 없는 사진을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            270,
+                            36.6,
+                            613.4,
+                            271.2
+                        ]
+                    ],
+                    "text_description": "<보기> 주황색 컵, 초록색 컵, 보라색 컵이 있다. 각각 손잡이가 9시, 12시, 3시에 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            630,
+                            271,
+                            801.2,
+                            361.8
+                        ]
+                    ],
+                    "text_description": "④ 초록색 컵 손잡이가 왼쪽에 보이는 주황색컵, 손잡이가 오른쪽에 보이는 보라색 컵$. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.2,
+                            636,
+                            471.6,
+                            662.4
+                        ]
+                    ],
+                    "text_description": "사진 $①$, $②$, $③$을 찍은 위치는 위와 같습니다 $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.8,
+                            414.6,
+                            249.2,
+                            634.8
+                        ]
+                    ],
+                    "text_description": "주황색 컵, 초록색 컵, 보라색 컵이 있다. 각각 손잡이가 9시, 12시, 3시에 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.6,
+                            270.2,
+                            604.4,
+                            361.4
+                        ]
+                    ],
+                    "text_description": "① 손잡이가 왼쪽에 보이는 보라색 컵, 손잡이가 전면에서 보이는 초록색 컵, 손잡이가 오른쪽인 주황색 컵 ② 손잡이가 왼쪽인 주황색 컵, 손잡이가 안 보이는 초록색 컵, 손잡이가 오른쪽인 보라색 컵 ③ 손잡이가 안 보이는 보라색 컵, 손잡이가 전면에 있는 주황색 컵, 손잡이가 왼쪽에 있는 초록색 컵."
+                }
+            ]
+        }
+    ]
+}

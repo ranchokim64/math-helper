@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ada09380-3cc4-44a4-bb3c-af4eab2ffbe6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008081",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.22,
+                            8.32,
+                            911.26,
+                            39.68
+                        ]
+                    ],
+                    "text_description": "주어진 각을 예각, 직각, 둔각으로 분류하여 알맞은 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.18,
+                            298.24,
+                            471.58,
+                            410.88
+                        ]
+                    ],
+                    "text_description": "① 예각 : (가, 나, 다, 라, 마, 바) ② 직각 : (가, 나, 다, 라, 마, 바) ③ 둔각 : (가, 나, 다, 라, 마, 바)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            170.14,
+                            44.8,
+                            794.78,
+                            295.04
+                        ]
+                    ],
+                    "text_description": "6개의 각도를 나타낸 이미지가 있습니다. '가'는 직각, '나'는 예각, '다'는 둔각, '라'는 예각, '마'는 둔각, '바'는 직각입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            429.44,
+                            374.94,
+                            456.32
+                        ]
+                    ],
+                    "text_description": "① 나, 라 ② 가, 바 ③ 다, 마"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.58,
+                            474.88,
+                            447.9,
+                            500.48
+                        ]
+                    ],
+                    "text_description": "$0^{\\circ}<($ 예각 $)<90^{\\circ}<$ (둔각 $)<180^{\\circ}$ 이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.34,
+                            506.88,
+                            879.9,
+                            584.32
+                        ]
+                    ],
+                    "text_description": "예각은 (), (), 직각은(), () 둔각은 (), () 입니다."
+                }
+            ]
+        }
+    ]
+}

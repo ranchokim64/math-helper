@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0239331b-3474-482f-a255-c9fe8920b636",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009851",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            9.42,
+                            545.5,
+                            28.42
+                        ]
+                    ],
+                    "text_description": "계산 결과가 자연수인 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            265.42,
+                            51.64,
+                            469.22,
+                            74.32
+                        ]
+                    ],
+                    "text_description": "㉠ $0. 7 \\times 4$ ㉡ $0. 6 \\times 5$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.11,
+                            107.62,
+                            53.43,
+                            128.74
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.22,
+                            134.48,
+                            365.54,
+                            192.72
+                        ]
+                    ],
+                    "text_description": "$0. 7 \\times 4=0. 1 \\times 7 \\times 4=0. 1 \\times 28=2. 8$ $0. 6 \\times 5=0. 1 \\times 6 \\times 5=0. 1 \\times 30=3$"
+                }
+            ]
+        }
+    ]
+}

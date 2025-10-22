@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "16699c7a-7d9f-4875-88db-e23bf0f70e7d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011974",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.4,
+                            14.22,
+                            446,
+                            79.62
+                        ]
+                    ],
+                    "text_description": "그림을 보고 사과는 모두 몇 개인지 곱셈식으로 나타내세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.4,
+                            100.42,
+                            425.2,
+                            291.62
+                        ]
+                    ],
+                    "text_description": "사과가 3개씩 6접시에 담겨있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            308.4,
+                            315.62,
+                            391.6,
+                            336.42
+                        ]
+                    ],
+                    "text_description": "$3 \\times 6=18$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37,
+                            348.42,
+                            394.8,
+                            370.02
+                        ]
+                    ],
+                    "text_description": "사과가 3개씩 6접시이므로 모두 $3 \\times 6=18$ (개)입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "40a5279c-09c6-40d2-b4c6-92a5cee40542",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004614",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.97,
+                            23.17,
+                            410.24,
+                            68.14
+                        ]
+                    ],
+                    "text_description": "콜라는 모두 몇 L인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.29,
+                            89.41,
+                            640.22,
+                            429.79
+                        ]
+                    ],
+                    "text_description": "콜라를 $\\frac{2}{5}$ L씩 3개의 컵에 담았어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.79,
+                            535.92,
+                            115.02,
+                            613.61
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{1}{5} L$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.7,
+                            451.39,
+                            213.79,
+                            534.8
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{5} \\times 3=1 \\frac{1}{5}$"
+                }
+            ]
+        }
+    ]
+}

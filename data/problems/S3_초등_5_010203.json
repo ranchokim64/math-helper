@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cc3ed2b8-885b-448f-a84c-bd8a3da44fa9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010203",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.3,
+                            2.84,
+                            662.1,
+                            52.44
+                        ]
+                    ],
+                    "text_description": "회전판 돌리기를하고 있습니다. 화살이 빨간색에 멈출 가능성이 가장 낮은 회전판을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            124.1,
+                            61.24,
+                            537.3,
+                            169.24
+                        ]
+                    ],
+                    "text_description": "가, 나, 다로 되어있는 회전판이 있습니다. 가는 빨간 원형 회전판 입니다. 나는 정사각형 회전판 이지만 8칸으로 나뉘어있고 4칸은 빨간색, 4칸은 파란색으로 칠해져 있습니다. 다는 파란 정사각형 회전판 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.3,
+                            192.1,
+                            141.3,
+                            292.1
+                        ]
+                    ],
+                    "text_description": "다로 표시되어 있는 파란 정사각형 회전판 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.7,
+                            298.5,
+                            658.1,
+                            436.9
+                        ]
+                    ],
+                    "text_description": "가: 전체가 빨간색 말 확실하다 수 1 나: 전체 8 칸 중의 4 칸 말 반반이다 수 $\\frac{1}{2}\\left(=\\frac{4}{8}\\right)$ 다: 전체가 파란색 말 불가능하다 수 0 따라서 $0<\\frac{1}{2}<1$ 이므로 화살이 빨간색에 멈출 가능성이 가장 낮은 회전판은 다입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aa3c7949-085a-4193-bf1c-a9fc44257789",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012409",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.42,
+                            20.9,
+                            325.71,
+                            44.72
+                        ]
+                    ],
+                    "text_description": "수 모형을 보고 곱셈식을 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.96,
+                            65.72,
+                            365.89,
+                            249.47
+                        ]
+                    ],
+                    "text_description": "작은 육면체의 도형이 모여 만든 도형이고 위쪽에 도형을 합해서 밑에 도형이 나오는 과정의 이미지이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            255.31,
+                            268.37,
+                            351.21,
+                            284.69
+                        ]
+                    ],
+                    "text_description": "$142 \\times 2=284$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.15,
+                            297.7,
+                            351.5,
+                            314.72
+                        ]
+                    ],
+                    "text_description": "$142 \\times 2$는 100이 2 개, 10이 8 개, 1이 4 개입니다."
+                }
+            ]
+        }
+    ]
+}

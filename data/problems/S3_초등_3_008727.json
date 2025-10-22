@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c1b6ef71-0937-4f64-badf-5f9f01fcbcfc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008727",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.5,
+                            5.42,
+                            643.5,
+                            36.42
+                        ]
+                    ],
+                    "text_description": "원의 중심의 개수가 가장 많은 모양을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            626.5,
+                            47.42,
+                            828.5,
+                            225.42
+                        ]
+                    ],
+                    "text_description": "③정원형 5개가 겹쳐 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.5,
+                            47,
+                            518.5,
+                            392
+                        ]
+                    ],
+                    "text_description": "① 크기가 같은 원 3개가 중심 점 기준으로 겹쳐 있습니다. ② 정사각형 안에 부채꼴 4개가가 겹쳐 있습니다. ④ 정사각형 안에 반원 2개와 정원형 1개가 있습니다. ⑤ 태극 모양 원이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            730,
+                            630.5,
+                            756
+                        ]
+                    ],
+                    "text_description": "따라서 원의 중심의 개수가 가장 많은 모양은 ③입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            450,
+                            856.5,
+                            728
+                        ]
+                    ],
+                    "text_description": "① 크기가 같은 원 3개가 중심 점 기준으로 겹쳐 있습니다. 3개 ② 정사각형 안에 부채꼴 4개가가 겹쳐 있습니다. 4개 ③정원형 5개가 겹쳐 있습니다. 5개 ④ 정사각형 안에 반원 2개와 정원형 1개가 있습니다. 3개 ⑤ 태극 모양 원이 있습니다. 3개"
+                }
+            ]
+        }
+    ]
+}

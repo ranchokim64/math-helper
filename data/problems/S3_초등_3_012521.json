@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "90764f15-2745-4546-bc12-b4d2ebf2a381",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012521",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.77,
+                            5.97,
+                            376.57,
+                            95.57
+                        ]
+                    ],
+                    "text_description": "한 상자에 14 개씩 들어 있는 배가 20상 자 있습니다. 20상자에 들어 있는 배는 모두 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.97,
+                            166.77,
+                            135.77,
+                            186.77
+                        ]
+                    ],
+                    "text_description": "280 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.97,
+                            104.37,
+                            305.37,
+                            142.77
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { (전체 배의 수) } & =(\\text { 한 상자의 배의 수 }) \\times \\text { (상자 수) } \\\\ & =14 \\times 20=280 \\text { (개) }\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

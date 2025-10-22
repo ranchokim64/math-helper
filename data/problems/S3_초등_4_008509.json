@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ceca9155-d9d2-428f-9614-23eae391122b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008509",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.81,
+                            3.5,
+                            814.92,
+                            34.26
+                        ]
+                    ],
+                    "text_description": "계산식을 보고 설명에 맞는 계산식을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.51,
+                            280.01,
+                            926.42,
+                            352.02
+                        ]
+                    ],
+                    "text_description": "11부터 44까지의 수 중에서 십의 자리 수와 일의 자리 수가 같은 수에 11을 곱하면 백의 자리 수와 일의 자리 수가 같은 세 자리 수가 나옵니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.260000000000005,
+                            46.66,
+                            949.77,
+                            267.83000000000004
+                        ]
+                    ],
+                    "text_description": "㉠ $\\begin{array}{l}974-123=851 \\\\ 874-223=651 \\\\ 774-323=451 \\\\ 674-423=251\\end{array}$ ㉡$\\begin{array}{l}11 \\times 11=121 \\\\ 22 \\times 11=242 \\\\ 33 \\times 11=363 \\\\ 44 \\times 11=484\\end{array}$ ㉢ $\\begin{array}{r}1100 \\div 50=22 \\\\ 880 \\div 40=22 \\\\ 660 \\div 30=22 \\\\ 440 \\div 20=22\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.39,
+                            381.81,
+                            88.26,
+                            407.77
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.21,
+                            424.11,
+                            933.14,
+                            563.48
+                        ]
+                    ],
+                    "text_description": "㉠은 100씩 작아지는 수에서 100씩 커지는 수를 뺀 것이고, ㉡은 11부터 44까지의 수 중에서 십의 자리 수와 일의 자리 수가 같은 수에 11을 곱한 것이고, ㉢은 220씩 작아지는 수에서 10씩 작아지는 수를 나눈 것입니다. 따라서 주어진 설명에 맞는 계 산식은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

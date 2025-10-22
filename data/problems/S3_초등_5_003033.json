@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d96eafdb-7ab2-43a3-8bba-84a85755b7dd",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003033",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.84,
+                            4.96,
+                            280.96,
+                            35.68
+                        ]
+                    ],
+                    "text_description": "사다리꼴의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.92,
+                            53.52,
+                            284.92,
+                            223.92
+                        ]
+                    ],
+                    "text_description": "윗변의 길이가 3cm이고, 아랫변의 길이가 9cm이고 높이가 5cm인 사다리꼴."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            468.92,
+                            51.92,
+                            718.52,
+                            223.12
+                        ]
+                    ],
+                    "text_description": "윗변의 길이가 12m이고, 아랫변의 길이가 8m이고, 높이가 6m인 사다리꼴."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            101.01,
+                            327.22,
+                            249.01,
+                            363.22
+                        ]
+                    ],
+                    "text_description": "$30 \\mathrm{~cm}^{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            538.01,
+                            328.22,
+                            672.01,
+                            362.22
+                        ]
+                    ],
+                    "text_description": "$60 \\mathrm{~m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.32,
+                            227.12,
+                            648.92,
+                            317.52
+                        ]
+                    ],
+                    "text_description": "사다리꼴의 넓이는 $(($ 윗변의 길이 $)+($ 아랫변의 길이 $)) \\times($ 높이 $) \\div 2$ 이므로 왼쪽 사다리꼴의 넓이는 $(3+9) \\times 5 \\div 2=30\\left(\\mathrm{~cm}^{2}\\right)$, 오른쪽 사다리꼴의 넓이는 $(12+8) \\times 6 \\div 2=60\\left(\\mathrm{~m}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

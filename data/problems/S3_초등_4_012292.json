@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "add05e2b-2b95-481d-b870-9b02b0d0772e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012292",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.75,
+                            8.75,
+                            596.5,
+                            142.5
+                        ]
+                    ],
+                    "text_description": "2-2 수지가 갖고 있는 종류별 책 수를 조사하여 막대그래프로 나타내었습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.75,
+                            541.25,
+                            590.25,
+                            627.5
+                        ]
+                    ],
+                    "text_description": "④ 수지가 갖고 있는 책은 모두 몇 권인 가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.25,
+                            165,
+                            557.75,
+                            518.75
+                        ]
+                    ],
+                    "text_description": "수지가 갖고 있는 종류별 책 수의 막대그래프이다. 가로는 책 종류 세로는 책 수(권)이다. 과학책 7, 위인전 12, 만화책 5, 동화책 8을 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            430.25,
+                            655,
+                            499,
+                            695
+                        ]
+                    ],
+                    "text_description": "32권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.75,
+                            695,
+                            236.5,
+                            728.75
+                        ]
+                    ],
+                    "text_description": "$7+12+5+8=32$ (권)"
+                }
+            ]
+        }
+    ]
+}

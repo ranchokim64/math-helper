@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a4e61bfd-61fd-4c31-9329-2c8fc6b6c0dc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008438",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.87,
+                            3.38,
+                            936,
+                            75.25
+                        ]
+                    ],
+                    "text_description": "다음은 정아와 윤석이의 대화와 막대그래프입니다. 가장 적은 학생들이 좋아하는 책은 어떤 책인가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.06,
+                            104.63,
+                            896.93,
+                            172.13
+                        ]
+                    ],
+                    "text_description": "정아 : 위인전을 좋아하는 학생은 동화책을 좋아하는 학생보다 2 명 더 적어! 윤석 : 만화책을 좋아하는 학생은 동시집을 좋아하는 학생보다 3 명 더 많아!"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            265.68,
+                            442.44,
+                            709.43,
+                            472.13
+                        ]
+                    ],
+                    "text_description": "(동화책, 위인전, 만화책, 동시집)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            275.06,
+                            204.94,
+                            687.56,
+                            439.32
+                        ]
+                    ],
+                    "text_description": "좋아하는 책의 막대그래프이다. 가로는 종류 세로는 학생 수(명)이다. 동화책은 8, 위인전과 만화책은 표시되어있지 않고, 동시집은 4를 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.56,
+                            485.63,
+                            138.25,
+                            522.13
+                        ]
+                    ],
+                    "text_description": "동시집"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            533.07,
+                            937.56,
+                            783.07
+                        ]
+                    ],
+                    "text_description": "(헤설)막대그래프에서 동화책을 좋아하는 학생은 8 명이므로 위인전을 좋아하는 학생은 $8-2=6$ (명)입니다. 따라서 위인전은 막대의 길이를 세로 눈금 6 칸을 차지하도록 그립니다. 막대그래프에서 동시집을 좋아하는 학생은 4 명이므로 만화책을 좋아하는 학생은 $4+3=7$ (명)입니다. 따라서 만화책은 막대의 길이를 세로 눈금 7 칸을 차지하도록 그립니다. 막대그래프를 완성한 후 막대의 길이가 가장 짧은 책을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

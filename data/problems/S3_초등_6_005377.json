@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2ed47716-9a86-47e2-8c41-67595ead1d8b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005377",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.2,
+                            15.34,
+                            459.6,
+                            65.74
+                        ]
+                    ],
+                    "text_description": "둘레가 12. 56cm인 원 모양의 초콜릿 과자가 있습니다. 이 과자의 한쪽 면의 넓이를 구해 보세요. (원주율: 3. 14)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            164,
+                            238.6,
+                            188.6
+                        ]
+                    ],
+                    "text_description": "과자의 지름은 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            544.2,
+                            12.14,
+                            673,
+                            136.94
+                        ]
+                    ],
+                    "text_description": "둘레가 12. 56cm인 원 모양의 초콜릿 과자이다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            581,
+                            206.2,
+                            621.8,
+                            234.2
+                        ]
+                    ],
+                    "text_description": "4 cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.2,
+                            194.4,
+                            374.4,
+                            214.8
+                        ]
+                    ],
+                    "text_description": "$($ 지름 $) \\times 3. 14=12. 56(\\mathrm{~cm}), ($ 지름 $)=12. 56 \\div 3. 14=4(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

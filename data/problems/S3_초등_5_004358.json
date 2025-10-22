@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "398fe19f-5b16-4c31-97f6-a5cb385e123d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004358",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            78.23,
+                            357.3,
+                            100.63
+                        ]
+                    ],
+                    "text_description": "다음 조건에 맞는 분모가 10 인 대분수를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.3,
+                            107.83,
+                            360.5,
+                            269.43
+                        ]
+                    ],
+                    "text_description": "민지:1 $\\frac{2}{5}$보다 커. 재희:1. 6보다 작아."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            264.5,
+                            269.1,
+                            301.3,
+                            310.5
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{5}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.9,
+                            3.3,
+                            359.9,
+                            70.7
+                        ]
+                    ],
+                    "text_description": "\\[ 1 \\frac{2}{5}=1 \\frac{4}{10} \\cdot 1. 6=1 \\frac{6}{10} \\rightarrow 1 \\frac{4}{10}<\\square<1 \\frac{6}{10} \\] 따라서 $\\square$ 안에 들어갈 수 있는 분모가 10 인분수는 $1 \\frac{5}{10}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

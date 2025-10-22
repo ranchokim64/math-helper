@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "18732134-6de7-451a-8c4f-9d4e22c3569c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008422",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.37,
+                            0,
+                            936.62,
+                            68
+                        ]
+                    ],
+                    "text_description": "다음은 서연이네 모둠의 줄넘기 기록을 나타낸 막대그래프입니다. 막대 그래프에 대해 바르게 이야기한 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.62,
+                            80.5,
+                            914.12,
+                            539.25
+                        ]
+                    ],
+                    "text_description": "줄넘기 기록의 막대그래프가 있다. 가로는 이름이고 세로는 기록(회)이다. 서연은 80, 민아는 40, 준성은 70, 두희는 50을 나타내고 있다. 아영이가 서연이는 두희보다 줄넘기를 3회 더 많이 했어라고 말하고있다. 희철이는 준성이의 기록이 두 번째로 좋아라고 말하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.370000000000005,
+                            546.75,
+                            110.37,
+                            578
+                        ]
+                    ],
+                    "text_description": "희철"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.12,
+                            596.75,
+                            931.62,
+                            774.25
+                        ]
+                    ],
+                    "text_description": "(해설)세로 눈금 5 칸이 50 회을 나타내므로 세로 눈금 한 칸은 $50 \\div 5=10$ (회)을 나타냅 니다. 서연이는 두희보다 세로 눈금 3 칸만큼 더 많이 했으므로 30 회 더 많이 했습니다. [다른 풀이] 서연: 80 회, 민아: 40 회, 준성: 70 회, 두희: 50 회 서연이는 두희보다 줄넘기를 $80-50=30$ (회) 더 많이 했습니다."
+                }
+            ]
+        }
+    ]
+}

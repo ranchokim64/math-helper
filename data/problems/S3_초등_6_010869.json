@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9c32e3df-fda5-41aa-8689-22b1e21dc27a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010869",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.51,
+                            4.38,
+                            546.51,
+                            37.38
+                        ]
+                    ],
+                    "text_description": "왼쪽 나눗셈과 몫이 같은 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            386.51,
+                            58.38,
+                            670.51,
+                            88.38
+                        ]
+                    ],
+                    "text_description": "$840 \\div 112 \\quad 8400 \\div 112$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            183.51,
+                            40.38,
+                            360.51,
+                            106.38
+                        ]
+                    ],
+                    "text_description": "$84 \\div 1. 12$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.51,
+                            116.99,
+                            152.51,
+                            140.99
+                        ]
+                    ],
+                    "text_description": "$8400 \\div 112$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.51,
+                            157.99,
+                            744.51,
+                            208.99
+                        ]
+                    ],
+                    "text_description": "$84 \\div 1. 12=\\frac{8400}{100} \\div \\frac{112}{100}=8400 \\div 112$ 이므로 $84 \\div 1. 12$와 몫이 같은 것은"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.51,
+                            216.99,
+                            203.51,
+                            241.99
+                        ]
+                    ],
+                    "text_description": "$8400 \\div 112$ 입니다."
+                }
+            ]
+        }
+    ]
+}

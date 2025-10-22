@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "95c943ab-5a34-41fe-99e1-d7e21158c3c0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009289",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.78,
+                            1.7,
+                            450.88,
+                            28.86
+                        ]
+                    ],
+                    "text_description": "두 분수의 크기 비교가 틀린 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            214.82,
+                            42.27,
+                            274.14,
+                            85.21
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{7}>\\frac{1}{4}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            429.49,
+                            41.13,
+                            495.42,
+                            84.06
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{5}>\\frac{1}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.91,
+                            158.06,
+                            379.35,
+                            248.54
+                        ]
+                    ],
+                    "text_description": "분모를 비교하면 $7>4$ 이므로 $\\frac{1}{7}<\\frac{1}{4}$ 입니다. 분모를 비교하면 $5<11$ 이므로 $\\frac{1}{5}>\\frac{1}{11}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.74,
+                            98.72,
+                            93.21,
+                            146.19
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{7}>\\frac{1}{4}$"
+                }
+            ]
+        }
+    ]
+}

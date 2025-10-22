@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "530e2cb2-db26-4b56-93f6-d9439aedde0f",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003079",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.27,
+                            25.24,
+                            556.27,
+                            116.24
+                        ]
+                    ],
+                    "text_description": "태오는 지구 환경을 지키기 위해 일회용 컵 대신 다회용 컵을 사용하고 있습니다. 이 컵을 원 모양의 빨간색 뚜껑으로 닫을 때 뚜껑 윗부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요. (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            575.5,
+                            25.48,
+                            726.9,
+                            198.88
+                        ]
+                    ],
+                    "text_description": "다회용 컵의 뚜껑의 반지름이 4cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.27,
+                            255.77,
+                            272.27,
+                            280.77
+                        ]
+                    ],
+                    "text_description": "$50. 24 \\quad \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.27,
+                            209.77,
+                            671.27,
+                            237.77
+                        ]
+                    ],
+                    "text_description": "원주율이 3. 14 일 때 뚜껑 윗부분의 넓이는 $4 \\times 4 \\times 3. 14=50. 24\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

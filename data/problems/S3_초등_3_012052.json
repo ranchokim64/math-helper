@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bd7b099f-2603-4275-97a1-d9f5d8d4f756",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012052",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.74,
+                            9.65,
+                            330.5,
+                            38.45
+                        ]
+                    ],
+                    "text_description": "도형의 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.46,
+                            56.25,
+                            190.98,
+                            78.33
+                        ]
+                    ],
+                    "text_description": "선분이있고, ㅁ은 선분의 중간에, ㅂ은 선분의 끝에 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            261.82,
+                            60.66,
+                            348.62,
+                            80.06
+                        ]
+                    ],
+                    "text_description": "반직선 ㅂㅁ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.54,
+                            119.46,
+                            357.38,
+                            138.66
+                        ]
+                    ],
+                    "text_description": "점 ㅂ에서 시직하여 점 ㅁ을 지나는 반직선입니다."
+                }
+            ]
+        }
+    ]
+}

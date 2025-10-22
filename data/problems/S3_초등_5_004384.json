@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fd0b4427-5683-4035-aa1c-067e85523a38",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004384",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            51.42,
+                            434,
+                            107.42
+                        ]
+                    ],
+                    "text_description": "재경이가 딴 자두와 재윤이가 딴 블루베리의 무게의 합은 얼마인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            114.42,
+                            437,
+                            239.42
+                        ]
+                    ],
+                    "text_description": "- 재경이는 자두를 $\\frac{3}{4} \\mathrm{~kg}$ 땄습니다. - 재윤이는 블루베리를 $\\frac{7}{8} \\mathrm{~kg}$ 땄습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            313,
+                            241,
+                            373,
+                            290
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{5}{8} \\mathrm{~kg}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            4,
+                            369,
+                            51
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{4}+\\frac{7}{8}=\\frac{3 \\times 2}{4 \\times 2}+\\frac{7}{8}=\\frac{6}{8}+\\frac{7}{8}=\\frac{13}{8}=1 \\frac{5}{8}$"
+                }
+            ]
+        }
+    ]
+}

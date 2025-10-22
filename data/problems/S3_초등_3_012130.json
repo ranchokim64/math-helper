@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "935257ba-d22a-4964-96df-7bddb84728fe",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012130",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            13.42,
+                            575.5,
+                            54.42
+                        ]
+                    ],
+                    "text_description": "다음을 곱셈식으로 나타내고 계산하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.5,
+                            76.42,
+                            557.5,
+                            172.42
+                        ]
+                    ],
+                    "text_description": "$32+32+32$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            402.5,
+                            193,
+                            520.5,
+                            222
+                        ]
+                    ],
+                    "text_description": "$32 \\times 3=96$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.5,
+                            230,
+                            571.5,
+                            256
+                        ]
+                    ],
+                    "text_description": "32를 3번 더했으므로 $32 \\times 3=96$으로 나타낼 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

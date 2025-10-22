@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4e8378d9-9e4d-4be2-a560-9f09b8fe79f7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008450",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            1.92,
+                            811,
+                            72.92
+                        ]
+                    ],
+                    "text_description": "막대를 가로로 나타낸 그래프를 보고 알맞은 것을 선택하세요. 배우고 싰어 하는 악기별 학생 수"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180,
+                            327.5,
+                            772,
+                            402.5
+                        ]
+                    ],
+                    "text_description": "그래프에서 가로는 (악기, 학생 수)를 나타내고, 세로는 (악기, 학생 수)를 나타냅니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            247,
+                            87.92,
+                            707,
+                            317.92
+                        ]
+                    ],
+                    "text_description": "이 이미지는 학생 수를 악기별로 나타낸 그래프입니다. 각 악기(피아노, 바이올린, 플루트)에 대응하는 학생 수가 시각적으로 표현되어 있습니다. 가로축은 학생 수를 나타내고, 세로축은 악기를 나타내고 있습니다. 각 악기에 해당하는 바가 해당 학생 수를 시각적으로 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            418.5,
+                            201,
+                            451.5
+                        ]
+                    ],
+                    "text_description": "학생 수, 악기"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            465.5,
+                            827,
+                            496.5
+                        ]
+                    ],
+                    "text_description": "막대그래프에서 가로는 학생 수를 나타내고, 세로는 악기를 나타냅니다."
+                }
+            ]
+        }
+    ]
+}

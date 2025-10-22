@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4e23e711-e188-434b-b447-ae6297b73e29",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012095",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.2,
+                            7.51,
+                            531.57,
+                            183.4
+                        ]
+                    ],
+                    "text_description": "서울역사박물관에 한 시간 동안 946명의 관람객이 들어갔고, 587명의 관람객이 나왔습니다. 한 시간 동안 박물관에는 관람객이 몇 명 더 많아졌을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            377.52,
+                            210.5,
+                            448.8,
+                            244.99
+                        ]
+                    ],
+                    "text_description": "359명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.49,
+                            247.29,
+                            208.53,
+                            278.33
+                        ]
+                    ],
+                    "text_description": "$946-587=359$ (명)"
+                }
+            ]
+        }
+    ]
+}

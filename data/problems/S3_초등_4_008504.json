@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "da43dc15-f05a-4d1b-a791-e6e33a38ce50",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008504",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.62,
+                            7.04,
+                            808.98,
+                            36.48
+                        ]
+                    ],
+                    "text_description": "상자의 배열의 규칙을 바르게 말한 사람의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            397.46,
+                            422.4,
+                            565.78,
+                            454.4
+                        ]
+                    ],
+                    "text_description": "(주영, 민서)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            199.7,
+                            48,
+                            806.42,
+                            160
+                        ]
+                    ],
+                    "text_description": "첫째 상자 한개가 있습니다. 둘째 상자 두 개 위에 한 개가 올라가 있습니다. 셋째 상자 세 개 위에 두 개가 올라가 있습니다. 넷째 상자 네 개 위에 세 개가 올라가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            206.82,
+                            163.92,
+                            757.78,
+                            418.56
+                        ]
+                    ],
+                    "text_description": "주영: 상자의 개수가 1개에서 시작하여 2개씩 늘어나. 민서: 상자의 개수가 1개에서 시작하여 1개, 2개, 3개. . . . . . 가 늘어나."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.9,
+                            473.6,
+                            104.98,
+                            499.2
+                        ]
+                    ],
+                    "text_description": "주영"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.9,
+                            513.14,
+                            615.7,
+                            637.3
+                        ]
+                    ],
+                    "text_description": "$ 첫째\\quad 둘째\\quad 셋째\\quad 넷째\\\\ 1개 \\quad 3개\\quad 5개\\quad 7개\\\\ \\quad+2 \\quad+2 \\quad+2$ \\[ \\text { 상자의 개수가 } 1 \\text { 개에서 시작하여 } 2 \\text { 개씩 늘어납니다. } \\]"
+                }
+            ]
+        }
+    ]
+}

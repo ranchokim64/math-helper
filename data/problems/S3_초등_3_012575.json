@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4525efaf-1c9b-4d18-97d5-6deb6f8298ac",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012575",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15,
+                            21.92,
+                            779,
+                            101.92
+                        ]
+                    ],
+                    "text_description": "4장의 수 카드를 한 번씩 사용하여 (몇십몇)×(겿십몇)의 곱셈 식을 만들려고 합니다. 곱이 가장 큰 곱셈식을 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            191,
+                            129.92,
+                            252,
+                            188.92
+                        ]
+                    ],
+                    "text_description": "$8$이 쓰여진 녹색카드이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307,
+                            129.5,
+                            369,
+                            190.5
+                        ]
+                    ],
+                    "text_description": "$3$이 쓰여진 주황색 카드이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            423,
+                            129.5,
+                            485,
+                            189.5
+                        ]
+                    ],
+                    "text_description": "$5$가 쓰여진 보라색 카드이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            540,
+                            129.5,
+                            599,
+                            191.5
+                        ]
+                    ],
+                    "text_description": "$2$가 쓰여진 청록색 카드이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            545,
+                            200.5,
+                            703,
+                            231.5
+                        ]
+                    ],
+                    "text_description": "$82 \\times 53=4346$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            247.5,
+                            569,
+                            297.5
+                        ]
+                    ],
+                    "text_description": "곱이 가장 크려면 두 자리 수의 십의 자리에 큰 수가 와야 합니다. $ \\rightarrow 83 \\times 52=4316, 82 \\times 53=4346 $"
+                }
+            ]
+        }
+    ]
+}

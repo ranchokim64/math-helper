@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8b455764-af4d-4e09-84e5-9326d753a622",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011975",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.04,
+                            14.11,
+                            444.72,
+                            81.95
+                        ]
+                    ],
+                    "text_description": "세발자전거 8대가 있습니다. 바퀴는 모 두 몇 개인지 곱셈식으로 나타내세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.32,
+                            103.43,
+                            414.72,
+                            278.71
+                        ]
+                    ],
+                    "text_description": "세발자전거가 8개 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307.2,
+                            300.28,
+                            389.76,
+                            322.96
+                        ]
+                    ],
+                    "text_description": "$3 \\times 8=24$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.64,
+                            333.2,
+                            380.8,
+                            356.24
+                        ]
+                    ],
+                    "text_description": "바퀴가 3 개씩 8 대이므로 모두 $3 \\times 8=24$ (개)입니다."
+                }
+            ]
+        }
+    ]
+}

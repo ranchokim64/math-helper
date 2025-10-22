@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6d378332-cecd-4528-9907-5b534d8a105f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009786",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.76,
+                            5.52,
+                            388.87,
+                            30.38
+                        ]
+                    ],
+                    "text_description": "계산식을 보고 알맞은 말에 $\\bigcirc$ 표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.56,
+                            166.27,
+                            582.7,
+                            217.53
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow$ 곱하는 수의 0이 하나씩 늘어날 때마다 곱의 소수점이 (오른쪽, 왼쪽)으로 (한, 두, 세) 자리씩 옮겨집니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            274.0,
+                            39.0,
+                            423.0,
+                            160.0
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}2.7 \\times 1=2.7 \\\\ 2.7 \\times 10=27 \\\\ 2.7 \\times 100=270 \\\\ 2.7 \\times 1000=2700\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.29,
+                            260.58,
+                            675.72,
+                            309.12
+                        ]
+                    ],
+                    "text_description": "곱하는 수의 0이 하나씩 늘어날 때마다 곱의 소수점이 오른쪽으로 한 자리씩 옮겨집니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.82,
+                            226.05,
+                            119.76,
+                            252.32
+                        ]
+                    ],
+                    "text_description": "오른쪽, 한"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "33522b2e-9dd7-492f-80b1-d46eb905d63b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005796",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.86,
+                            144.12,
+                            440.56,
+                            197.05
+                        ]
+                    ],
+                    "text_description": "다음 직육면체와 겉넓이가 같은 정육면체의 한 모 서리의 길이는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138.18,
+                            213.06,
+                            317.61,
+                            373.53
+                        ]
+                    ],
+                    "text_description": "가로20cm, 세로 12cm, 높이30cm인 직육면체 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.5,
+                            396.69,
+                            361.63,
+                            418.16
+                        ]
+                    ],
+                    "text_description": "20cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.72,
+                            8.59,
+                            439.56,
+                            134.99
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{aligned} (\\text { 직육면체의 겉넓이) } & =(12 \\times 20+20 \\times 30+12 \\times 30) \\times 2 \\\\ & =(240+600+360) \\times 2 \\\\ & =1200 \\times 2=2400\\left(\\mathrm{~cm}^{2}\\right) \\end{aligned} \\] (정육면체의 한 면의 넓이) $=2400 \\div 6=400\\left(\\mathrm{~cm}^{2}\\right)$ $400=20 \\times 20$ 이므로 정육면체의 한 모서리의 길이는 20cm 입니다."
+                }
+            ]
+        }
+    ]
+}

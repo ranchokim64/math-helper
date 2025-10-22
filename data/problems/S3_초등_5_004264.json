@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c35a5911-726e-45b3-b87f-4b132b67011d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004264",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39,
+                            6.13,
+                            404.6,
+                            33.33
+                        ]
+                    ],
+                    "text_description": "야채의 가격표를 보고 물음에 답하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            143.8,
+                            56.2,
+                            323.8,
+                            136.2
+                        ]
+                    ],
+                    "text_description": "당근 1 개 500원 감자 5개 2000원 팽이버섯 2봉지 1000 원"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.4,
+                            171.4,
+                            443,
+                            251.4
+                        ]
+                    ],
+                    "text_description": "영희는 당근 2개와 팽이버섯 3봉지를 사고 5000 원을 냈습니다. 거스름돈을 얼마를 받아야 하는지 식으로 바르게 나타낸 것은 어느것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.4,
+                            377,
+                            343,
+                            401.8
+                        ]
+                    ],
+                    "text_description": "⑤ $5000-(500 \\times 2+1000 \\div 2 \\times 3)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.6,
+                            403.4,
+                            398.2,
+                            460.2
+                        ]
+                    ],
+                    "text_description": "> 당근 2 개와 팽이버섯 3 봉지의 값은 $500 \\times 2+1000 \\div 2 \\times 3$이 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.2,
+                            265.8,
+                            315.8,
+                            373
+                        ]
+                    ],
+                    "text_description": "① $500 \\times 2+1000 \\times 3$ ② $500 \\times 2+1000 \\div 2 \\times 3$ ③ 5000-(500 $2-1000 \\times 3)$ ④ $5000-500 \\times 2+1000 \\times 3$"
+                }
+            ]
+        }
+    ]
+}

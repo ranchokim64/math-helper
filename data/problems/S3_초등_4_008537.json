@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "07deee5f-2ce6-4958-b7e5-779406fc15f6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008537",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.9,
+                            6.940000000000001,
+                            927.1,
+                            73.94
+                        ]
+                    ],
+                    "text_description": "미소는 종이컵을 규칙에 따라 쌓았습니다. 종이컵이 28개인 모양은 몇째에 알맞은 모양인지 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            263.1,
+                            313.6,
+                            696.7,
+                            345.6
+                        ]
+                    ],
+                    "text_description": "(다섯째, 여섯째, 일곱째, 여덟째)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            286.7,
+                            83.54,
+                            671.9,
+                            310.74
+                        ]
+                    ],
+                    "text_description": "여학생이 종이컵을 규칙에 따라 쌓은 이미지가 있습니다. 첫째는 1개, 둘째는 3개, 셋째는 6개, 넷째는 10개로 종이컵이 층 수가 위로 올라갈수록 개수가 적어지는 형태를하고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.1,
+                            363.2,
+                            128.7,
+                            389.6
+                        ]
+                    ],
+                    "text_description": "일 곱째"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.7,
+                            409.6,
+                            755.1,
+                            580.8
+                        ]
+                    ],
+                    "text_description": "종이컵의 수가 1개에서 시작하여 2개, 3개, 4개 $\\cdots \\cdots$ 씩 늘어납니다. 다섯째에 알맞은 모양에서 종이컵의 수: $10+5=15$ (개) 여섯째에 알맞은 모양에서 종이컵의 수: $15+6=21$ (개) 일곱째에 알맞은 모양에서 종이컵의 수: $21+7=28$ (개) 따라서 종이컵이 28개인 모양은 일곱째에 알맞은 모양입니다."
+                }
+            ]
+        }
+    ]
+}

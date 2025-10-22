@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "47ac2b26-f294-4198-b006-d48bf3f18f48",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008416",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.37,
+                            0.88,
+                            930.93,
+                            111.82
+                        ]
+                    ],
+                    "text_description": "서현이네 반 학생들에게 현장 체험 학습을 가고 싶은 장소를 조사하여 나타낸 막대그래프입니다. 학생 수가 수영장보다 많고 놀이공원보다 적은 장소를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            248.81,
+                            418.07,
+                            714.43,
+                            457.13
+                        ]
+                    ],
+                    "text_description": "(놀이공원, 박물관, 과학관, 수영장)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            187.43,
+                            119.32,
+                            780.06,
+                            416.5
+                        ]
+                    ],
+                    "text_description": "가고 싶은 장소별 학생 수의 막대그래프이다. 가로는 장소 세로는 학생 수(명)이다. 놀이공원은 9, 박물관은 4, 과학관은 7, 수영장은 5를 나타내고있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.31,
+                            466.38,
+                            134.75,
+                            499.32
+                        ]
+                    ],
+                    "text_description": "과학관"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.18,
+                            516.5,
+                            911.31,
+                            547
+                        ]
+                    ],
+                    "text_description": "학생 수가 수영장인 5 명보다 많고 놀이공원인 9 명보다 적은 곳은 과학관입니다."
+                }
+            ]
+        }
+    ]
+}

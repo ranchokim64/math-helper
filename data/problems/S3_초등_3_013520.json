@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e955cc4a-ea98-447d-8ca1-49567567ee68",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013520",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.5,
+                            18.94,
+                            600.5,
+                            90.94
+                        ]
+                    ],
+                    "text_description": "전체를 똑같이 4로 나눈 것 중의 3을 색칠한 것은 어 느 것인가요? ()"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            328.5,
+                            219.94,
+                            481.5,
+                            318.94
+                        ]
+                    ],
+                    "text_description": "④육각형 4등분 되어 있고 3개가 색칠 되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            421.5,
+                            731.5,
+                            508.5
+                        ]
+                    ],
+                    "text_description": "전체를 똑같이 4로 나눈 것은 ④, ⑤이고이 중에서 3만큼 색칠한 것은 ④입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.5,
+                            109.5,
+                            304.5,
+                            391.5
+                        ]
+                    ],
+                    "text_description": "① 육각형이 6등분 되어 있고 5개가 색칠 되어 있다. ③ 오각형이 5등분 되어 있고 3개가 색칠 되어 있다. ⑤ 직사각형이 4등분 되어 있고 2개가 색칠 되어 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.5,
+                            105.5,
+                            465.5,
+                            204.5
+                        ]
+                    ],
+                    "text_description": "② 원이 8등분 되어 있고 3개가 색칠 되어 있다."
+                }
+            ]
+        }
+    ]
+}

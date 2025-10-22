@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1d689aad-a1f0-46d1-92be-84c8dce1273b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004459",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.82,
+                            7.69,
+                            434.82,
+                            65.29
+                        ]
+                    ],
+                    "text_description": "사다리꼴 ㉮와 ㉯의 넓이의 합은 몇 $\\mathrm{cm}^{2}$인지 구해보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.82,
+                            71.32,
+                            434.82,
+                            224.92
+                        ]
+                    ],
+                    "text_description": "사다리꼴 ㉮와 ㉯."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            300.42,
+                            240.12,
+                            370.02,
+                            267.32
+                        ]
+                    ],
+                    "text_description": "$35 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.42,
+                            271.32,
+                            294.82,
+                            337.72
+                        ]
+                    ],
+                    "text_description": "(㉮의 넓이 $)=(3+7) \\times 5 \\div 2=25\\left(\\mathrm{~cm}^{2}\\right)$ (㉯의 넓이) $=(6+4) \\times 2 \\div 2=10\\left(\\mathrm{~cm}^{2}\\right)$ $\\rightarrow 25+10=35\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

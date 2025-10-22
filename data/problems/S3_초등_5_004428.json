@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e998ca40-c7f3-44cd-888b-724a05a71969",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004428",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.83,
+                            11.82,
+                            299.83,
+                            36.82
+                        ]
+                    ],
+                    "text_description": "직사각형의 둘레를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            151.83,
+                            50.82,
+                            357.83,
+                            153.82
+                        ]
+                    ],
+                    "text_description": "직각사가형의 가로, 세로의 길이는 $11cm$, $5cm$ 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            319.83,
+                            168.82,
+                            374.83,
+                            190.82
+                        ]
+                    ],
+                    "text_description": "$32cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.83,
+                            201.45,
+                            321.83,
+                            240.45
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 직사각형의 둘레 }) & =\\{(\\text { 가로 })+(\\text { 세로 })\\} \\times 2 \\\\ & =(11+5) \\times 2=32(\\mathrm{~cm})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

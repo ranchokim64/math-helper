@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "831b0b16-0d5f-4ba9-9fad-d9cfd9dd9bb3",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016901",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.73,
+                            3.33,
+                            454.46,
+                            23.67
+                        ]
+                    ],
+                    "text_description": "9의 단 곱셈구구에서 2의 곱을 구할 때 필요한 곱셈식은 무엇일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.7,
+                            28.39,
+                            68.05,
+                            50.7
+                        ]
+                    ],
+                    "text_description": "① $9 \\times 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.7,
+                            55.01,
+                            67.4,
+                            128.49
+                        ]
+                    ],
+                    "text_description": "② $2 \\times 9$ ③ $5 \\times 2$ ④ $7 \\times 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.42,
+                            132.43,
+                            418.38,
+                            180.97
+                        ]
+                    ],
+                    "text_description": "9의 단 곱셈구구에서 2의 곱을 구할 때는 $9 \\times 2=18$이 됩니다. 따라서 정답은 ①입니다."
+                }
+            ]
+        }
+    ]
+}

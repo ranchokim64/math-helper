@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "03934333-8ad9-4381-b7e0-63a0f4a7b82d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008617",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.12,
+                            7.4,
+                            515.12,
+                            34.4
+                        ]
+                    ],
+                    "text_description": "바르게 계산한 것을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            220.12,
+                            73.4,
+                            731.12,
+                            101.4
+                        ]
+                    ],
+                    "text_description": "$420 \\div 5=104 \\quad 420 \\div 5=84$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.12,
+                            191.01,
+                            186.12,
+                            363.01
+                        ]
+                    ],
+                    "text_description": "$ \\begin{aligned} & 8 \\quad 4 \\\\ \\hline 5) & 4 \\quad 2 \\quad 0 \\\\ & \\underline{4 \\quad 0} \\\\ & 2 \\quad 0 \\\\ & \\underline{2 \\quad 0} \\\\ & 0 \\end{aligned} $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.12,
+                            143.4,
+                            189.12,
+                            164.4
+                        ]
+                    ],
+                    "text_description": "$420 \\div 5=84$"
+                }
+            ]
+        }
+    ]
+}

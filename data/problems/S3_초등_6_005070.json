@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4096a57f-7343-450a-a064-0cf6aa8ad126",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005070",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            15.92,
+                            639,
+                            161.92
+                        ]
+                    ],
+                    "text_description": "세로가 $\\frac{10}{21} \\mathrm{~cm}$ 인 직사각형의 넓이가 $\\frac{2}{7} \\mathrm{~cm}^{2}$ 입니다. 이 직사각형의 가로는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            437.0,
+                            344.92,
+                            530.0,
+                            418.92
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{5} \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181.0,
+                            164.0,
+                            484.0,
+                            339.0
+                        ]
+                    ],
+                    "text_description": "세로가 $\\frac{10}{21} \\mathrm{~cm}$ 인 직사각형의 넓이가 $\\frac{2}{7} \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.0,
+                            400.5,
+                            388.0,
+                            492.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{7} \\div \\frac{10}{21}=\\frac{2}{7} \\times \\frac{21}{10}=\\frac{3}{5}(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

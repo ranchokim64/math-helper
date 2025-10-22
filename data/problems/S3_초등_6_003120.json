@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8bddbb9b-6c23-423e-81df-966d6dfa441a",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003120",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.5,
+                            9.42,
+                            761.5,
+                            68.42
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 층별로 나타낸 모양입니다. 앞에서 본 모양을 그려 보고, 똑같은 모양으로 쌓는 데 필요한 쌓기나무의 개수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132.5,
+                            94,
+                            641.5,
+                            235
+                        ]
+                    ],
+                    "text_description": "이 이미지는 층별로 쌓인 블록 구조를 보여주고 있습니다. 왼쪽에는 1층, 2층, 3층의 블록이 표시되어 있으며, 오른쪽에는 그 위에 쌓일 블록의 위치를 나타내는 빈 공간이 있습니다. 각 층의 블록들이 어떻게 쌓여 있는지를 보여주는 도식입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            481.5,
+                            471,
+                            696.5,
+                            493
+                        ]
+                    ],
+                    "text_description": "($8$)개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.14,
+                            444.16,
+                            426.74,
+                            490.56
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 층별로 나타낸 모양에서 1층 모양의 $\\bigcirc$ 부분은 쌓기나무가 3층, $\\Delta$ 부분은 쌓기나무가 2층"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.34,
+                            493.03,
+                            697.34,
+                            536.83
+                        ]
+                    ],
+                    "text_description": "까지 있습니다. 나머지 부분은 1층만 있습니다. 쌓기나무를 이용하여 쌓아 보고 앞에서 본 모양을 그립니다. 똑같은 모양으로 쌓는 데 필요한 쌓기나무는 8개입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            126.7,
+                            318.7,
+                            589.1,
+                            444.1
+                        ]
+                    ],
+                    "text_description": "이 이미지는 여러 층의 도형 배열을 보여주고 있습니다. 각 층에 대한 도형의 구성과 그 배열의 형태를 나타내고 있습니다. 1층에는 원과 삼각형이, 2층과 3층에는 더 복잡한 형태가 나타나고 있습니다. 오른쪽에는 빈 공간이 있습니다."
+                }
+            ]
+        }
+    ]
+}

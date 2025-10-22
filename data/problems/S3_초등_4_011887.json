@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "76d8e9a6-eb9f-473c-8447-b2b5f81a3e21",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011887",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-02] 연속적인 변량에 대한 자료를 수집하여 꺾은선그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-02] 자료를 수집하여 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            10.92,
+                            491.5,
+                            79.92
+                        ]
+                    ],
+                    "text_description": "인경이의 몸무게를 조사하여 나타낸 그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            397.92,
+                            452.5,
+                            428.92
+                        ]
+                    ],
+                    "text_description": "세로 눈금 한 칸은 몇 $kg$을 나타내나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.5,
+                            98.5,
+                            490.5,
+                            376.5
+                        ]
+                    ],
+                    "text_description": "인경이의 몸무게 (매월 $15$일 조사)이다. $x$열은 $1$월부터 $8$월까지의 날짜를 나타내며, $y$열은 $0$에서 $30$까지 몸무게를 표시한 것이며, $10$단위로 $5$개의 눈금으로 구분된다. 몸무게는 $1$월에 $x$0, $x$1월에 $30$, $x$3월에 $x$0, $x$5월에 $x$6, $5$월에 $x$0, $x$9월에 $30$, $1$1월에 $x$0, $8$월에 $1$4의 상승과 하락을 보여주고 잇다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            371.5,
+                            445.5,
+                            417.5,
+                            475.5
+                        ]
+                    ],
+                    "text_description": "$2kg$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.5,
+                            479.5,
+                            495.5,
+                            531.5
+                        ]
+                    ],
+                    "text_description": "5칸에 $10kg$을 나타내고 있으므로 세로 눈금 한 칸은 $2kg$을 나타냅니다."
+                }
+            ]
+        }
+    ]
+}

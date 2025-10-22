@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8c050ad8-74ca-4d16-9523-c71ca1d62ba1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010199",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.78,
+                            -0.13,
+                            662.76,
+                            52.11
+                        ]
+                    ],
+                    "text_description": "상자 안에는 1번부터 20번까지의 번호표가 있습니다. 번호표를 1개 꺼낼 가능성을 말로 표현하려고 합니다. 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.95,
+                            162.37,
+                            637.41,
+                            188.49
+                        ]
+                    ],
+                    "text_description": "상자 안에서 10번 번호표를 꺼낼 가능성은 (가능하다, 불가능하다)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283.27,
+                            53.29,
+                            396.96,
+                            158.53
+                        ]
+                    ],
+                    "text_description": "번호표가 들어 있는 뽑기 상자 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.19,
+                            266.85,
+                            73.55,
+                            288.36
+                        ]
+                    ],
+                    "text_description": "가능하다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.18,
+                            202.32,
+                            648.93,
+                            246.11
+                        ]
+                    ],
+                    "text_description": "1번부터 20번까지의 번호표 중 10번 번호표가 있으므로 10번 번호표를 꺼낼 가능성은 '가능하다' 입니다."
+                }
+            ]
+        }
+    ]
+}

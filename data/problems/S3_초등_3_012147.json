@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4f7f0e4a-d07c-4600-9ae2-0966d1e4d011",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012147",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-04] 1cm와 1mm, 1km와 1m의 관계를 이해하고, 길이를 단명수와 복명수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-16] 1cm와 1mm, 1km와 1m의 관계를 이해하고, 길이를 ‘몇 cm 몇 mm’와 ‘몇 mm’, ‘몇 km 몇 m’와 ‘몇 m’로 다양하게 표현할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20,
+                            10.92,
+                            582,
+                            62.92
+                        ]
+                    ],
+                    "text_description": "길이가 긴 것부터 차례로 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85,
+                            90.92,
+                            964,
+                            276.92
+                        ]
+                    ],
+                    "text_description": "㉠ $2 \\mathrm{~km} \\mathrm{300m}$ ㉡ 3800m ⓒ 3km ㉣ 3km 200m"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            743,
+                            308.5,
+                            929,
+                            348.5
+                        ]
+                    ],
+                    "text_description": "㉡, ㉣, ㉢, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48,
+                            361.5,
+                            353,
+                            394.5
+                        ]
+                    ],
+                    "text_description": "㉡ $3800 \\mathrm{~m}=3 \\mathrm{~km} 800 \\mathrm{~m}$"
+                }
+            ]
+        }
+    ]
+}

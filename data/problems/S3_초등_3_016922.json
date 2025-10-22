@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2cbd4247-8f92-45e8-9db9-91980f974954",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016922",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.58,
+                            5.91,
+                            331.58,
+                            23.19
+                        ]
+                    ],
+                    "text_description": "동전이 $40$원씩 $5$묶음 있습니다. 모두 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.22,
+                            32.510000000000005,
+                            69.54,
+                            49.43
+                        ]
+                    ],
+                    "text_description": "① $200$원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.22,
+                            56.2,
+                            69.82,
+                            125.96
+                        ]
+                    ],
+                    "text_description": "② $210$원 ③ $220$원 ④ $230$원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.38,
+                            165,
+                            248.38,
+                            182.28
+                        ]
+                    ],
+                    "text_description": "따라서 $40$원씩 $5$묶음은 $200$원입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.38,
+                            140.04,
+                            97.98,
+                            155.4
+                        ]
+                    ],
+                    "text_description": "$40 \\times 5=200$"
+                }
+            ]
+        }
+    ]
+}

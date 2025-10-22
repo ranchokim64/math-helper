@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1732242a-7ec2-4058-8214-ab9c98d792e0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009598",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.8,
+                            3.04,
+                            680.6,
+                            75.04
+                        ]
+                    ],
+                    "text_description": "한 변이 $2 \\frac{3}{4} \\mathrm{~cm}$ 인 정사각형이 있습니다. 이 정사각형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.0,
+                            87.7,
+                            123.8,
+                            124.9
+                        ]
+                    ],
+                    "text_description": "① $4 \\frac{3}{16} \\mathrm{~cm}^{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            237.6,
+                            86.1,
+                            340.6,
+                            178.9
+                        ]
+                    ],
+                    "text_description": "② $5 \\frac{7}{16} \\mathrm{~cm}^{2}$ ⑤ $8 \\frac{11}{16} \\mathrm{~cm}^{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            451.8,
+                            84.5,
+                            543.8,
+                            125.7
+                        ]
+                    ],
+                    "text_description": "③ $6 \\frac{1}{2} \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.0,
+                            141.0,
+                            122.0,
+                            184.0
+                        ]
+                    ],
+                    "text_description": "$7 \\frac{9}{16}\\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.0,
+                            225.9,
+                            347.0,
+                            272.3
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{3}{4} \\times 2 \\frac{3}{4}=\\frac{11}{4} \\times \\frac{11}{4}=\\frac{121}{16}=7 \\frac{9}{16}\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

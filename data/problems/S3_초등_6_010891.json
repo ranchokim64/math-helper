@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "644fd7c8-1b1e-4aca-b523-1386c2ef8c26",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010891",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.61,
+                            6.41,
+                            558.61,
+                            38.41
+                        ]
+                    ],
+                    "text_description": "몫이 나머지 넷과 다른 하나는 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            51.4,
+                            734,
+                            142.4
+                        ]
+                    ],
+                    "text_description": "① $11. 88 \\div 1. 32$ ② $\\frac{1188}{10} \\div \\frac{132}{10}$ ③ $\\frac{1188}{100} \\div \\frac{132}{10}$ ④ $1188 \\div 132$ ⑤ $118. 8 \\div 13. 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            162.4,
+                            72,
+                            182.4
+                        ]
+                    ],
+                    "text_description": "③"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.61,
+                            202,
+                            490.61,
+                            230
+                        ]
+                    ],
+                    "text_description": "①, ②, ④, ⑤는 모두 $1188 \\div 132$와 몫이 같고,"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.61,
+                            239,
+                            569.61,
+                            286
+                        ]
+                    ],
+                    "text_description": "③은 $\\frac{1188}{100} \\div \\frac{132}{10}=\\frac{1188}{100} \\div \\frac{1320}{100}=1188 \\div 1320$ 입니다."
+                }
+            ]
+        }
+    ]
+}

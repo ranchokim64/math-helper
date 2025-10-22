@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e94b983b-0db2-4fe6-846c-cd982561ea2a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012463",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그려서 다양한 모양을 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.66,
+                            9.17,
+                            414.66,
+                            63.37
+                        ]
+                    ],
+                    "text_description": "컴퍼스를 다음과 같이 벌려서 원을 그렸습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.46,
+                            216.17,
+                            287.66,
+                            252.17
+                        ]
+                    ],
+                    "text_description": "17 원의 지름은 몇 cm일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132.26,
+                            81.77,
+                            328.66,
+                            198.57
+                        ]
+                    ],
+                    "text_description": "4cm까지 표기되어있는 자가 있습니다. 위에는 4cm까지 벌어져있는 컴퍼스가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            317.06,
+                            265.46,
+                            354.66,
+                            283.86
+                        ]
+                    ],
+                    "text_description": "8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.86,
+                            292.66,
+                            383.46,
+                            311.06
+                        ]
+                    ],
+                    "text_description": "원의 지름은 반지름의 2배이므로 $4 \\times 2=8(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

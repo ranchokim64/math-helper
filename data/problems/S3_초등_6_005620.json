@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4fc618c2-5d4b-4e37-9e9f-ad0c5810378f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005620",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            8.92,
+                            449.5,
+                            40.92
+                        ]
+                    ],
+                    "text_description": "사각기둥의 전개도를 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.5,
+                            57.92,
+                            506.5,
+                            319.92
+                        ]
+                    ],
+                    "text_description": "㉠ 사각기둥을 만들 수 없는 전개도 ㉡ 사각기둥 전개도에 불필요한 직사각형이 붙어 있는 그림 ㉢ 사각기둥 전개도 ㉣ 사각기둥을 만들 수 없는 전개도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370.5,
+                            345.5,
+                            402.5,
+                            371.5
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            385.5,
+                            343.5,
+                            413.5
+                        ]
+                    ],
+                    "text_description": "㉠, ㉡, ㉣은 사각기둥을 만들 수 없습니다."
+                }
+            ]
+        }
+    ]
+}

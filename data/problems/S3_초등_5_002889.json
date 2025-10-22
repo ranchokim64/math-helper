@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2705b8c1-2708-43a5-aa62-c5a4885538e8",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002889",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-02] 합동인 두 도형에서 대응점, 대응변, 대응각을 각각 찾고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            2.92,
+                            658.5,
+                            60.92
+                        ]
+                    ],
+                    "text_description": "예지와 다희가 서로 합동인 두 도형을 보고 각 ㄹㅂㅁ의크기를 구하려고 합니다. $\\square$ 안에 알맞은 수를 써넣어 대화를 완성해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.5,
+                            96.5,
+                            633.5,
+                            249.5
+                        ]
+                    ],
+                    "text_description": "삼각형 주개. 그중 왼쪽 삼각형은, 두 개의 각이 표시되어 있습니다. 하나의 각은 120도이고 다른 각은 40도입니다. 세 번째 각은 20도로, 삼각형의 내각의 합이 180도가 되어야 함을 보여줍니다. 오른쪽 삼각형의 한 각은 120도입니다. 다른 각들은 표시되지 않았습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            282.5,
+                            531.5,
+                            384.5
+                        ]
+                    ],
+                    "text_description": "두 도형이 서로 합동이므로 각 ㄹㅁㅂ의 크기는 $\\square$ 야."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.5,
+                            385.5,
+                            642.5,
+                            497.5
+                        ]
+                    ],
+                    "text_description": "삼각형의 세 각의 크기의 합은 $\\square$ 이므로 삼각형 ㄹㅁㅂ에서 각 ㄹㅂㅁ의 크기는 $\\square$-$\\square$-$\\square$ $=$ $\\square$ 야."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.5,
+                            516.5,
+                            513.5,
+                            617.5
+                        ]
+                    ],
+                    "text_description": "두 도형이 서로 합동이므로 각 ㄹㅁㅂ의크기는 $40^{\\circ}$ 야."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            619.5,
+                            620.5,
+                            724.5
+                        ]
+                    ],
+                    "text_description": "삼각형의 세 각의 크기의 합은 180 이므로 삼각형 ㄹ ㅁㅂㅂ에서 각 ㄹㅂㅁ의 크기는 $180^{\\circ}-120^{\\circ}-40{ }^{\\circ}=20^{\\circ}$ 야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.25,
+                            731.62,
+                            639,
+                            773.12
+                        ]
+                    ],
+                    "text_description": "각 ㄹㅁㅂ의대응각은 각 ㄴㄷㄱ이므로 각 ㄹㅁㅂ의크기는 $40^{\\circ}$ 입니다. 따라서 삼각형 ㄹㅁㅂ에서 각 ㄹㅂㅁ의크기는 $180^{\\circ}-120^{\\circ}-40^{\\circ}=20^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

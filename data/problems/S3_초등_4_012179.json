@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b03e3408-7435-428a-9183-dd0647f25050",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012179",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.05,
+                            11.6,
+                            799.8,
+                            122.53
+                        ]
+                    ],
+                    "text_description": "4 8 정호네 고장에 있는 도서관의 책의 수를 조사한 것입니 다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.18,
+                            531.27,
+                            548.24,
+                            576.59
+                        ]
+                    ],
+                    "text_description": "노랑 도서관에 있는 책은 몇 권인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.99,
+                            135.03,
+                            777.93,
+                            510.03
+                        ]
+                    ],
+                    "text_description": "도서관별 책의 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            631.05,
+                            593.77,
+                            720.12,
+                            631.27
+                        ]
+                    ],
+                    "text_description": "3400권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            135.74,
+                            640.65,
+                            799.8,
+                            700.02
+                        ]
+                    ],
+                    "text_description": "1000 권을 나타내는 그림이 3 개, 100 권을 나타내는 그림이 4개이므로 3400 권을 나타냅니다."
+                }
+            ]
+        }
+    ]
+}

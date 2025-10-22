@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cf0b0d7b-b6dd-4096-8dd8-a0f334e5711d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005098",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.59,
+                            36.81,
+                            697.15,
+                            69.05
+                        ]
+                    ],
+                    "text_description": "다음 중 계산 결과가 가장 큰 것은 어느 것인가"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.03,
+                            90.21,
+                            138.27,
+                            124.44999999999999
+                        ]
+                    ],
+                    "text_description": "요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            134.5,
+                            165.92,
+                            232.5,
+                            238.92
+                        ]
+                    ],
+                    "text_description": "$12 \\div \\frac{2}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.5,
+                            344.5,
+                            506.5,
+                            370.5
+                        ]
+                    ],
+                    "text_description": "① 30 ② 14 ③ 27 ④ 16 ⑤ 24"
+                }
+            ]
+        },
+        {
+            "class_num": "2",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.5,
+                            166.5,
+                            640.5,
+                            331.5
+                        ]
+                    ],
+                    "text_description": "$12 \\div \\frac{6}{7}$\n$12 \\div \\frac{4}{9}$\n$12 \\div \\frac{1}{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.5,
+                            250.5,
+                            234.5,
+                            335.5
+                        ]
+                    ],
+                    "text_description": "$12 \\div \\frac{3}{4}$"
+                }
+            ]
+        }
+    ]
+}

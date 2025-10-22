@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "73139dc8-5d95-4c5e-836c-2fc8b6cf4cc3",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005297",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.5,
+                            25.4,
+                            692.5,
+                            170.4
+                        ]
+                    ],
+                    "text_description": "빵을 만들기 위해 밀가루와 물을 $9: 4$로 섞었습니다. 섞은 밀가루와 물의 무게가 모두 650g일 때 밀가루는 몇 g인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            494.5,
+                            190.4,
+                            577.5,
+                            230.4
+                        ]
+                    ],
+                    "text_description": "450g"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            109.5,
+                            240.4,
+                            496.5,
+                            303.4
+                        ]
+                    ],
+                    "text_description": "$650 \\times \\frac{9}{9+4}=650 \\times \\frac{9}{13}=450(\\mathrm{~g})$"
+                }
+            ]
+        }
+    ]
+}

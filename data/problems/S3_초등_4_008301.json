@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df17f719-9166-49a5-9f1c-85398b128520",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008301",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            3.92,
+                            933.5,
+                            73.92
+                        ]
+                    ],
+                    "text_description": "사과 그림이 그려진 투명 종이를 왼쪽으로 뒤집은 후의 그림을 보고 알 맞은 말을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            121.5,
+                            81.92,
+                            382.5,
+                            249.92
+                        ]
+                    ],
+                    "text_description": "사과 모양 그림을 왼쪽으로 뒤집은 후의 그림이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            426.5,
+                            89.5,
+                            846.5,
+                            242.5
+                        ]
+                    ],
+                    "text_description": "투명 종이를 왼쪽으로 뒤집으면 사과 그림의 왼쪽과 오른쪽이 서로(바뀌어, 바뀌지 않아)."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            265.5,
+                            132.5,
+                            292.5
+                        ]
+                    ],
+                    "text_description": "바뀌어"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            309.5,
+                            885.5,
+                            339.5
+                        ]
+                    ],
+                    "text_description": "투명 종이를 왼쪽으로 뒤집으면 사과 그림의 왼쪽과 오른쪽이 서로 바뀝니다."
+                }
+            ]
+        }
+    ]
+}

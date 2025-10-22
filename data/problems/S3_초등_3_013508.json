@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c22e64f4-ead9-4e03-b6dd-883984e8f2b8",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013508",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            12.94,
+                            514,
+                            43.94
+                        ]
+                    ],
+                    "text_description": "다음 중 계산이 잘못된 것은 어느 것입니까?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324,
+                            105.94,
+                            503,
+                            133.94
+                        ]
+                    ],
+                    "text_description": "② $24 \\times 3=62$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72,
+                            105.5,
+                            265,
+                            208.5
+                        ]
+                    ],
+                    "text_description": "① $14 \\times 2=28$ ③ $49 \\times 2=98$ ⑤ $53 \\times 3=159$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324,
+                            139.5,
+                            513,
+                            175.5
+                        ]
+                    ],
+                    "text_description": "④ $32 \\times 4=128$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            238.5,
+                            218,
+                            274.5
+                        ]
+                    ],
+                    "text_description": "② $32 \\times 4=128$"
+                }
+            ]
+        }
+    ]
+}

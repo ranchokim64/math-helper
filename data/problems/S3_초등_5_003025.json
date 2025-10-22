@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "03ff02d6-c71d-457f-a396-ad5f39f206ea",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003025",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.07,
+                            5.32,
+                            252.27,
+                            29.32
+                        ]
+                    ],
+                    "text_description": "평행사변형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.47,
+                            60.519999999999996,
+                            287.47,
+                            189.32
+                        ]
+                    ],
+                    "text_description": "이 이미지는 평행사변형의 도형을 보여주고 있으며, 각 변의 길이가 주어져 있습니다. 왼쪽 변은 6cm, 위쪽 변은 8cm, 오른쪽 변은 7cm로 표시되어 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            434,
+                            34.5,
+                            556,
+                            211.5
+                        ]
+                    ],
+                    "text_description": "이 이미지에는 직사각형과 곡선이 포함된 도형이 있으며, 측정값으로는 6m, 5m, 7m가 주어져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.47,
+                            302.61,
+                            204.27,
+                            329.01
+                        ]
+                    ],
+                    "text_description": "$48 \\quad \\mathrm{~cm}^{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            434.67,
+                            302.61,
+                            541.87,
+                            329.81
+                        ]
+                    ],
+                    "text_description": "$35 \\quad \\mathrm{~m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.27,
+                            214.61,
+                            405.87,
+                            282.61
+                        ]
+                    ],
+                    "text_description": "평행사변형의 넓이는 $($ 밑변의 길이 $) \\times($ 높이 $)$ 이므로 왼쪽 평행사변형의 넓이는 $8 \\times 6=48\\left(\\mathrm{~cm}^{2}\\right)$, 오른쪽 평행사변형의 넓이는 $7 \\times 5=35\\left(\\mathrm{~m}^{2}\\right)$ 입니다. 2"
+                }
+            ]
+        }
+    ]
+}

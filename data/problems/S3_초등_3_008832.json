@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bedcfd61-bbc9-48e0-903d-b98c9d029870",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008832",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-05] 들이를 나타내는 표준 단위의 필요성을 인식하여 1L와 1mL의 단위를 알고, 이를 이용하여 들이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-17] 들이 단위 1L와 1mL를 알고, 이를 이용하여 들이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68,
+                            7.42,
+                            875,
+                            40.42
+                        ]
+                    ],
+                    "text_description": "보온병의 들이를 더 적절히 어림한 친구는 누구인지 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82,
+                            48.42,
+                            439,
+                            375.42
+                        ]
+                    ],
+                    "text_description": "나래: 보온병에 200mL 우유갑으도 4번쫌 들어갈 것 같아. 들이는 약 600mL야."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            536,
+                            47,
+                            864,
+                            377
+                        ]
+                    ],
+                    "text_description": "재석: 보온병은 1L 우유갑과 들이가 비슷할 것 같아. 들이는 약 1000mL야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            388,
+                            108,
+                            416
+                        ]
+                    ],
+                    "text_description": "재석"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            434,
+                            786,
+                            464
+                        ]
+                    ],
+                    "text_description": "나래: 200mL 우유갑으로 4번쯤 들어가면 들이는 약 800mL입니다."
+                }
+            ]
+        }
+    ]
+}

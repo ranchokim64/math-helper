@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5455f8eb-737e-4742-ad5f-058408f262ea",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017918",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.74,
+                            5.98,
+                            295.74,
+                            69.98
+                        ]
+                    ],
+                    "text_description": "다음의 계산 결과를 구하시오. \\[ 0. 81 \\div 3 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.38,
+                            133.34,
+                            79.42,
+                            159.58
+                        ]
+                    ],
+                    "text_description": "② 0. 27"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.74,
+                            95.58,
+                            79.42,
+                            120.54
+                        ]
+                    ],
+                    "text_description": "① 0. 26"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.38,
+                            171.52,
+                            78.78,
+                            270.72
+                        ]
+                    ],
+                    "text_description": "③ 0. 28 ④ 0. 29 ⑤ 0. 30"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.62,
+                            299.32,
+                            449.98,
+                            432
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}0. 81 \\div 3=\\frac{81}{100} \\div 3=\\frac{81}{100} \\times \\frac{1}{3}=\\frac{81}{300} \\\\ \\frac{81}{300}=0. 27\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

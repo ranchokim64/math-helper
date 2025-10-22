@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0cf126c3-1f49-410d-b1a9-efc2bdc2b64b",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002981",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.14,
+                            9.54,
+                            665.48,
+                            65.86
+                        ]
+                    ],
+                    "text_description": "삼각형 수를 $\\triangle$, 삼각형의 변의 수를 $\\square$라고 할 때, 두 양 사이의 대응 관계를 기호를 사용하여 식으로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.68,
+                            83.26,
+                            662.92,
+                            169.79
+                        ]
+                    ],
+                    "text_description": "1개로 시작한 삼각형이 점점 1개씩 늘어가는 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.99,
+                            271.49,
+                            377.22,
+                            297.6
+                        ]
+                    ],
+                    "text_description": "$\\square=\\triangle \\times 3$ 또는 $\\triangle=\\square \\div 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            223.9,
+                            702.5,
+                            253.9
+                        ]
+                    ],
+                    "text_description": "삼각형 1개에는 변이 3개 있으므로 삼각형의 변의 수는 삼각형 수의 3배와 같습니다."
+                }
+            ]
+        }
+    ]
+}

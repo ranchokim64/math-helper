@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d1c541f-9d38-46a7-9853-8a61951e635e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011612",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.3,
+                            13.34,
+                            447.7,
+                            132.14
+                        ]
+                    ],
+                    "text_description": "성욱이네 가족은 어제 배달된 우유 3L 중에 서 $1 \\frac{3}{10} \\mathrm{~L}$를 마셨습니다. 남은 우유는 몇 L 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.1,
+                            216.2,
+                            170.9,
+                            261
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{7}{10} \\mathrm{~L}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            135.74,
+                            265.3,
+                            214.14
+                        ]
+                    ],
+                    "text_description": "(남은 우유의 양) \\[ =3-1 \\frac{3}{10}=2 \\frac{10}{10}-1 \\frac{3}{10}=1 \\frac{7}{10}(\\mathrm{~L}) \\]"
+                }
+            ]
+        }
+    ]
+}

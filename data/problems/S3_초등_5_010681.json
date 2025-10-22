@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "50e2d2fd-ee1b-4d1e-894a-dc87d28d742a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010681",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.75,
+                            -0.35,
+                            696,
+                            28.4
+                        ]
+                    ],
+                    "text_description": "다음 중 두 수의 최대공약수가 가장 큰 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296,
+                            37.15,
+                            387.25,
+                            69.65
+                        ]
+                    ],
+                    "text_description": "② 30, 45"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            40.37,
+                            117.25,
+                            110.37
+                        ]
+                    ],
+                    "text_description": "① 18, 32 ② 24, 54"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            571,
+                            41.62,
+                            664.75,
+                            70.37
+                        ]
+                    ],
+                    "text_description": "③ 11, 44"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.75,
+                            76.62,
+                            391,
+                            111.62
+                        ]
+                    ],
+                    "text_description": "⑤ 25, 70"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.75,
+                            161.62,
+                            588.5,
+                            546.62
+                        ]
+                    ],
+                    "text_description": "① $2 \\lcm{18 \\quad 32}$ ② $3 \\lcm{30 \\quad 45}$ $\\Rightarrow$ 최대공약수: 2 $5 \\longdiv { 1 0 \\quad 1 5 }$ $\\Rightarrow$ 최대공약수: $3 \\times 5=15$ ③ $11 \\lcm{11 \\quad 44}$ $\\Rightarrow$ 최대공약수: 11 ④ $2 \\lcm{24 \\quad 54}$ $3 \\longdiv { 1 2 \\quad 2 7 }$ $\\Rightarrow$ 최대공약수: $3 \\lcm{30 \\quad 45}$1 ⑤ $3 \\lcm{30 \\quad 45}$2 $\\Rightarrow$ 최대공약수: 5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d259fc02-d57b-4b0d-bf67-0160f4d8ddf3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011859",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.72,
+                            18.4,
+                            395.72,
+                            97.4
+                        ]
+                    ],
+                    "text_description": "$2. 35+6. 7$의 계산입니다. $\\square$ 안에 어떤 숫 자가 있는 것으로 생각하고 계산해야 할까 요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            139.72,
+                            109.4,
+                            298.72,
+                            206.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}2. 35 \\\\ +\\quad 6. 7 \\square \\\\ \\hline\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            304.72,
+                            220.99,
+                            323.72,
+                            239.99
+                        ]
+                    ],
+                    "text_description": "$0$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.72,
+                            246.99,
+                            395.72,
+                            285.99
+                        ]
+                    ],
+                    "text_description": "소수점 아래 맨 끝자리에 오는 0은 생략하므로 6. 7은 6. 70과 같습니다."
+                }
+            ]
+        }
+    ]
+}

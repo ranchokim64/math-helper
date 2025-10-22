@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "721bf21b-1d2b-4106-aa5e-448abdaf38a2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010772",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            0.41,
+                            713.5,
+                            54.41
+                        ]
+                    ],
+                    "text_description": "$\\frac{42}{56}$의 약분에 대해 옳게 말한 사람의 이름을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            349.5,
+                            359,
+                            539.5,
+                            395
+                        ]
+                    ],
+                    "text_description": "(대현, 선미)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            169.5,
+                            61,
+                            720.5,
+                            358
+                        ]
+                    ],
+                    "text_description": "$\\frac{42}{56}$를 약분하여 만들 수 있는 분수는 모두 3개야. - 대현 $\\frac{42}{56}$를 기약분수로 나타내면 $\\frac{2}{3}$야. - 선미"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            458,
+                            848.5,
+                            603
+                        ]
+                    ],
+                    "text_description": "$\\frac{42}{56}=\\frac{42 \\div 2}{56 \\div 2}=\\frac{21}{28}, \\frac{42}{56}=\\frac{42 \\div 7}{56 \\div 7}=\\frac{6}{8}, \\frac{42}{56}=\\frac{42 \\div 14}{56 \\div 14}=\\frac{3}{4}$ 이므로 $\\frac{42}{56}$를 약분하여 만들 수 있는 분수는 3 개이고, 기약분수로 나타내면 $\\frac{3}{4}$ 입니다. 따라서 옳게 말한 사람은 대현입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.0,
+                            408.0,
+                            94.0,
+                            442.0
+                        ]
+                    ],
+                    "text_description": "대현"
+                }
+            ]
+        }
+    ]
+}

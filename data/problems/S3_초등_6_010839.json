@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f14215d8-117e-4f38-b6a4-9ad44c17bd1b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010839",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.38,
+                            4.98,
+                            616.38,
+                            37.48
+                        ]
+                    ],
+                    "text_description": "계산이 바르게 된 것이면 $\\bigcirc$ 표, 잘못된 것이면 $\\times$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.38,
+                            44.23,
+                            543.88,
+                            226.23
+                        ]
+                    ],
+                    "text_description": "① $1 \\frac{1}{5} \\div \\frac{3}{4}=\\frac{6}{5} \\div \\frac{3}{4}=\\frac{6}{5} \\times \\frac{3}{4}=\\frac{9}{10}$ $(\\bigcirc, \\times)$ ② $1 \\frac{1}{4} \\div 2 \\frac{1}{3}=\\frac{5}{4} \\div \\frac{7}{3}=\\frac{5}{4} \\times \\frac{3}{7}=\\frac{15}{28}$ $(\\bigcirc, \\times)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.13,
+                            248.75,
+                            143.88,
+                            272
+                        ]
+                    ],
+                    "text_description": "$(1) \\times(2) \\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.7,
+                            286.3,
+                            381.5,
+                            365.5
+                        ]
+                    ],
+                    "text_description": "① $1 \\frac{1}{5} \\div \\frac{3}{4}=\\frac{6}{5} \\div \\frac{3}{4}=\\frac{6}{5} \\times \\frac{4}{3}=\\frac{8}{5}=1 \\frac{3}{5}$"
+                }
+            ]
+        }
+    ]
+}

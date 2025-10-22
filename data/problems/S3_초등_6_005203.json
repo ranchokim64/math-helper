@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cc94402b-6346-4dbc-b283-bcacf0d8d4b0",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005203",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.28,
+                            32.24,
+                            350.28,
+                            146.24
+                        ]
+                    ],
+                    "text_description": "오른쪽은 쌓기나무 10개로 쌓은 모양입니다. 위에서 본 모양에 $\\bigcirc$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            366.28,
+                            25.77,
+                            555.28,
+                            285.77
+                        ]
+                    ],
+                    "text_description": "쌓기나무 10개를 쌓은 모양의 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.28,
+                            286.77,
+                            227.28,
+                            466.77
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|l|l|} \\hline & & \\\\ \\hline & & \\\\ \\hline & & \\\\ \\hline & & \\\\ \\hline & \\\\ \\hline \\end{tabular} $\\left(\\begin{array}{ll}0\\end{array}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.28,
+                            479.77,
+                            559.28,
+                            532.77
+                        ]
+                    ],
+                    "text_description": "쌓기나무 10개로 쌓은 모양이므로 1층에 6개, 2층에 3개, 3층에 1개라는 것을 알 6수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            235.28,
+                            288.77,
+                            391.28,
+                            472.77
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|l|l|} \\hline$--------\\mid$ \\\\ \\hline & & \\\\ \\hline & & \\\\ \\hline & & \\\\ \\hline & & \\\\ \\hline \\end{tabular} $(\\quad)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            399.28,
+                            288.77,
+                            552.28,
+                            473.77
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|} \\hline & $\\square$ \\\\ \\hline & \\\\ \\hline & \\\\ \\hline \\end{tabular}$\\square$ $(\\quad)$"
+                }
+            ]
+        }
+    ]
+}

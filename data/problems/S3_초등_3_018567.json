@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0f6dc793-2a97-4006-a9b1-189d00f69aec",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018567",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.6,
+                            3.58,
+                            514.39,
+                            19.97
+                        ]
+                    ],
+                    "text_description": "어떤 수를 4로 나누었더니 몫이 28이고 나머지가 2였습니다. 어떤 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.02,
+                            89.09,
+                            48.98,
+                            103.94
+                        ]
+                    ],
+                    "text_description": "③ 114"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.51,
+                            43.3,
+                            49.5,
+                            82.22
+                        ]
+                    ],
+                    "text_description": "① 112 ② 113"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            111.91,
+                            47.96,
+                            126.76
+                        ]
+                    ],
+                    "text_description": "④ 115"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.02,
+                            163.62,
+                            178.01,
+                            180.52
+                        ]
+                    ],
+                    "text_description": "따라서 어떤 수는 114입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.02,
+                            142.12,
+                            196.95,
+                            156.97
+                        ]
+                    ],
+                    "text_description": "$4 \\times 28=112 \\rightarrow 112+2=114$"
+                }
+            ]
+        }
+    ]
+}

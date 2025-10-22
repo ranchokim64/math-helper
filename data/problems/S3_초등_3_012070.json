@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ce53ff7d-36da-4cec-89b2-4e2cf950dcf5",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012070",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            12.92,
+                            372,
+                            50.92
+                        ]
+                    ],
+                    "text_description": "1 ~ 12, 나눗셈을 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            70.5,
+                            147,
+                            115.5
+                        ]
+                    ],
+                    "text_description": "$12 \\div 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            179.5,
+                            43,
+                            204.5
+                        ]
+                    ],
+                    "text_description": "$6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            129.5,
+                            259,
+                            160.5
+                        ]
+                    ],
+                    "text_description": "$2 \\times 6=12 \\rightarrow 12 \\div 2=6$"
+                }
+            ]
+        }
+    ]
+}

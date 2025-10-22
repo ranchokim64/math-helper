@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "672436ec-382d-41f1-8b5d-111ec4da01d1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010941",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            8.42,
+                            767.5,
+                            63.42
+                        ]
+                    ],
+                    "text_description": "건물의 사진을 여러 방향에서 찍었습니다. 각 사진을 찍은 위치를 찾아 기 호를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.5,
+                            68.42,
+                            613.5,
+                            278.42
+                        ]
+                    ],
+                    "text_description": "- 중앙에는 \"행복 병원\"이라는 간판이 붙은 병원 건물이 있습니다. 건물은 2층 구조로, 여러 개의 창문이 있으며, 중앙의 이중문이 눈에 띕니다. - 병원 건물 오른쪽에는 구급차가 주차되어 있습니다. - 그림의 왼쪽, 아래쪽, 오른쪽에는 화살표가 있으며 각각의 ㉠, ㉡, ㉢으로 방향을 가리키고 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            279,
+                            203.5,
+                            442
+                        ]
+                    ],
+                    "text_description": "③ 이미지에는 건물의 일부가 보이며, 해당 건물은 \"복병원\"이라는 간판이 걸려 있습니다. 건물의 외관은 흰색으로 되어 있으며, 창문이 하나 보입니다. (㉠, ㉡, ㉢)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            499,
+                            48.5,
+                            521
+                        ]
+                    ],
+                    "text_description": "③ ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            459,
+                            637.5,
+                            482
+                        ]
+                    ],
+                    "text_description": "③ 병원 간판과 병원 건물의 왼쪽 면이 보이므로 ㉠에서 찍은 사진입니다."
+                }
+            ]
+        }
+    ]
+}

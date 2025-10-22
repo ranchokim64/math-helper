@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "41243c73-be7d-4986-a7cd-639e2d9d450a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010746",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            1.72,
+                            701.8,
+                            78.52
+                        ]
+                    ],
+                    "text_description": "수지가 결혼식장에 가서 본 탁자에는 8개의 의자가 놓여 있었습니다. 탁자의 수들 ○, 의자의 수를 $\\diamond$라고 할 때, 두 양 사이의 대응 관계를 식으로 나타내어 보고 ■에 공통으로 들어갈 숫자를 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.6,
+                            155.12,
+                            551.6,
+                            203.32
+                        ]
+                    ],
+                    "text_description": "- 의자의 수는 탁자의 수의 ■배입니다. $\\rightarrow$ $\\bigcirc \\times ■=\\diamond$ - 탁자의 수는 의자의 수를 ■(으)로 나눈 수입니다. $\\rightarrow$ $\\diamond \\times ■=\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97,
+                            79.32,
+                            629,
+                            153.72
+                        ]
+                    ],
+                    "text_description": "탁자가 4개가 있고 탁자마다 의자가 8개씩 놓여져 있는 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            245,
+                            241.72,
+                            282.6,
+                            260.92
+                        ]
+                    ],
+                    "text_description": "⑤ 8"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.4,
+                            212.92,
+                            58.6,
+                            260.92
+                        ]
+                    ],
+                    "text_description": "① 4 ④ 7"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            245,
+                            212.12,
+                            281,
+                            232.12
+                        ]
+                    ],
+                    "text_description": "② 5"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            471.4,
+                            211.32,
+                            505.8,
+                            232.12
+                        ]
+                    ],
+                    "text_description": "③ 6"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.2,
+                            320.92,
+                            401,
+                            375.32
+                        ]
+                    ],
+                    "text_description": "$\\left[\\begin{array}{l}(\\text { 탁자의 수 }) \\times 8=(\\text { 의자의 수 }) \\Rightarrow \\bigcirc \\times 8=\\diamond \\\\ (\\text { 의자의 수 }) \\div 8=(\\text { 탁자의 수 }) \\Rightarrow \\diamond \\div 8=\\bigcirc\\end{array}\\right. $"
+                }
+            ]
+        }
+    ]
+}

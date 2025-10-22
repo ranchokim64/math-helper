@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "43d234a3-96f1-4bbf-b2da-875a73d5a63d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012420",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.47,
+                            11.07,
+                            417.07,
+                            67.07
+                        ]
+                    ],
+                    "text_description": "가장 큰 수와 가장 작은 수의 곱을 구하 세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            141.07,
+                            96.67,
+                            321.07,
+                            153.47
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lll}20 & 13 & 42 \\\\ 59 & 50 & 36\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.27,
+                            181.47,
+                            351.47,
+                            200.67
+                        ]
+                    ],
+                    "text_description": "$767$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.07,
+                            211.96,
+                            325.67,
+                            229.16
+                        ]
+                    ],
+                    "text_description": "$($ 가장 큰 수 $) \\times($ 가장 작은 수 $)=59 \\times 13=767$"
+                }
+            ]
+        }
+    ]
+}

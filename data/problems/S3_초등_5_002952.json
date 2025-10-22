@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7eb58af1-eb9c-4329-ba72-83a3b2b4107a",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002952",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.46,
+                            12.19,
+                            411.3,
+                            129.95
+                        ]
+                    ],
+                    "text_description": "23 명이 타고 있는 버스가 도착했습니다. 이번 정류장에서 14명이 내리고 8명이 탔습니다. 지금 버스 안에 있는 사람은 몇 명인지 하나의 식으로 나타내어 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            426.66,
+                            11.600000000000001,
+                            654.5,
+                            219.28
+                        ]
+                    ],
+                    "text_description": "버스 정류장 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.94,
+                            319.12,
+                            525.86,
+                            417.04
+                        ]
+                    ],
+                    "text_description": "식 $23-14+8=17$ 답 17명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.94,
+                            238.48,
+                            886.82,
+                            308.88
+                        ]
+                    ],
+                    "text_description": "23명이 버스에 타고 있었고 이번 정류장에서 14명이 내리고 8명이 탔으므로 지금 버스 안에 있는 사람은 $23-14+8=9+8=17$(명)입니다."
+                }
+            ]
+        }
+    ]
+}

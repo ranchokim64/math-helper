@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b1dc1826-9187-4e4d-83e5-d960911af044",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002900",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            19.42,
+                            514,
+                            51.42
+                        ]
+                    ],
+                    "text_description": "안에 들어갈 수 있는 가장 작은 자연수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            246,
+                            72.42,
+                            551,
+                            170.42
+                        ]
+                    ],
+                    "text_description": "$0. 52 \\times 8<$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            660,
+                            189,
+                            684,
+                            217
+                        ]
+                    ],
+                    "text_description": "$5$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.77,
+                            209.14,
+                            416.01,
+                            235.38
+                        ]
+                    ],
+                    "text_description": "$0. 52 \\times 8=4. 16$ 이므로 $4. 16<\\square$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.33,
+                            238.58,
+                            753.93,
+                            290.42
+                        ]
+                    ],
+                    "text_description": "따라서 $\\square$ 안에 들어갈 수 있는 자연수는 $5, 6, 7, \\ldots$ 이므로 $\\square$ 안에 들어갈 수 있는 가장 작은 자연수는 5 입니다."
+                }
+            ]
+        }
+    ]
+}

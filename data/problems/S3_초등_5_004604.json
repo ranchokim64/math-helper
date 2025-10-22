@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "23d6b95c-790f-409d-80c3-81f922cdb028",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004604",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.27,
+                            33.74,
+                            707.27,
+                            124.74
+                        ]
+                    ],
+                    "text_description": "공책을 공장에서 산다면 최소 몇 권을 사야 하나요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.27,
+                            320.27,
+                            700.27,
+                            418.27
+                        ]
+                    ],
+                    "text_description": "운동회 때 사용할 공책 326권을 사려고 합니다. 물음에 답하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.27,
+                            437.27,
+                            699.27,
+                            686.27
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|c|} \\hline 소매상 & 도매상 & 공장 \\\\ \\hline $\\because$ & & \\\\ \\hline 낱권씩 판매 & 10 권씩 판매 & 100권씩 판매 \\\\ \\hline \\end{tabular}소매상도매상공장$\\because$낱권씩 판매10 권씩 판매100권씩 판매"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            500.27,
+                            148.27,
+                            587.27,
+                            183.27
+                        ]
+                    ],
+                    "text_description": "400권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.27,
+                            193.27,
+                            701.27,
+                            258.27
+                        ]
+                    ],
+                    "text_description": "공장에서는 100권씩 묶음으로 살 수 있으므로 326을 올림하여 백의 자리까지 나타내면 최소 400권을 사야 합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "56cd8ea4-5dab-4c4e-a9d6-1757c8569651",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011208",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.06,
+                            5.17,
+                            737.24,
+                            29.88
+                        ]
+                    ],
+                    "text_description": "선우의 설명을 보고 만들 수 있는 비례식을 모두 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188.31,
+                            192.64,
+                            701.96,
+                            218
+                        ]
+                    ],
+                    "text_description": "$9: 1=36: 4 \\quad 9: 1=4: 36 \\quad 9: 36=1: 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216.76,
+                            51.989999999999995,
+                            677.48,
+                            166.68
+                        ]
+                    ],
+                    "text_description": "선우가 \"외항이 $9$와 $4$, 내항이 $1$과 $36$인 비례식을 세워 봐. \"라고 말하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.59,
+                            256.3,
+                            256.09,
+                            279.44
+                        ]
+                    ],
+                    "text_description": "$9: 1=36: 4, 9: 36=1: 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.06,
+                            297.32,
+                            734.61,
+                            323.61
+                        ]
+                    ],
+                    "text_description": "외항에 $9$와 $4$, 내항에 $1$과 $36$을 번갈아 놓으면서 비례식을 세워 봅니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.51,
+                            330.82,
+                            486.94,
+                            354.64
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow 9: 1=36: 4, 9: 36=1: 4, 4: 36=1: 9, 4: 1=36: 9$"
+                }
+            ]
+        }
+    ]
+}

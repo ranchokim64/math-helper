@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6c762f77-cc8c-4cff-9f31-49d81845a26f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010423",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.7,
+                            4.34,
+                            743.5,
+                            33.14
+                        ]
+                    ],
+                    "text_description": "다음 각기둥에서 높이가 될 수 없는 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            377.1,
+                            59.34,
+                            601.9,
+                            312.34
+                        ]
+                    ],
+                    "text_description": "이미지는 삼각기둥입니다. 도형의 각 부분은 다음과 같이 표시되어 있습니다: 1. ① - 도형의 빗변 2. ② - 도형의 옆면에 그어진 대각선 3. ③ - 도형의 빗변 4. ④ - 높이 5. ⑤ - 도형의 빗변"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            336.9,
+                            332,
+                            396.3,
+                            361.4
+                        ]
+                    ],
+                    "text_description": "② ②"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.9,
+                            332,
+                            91.5,
+                            404.8
+                        ]
+                    ],
+                    "text_description": "① ① ④ ④"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            336.3,
+                            375.2,
+                            396.3,
+                            404.8
+                        ]
+                    ],
+                    "text_description": "⑤ ⑤"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            641.7,
+                            332,
+                            700.5,
+                            361.6
+                        ]
+                    ],
+                    "text_description": "③ ③"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.3,
+                            469.6,
+                            956.3,
+                            496
+                        ]
+                    ],
+                    "text_description": "선분 ④는 각기둥의 모서리가 아니지만 밑면에 수직이므로 각기둥의 높이가 될 수"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.7,
+                            505.6,
+                            771.5,
+                            531.2
+                        ]
+                    ],
+                    "text_description": "있습니다. 선분 ②는 밑면에 수직이 아니므로 높이가 될 수 없습니다."
+                }
+            ]
+        }
+    ]
+}

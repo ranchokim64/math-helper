@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "28dd90b5-b4bd-4a19-beb3-4b6dc33ecd71",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010966",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.2,
+                            8.24,
+                            664.4,
+                            33.04
+                        ]
+                    ],
+                    "text_description": "쌍기나무 7 개로 쌍은 모양입니다. 알맞은 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133.6,
+                            250.7,
+                            645.2,
+                            308.3
+                        ]
+                    ],
+                    "text_description": "1층 모양은 (가, 나, 다), 2층 모양은 (가, 나, 다), 3층 모양은 (가, 나, 다)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147,
+                            56.44,
+                            646,
+                            211.04
+                        ]
+                    ],
+                    "text_description": "이미지는 여러 개의 나무 블록이 쌓인 모양을 보여주고 있으며, 왼쪽에은 1층에 4개, 2층에 2개, 3층에 1개로 이루어진 나무 블럭이 있고, 오른쪽에는 각각 \"가\", \"나\", \"다\"라고 표시된 세 가지 도형이 있습니다. 각 도형 아래에는 화살표가 있어 해당 도형의 앞쪽을 나타내고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.2,
+                            324.3,
+                            130.4,
+                            347.9
+                        ]
+                    ],
+                    "text_description": "가, 다, 나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46,
+                            357.9,
+                            365.4,
+                            375.1
+                        ]
+                    ],
+                    "text_description": "층이 올라갈수록 쌓기나무의 개수가 같거나 적어집니다."
+                }
+            ]
+        }
+    ]
+}

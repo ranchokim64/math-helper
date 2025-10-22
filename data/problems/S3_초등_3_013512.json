@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e3f99cf9-06a9-4c50-897f-bac83322f951",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013512",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.61,
+                            18.86,
+                            586.12,
+                            90.96
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수가 가장 큰 나눗셈식은 어느 것 입니까?（）"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.41,
+                            112.74,
+                            265.79,
+                            156.34
+                        ]
+                    ],
+                    "text_description": "① $54 \\div 6=$ □"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            344.54,
+                            109.22,
+                            530.86,
+                            205.13
+                        ]
+                    ],
+                    "text_description": "② $18 \\div \\square=9$ ④ $30 \\div \\square=5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.76,
+                            161.93,
+                            266.44,
+                            255.58999999999997
+                        ]
+                    ],
+                    "text_description": "③ $24 \\div 4=$ $\\square$ ⑤ $49 \\div 7=$ $\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.67,
+                            268.55,
+                            191.37,
+                            430.73
+                        ]
+                    ],
+                    "text_description": "① $54 \\div 6=9$ ② $18 \\div②=9$ ③ $24 \\div 4=6$ ④ $30 \\div⑥=5$ ⑤ $49 \\div 7=7$"
+                }
+            ]
+        }
+    ]
+}

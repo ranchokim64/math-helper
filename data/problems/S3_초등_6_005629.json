@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1dab12e3-b3ae-45ec-a202-475f0ed257a0",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005629",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.94,
+                            10.81,
+                            587.08,
+                            38.57
+                        ]
+                    ],
+                    "text_description": "다음 각기둥에서 면 ㄱ ㄴ ㄷ에 수직인 면의 넓이의 합은 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.51,
+                            217.1,
+                            392.56,
+                            238.61
+                        ]
+                    ],
+                    "text_description": "<div>면 ㄱㄴ ㄷㅇㅔ 수직인 면의 넓이의 합은 몇 <span class=\"math-inline \"> $\\mathrm{cm}^{2}$</span> 인가요?</div>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            256.86,
+                            46.05,
+                            437.34,
+                            202.73
+                        ]
+                    ],
+                    "text_description": "ㄱ에서 ㄴ까지의 거리가 7cm이고, ㄴ에서 ㄷ까지의 거리가 8cm, ㄱ에서 ㄷ까지의 거리가 10cm이고, ㄷ에서ㅂ까지의 거리가 13cm인 삼각기둥의 겨냥도이다. 각 꼭지점에는 ㄱ부터 ㅂ까지 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            512.7,
+                            247.35,
+                            588.07,
+                            274.12
+                        ]
+                    ],
+                    "text_description": "$325 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.85,
+                            244.4,
+                            183.47,
+                            263.18
+                        ]
+                    ],
+                    "text_description": "$91+104+130=325\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

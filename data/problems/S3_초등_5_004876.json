@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "37bff9a5-9d2c-4ce3-9c0d-a49a2a6b65a7",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004876",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.4,
+                            9.77,
+                            680.8,
+                            58.57
+                        ]
+                    ],
+                    "text_description": "준수의 단원 평가 점수를 나타낸 표입니다. 5단원까지의 점수의 평균이 86점이 되려면 5단원은 몇 점을 받아야 하는지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.8,
+                            187,
+                            300.8,
+                            214.2
+                        ]
+                    ],
+                    "text_description": "5단원은 몇 점을 받아야 하나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            128.4,
+                            67.8,
+                            561.6,
+                            167
+                        ]
+                    ],
+                    "text_description": "단원 평가 점수 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 단원 & 1 & 2 & 3 & 4 & 5 \\\\ \\hline점수(점) & 92 & 84 & 76 & 88 & \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            648.8,
+                            235.8,
+                            702.4,
+                            259.8
+                        ]
+                    ],
+                    "text_description": "90점"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.8,
+                            219.8,
+                            516,
+                            243
+                        ]
+                    ],
+                    "text_description": "5단원은 $430-(92+84+76+88)=430-340=90$(점)을 받아야 합니다."
+                }
+            ]
+        }
+    ]
+}

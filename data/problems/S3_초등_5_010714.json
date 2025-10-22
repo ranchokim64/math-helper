@@ -1,0 +1,132 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "314c2e64-16d0-4149-8968-997a8cf1bf7a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010714",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            3.91,
+                            789,
+                            64.91
+                        ]
+                    ],
+                    "text_description": "56. 왼쪽 수가 오른쪽 수의 배수일 때 -가 될 수 있는 자연수는 모두 몇 개인 가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            313.0,
+                            70.0,
+                            510.0,
+                            116.0
+                        ]
+                    ],
+                    "text_description": "<div class=\"table_tabular \" style=\"text-align: center\"> <div class=\"inline-tabular\"><table id=\"tabular\"> <tbody> <tr style=\"border-top: none !important; border-bottom: none !important;\"> <td style=\"text-align: left; border-left-style: solid !important; border-left-width: 1px !important; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">56</td> <td style=\"text-align: left; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">$\\cdot$</td> </tr> </tbody> </table> </div></div>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            240.5,
+                            792,
+                            323.5
+                        ]
+                    ],
+                    "text_description": "56이 $\\cdot$의 배수이므로 $\\cdot$는 56의 약수입니다. 56의 약수들 구해 보면 $1, 2, 4, 7, 8, 14, 28, 56$ 이므로 $\\cdot$가 될 수 있는 자연수는 모두 8 개입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            276.0,
+                            161.5,
+                            331.0,
+                            187.5
+                        ]
+                    ],
+                    "text_description": "⑤ 8 개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.0,
+                            124.5,
+                            585.0,
+                            151.5
+                        ]
+                    ],
+                    "text_description": "① 4 개 ② 5 개 ③ 6 개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.0,
+                            159.5,
+                            77.0,
+                            185.5
+                        ]
+                    ],
+                    "text_description": "④ 7 개"
+                }
+            ]
+        }
+    ]
+}

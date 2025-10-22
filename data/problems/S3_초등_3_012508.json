@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "acfb379c-2113-45eb-822f-1f6f3e9fcd99",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012508",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-11] 실생활 문제 상황을 통하여 무게의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-23] 실생활 문제 상황과 연결하여 무게의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48,
+                            2.44,
+                            225,
+                            26.44
+                        ]
+                    ],
+                    "text_description": "다음을 계산하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179,
+                            42.44,
+                            361,
+                            102.44
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}20 \\mathrm{~kg} 400 \\mathrm{~g} \\\\ -\\quad 9 \\mathrm{~kg} \\mathrm{850g} \\\\ \\hline\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            351,
+                            123,
+                            441,
+                            146
+                        ]
+                    ],
+                    "text_description": "$10kg$ $550g$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            155,
+                            420,
+                            196
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 20 \\mathrm{~kg}\\ 400 \\mathrm{~g}-9 \\mathrm{~kg}\\ \\mathrm{850g} & =19 \\mathrm{~kg}1400 \\mathrm{~g}-9 \\mathrm{~kg} 850 \\mathrm{~g} \\\\ & =10 \\mathrm{~kg} \\mathrm{550g}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

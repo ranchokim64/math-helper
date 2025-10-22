@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "17954105-17f2-4998-b167-b2dbc8a61066",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002907",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.8,
+                            2.84,
+                            607.8,
+                            34.04
+                        ]
+                    ],
+                    "text_description": "계산 결과가 더 큰 곱셈을 들고 있는 친구는 누구인지 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            177.4,
+                            53.24,
+                            585.4,
+                            226.84
+                        ]
+                    ],
+                    "text_description": "시우와 예지가 팻말을 들고 있는 그림이다. 시우: $5 \\times 1. 92$ 예지: $8 \\times 1. 52$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99,
+                            304.1,
+                            153.4,
+                            337.7
+                        ]
+                    ],
+                    "text_description": "예지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.6,
+                            238.5,
+                            783.8,
+                            293.7
+                        ]
+                    ],
+                    "text_description": "$5 \\times 1. 92=9. 6, 8 \\times 1. 52=12. 16$이므로 계산 결과가 더 큰 곱셈을 들고 있는 친구는 예지입니다."
+                }
+            ]
+        }
+    ]
+}

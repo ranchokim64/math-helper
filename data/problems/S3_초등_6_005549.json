@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cb44a39d-81bb-4b2e-806d-bb644b469c8a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005549",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.9,
+                            9.57,
+                            520.5,
+                            111.97
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{9} \\div 3$의 계산을 바르게 한 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.34,
+                            126.49,
+                            520.5,
+                            293.73
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{5}{9} \\div 3=\\frac{5}{9 \\div 3}=\\frac{5}{3}=1 \\frac{2}{3}$ ㉡ $\\frac{5}{9} \\div 3=\\frac{15}{27} \\div 3=\\frac{15 \\div 3}{27}=\\frac{5}{27}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            377.14,
+                            317.78,
+                            402.74,
+                            342.74
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.66,
+                            356.82,
+                            521.14,
+                            435.54
+                        ]
+                    ],
+                    "text_description": "(분수) $\\div$ (자연수)를 계산할 때 분자가 자연수의 배수가 아닐 때에는 크기가 같은 분수 중에서 분자가 자연수의 배수인 분수로 바꾸어 계산합니다."
+                }
+            ]
+        }
+    ]
+}

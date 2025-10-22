@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5ec94720-5cf7-43e6-a3e8-42a2ac4c8d8c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010770",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.06,
+                            6.9,
+                            607.9,
+                            30.78
+                        ]
+                    ],
+                    "text_description": "기약분수로 바르게 나타낸 것을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            199.95,
+                            58.72,
+                            702.95,
+                            112.72
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l|l} \\frac{12}{16}=\\frac{12 \\div 2}{16 \\div 2}=\\frac{6}{8} & \\frac{14}{28}=\\frac{14 \\div 14}{28 \\div 14}=\\frac{1}{2} \\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.95,
+                            142.72,
+                            238.95,
+                            193.72
+                        ]
+                    ],
+                    "text_description": "$\\frac{14}{28}=\\frac{14 \\div 14}{28 \\div 14}=\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.82,
+                            212.92,
+                            673.18,
+                            263.48
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{8}$은 분모와 분자의 공약수가 1, 2 이므로 기약분수가 아닙니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5fe84ab6-ca5a-460e-b68e-78ed60c6a89d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005416",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-09] 원뿔과 구를 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            9.9,
+                            467.5,
+                            43.9
+                        ]
+                    ],
+                    "text_description": "원뿔에서 모선의 길이와 높이의 차를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138.5,
+                            50.9,
+                            330.5,
+                            217.9
+                        ]
+                    ],
+                    "text_description": "밑변이 지름 20cm인 정원형이고, 모선은 26cm이고, 높이는 24cm인 원뿔 입체도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            320.5,
+                            232.9,
+                            379.5,
+                            259.9
+                        ]
+                    ],
+                    "text_description": "2cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            268.9,
+                            383.5,
+                            321.9
+                        ]
+                    ],
+                    "text_description": "원뿔의 모선은 26cm이고 높이는 24cm이므로 차는 26-24=2 $(\\mathrm{cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

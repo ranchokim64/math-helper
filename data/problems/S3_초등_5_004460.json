@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "97533d16-6147-46b9-92f6-27fb76c0dfac",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004460",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.85,
+                            12.87,
+                            371.34,
+                            37.4
+                        ]
+                    ],
+                    "text_description": "다각형의 넓이는 몇 $cm^2$인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176.56,
+                            48.95,
+                            311.79,
+                            190.12
+                        ]
+                    ],
+                    "text_description": "다각형을 점선으로 삼각형과 사다리꼴 형태로 그은 뒤 길이를 나타내었다$. $삼각형의 높이는 $5cm$밑변 $12cm$이고 마름모의 아랫변은 삼각형의 밑변과 같다 윗변은 $8cm$높이는 $6cm$이다$. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307.08,
+                            212.25,
+                            369.9,
+                            231.34
+                        ]
+                    ],
+                    "text_description": "$90 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.77,
+                            242.72,
+                            366.85,
+                            302.6
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { (다각형의 넓이) } & =(\\text { 삼각형의 넓이) }+(\\text { (사다리꼴의 넓이) } \\\\ & =(12 \\times 5 \\div 2)+(12+8) \\times 6 \\div 2 \\\\ & =30+60=90\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

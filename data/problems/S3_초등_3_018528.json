@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "377ae71d-4013-4c16-9499-d93dadd0e4ff",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018528",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.19,
+                            4.63,
+                            655.01,
+                            48.3
+                        ]
+                    ],
+                    "text_description": "과일이 $36$개 있습니다. 한 사람에게 $4$개씩 나누어 주려고 합니다. 모두 몇 명에게 나누어 줄 수 있을 까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.9,
+                            114.67,
+                            58.43,
+                            131.79
+                        ]
+                    ],
+                    "text_description": "③ $9$명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.19,
+                            64.71,
+                            60.57,
+                            106.1
+                        ]
+                    ],
+                    "text_description": "① $8$명 ② $7$명"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.61,
+                            137.95,
+                            65.57,
+                            155.79
+                        ]
+                    ],
+                    "text_description": "④ $10$명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.62,
+                            194.33,
+                            433.08,
+                            214.31
+                        ]
+                    ],
+                    "text_description": "따라서 $36$개의 과일을 $4$개씩 나누면 $9$명에게 나눠줄 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

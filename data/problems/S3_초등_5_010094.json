@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2af5ddee-a34f-4a47-8576-31d5462483a6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010094",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.88,
+                            3.36,
+                            667,
+                            53.45
+                        ]
+                    ],
+                    "text_description": "회전판 돌리기를하고 있습니다. 화살이 주황색에 멈출 가능성이 가장 낮은 회전판을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            157.79,
+                            63.6,
+                            526.8,
+                            145.74
+                        ]
+                    ],
+                    "text_description": "가는 원형 회전판 전체가 파란색이다. 나는 삼각형 회전판인데 6칸으로 나누어져 있고 3칸 주황, 3칸은 하늘색 이다. 다는 전체가 주황색으로 칠해진 삼각형 모양의 회전판 이다. "
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.79,
+                            148.6,
+                            62.8,
+                            169.74
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.14,
+                            181.48,
+                            667.78,
+                            320.79
+                        ]
+                    ],
+                    "text_description": "가: 전체가 하늘색 $\\Rightarrow$ 말 불가능하다 수 0 나: 전체 6 칸 중의 3 칸 $\\Rightarrow$ 말 반반이다 $\\quad$ 수 $\\frac{1}{2}\\left(=\\frac{3}{6}\\right)$ 다: 전체가 주황색 $\\Rightarrow$ 말 확실하다 수 1 따라서 $0<\\frac{1}{2}<1$ 이므로 화살이 주황색에 멈출 가능성이 가장 낮은 회전판은 가입니다."
+                }
+            ]
+        }
+    ]
+}

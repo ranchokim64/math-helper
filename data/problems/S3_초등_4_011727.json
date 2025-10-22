@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "46727320-43f7-46b0-ac55-c37f89683216",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011727",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.6,
+                            10.6,
+                            359.35,
+                            89.01
+                        ]
+                    ],
+                    "text_description": "수정이네 교실의 온도를 그래프로 나타낸 것 입니다. 온도의 변화가 가장 큰 때는 언제인지 알아보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            361.51,
+                            394.64,
+                            420.32
+                        ]
+                    ],
+                    "text_description": "2-1 위의 꺾은선그래프에서 온도가 가장 낮은 때와 가장 높은 때는 몇 시이며 몇 °C 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.38,
+                            96.85,
+                            335.83,
+                            348.76
+                        ]
+                    ],
+                    "text_description": "교실의 온도의 꺾은선 그래프이다. 가로는 시각(시) 세로는 온도(°C)이다. 10시에서 1시까지 증가하다가 3시까지 감소하고있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.83,
+                            432.08,
+                            392.72,
+                            482.97
+                        ]
+                    ],
+                    "text_description": "가장 낮은 때 (오전 10 시, 12°C) 가장 높은 때 (오후 1시, 19°C)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.77,
+                            487.91,
+                            400.52,
+                            526.18
+                        ]
+                    ],
+                    "text_description": "점이 가장 낮은 오전 10 시가 $12^{\\circ} \\mathrm{C}$로 가장 낮고 점이 가장 높은 오후 ।시가 $19^{\\circ} \\mathrm{C}$로 가장 높습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "22d77368-3592-4aaf-8177-52c1ab5be7ed",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010277",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.51,
+                            3.2,
+                            664.52,
+                            33.96
+                        ]
+                    ],
+                    "text_description": "다음 나눗셈 중 몫이 가장 큰 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.88,
+                            51.37,
+                            429.99,
+                            113.73
+                        ]
+                    ],
+                    "text_description": "② $\\frac{3}{4} \\div 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.1,
+                            51.95,
+                            141.64,
+                            188.32
+                        ]
+                    ],
+                    "text_description": "① $\\frac{7}{12} \\div 5$ ④ $\\frac{4}{15} \\div 4$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.11,
+                            127.76,
+                            443.45,
+                            188.32
+                        ]
+                    ],
+                    "text_description": "⑤ $\\frac{3}{10} \\div 6$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            633.96,
+                            50.91,
+                            731.81,
+                            111.38
+                        ]
+                    ],
+                    "text_description": "③ $\\frac{4}{5} \\div 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.03,
+                            281.75,
+                            798.13,
+                            642.96
+                        ]
+                    ],
+                    "text_description": "① $\\frac{7}{12} \\div 5=\\frac{7}{12} \\times \\frac{1}{5}=\\frac{7}{60}$ ② $\\frac{3}{4} \\div 5=\\frac{3}{4} \\times \\frac{1}{5}=\\frac{3}{20}$ ③ $\\frac{4}{5} \\div 6=\\frac{4}{5} \\times \\frac{1}{6}=\\frac{4}{30}=\\frac{2}{15}$ ④ $\\frac{4}{15} \\div 4=\\frac{4 \\div 4}{15}=\\frac{1}{15}$ ⑤ $\\frac{3}{10} \\div 6=\\frac{3}{10} \\times \\frac{1}{6}=\\frac{3}{60}=\\frac{1}{20}$이 분수들을 공통분모 60으로 통분하여 크기를 비교해 봅니다. ② $\\frac{3}{20}=\\frac{9}{60}$ ③ $\\frac{2}{15}=\\frac{8}{60}$ ④ $\\frac{1}{15}=\\frac{4}{60}$ 따라서 몫이 가장 큰 것은 ②입니다."
+                }
+            ]
+        }
+    ]
+}

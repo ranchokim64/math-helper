@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ead0adb7-52e0-4d0a-a986-a9dfc6ff7912",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002821",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 그 관계를 비로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 두 양의 관계를 비로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.3,
+                            6.53,
+                            500.9,
+                            37.73
+                        ]
+                    ],
+                    "text_description": "탕수육 만드는 방법과 튀김옷 재료입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.1,
+                            435.33,
+                            588.1,
+                            464.93
+                        ]
+                    ],
+                    "text_description": "튀김옷을 만들 때 필요한 물의 양에 대한 식용유의 양의 비를 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.700000000000003,
+                            78.2,
+                            417.7,
+                            386.2
+                        ]
+                    ],
+                    "text_description": "탕수육 만드는 방법 ① 돼지고기 400g을 준비합니다. ② 그릇에 3가지 녹말가루와 물, 달걀, 식용유를 넣고 반죽이 걸쭉해질 때까지 섞어서 튀김옷을 만듭니다. ③ 돼지고기를 적당한 크기로 잘라 튀김옷을 묻힌 다음, 기름에 튀깁니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            439.3,
+                            80.6,
+                            688.9,
+                            397.4
+                        ]
+                    ],
+                    "text_description": "튀김옷 재료 \\begin{tabular}{|c|c|} \\hline 재료 & 양 \\\\ \\hline 고구마 녹말가루 & 140g \\\\ \\hline 감자 녹말가루 & 40g \\\\ \\hline 옥수수 녹말가루 & 20g \\\\ \\hline 물 & 80mL \\\\ \\hline 달걀 & 30mL \\\\ \\hline 식용유 & 50mL \\\\ \\hline \\end{tabular} (돼지고기 400g 기준)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.9,
+                            527.8,
+                            124.1,
+                            554.2
+                        ]
+                    ],
+                    "text_description": "$50: 80$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.7,
+                            472.6,
+                            668.9,
+                            523
+                        ]
+                    ],
+                    "text_description": "물의 양에 대한 식용유의 양의 비는 물의 양을 기준으로 식용유의 양을 비교한 것이므로 50 : 80입니다."
+                }
+            ]
+        }
+    ]
+}

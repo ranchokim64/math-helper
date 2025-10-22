@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9bd5fd09-fdb5-469a-9af7-c507a8e41cd1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011895",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.95,
+                            13.29,
+                            547.11,
+                            61.49
+                        ]
+                    ],
+                    "text_description": "집 주변에 한 변이 2m 인 정팔각형 모양의 울타리를 치려고 합니 다. 울타리는 모두 몇 m 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.15,
+                            76.21,
+                            342.31,
+                            265.01
+                        ]
+                    ],
+                    "text_description": "집 주변에 한 변이 2m인 정팔각형 모양의 울타리가 쳐져있는 이미지가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            449.83,
+                            245.17,
+                            488.23,
+                            263.73
+                        ]
+                    ],
+                    "text_description": "16m"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.51,
+                            272.44,
+                            513.83,
+                            289.72
+                        ]
+                    ],
+                    "text_description": "정팔각형의 변의 길이는 모두 2m로 같으므로 울타리의 길이는 $2 \\times 8=16(\\mathrm{~m})$)입니다."
+                }
+            ]
+        }
+    ]
+}

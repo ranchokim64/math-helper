@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fced059f-83a3-446a-bc3d-0e9060f1eb06",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004743",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.02,
+                            157.14,
+                            621.26,
+                            239.99
+                        ]
+                    ],
+                    "text_description": "$㉠ ◆㉡$=(㉠-㉡) $\\times$ ㉡이라고 할 때 다음 식을 계2산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            143.01,
+                            252.01,
+                            548.17,
+                            331.05
+                        ]
+                    ],
+                    "text_description": "28. 74 ◆16. 5"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            433.4,
+                            348.27,
+                            523.64,
+                            381.91
+                        ]
+                    ],
+                    "text_description": "$201. 96$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            101.99,
+                            7.53,
+                            617.98,
+                            146.17
+                        ]
+                    ],
+                    "text_description": "주어진 식의 ㉠ 대신에 28. 74, ㉡ 대신에 16. 5를 넣어 계산 합니다. \\[ \\begin{aligned} \\rightarrow 28. 74 ◆16. 5 & =(28. 74-16. 5) \\times 16. 5 \\\\ & =12. 24 \\times 16. 5 \\\\ & =201. 96 \\end{aligned} \\]"
+                }
+            ]
+        }
+    ]
+}

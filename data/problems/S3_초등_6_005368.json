@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9bd2cd28-c5fd-457c-ad37-e078c564d037",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005368",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.75,
+                            23.63,
+                            588.76,
+                            159.82
+                        ]
+                    ],
+                    "text_description": "원을 한없이 잘게 잘라 이어 붙여서 점점 직사각형에 가까워지는 도형을 만들었습니다. 물음에 답하세요. (원주율: 3. 14)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.73,
+                            378.57,
+                            331.71,
+                            417.35
+                        ]
+                    ],
+                    "text_description": "원의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.0,
+                            181.0,
+                            171.0,
+                            316.0
+                        ]
+                    ],
+                    "text_description": "반지름이 9cm인 원"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            250.0,
+                            205.0,
+                            535.0,
+                            342.0
+                        ]
+                    ],
+                    "text_description": "높이가 9cm이고 넓이가 원주의 $\\frac{1}{2}$인 정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.38,
+                            479.58,
+                            494.06,
+                            539.11
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이와 원의 넓이가 같으므로 원의 넓이는 $254. 34 \\mathrm{~cm}^{2}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            347.05,
+                            435.39,
+                            496.76,
+                            472.37
+                        ]
+                    ],
+                    "text_description": "$254. 34 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        }
+    ]
+}

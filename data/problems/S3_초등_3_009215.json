@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ef68f220-7c4b-4bab-bf2b-95b55db6072e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009215",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.35,
+                            3.04,
+                            630.48,
+                            31.11
+                        ]
+                    ],
+                    "text_description": "시각에 알맞게 초바늘을 바르게 그려 넣은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.01,
+                            48.88,
+                            456.32,
+                            73.65
+                        ]
+                    ],
+                    "text_description": "9시 13분 28초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            243.37,
+                            91.33,
+                            526.96,
+                            218.92
+                        ]
+                    ],
+                    "text_description": "두 개의 시계가 각기 다르게 시각을 가리키고 있다. 첫 번째 시계는 $9$시 $13$분 $38$초를 가리키고, 두 번째 시계는 $9$시 $13$분 $28$초를 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.27,
+                            225.39,
+                            146.1,
+                            324.52
+                        ]
+                    ],
+                    "text_description": "시계가 $9$시 $13$분 $28$초를 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.27,
+                            336.82,
+                            699.81,
+                            357.58
+                        ]
+                    ],
+                    "text_description": "$28$초이므로 초바늘이 $5$에서 작은 눈금 $3$칸 더 간 곳을 가리키도록 그립니다."
+                }
+            ]
+        }
+    ]
+}

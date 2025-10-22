@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "363d95ed-ea96-47c6-ae9c-9b4d05d7957d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005737",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            11.12,
+                            429.2,
+                            66.32
+                        ]
+                    ],
+                    "text_description": "어느 도서실의 책을 종류별로 조사하여 나타낸 띠그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.2,
+                            235.12,
+                            424.4,
+                            259.92
+                        ]
+                    ],
+                    "text_description": "도서실에 가장 많이 있는 책의 종류는 무엇인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            79.5,
+                            419,
+                            216.5
+                        ]
+                    ],
+                    "text_description": "이 이미지는 '종류별 책의 수'를 보여주는 막대형 비율 차트입니다. 상단에는 0%에서 100%까지의 백분율 눈금자가 있고, 아래에는 다섯 가지 책의 종류가 서로 다른 색상으로 구분되어 있습니다: 1. 동화책 (연노란색) 2. 위인전 (연분홍색) 3. 동시집 (연두색) 4. 과학책 (연보라색) 5. 기타 (연파란색) 1. 동화책: 30% 2. 위인전: 20% 3. 동시집: 15% 4. 과학책: 25% 5. 기타: 10%"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            292,
+                            276.5,
+                            349,
+                            303.5
+                        ]
+                    ],
+                    "text_description": "동화책"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26,
+                            313.52,
+                            350.8,
+                            335.12
+                        ]
+                    ],
+                    "text_description": "가장 많은 부분을 차지하고 있는 것은 동화책입니다."
+                }
+            ]
+        }
+    ]
+}

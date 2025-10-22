@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "050f4245-9063-43ae-8a09-c458dfab8423",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010421",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.4,
+                            7.94,
+                            764.8,
+                            35.14
+                        ]
+                    ],
+                    "text_description": "각기둥에서 서로 평행하고 합동인 두 면은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            417.28,
+                            56.96,
+                            574.08,
+                            257.92
+                        ]
+                    ],
+                    "text_description": "꼭지점이 ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ인 삼각기둥이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.76,
+                            279.76,
+                            331.08,
+                            307.2
+                        ]
+                    ],
+                    "text_description": "① 면 ㄱㄴㄷ과 면 ㄹㅁㅂ"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            498.28,
+                            277.12,
+                            848,
+                            350.08
+                        ]
+                    ],
+                    "text_description": "② 면 ㄱㄴㅁㄹ과 면 ㄱㄷㅂㄹ ④ 면 ㄱㄷㅂㄹ과 면 ㄴㄷㅂㅁ"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.84,
+                            320.64,
+                            385.28,
+                            392.6
+                        ]
+                    ],
+                    "text_description": "③ 면 ㄱㄴロ과 면 ㄴㄷㅂㅁ ⑤ 면 ㄱㄴㄷ과 면 ㄴㄷㅂㅁ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.2,
+                            465.6,
+                            958.4,
+                            571.2
+                        ]
+                    ],
+                    "text_description": "두 면을 연장해서 서로 만나지 않을 때 평행하다고하고, 두 도형을 겹쳐서 서로 완전히 포개어질 때 합동이라고 합니다. 따라서 서로 평행하고 합동인 두 면은 면 ㄱㄴㄷ과 면 ㄹㅁㅂ입니다."
+                }
+            ]
+        }
+    ]
+}

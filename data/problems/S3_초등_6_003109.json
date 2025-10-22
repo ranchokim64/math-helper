@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5c6f990e-ef9b-4c2d-88b7-c5454fb6ccd0",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003109",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            16.4,
+                            543.5,
+                            40.4
+                        ]
+                    ],
+                    "text_description": "주어진 모양과 똑같이 쌓는 데 필요한 쌓기나무의 개수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.54,
+                            82.28,
+                            140.7,
+                            206.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 총 $9$개 있고 $1$층에 $5$개 $2$층에 $3$개 $3$층에 $1$개 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            159.26,
+                            52.68,
+                            296.86,
+                            219.08
+                        ]
+                    ],
+                    "text_description": "위에서 본 모양입니다. 2x6 형태이고 위에서 왼쪽 한 칸 빼고 모두 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.5,
+                            341.32,
+                            122.78,
+                            365
+                        ]
+                    ],
+                    "text_description": "$9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            242.4,
+                            341.5,
+                            317.4
+                        ]
+                    ],
+                    "text_description": "1층에 $5$개, 2층에 $3$개, 3층에 $1$개이므로 주어진 모양과 똑같이 쌓는 데 쌓기나무 $9$개가 필요합니다."
+                }
+            ]
+        }
+    ]
+}

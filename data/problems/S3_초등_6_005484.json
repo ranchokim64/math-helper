@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2432f013-77b4-4d25-9cce-2aa628799167",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005484",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.7200000000000002,
+                            10.14,
+                            440.2,
+                            81.82
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요? (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.16,
+                            97.18,
+                            329.48,
+                            279.58
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 10cm 정사각형에 두 개의 반원이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.0,
+                            337.28,
+                            344.2,
+                            413.16
+                        ]
+                    ],
+                    "text_description": "$($ 색칠한 부분의 넓이 $)=10 \\times 10-5 \\times 5 \\times 3. 14=100-78.5=21.5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            278.0,
+                            305.0,
+                            332.0,
+                            332.0
+                        ]
+                    ],
+                    "text_description": "21.5"
+                }
+            ]
+        }
+    ]
+}

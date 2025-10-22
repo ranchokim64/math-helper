@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "146dfcce-0d63-4cd4-91e0-e5786f1f1089",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004631",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100,
+                            233.42,
+                            832,
+                            387.42
+                        ]
+                    ],
+                    "text_description": "다음 중 $1 \\frac{3}{5} \\times 2$와 같은 것을 모두 찾아 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            159.0,
+                            443.42,
+                            778.0,
+                            529.42
+                        ]
+                    ],
+                    "text_description": "㉠ $(1 \\times 2)+\\left(\\frac{3}{5} \\times 2\\right)$ ㉡ $2 \\frac{1}{5}$ ㉢ $\\frac{8}{5} \\times 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            599,
+                            595,
+                            690,
+                            636
+                        ]
+                    ],
+                    "text_description": "㉠, ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138.0,
+                            25.0,
+                            835.0,
+                            130.0
+                        ]
+                    ],
+                    "text_description": "(대분수) $\\times$ (자연수)는 대분수를 자연수와 진분수로 나누어 각각 자연수를 곱하거나, 대분수를 가분수로 바꾸어 계산할 수 있습니다. \\[ 1 \\frac{3}{5} \\times 2=\\frac{8}{5} \\times 2=\\frac{16}{5}=3 \\frac{1}{5} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            145.0,
+                            140.0,
+                            519.0,
+                            219.0
+                        ]
+                    ],
+                    "text_description": "\\[ 1 \\frac{3}{5} \\times 2=\\frac{8}{5} \\times 2=\\frac{16}{5}=3 \\frac{1}{5} \\]"
+                }
+            ]
+        }
+    ]
+}

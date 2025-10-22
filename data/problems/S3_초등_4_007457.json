@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5fed4642-cbc4-46a9-8e0f-ded8f011684e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007457",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.03,
+                            5.1,
+                            847.59,
+                            66.83
+                        ]
+                    ],
+                    "text_description": "삼각형의 일부가 지워졌습니다. 이 삼각형의 이름이 될 수 있는 것을 모 두 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147.98,
+                            217.11,
+                            730.56,
+                            249.14
+                        ]
+                    ],
+                    "text_description": "(이등변삼각형, 정삼각형, 예각삼각형, 둔각삼각형)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            345.52,
+                            85.21,
+                            541.88,
+                            208.54
+                        ]
+                    ],
+                    "text_description": "한 각이 사라진 삼각형이 있다 다른 각은 34, 112도 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.6,
+                            261.43,
+                            304.44,
+                            293.27
+                        ]
+                    ],
+                    "text_description": "이등변삼각형, 둔각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.49,
+                            303.41,
+                            844.59,
+                            430.9
+                        ]
+                    ],
+                    "text_description": "삼각형의 세 각의 크기의 합은 $180^{\\circ}$ 이므로 나머지 한 각의 크기는 $180^{\\circ}-34^{\\circ}-112^{\\circ}=34^{\\circ}$ 입니다. 삼각형의 세 각의 크기는 $34^{\\circ}, 112^{\\circ}, 34^{\\circ}$로 두 각의 크기가 같으므로 이등변삼각형이 고, 한 각이 모두 둔각이므로 둔각삼각형입니다."
+                }
+            ]
+        }
+    ]
+}

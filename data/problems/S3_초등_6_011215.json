@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "90e621f2-fc91-473f-a313-c40508ae2bfc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011215",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            4.640000000000001,
+                            834.3,
+                            32.64
+                        ]
+                    ],
+                    "text_description": "비례식에서 ㉠과 ㉡의 곱이 228일 때, $\\square$ 안에 알맞은 수는 얼마인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            334.3,
+                            41.24,
+                            566.3,
+                            110.84
+                        ]
+                    ],
+                    "text_description": "㉠ $: 6=\\square$ : ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            300.7,
+                            161.7,
+                            359.9,
+                            186.5
+                        ]
+                    ],
+                    "text_description": "⑤ 38"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.3,
+                            122.3,
+                            83.5,
+                            185.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { ① } 28 \\\\ \\text { ④ } 36\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303.1,
+                            120.9,
+                            356.1,
+                            149.3
+                        ]
+                    ],
+                    "text_description": "② 31"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            579.9,
+                            122.1,
+                            631.3,
+                            146.7
+                        ]
+                    ],
+                    "text_description": "③ 33"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.7,
+                            244.1,
+                            508.7,
+                            270.5
+                        ]
+                    ],
+                    "text_description": "비례식에서 전항의 곱과 후항의 곱은 같습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.1,
+                            276.7,
+                            642.1,
+                            335.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { ㉠ }: 6=\\square: \\text { ㉡ } \\text { 에서 } 6 \\times \\square=\\text { ㉠ } \\times \\text { ㉡이므로 } 6 \\times \\square=228 \\text { 입니다. } \\\\ \\text { 따라서 } \\square=228 \\div 6=38 \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

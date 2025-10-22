@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2556be5c-fa09-48a4-87db-a7b45c5ec196",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008626",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.23,
+                            4.9,
+                            613.23,
+                            37.9
+                        ]
+                    ],
+                    "text_description": "나머지가 $4$가 될 수 없는 식은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            641.23,
+                            49.9,
+                            720.23,
+                            84.9
+                        ]
+                    ],
+                    "text_description": "$\\square$ $\\div 4$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.23,
+                            50.9,
+                            424.23,
+                            127.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{ll}\\text { ① } \\square \\div 5 & \\text { ② } \\square \\div 9 \\\\ \\text { ④ } \\square \\div 8 & \\text { ⑤ } \\square \\div 6\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.23,
+                            187.51,
+                            720.23,
+                            218.51
+                        ]
+                    ],
+                    "text_description": "나누는 수가 $4$일 때 나머지가 될 수 있는 수는 $0, 1, 2, 3$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.23,
+                            224.51,
+                            615.23,
+                            254.51
+                        ]
+                    ],
+                    "text_description": "따라서 나머지가 $4$가 될 수 없는 식은 ③ $\\square \\div 4$ 입니다."
+                }
+            ]
+        }
+    ]
+}

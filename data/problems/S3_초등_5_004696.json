@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d18b8d46-813d-4a5d-8ad6-aae3d40dfe47",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004696",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.8600000000000001,
+                            2.51,
+                            469.06,
+                            111.95
+                        ]
+                    ],
+                    "text_description": "사각형 ㄱㄴㄷㄹ은 선분 ㅁㅂ을 대칭축으로 하는 선대칭도형입니다. 사각형 ㄱㄴㄷㄹ의 둘레는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104.7,
+                            127.75,
+                            363.58,
+                            315.67
+                        ]
+                    ],
+                    "text_description": "사각형 ㄱㄴㄷㄹ은 선분 ㅁㅂ을 대칭축으로 하는 선대칭도형. 각 변의 길이는 다음과 같습니다: 하나의 변은 12cm, 다른 변은 5cm, 그리고 또 다른 변은 6cm입니다. 도형의 중간에는 분홍색 선이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309.06,
+                            340.8,
+                            383.94,
+                            367.04
+                        ]
+                    ],
+                    "text_description": "46cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.14,
+                            376,
+                            476.74,
+                            424.64
+                        ]
+                    ],
+                    "text_description": "선대칭도형에서 대응변의 길이는 같으므로 $($ 선분 ㄴ ㅁ) $=5 \\mathrm{~cm}, ($ 선분 ㄴㄷ $)=12 \\mathrm{~cm}, ($ 선분 ㄹ ㅂ $)=6 \\mathrm{~cm}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.02,
+                            427.2,
+                            345.54,
+                            473.28
+                        ]
+                    ],
+                    "text_description": "따라서 사각형 ㄱㄴㄷㄹ의 둘레는 \\[ 5+5+12+6+6+12=46(\\mathrm{~cm}) \\text { 입니다. } \\]"
+                }
+            ]
+        }
+    ]
+}

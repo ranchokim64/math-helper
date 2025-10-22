@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "18c21aa3-3151-4819-a878-09deb3058a5e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004605",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.22,
+                            20.49,
+                            703.82,
+                            110.89
+                        ]
+                    ],
+                    "text_description": "다음 두 수를 버림하여 백의 자리까지 나타낸 수의 차를 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            278.22,
+                            156.92,
+                            514.82,
+                            187.52
+                        ]
+                    ],
+                    "text_description": "6230 6590"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            511.82,
+                            240.92,
+                            577.42,
+                            272.92
+                        ]
+                    ],
+                    "text_description": "$300$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.22,
+                            285.72,
+                            433.42,
+                            314.52
+                        ]
+                    ],
+                    "text_description": "버림하여 백의 자리까지 나타내면"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            207.82,
+                            319.32,
+                            551.82,
+                            351.32
+                        ]
+                    ],
+                    "text_description": "$6230 \\rightarrow 6200, 6590 \\rightarrow 6500$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123.02,
+                            352.92,
+                            599.82,
+                            380.92
+                        ]
+                    ],
+                    "text_description": "따라서 두 수의 차는 6500-6200=300입니다."
+                }
+            ]
+        }
+    ]
+}

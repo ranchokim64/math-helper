@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ed0185cc-f53d-45d3-8b47-c5629e37f13e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004579",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.02,
+                            18.49,
+                            701.82,
+                            160.09
+                        ]
+                    ],
+                    "text_description": "다음과 같은 직사각형 모양의 꽃밭이 있습니다. 이 꽃밭의 둘레는 몇 m인지 반올림하여 일의 자리까지 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            218.62,
+                            178.12,
+                            563.42,
+                            367.72
+                        ]
+                    ],
+                    "text_description": "가로 480cm, 세로 230cm인 직사각형 모양의 꽃밭 그림이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            509.82,
+                            397.32,
+                            580.22,
+                            428.52
+                        ]
+                    ],
+                    "text_description": "14m"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.02,
+                            444.52,
+                            701.02,
+                            538.92
+                        ]
+                    ],
+                    "text_description": "(꽃밭의 둘레) $=(480+230) \\times 2=1420(\\mathrm{~cm})$ $1420 \\mathrm{~cm}=14. 2 \\mathrm{~m}$이므로 $14. 2 \\mathrm{~m}$를 반올림하여 일의 자리까지 나타내면 14m입니다."
+                }
+            ]
+        }
+    ]
+}

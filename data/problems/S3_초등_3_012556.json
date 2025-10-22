@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "487336d6-e6a7-4310-bb9b-74698e01ab4c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012556",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.36,
+                            12.27,
+                            485.16,
+                            116.27
+                        ]
+                    ],
+                    "text_description": "그림으로 표현된 분수 중에서 수직선 위에 표시된 위치에 있는 분수는 어느 것인 지 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.76,
+                            144.27,
+                            479.76,
+                            216.27
+                        ]
+                    ],
+                    "text_description": "직선이 있습니다. 왼쪽에 0, 오른쪽에 1이 표기되어 있으며, 총 8칸으로 나뉘어 있습니다. 왼쪽부터 $\\frac{1}{8}$지점에 숫자가 표기되어 있고, $\\frac{3}{8}$ 지점에 빨간 점이 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.56,
+                            240.36,
+                            475.16,
+                            310.96
+                        ]
+                    ],
+                    "text_description": "㉠ 4등분 되어있는 사각형, 3칸이 칠해져 있다. ㉡ 3등분 되어있는 삼각형, 색이 전부 칠해져 있다. ㉢ 8등분 되어있는 원, 3칸이 칠해져 있다. ㉣ 6등분 되어있는 육각형, 3칸이 칠해져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            379.56,
+                            336.16,
+                            399.76,
+                            358.36
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.36,
+                            359.36,
+                            477.36,
+                            450.36
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{3}{4}$ ㉡ $\\frac{3}{3}$ ㉢ $\\frac{3}{8}$ ㉣ $\\frac{3}{6}$ 이고 수직선 위에 표시된 위 치는 $\\frac{3}{8}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

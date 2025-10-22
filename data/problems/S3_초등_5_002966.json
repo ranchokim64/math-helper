@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "abd4470b-940a-4f09-948b-86523906094e",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002966",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.9,
+                            0.84,
+                            403.3,
+                            25.64
+                        ]
+                    ],
+                    "text_description": "15와 약수와 배수의 관계인 수를 모두 찾아 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.9,
+                            62.44,
+                            557.7,
+                            100.04
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lllllllll}1 & 2 & 3 & 5 & 10 & 15 & 30 & 45 & 50\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.1,
+                            235.7,
+                            287.3,
+                            262.9
+                        ]
+                    ],
+                    "text_description": "$1, 3, 5, 15, 30, 45$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.1,
+                            186.9,
+                            643.3,
+                            214.1
+                        ]
+                    ],
+                    "text_description": "15와 약수와 배수의 관계인 수를 모두 찾으면 $1, 3, 5, 15, 30, 45$입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            672.5,
+                            159,
+                            730.5,
+                            185
+                        ]
+                    ],
+                    "text_description": "이므로"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.1,
+                            162.1,
+                            674.1,
+                            186.1
+                        ]
+                    ],
+                    "text_description": "$15=1 \\times 15, 15=3 \\times 5$ 이고 $15 \\times 1=15, 15 \\times 2=30, 15 \\times 3=45, \\ldots$ 이므로"
+                }
+            ]
+        }
+    ]
+}

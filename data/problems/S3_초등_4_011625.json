@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c30c07d0-e9f4-49c0-8fcb-618bd4abdf1b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011625",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            6.42,
+                            403.5,
+                            150.42
+                        ]
+                    ],
+                    "text_description": "혜림이와 건식이는 함께 물 $2L$를 가지고 등산을 갔습니다. 도중에 물을 마시고 산을 내려와 보니 물이 $\\frac{4}{7} \\mathrm{~L}$ 남았습니다. 마신 물의 양은 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.5,
+                            209.42,
+                            149.5,
+                            254.42
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{3}{7} L$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.5,
+                            155,
+                            228.5,
+                            199
+                        ]
+                    ],
+                    "text_description": "$2-\\frac{4}{7}=\\frac{14}{7}-\\frac{4}{7}=\\frac{10}{7}=1 \\frac{3}{7}(L)$"
+                }
+            ]
+        }
+    ]
+}

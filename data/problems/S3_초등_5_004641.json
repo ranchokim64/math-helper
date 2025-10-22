@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9b6511f8-a794-4b65-b31a-be97ca87eb45",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004641",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.28,
+                            23.7,
+                            689.63,
+                            77.84
+                        ]
+                    ],
+                    "text_description": "보기와 같은 방법으로 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.28,
+                            107.37,
+                            839.76,
+                            392.85
+                        ]
+                    ],
+                    "text_description": "보기 \\[ \\begin{aligned} 1 \\frac{3}{5} \\times 3 & =(1 \\times 3)+\\left(\\frac{3}{5} \\times 3\\right) \\\\ & =3+\\frac{9}{5}=3+1 \\frac{4}{5}=4 \\frac{4}{5} \\end{aligned} \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.42,
+                            411.41,
+                            171.18,
+                            502.46
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{5}{7} \\times 2=$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            334.43,
+                            578.76,
+                            394.31,
+                            664.07
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{3}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.39,
+                            668.17,
+                            738.85,
+                            744.46
+                        ]
+                    ],
+                    "text_description": "보기의 계산은 대분수를 자연수와 진분수로 나누어 각각 자연 수를 곱하여 계산한 것입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.02,
+                            505.75,
+                            400.06,
+                            662.43
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(1 \\times 2)+\\left(\\frac{5}{7} \\times 2\\right) \\\\ =2+\\frac{10}{7}=2+1 \\frac{3}{7}=3 \\frac{3}{7}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

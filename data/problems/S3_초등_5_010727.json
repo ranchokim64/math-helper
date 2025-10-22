@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "557d8062-7121-4f07-a751-d79e88e715f2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010727",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.4,
+                            2.82,
+                            792.2,
+                            124.42
+                        ]
+                    ],
+                    "text_description": "주아가 연산 카드와 수 카드를 각각 한 장씩 골라 대응 관계를 나타내고, 민수가 알아맞히기를하고 있습니다. 민수가 말한 수를 $\\bigcirc$, 주아가 답한 수를 $\\triangle$라고 할 때, 두 양 사이의 대응 관계를 기호를 사용하여 식으로 나타낸 것으로 옳은 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81,
+                            130.02,
+                            408.20000000000005,
+                            371.22
+                        ]
+                    ],
+                    "text_description": "주아: 내가 생각하는 대응 관계를 맞혀 봐."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            409,
+                            130.02,
+                            737,
+                            370.82
+                        ]
+                    ],
+                    "text_description": "민수: 14이면? 주아: 11 민수: 20이면? 주아: 17 민수: 5이면? 주아: 2"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.2,
+                            374.02,
+                            110.6,
+                            394.82
+                        ]
+                    ],
+                    "text_description": "① $\\bigcirc-3=\\triangle$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            406.6,
+                            375.62,
+                            494.6,
+                            416.42
+                        ]
+                    ],
+                    "text_description": "② $\\bigcirc+3=\\triangle$ ④ $\\bigcirc \\div 3=\\triangle$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            397.22,
+                            113,
+                            417.22
+                        ]
+                    ],
+                    "text_description": "③ $\\bigcirc \\times 3=\\triangle$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.8,
+                            463.62,
+                            665.8,
+                            490.02
+                        ]
+                    ],
+                    "text_description": "주아가 답한 수는 민수가 말한 수에서 3을 뺀 수입니다. $\\Rightarrow \\bigcirc-3=\\triangle$"
+                }
+            ]
+        }
+    ]
+}

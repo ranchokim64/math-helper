@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c8188c7c-2d1a-4a7b-b8c1-f7ccac6b37e6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007608",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            6.42,
+                            847.5,
+                            72.42
+                        ]
+                    ],
+                    "text_description": "직사각형 모양의 종이띠를 선을 따라 잘랐을 때 잘라 낸 도형 중 사다리 꼴을 모두 고른 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            170.5,
+                            75.42,
+                            709.5,
+                            189.42
+                        ]
+                    ],
+                    "text_description": "직사각형 안에 두 각이 같은 사각형, 사다리꼴, 두 각이 같은 사각형, 직사각형 순으로가, 나, 다, 라가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296.5,
+                            229,
+                            455.5,
+                            256
+                        ]
+                    ],
+                    "text_description": "⑤ 가, 나, 다, 라"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            195,
+                            150.5,
+                            255
+                        ]
+                    ],
+                    "text_description": "① 가, 나 ④ 가, 나, 다"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.5,
+                            191,
+                            654.5,
+                            221
+                        ]
+                    ],
+                    "text_description": "② 나, 다 ③ 다, 라"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            308,
+                            468.5,
+                            352
+                        ]
+                    ],
+                    "text_description": "종이띠가 직사각형이므로 위와 아래의 두 변은 서로 평행합니다. 따라서가, 나, 다, 라 모두 사다리꼴입니다."
+                }
+            ]
+        }
+    ]
+}

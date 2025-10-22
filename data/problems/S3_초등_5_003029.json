@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f86f4d46-428d-4940-9570-d290467b122d",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003029",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.28,
+                            11.73,
+                            391.28,
+                            44.73
+                        ]
+                    ],
+                    "text_description": "삼각형에서 $\\square$ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.28,
+                            67.27,
+                            691.28,
+                            298.27
+                        ]
+                    ],
+                    "text_description": "각각 넓이가 $84\\left(\\mathrm{~cm}^{2}\\right)$와 $55\\left(\\mathrm{~cm}^{2}\\right)$인 삼각형 두 개. 왼쪽 삼각형은 밑변, 오른쪽 삼각형은 높이가 $\\square$로 표기되어 있음."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.28,
+                            376.27,
+                            645.28,
+                            546.27
+                        ]
+                    ],
+                    "text_description": "높이 12cm, 길이 14cm인 예각 삼각형, 길이 11cm, 높이 10cm인 둔각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.28,
+                            308.27,
+                            701.28,
+                            360.27
+                        ]
+                    ],
+                    "text_description": "왼쪽 삼각형의 넓이는 $\\square \\times 12 \\div 2=84\\left(\\mathrm{~cm}^{2}\\right)$이므로 밑변의 길이는 $14cm$입니다. 오른쪽 삼각형의 넓이는 $11 \\times \\square \\div 2=55\\left(\\mathrm{~m}^{2}\\right)$이므로 높이는 $10m$입니다."
+                }
+            ]
+        }
+    ]
+}

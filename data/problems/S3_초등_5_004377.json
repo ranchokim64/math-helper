@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f7336df4-a7a4-4a79-8b04-d0e2fc823a73",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004377",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.2,
+                            4.43,
+                            425.2,
+                            27.63
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 자연수는 모두 몇 개인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.2,
+                            35.63,
+                            334,
+                            98.03
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{5}<\\frac{\\square}{30}<\\frac{7}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118,
+                            265.5,
+                            146,
+                            288.1
+                        ]
+                    ],
+                    "text_description": "2개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.8,
+                            112.5,
+                            336,
+                            251.5
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\frac{3}{5}=\\frac{3 \\times 6}{5 \\times 6}=\\frac{18}{30} \\cdot \\frac{7}{10}=\\frac{7 \\times 3}{10 \\times 3}=\\frac{21}{30} \\text { 공동분모도도. 하여 통분하면 } \\\\ \\frac{18}{30}<\\frac{\\square}{30}<\\frac{21}{30} \\text { 이므로 } 18<\\square<21 \\text { 입니다. } \\end{array} \\] \\[ \\text { 따라서 } \\square \\text { 안에 들어갈 수 있는 수는 } 19, 20 \\text { 으로 모두 2개입니다. } \\]"
+                }
+            ]
+        }
+    ]
+}

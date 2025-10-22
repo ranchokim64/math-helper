@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4f9e4f1c-e76b-4dfc-ad0b-26ec477c12dc",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002841",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.25,
+                            3.4,
+                            595,
+                            29.65
+                        ]
+                    ],
+                    "text_description": "소희네 마을의 농장별 딸기 생산량을 조사하여 나타낸 표입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.75,
+                            194.12,
+                            425,
+                            220.37
+                        ]
+                    ],
+                    "text_description": "농장별 딸기 생산량의 백분율을 구하여 표를 완성해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.25,
+                            36.37,
+                            626.25,
+                            176.87
+                        ]
+                    ],
+                    "text_description": "농장별 딸기 생산량 \\begin{tabular}{|c|c|c|c|c|c|c|} \\hline 농장 & 달콤 & 상큼 & 풀잎 & 으뜸 & 가온 & 합계 \\\\ \\hline 생산량 $(\\mathrm{kg})$ & 4900 & 4200 & 2800 & 1400 & 700 & 14000 \\\\ \\hline 백분율(\\%) & & & 20 & 10 & 5 & \\\\ \\hline \\end{tabular}농장달콤상큼풀잎으뜸가온합계생산량 $(\\mathrm{kg})$490042002800140070014000백분율(\\%)20105"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.25,
+                            284.12,
+                            767.25,
+                            456.87
+                        ]
+                    ],
+                    "text_description": "농장별 딸기 생산량 \\begin{tabular}{|c|c|c|c|c|c|c|} \\hline 농장 & 달콤 & 상큼 & 풀잎 & 으뜸 & 가온 & 합계 \\\\ \\hline 생산량 $(\\mathrm{kg})$ & 4900 & 4200 & 2800 & 1400 & 700 & 14000 \\\\ \\hline 백분율(\\%) & 35 & 30 & 20 & 10 & 5 & 100 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            221.62,
+                            623.75,
+                            277.87
+                        ]
+                    ],
+                    "text_description": "달콤: $\\frac{4900}{14000} \\times 100=35(\\%), \\quad$ 상큼: $\\frac{4200}{14000} \\times 100=30(\\%)$"
+                }
+            ]
+        }
+    ]
+}

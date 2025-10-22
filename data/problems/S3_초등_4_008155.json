@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "011c0394-c504-4b38-97c3-559c5cc81478",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008155",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.58,
+                            8.43,
+                            516.61,
+                            39.18
+                        ]
+                    ],
+                    "text_description": "나머지가 더 큰 나눗셈을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            238.82,
+                            44.95,
+                            726.14,
+                            110.31
+                        ]
+                    ],
+                    "text_description": "$732 \\div 82$ $\\quad$ $891 \\div 97$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.12,
+                            120.49,
+                            121.56,
+                            139.72
+                        ]
+                    ],
+                    "text_description": "$732 \\div 82$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.91,
+                            157.02,
+                            560.82,
+                            218.53
+                        ]
+                    ],
+                    "text_description": "$732 \\div 82=8 \\cdots 76, 891 \\div 97=9 \\cdots 18$ 따라서 나머지가 더 큰 나눗셈은 $732 \\div 82$ 입니다."
+                }
+            ]
+        }
+    ]
+}

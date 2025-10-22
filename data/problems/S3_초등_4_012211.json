@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c725a461-9caf-443f-9527-bef8b2784bf5",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012211",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            170,
+                            2.91,
+                            670,
+                            52.91
+                        ]
+                    ],
+                    "text_description": "그림을 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78,
+                            357.5,
+                            784,
+                            469.5
+                        ]
+                    ],
+                    "text_description": "10000원이 2장, 1000원이 3장이면 얼 마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65,
+                            79.91,
+                            762,
+                            326.91
+                        ]
+                    ],
+                    "text_description": "만원짜리 두 장과, 천원짜리 세 장, 십원짜리 네 개, 백원짜리 다섯개가 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            550,
+                            503.5,
+                            689,
+                            547.5
+                        ]
+                    ],
+                    "text_description": "23000원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119,
+                            560.5,
+                            711,
+                            628.5
+                        ]
+                    ],
+                    "text_description": "I0000이 2장 $\\rightarrow$ 20000원, IOOO이 3장 $\\rightarrow$ 3000원 따라서 20000+3000=23000(원)"
+                }
+            ]
+        }
+    ]
+}

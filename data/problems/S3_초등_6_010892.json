@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9a7d15bc-c71f-46bc-89c9-ffa7da209c8a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010892",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.52,
+                            13.93,
+                            658.34,
+                            42.31
+                        ]
+                    ],
+                    "text_description": "몫이 가장 큰 것부터 차례대로 기호를 쓴 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.67,
+                            47.04,
+                            772.82,
+                            127.47
+                        ]
+                    ],
+                    "text_description": "㉠ $5. 13 \\div 5. 4$ ㉡ $54. 57 \\div 32. 1$ ㉢ $43. 44 \\div 36. 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            571.29,
+                            130.87,
+                            697.13,
+                            163.98
+                        ]
+                    ],
+                    "text_description": "③ ㉡, ㉢, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.52,
+                            130.87,
+                            422.74,
+                            201.83
+                        ]
+                    ],
+                    "text_description": "① ㉠, ㉡, ㉢ ② ㉡, ㉠, ㉢ ④ ㉢, ㉠, ㉡ ⑤ ㉢, ㉡, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.59,
+                            257.65,
+                            759.58,
+                            315.37
+                        ]
+                    ],
+                    "text_description": "㉠ $5. 13 \\div 5. 4=0. 95$, ㉡ $54. 57 \\div 32. 1=1. 7$, ㉢ $43. 44 \\div 36. 2=1. 2$ $1. 7>1. 2>0. 95$ 이므로 몫이 큰 것부터 차례대로 기호들 쓰면 ㉡, ㉢, ㉠입니다."
+                }
+            ]
+        }
+    ]
+}

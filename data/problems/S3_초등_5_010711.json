@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3c1ab1e2-8339-4f9b-9734-9d6d405281c8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010711",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.5,
+                            7.41,
+                            790.5,
+                            65.41
+                        ]
+                    ],
+                    "text_description": "54. 두 수가 약수와 배수의 관계이면 $\\bigcirc$, 약수와 배수의 관계가 아니면 $\\times$를 선 택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            126,
+                            128.5,
+                            157
+                        ]
+                    ],
+                    "text_description": "$(\\bigcirc, \\times)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.0,
+                            74.0,
+                            160.0,
+                            122.0
+                        ]
+                    ],
+                    "text_description": "숫자 9와 54"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.5,
+                            173,
+                            494.5,
+                            193
+                        ]
+                    ],
+                    "text_description": "$9 \\times 6=54$ 이므로 9와 54는 약수와 배수의 관계입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            210.0,
+                            26.5,
+                            233.0
+                        ]
+                    ],
+                    "text_description": "O"
+                }
+            ]
+        }
+    ]
+}

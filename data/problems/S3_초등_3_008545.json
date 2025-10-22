@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bc0be6c3-f9b1-45e3-87dc-5471599b9999",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008545",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.99,
+                            9.51,
+                            606.99,
+                            42.01
+                        ]
+                    ],
+                    "text_description": "<보기>와 계산 결과가 같은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            437.0,
+                            115.0,
+                            529.0,
+                            146.0
+                        ]
+                    ],
+                    "text_description": "$789 \\times 2$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            368.0,
+                            212.0,
+                            596.0,
+                            242.0
+                        ]
+                    ],
+                    "text_description": "$412 \\times 4$ $526 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.24,
+                            282.75,
+                            143.24,
+                            311.5
+                        ]
+                    ],
+                    "text_description": "$526 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.74,
+                            329.0,
+                            219.49,
+                            427.75
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c} 789 \\times 2=1578 \\\\ 412 \\times 4=1648 \\\\ 526 \\times 3=1578\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

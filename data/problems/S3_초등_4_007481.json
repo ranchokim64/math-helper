@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "63a9f43d-ab45-4bda-bf62-48c19856875c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007481",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.2,
+                            4.34,
+                            528,
+                            26.54
+                        ]
+                    ],
+                    "text_description": "어떤 삼각형인지 알맞게 짝 지어진 것을 고르세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            338.8,
+                            40.94,
+                            448,
+                            220.14
+                        ]
+                    ],
+                    "text_description": "이미지에는 삼각형이 있습니다. - 삼각형이 있으며, 오른쪽의 각도는 80°로 표시되어 있습니다. - 두 선분의 길이는 각각 5cm로 나타나 있습니다. - 이 선분들이 이루는 도형은 이등변 삼각형의 형태를 가집니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            392,
+                            229.6,
+                            656.8,
+                            253.4
+                        ]
+                    ],
+                    "text_description": "② 이등변삼각형, 예각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.4,
+                            229.6,
+                            295.2,
+                            322.2
+                        ]
+                    ],
+                    "text_description": "① 이등변삼각형, 둔각삼각형 ③ 이등변삼각형, 직각삼각형 ⑤ 정삼각형, 예각삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            392,
+                            263.8,
+                            614.4,
+                            287.8
+                        ]
+                    ],
+                    "text_description": "④ 정삼각형, 둔각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.2,
+                            373.4,
+                            583.2,
+                            398.2
+                        ]
+                    ],
+                    "text_description": "두 변의 길이가 같은 삼각형이므로 이등변삼각형입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.6,
+                            407.6,
+                            752,
+                            527
+                        ]
+                    ],
+                    "text_description": "$180^{\\circ}-80^{\\circ}=100^{\\circ}$ 이므로 주어진 이등변삼각형의 각은 각각 $50^{\\circ}, 50^{\\circ}, 80^{\\circ}$ 입니 다. 따라서 주어진 이등변삼각형은 세 각의 크기가 $50^{\\circ}, 50^{\\circ}, 80^{\\circ}$로 모두 예각인 예각삼각형입니다."
+                }
+            ]
+        }
+    ]
+}

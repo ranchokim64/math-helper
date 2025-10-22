@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1cc6caf8-6810-4b00-9db2-2bb3d3bdcef9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009822",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.91,
+                            6.24,
+                            657.57,
+                            32.37
+                        ]
+                    ],
+                    "text_description": "$0. 65 \\times 0. 47$의 값을 어림하여 구한 다음 알맞은 답을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            163.38,
+                            36.37,
+                            573.45,
+                            94.14
+                        ]
+                    ],
+                    "text_description": "핑크색 상자에 다음과 같은 내용이 들어 있다.㉠ $0. 3055$ ㉡ $3. 055$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.29,
+                            85.1,
+                            111.11,
+                            111.23
+                        ]
+                    ],
+                    "text_description": "㉠ $0. 3055$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.4,
+                            113.19,
+                            734.39,
+                            159.54
+                        ]
+                    ],
+                    "text_description": "$0. 65 \\times 0. 47$을 $0. 65$의 $0. 5$로 어림하면 $0. 6$의 반은 $0. 3$ 이므로 답은 $0. 3$에 가까운 $0. 3055$ 입니다."
+                }
+            ]
+        }
+    ]
+}

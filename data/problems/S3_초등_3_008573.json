@@ -1,0 +1,167 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "367f5d02-6810-4622-9d1c-d186bfd4e410",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008573",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.75,
+                            0.25,
+                            726.5,
+                            39
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 차례대로 나타낸 것을 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            291.86,
+                            64.76,
+                            605.46,
+                            140.28
+                        ]
+                    ],
+                    "text_description": "㉠ $42 \\times 83$ ㉡ $58 \\times 55$ ㉢ $67 \\times 54$ ㉣ $91 \\times 37$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.25,
+                            172.25,
+                            509,
+                            251
+                        ]
+                    ],
+                    "text_description": "① ㉠, ㉢, ㉡, ㉣ ② ㉡, ㉠, ㉢, ㉣ ④ ㉢, ㉠, ㉡, ㉣ ⑤ ㉣, ㉢, ㉡, ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.22,
+                            312.88,
+                            855.06,
+                            342.52
+                        ]
+                    ],
+                    "text_description": "㉠ $42 \\times 83=3486$, ㉡ $58 \\times 55=3190$, ㉢ $67 \\times 54=3618$, ㉣ $91 \\times 37=3367$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.18,
+                            350.84,
+                            102.42,
+                            377.08
+                        ]
+                    ],
+                    "text_description": "따라서"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            363.54,
+                            349.48,
+                            845.54,
+                            376.44
+                        ]
+                    ],
+                    "text_description": "이므로 곱이 큰 것부터 차례대로 기호를 쓰면"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.26,
+                            388.48,
+                            248.98,
+                            412.28
+                        ]
+                    ],
+                    "text_description": "㉢. ㉠, ㉣. ㉡입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            639.0,
+                            175.0,
+                            807.0,
+                            207.0
+                        ]
+                    ],
+                    "text_description": "㉢, ㉠, ㉣, ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.0,
+                            349.0,
+                            361.0,
+                            377.0
+                        ]
+                    ],
+                    "text_description": "$3618>3486>3367>3190$"
+                }
+            ]
+        }
+    ]
+}

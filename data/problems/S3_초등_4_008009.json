@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "33a42893-3ed4-44e9-9bf8-8cfdecbc05ee",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008009",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            6.42,
+                            575,
+                            37.42
+                        ]
+                    ],
+                    "text_description": "가장 많이 펼쳐진 부채를 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162,
+                            46.42,
+                            794,
+                            187.42
+                        ]
+                    ],
+                    "text_description": "부채가 $3$개 있습니다. 각기 다른 형태로 펼쳐져 있습니다. 왼쪽은 $80$도 정도, 중앙은 $120$도, 오른쪽은 $50$도 정도 펼쳐져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            199,
+                            209,
+                            299
+                        ]
+                    ],
+                    "text_description": "$120$도 정도 펼쳐져있는 부채가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            310,
+                            598,
+                            336
+                        ]
+                    ],
+                    "text_description": "벌어진 정도가 가장 큰 부채는 두 번째 부채입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4b36b788-293d-434f-ac36-62fd3f7fde62",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002870",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.77,
+                            7.77,
+                            696.77,
+                            68.77
+                        ]
+                    ],
+                    "text_description": "다음은 버림하여 백의 자리까지 나타내면 3200이 되는 수의 범위를 나타낸 것입니다. ㉠과 ㉡에 알맞은 자연수를 각각 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            213.47,
+                            85.89,
+                            492.51,
+                            160.65
+                        ]
+                    ],
+                    "text_description": "㉠이상 ㉡ 미만인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.77,
+                            242.77,
+                            542.77,
+                            282.77
+                        ]
+                    ],
+                    "text_description": "㉠ ($3200 \\quad$), ㉡ $(3300 \\quad)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.77,
+                            209.77,
+                            778.77,
+                            239.77
+                        ]
+                    ],
+                    "text_description": "버림하여 백의 자리까지 나타내면 3200이 되는 수는 3200 이상 3300 미만인 수입니다."
+                }
+            ]
+        }
+    ]
+}

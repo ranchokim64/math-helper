@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1a9d8726-05cb-4950-825e-9b97c7f5d1b9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005123",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            10.42,
+                            464,
+                            55.42
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            148,
+                            73.42,
+                            692,
+                            210.42
+                        ]
+                    ],
+                    "text_description": "$\\square$ $\\times \\frac{11}{14}=2 \\frac{2}{7} \\div \\frac{8}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            542,
+                            86,
+                            617
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{3}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0,
+                            216,
+                            617,
+                            541
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} 2 \\frac{2}{7} \\div \\frac{8}{9}=\\frac{16}{7} \\div \\frac{8}{9}=\\frac{16}{7} \\times \\frac{9}{8}=\\frac{18}{7}=2 \\frac{4}{7} \\\\ \\square \\times \\frac{11}{14}=2 \\frac{4}{7} \\\\ \\square=2 \\frac{4}{7} \\div \\frac{11}{14}=\\frac{18}{7} \\div \\frac{11}{14}=\\frac{18}{7} \\times \\frac{14}{11}=\\frac{36}{11}=3 \\frac{3}{11} \\end{array} \\] 따라서 $\\square$ 안에 알맞은 수는 $3 \\frac{3}{11}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

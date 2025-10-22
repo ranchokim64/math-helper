@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ffe2e23b-3e37-422b-86e6-03e72ea78cf6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009231",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.34,
+                            7.44,
+                            258.04,
+                            25.87
+                        ]
+                    ],
+                    "text_description": "2분과 같은 시간을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            225.27,
+                            44.58,
+                            336.88,
+                            63.52
+                        ]
+                    ],
+                    "text_description": "200초 120초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.2,
+                            82.98,
+                            66.55,
+                            101.41
+                        ]
+                    ],
+                    "text_description": "120초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.17,
+                            109.6,
+                            316.92,
+                            129.57
+                        ]
+                    ],
+                    "text_description": "200초=180초+20초=3분 20초, 120초=2분"
+                }
+            ]
+        }
+    ]
+}

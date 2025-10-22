@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "05789732-fb6c-4d71-bf52-36613e0bd885",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002888",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-02] 합동인 두 도형에서 대응점, 대응변, 대응각을 각각 찾고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.28,
+                            5.68,
+                            612.28,
+                            40.68
+                        ]
+                    ],
+                    "text_description": "두 도형은 서로 합동입니다. $\\square$ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.28,
+                            69.68,
+                            787.28,
+                            348.68
+                        ]
+                    ],
+                    "text_description": "합동 도형인 오각형 두 개."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.28,
+                            469.22,
+                            504.28,
+                            666.22
+                        ]
+                    ],
+                    "text_description": "ㅁ: 105 ㄷㄹ: 17 ㅊ: 115 ㅇㅈ: 11"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.28,
+                            368.22,
+                            523.28,
+                            453.22
+                        ]
+                    ],
+                    "text_description": "변 ㄷㄹ의 대응변은 변 ㅊㅂ이므로 변 ㄷㄹ의 길이는 17cm입니다. 각 ㄱㅁㄹ의 대응각은 각 ㅇㅅㅂ이므로 각 ㄱㅁㄹ의 크기는 $105^{\\circ}$입니다. 변 ㅇㅈ의 대응변은 변 ㄱㄴ이므로 변 ㅇㅈ의 길이는 11cm입니다. 각 ㅂㅊㅈ의 대응각은 각 ㄹㄷㄴ이므로 각 ㅂㅊㅈ의 크기는 $115^{\\circ}$입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3f77ef10-d00a-46cb-8489-6bc4391ea14a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012192",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.25,
+                            7.75,
+                            772,
+                            75.25
+                        ]
+                    ],
+                    "text_description": "농장별 사과 생산량을 조사하여 나타낸 그림그래프입니다. 햇님 농장의 사과 생산량은 별님 농장 사과의 생산량보다 몇 상자 더 많은지 알아보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            315.25,
+                            663.25,
+                            362.75
+                        ]
+                    ],
+                    "text_description": "1 햇님 농장과 별님 농장의 사과 생산량은 각각 몇 상자인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.5,
+                            88.75,
+                            698.25,
+                            310.25
+                        ]
+                    ],
+                    "text_description": "농장별 사과 생산량의 그림그래프이다. 농장/생산량 햇님/620(큰 사과 6, 작은 사과 2) 달님/480(큰 사과 4, 작은 사과 8) 별님/550(큰 사과 5, 작은 사과 5) 큰 사과는 100상자 작은 사과는 10상자이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            563.25,
+                            374,
+                            837,
+                            409
+                        ]
+                    ],
+                    "text_description": "620상자, 550상자"
+                }
+            ]
+        },
+        {
+            "class_num": 6,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95.75,
+                            410.25,
+                            144.5,
+                            446.5
+                        ]
+                    ],
+                    "text_description": "햇님 :"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            178.25,
+                            409,
+                            293.25,
+                            446.5
+                        ]
+                    ],
+                    "text_description": "6개는 600상자."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315.25,
+                            412.75,
+                            640.75,
+                            445.25
+                        ]
+                    ],
+                    "text_description": "2 개는 20상자입니다. $\\rightarrow 600+20=620$ (상자)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94.5,
+                            453.25,
+                            142,
+                            480.25
+                        ]
+                    ],
+                    "text_description": "별님 :"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            177.75,
+                            450.25,
+                            293.25,
+                            480.25
+                        ]
+                    ],
+                    "text_description": "5개는 500상자."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            318.25,
+                            450.25,
+                            642,
+                            480.25
+                        ]
+                    ],
+                    "text_description": "5 개는 50 상자입니다. $\\rightarrow 500+50=550$ (상자)"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            143.25,
+                            409,
+                            175.75,
+                            446.5
+                        ]
+                    ],
+                    "text_description": "큰 사과"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.25,
+                            411.5,
+                            313.25,
+                            445.25
+                        ]
+                    ],
+                    "text_description": "작은사과"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            143.75,
+                            446.25,
+                            179.5,
+                            481.5
+                        ]
+                    ],
+                    "text_description": "큰 사과"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.5,
+                            449,
+                            314.5,
+                            480.25
+                        ]
+                    ],
+                    "text_description": "작은 사과"
+                }
+            ]
+        }
+    ]
+}

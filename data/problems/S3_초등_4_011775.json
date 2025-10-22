@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "354a2ee6-42fd-4b51-adec-52370e5853f1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011775",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.46,
+                            20.27,
+                            480.26,
+                            182.11
+                        ]
+                    ],
+                    "text_description": "주방에 식용유가 $8 \\frac{2}{13} \\mathrm{~L}$가 있습니다. 그중에서 $3 \\frac{8}{13} \\mathrm{~L}$를 음식을 만드는 데 사용했다 면 남은 식용유는 몇 L일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            345.22,
+                            189.15,
+                            414.98,
+                            231.23
+                        ]
+                    ],
+                    "text_description": "$4 \\frac{7}{13} \\mathrm{~L}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.22,
+                            234.76,
+                            333.34,
+                            273.68
+                        ]
+                    ],
+                    "text_description": "$8 \\frac{2}{13}-3 \\frac{8}{13}=7 \\frac{15}{13}-3 \\frac{8}{13}=4 \\frac{7}{13}(L)$"
+                }
+            ]
+        }
+    ]
+}

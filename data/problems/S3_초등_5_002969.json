@@ -1,0 +1,147 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d101467-46cd-42d0-b0f3-5e327a749919",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002969",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            57.74,
+                            430.7,
+                            142.54
+                        ]
+                    ],
+                    "text_description": "남학생 24명과 여학생 36명을 최대한 많은 모둠으로 남는 사람 없이 똑같이 나누어 박물관을 관람하려고 합니다. 최대 몇 모둠으로 나눌 수 있는지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            209.9,
+                            152.6,
+                            429.1,
+                            182.2
+                        ]
+                    ],
+                    "text_description": "($\\qquad$)모둠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            448.3,
+                            11.8,
+                            693.9,
+                            297.4
+                        ]
+                    ],
+                    "text_description": "박물관을 관람하고 있는 사람들의 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.1,
+                            468.6,
+                            308.3,
+                            499.8
+                        ]
+                    ],
+                    "text_description": "12모둠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            58.7,
+                            299.38
+                        ],
+                        [
+                            565.73,
+                            299.38
+                        ],
+                        [
+                            567.2,
+                            326.52
+                        ],
+                        [
+                            503.36,
+                            326.52
+                        ],
+                        [
+                            504.83,
+                            385.96
+                        ],
+                        [
+                            476.21,
+                            386.69
+                        ],
+                        [
+                            479.88,
+                            418.98
+                        ],
+                        [
+                            670.66,
+                            420.45
+                        ],
+                        [
+                            675.8,
+                            447.6
+                        ],
+                        [
+                            56.5,
+                            448.33
+                        ]
+                    ],
+                    "text_description": "최대한 많은 모둠의 수는 24와 36의 최대공약수입니다. 24의 약수는 $1, 2, 3, 4, 6, 8, 12, 24$ 이고 36의 약수는 $1, 2, 3, 4, 6, 9, 12, 18, 36$ 이므로 24와 36의 공약수는 $1, 2, 3, 4, 6, 12$ 입니다. 따라서 최대공약수는 12 이므로 최대 12 모둠으로 나눌 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

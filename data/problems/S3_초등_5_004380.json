@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "43cfb7ea-5e28-4a59-8f07-34786f2c686b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004380",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.52,
+                            4.89,
+                            308.12,
+                            32.89
+                        ]
+                    ],
+                    "text_description": "㉠, ㉡에 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            42.5,
+                            436.5,
+                            166.5
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{c|c|c} + & $\\frac{2}{10}$ & $\\frac{2}{5}$ \\\\ \\hline$\\frac{1}{2}$ & ㉠ & ㉡ \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            210.52,
+                            175.72,
+                            371.32,
+                            263.72
+                        ]
+                    ],
+                    "text_description": "㉠: ($\\frac{7}{10}$) ㉡: ($\\frac{9}{10}$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.52,
+                            265.32,
+                            377.72,
+                            346.92
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{2}{10}+\\frac{1}{2}=\\frac{2}{10}+\\frac{1 \\times 5}{2 \\times 5}=\\frac{2}{10}+\\frac{5}{10}=\\frac{7}{10}$ ㉡ $\\frac{2}{5}+\\frac{1}{2}=\\frac{2 \\times 2}{5 \\times 2}+\\frac{1 \\times 5}{2 \\times 5}=\\frac{4}{10}+\\frac{5}{10}=\\frac{9}{10}$"
+                }
+            ]
+        }
+    ]
+}

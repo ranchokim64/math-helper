@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7bc06d8a-65e6-4f00-a238-914b0bec4fec",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008225",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.6,
+                            0.74,
+                            929,
+                            72.74
+                        ]
+                    ],
+                    "text_description": "왼쪽 도형을 돌렸더니 오른쪽 도형이 되었습니다. ? 안에 알맞은 것을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315.2,
+                            81.34,
+                            647.4,
+                            206.34
+                        ]
+                    ],
+                    "text_description": "왼쪽 그림은 모눈종이에 ㄷ모양과 유사한 모양이 있습니다. 중간그림은 ?모양그림이고 오른쪽 그림은 왼쪽 그림이 90도 돌아간 그림입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            625,
+                            207.6,
+                            690.6,
+                            250.8
+                        ]
+                    ],
+                    "text_description": "③ 시계 반대 방향으로 270도 돌리는 그림입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.6,
+                            253.4,
+                            96.8,
+                            295.4
+                        ]
+                    ],
+                    "text_description": "④시계 방향으로 90도 돌리는 그림입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.8,
+                            355.6,
+                            931.4,
+                            419.6
+                        ]
+                    ],
+                    "text_description": "도형의 위쪽 부분이 오른쪽으로 이동했으므로 도형을 시계 방향으로 $90^{\\circ}$만큼 또는 시계 반대 방향으로 $270^{\\circ}$만큼 돌렸습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            329,
+                            208.4,
+                            396.2,
+                            295.6
+                        ]
+                    ],
+                    "text_description": "② 시계 반대 방향으로 180도 돌린 그림입니다. ⑤ 시계 방향으로 270도 돌린 그림입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33,
+                            207.6,
+                            98.6,
+                            250
+                        ]
+                    ],
+                    "text_description": "① 시계 반대 방향으로 90도 돌린 그림입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6912f21f-6197-40d7-a1b5-fe78fc587032",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012456",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.17,
+                            15.57,
+                            413.57,
+                            38.97
+                        ]
+                    ],
+                    "text_description": "원의 반지름과 지름은 각각 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            152.77,
+                            58.17,
+                            310.17,
+                            214.97
+                        ]
+                    ],
+                    "text_description": "원이 있고 반지름이 6cm로 표기되어 있습니다. 중심에 빨간 점이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            191.77,
+                            231.97,
+                            415.97,
+                            286.37
+                        ]
+                    ],
+                    "text_description": "반지름 (6cm) 지름 (12cm)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.17,
+                            295.86,
+                            258.97,
+                            332.26
+                        ]
+                    ],
+                    "text_description": "원의 지름은 반지름의 2 배이므로 $6 \\times 2=12(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

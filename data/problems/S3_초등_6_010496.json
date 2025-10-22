@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "87380de1-dbbd-43d7-bdd1-aca78b1ba636",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010496",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            7.41,
+                            962.5,
+                            79.41
+                        ]
+                    ],
+                    "text_description": "진민이와 천호는 농구공 던져 넣기를 했습니다. 두 사람 중 성공률이 더 높은 사람의 이름을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            214.5,
+                            94.41,
+                            777.5,
+                            316.41
+                        ]
+                    ],
+                    "text_description": "진민: 나는 공을 24번 던져서 18번 넣었어. 천호: 나는 공을 25번 던져서 19번 넣었어. (진민, 천호)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.5,
+                            332,
+                            112.5,
+                            360
+                        ]
+                    ],
+                    "text_description": "천호"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            382,
+                            936.5,
+                            503
+                        ]
+                    ],
+                    "text_description": "진민이의 성공률은 $\\frac{18}{24}\\left(=\\frac{3}{4}=0. 75\\right)$ 이고, 천호의 성공률은 $\\frac{19}{25}(=0. 76)$ 입니다. 따라서 $\\frac{18}{24}\\left(=\\frac{3}{4}=0. 75\\right)<\\frac{19}{25}(=0. 76)$ 이므로 성공률이 더 높은 사람은 천호입니다."
+                }
+            ]
+        }
+    ]
+}

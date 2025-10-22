@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1a1f224b-b9a8-4a45-8842-8b50cc921b91",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012535",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.5,
+                            8.42,
+                            486.5,
+                            191.42
+                        ]
+                    ],
+                    "text_description": "홍콩에 다녀오신 삼촌께서 지현이에게 홍콩 돈 5달러를 주셨습니다. 지현이가 은행에 갔을 때 홍콩 돈 1 달러는 우리나 라 돈 138원과 같았습니다. 지현이가 받은 돈은 우리나라 돈으로 얼마일까요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.5,
+                            220,
+                            439.5,
+                            288
+                        ]
+                    ],
+                    "text_description": "$\\left. \\begin{array}{c}\\text { 홍콩 돈 } \\\\ \\text { 1 달러 }\\end{array} \\right\\rvert=$ $\\begin{array}{c}\\text { 우리나라 돈 } \\\\ \\text { 138원 }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            357.5,
+                            320,
+                            418.5,
+                            345
+                        ]
+                    ],
+                    "text_description": "690원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.42,
+                            350.94,
+                            207.14,
+                            372.42
+                        ]
+                    ],
+                    "text_description": "138×5=690(원)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0ada9dcd-d4a0-4916-9686-ecaa94c5a68c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011239",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            2.92,
+                            864,
+                            111.92
+                        ]
+                    ],
+                    "text_description": "정육각형의 넓이를 이용하여 다음 원의 넓이를 어림하려고 합니다. 원 안에 있는 정육각형의 넓이는 $108 \\mathrm{~cm}^{2}$ 이고, 원 밖에 있는 정육각형의 넓이는 $144 \\mathrm{~cm}^{2}$ 일 때, 원의 넓이를 어림하여 알맞은 수를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            182,
+                            286.5,
+                            708,
+                            323.5
+                        ]
+                    ],
+                    "text_description": "원의 넓이는 $(106, 126) \\mathrm{cm}^{2}$ 쯤 될 것 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            343,
+                            113.5,
+                            543,
+                            285.5
+                        ]
+                    ],
+                    "text_description": "육각형에 꼭맞게들어간 원과 육각형이 있고 중심점에서 삼각형 두개와 꼭짓점 ㄱㄴㄷㄹㅁ가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            338.5,
+                            88,
+                            361.5
+                        ]
+                    ],
+                    "text_description": "$126$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            384.5,
+                            867,
+                            495.5
+                        ]
+                    ],
+                    "text_description": "원의 넓이는 원 안에 있는 정육각형의 넓이인 $108 \\mathrm{~cm}^{2}$보다 넓고, 원 밖에 있는 정육 각형의 넓이인 $144 \\mathrm{~cm}^{2}$보다 좁습니다. 따라서 원의 넓이는 $(108+144) \\div 2=126\\left(\\mathrm{~cm}^{2}\\right)$ 쯤으로 어림할 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

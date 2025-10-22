@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f82e6178-44aa-494d-8ec6-62551e784455",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010518",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            1.42,
+                            959.5,
+                            69.42
+                        ]
+                    ],
+                    "text_description": "어느 지역에서 한 달 동안 발생한 쓰레기 양을 조사하여 나타낸 띠그래프를 보고 알맞은 말을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.5,
+                            226.42,
+                            934.5,
+                            296.42
+                        ]
+                    ],
+                    "text_description": "한 달 동안 가장 많이 발생한 쓰레기는 (음식물류, 종이류, 플라스틱류, 병류, 기타)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            158.5,
+                            76,
+                            823.5,
+                            225
+                        ]
+                    ],
+                    "text_description": "한 달 동안 발생한 쓰레기 양의 띠그래프가 있다 0에서 100(%)의 눈금이 표시되어 있다. 왼쪽부터 음식물류는 30%, 종이류 25%, 플라스틱류 20%, 병류 15%, 기타 10%를 차지하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            316,
+                            156.5,
+                            345
+                        ]
+                    ],
+                    "text_description": "음식물류"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            363,
+                            958.5,
+                            426
+                        ]
+                    ],
+                    "text_description": "(해설)백분율의 크기를 비교하면 $30>25>20>15>10$ 이므로 한 달 동안 가장 많이 발생한 쓰레기는 음식물류입니다."
+                }
+            ]
+        }
+    ]
+}

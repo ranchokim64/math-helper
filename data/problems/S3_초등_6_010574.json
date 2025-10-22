@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d4949fc8-143e-483e-bba4-166f0cf25c19",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010574",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            13.14,
+                            862,
+                            44.54
+                        ]
+                    ],
+                    "text_description": "다음 전개도를 이용하여 만든 직육면체의 겉넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            360.8,
+                            62.94,
+                            621.8,
+                            270.14
+                        ]
+                    ],
+                    "text_description": "직육면체의 전개도가 있습니다. 중앙 사각형의 높이는 8cm, 너비는 3cm로 표기되어 있습니다. 윗쪽 사각형의 너비는 5cm로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            641.6,
+                            293.4,
+                            759.8,
+                            325.8
+                        ]
+                    ],
+                    "text_description": "③ $158 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            294,
+                            454.6,
+                            377
+                        ]
+                    ],
+                    "text_description": "① $122 \\mathrm{~cm}^{2}$ ② $145 \\mathrm{~cm}^{2}$ ③ $178 \\mathrm{~cm}^{2}$ ④ $182 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.8,
+                            443.8,
+                            911.2,
+                            469
+                        ]
+                    ],
+                    "text_description": "주어진 전개도로 만든 직육면체는 모양과 크기가 같은 면이 2개씩 3쌍 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.8,
+                            484.4,
+                            741.8,
+                            517.8
+                        ]
+                    ],
+                    "text_description": "따라서 직육면체의 겉넓이는 $(15+24+40) \\times 2=158\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ccdbabbd-aba9-4c8a-8f85-61a9aeceb60d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005892",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.74,
+                            15.85,
+                            528.1,
+                            83.69
+                        ]
+                    ],
+                    "text_description": "다음 중에서 몫이 진분수인 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.1,
+                            104.17,
+                            531.3,
+                            210.41
+                        ]
+                    ],
+                    "text_description": "상자에 다음과 같은 내용이 들어 있다.㉠ $\\frac{23}{5} \\div 4$ ㉡ $\\frac{15}{7} \\div 9$ ㉢ $\\frac{16}{3} \\div 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            375.78,
+                            233.18,
+                            402.66,
+                            259.42
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.22,
+                            277.34,
+                            318.82,
+                            440.54
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{23}{5} \\div 4=\\frac{23}{5} \\times \\frac{1}{4}=\\frac{23}{20}$ (가분수), ㉢ $\\frac{15}{7} \\div q=\\frac{55}{7} \\times \\frac{1}{9}=\\frac{5}{21}$ (진분수), ㉢ $\\frac{16}{3} \\div 5=\\frac{16}{3} \\times \\frac{1}{5}=\\frac{16}{15}$ (가분수)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e9ace110-9623-415d-8de0-f1537fef0e7c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007438",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            4.42,
+                            854.5,
+                            65.42
+                        ]
+                    ],
+                    "text_description": "47. 길이가 같은 막대 3 개를 변으로 하여 삼각형을 만들려고 합니다. 만든 삼 각형의 이름이 될 수 있는 것을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.5,
+                            68.42,
+                            655.5,
+                            240.42
+                        ]
+                    ],
+                    "text_description": "길이가 같은 막대 3개 -> ? 박스"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            242,
+                            204.5,
+                            316
+                        ]
+                    ],
+                    "text_description": "① 이등변삼각형 ③ 예각삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            440.5,
+                            243,
+                            562.5,
+                            275
+                        ]
+                    ],
+                    "text_description": "② 정삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            439.5,
+                            279,
+                            585.5,
+                            315
+                        ]
+                    ],
+                    "text_description": "④ 직각삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            323,
+                            181.5,
+                            352
+                        ]
+                    ],
+                    "text_description": "⑤ 둔각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            407,
+                            852.5,
+                            537
+                        ]
+                    ],
+                    "text_description": "막대로 만든 삼각형은 세 변의 길이가 같기 때문에 이등변삼각형, 정삼각형입니 다. 또한 정삼각형은 세 각의 크기가 $60^{\\circ}$로 모두 예각이기 때문에 막대로 만든 삼각형은 예각삼각형입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3ed53134-c6df-42ec-bb02-3a8f4e8311b7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008067",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.77,
+                            -1.27,
+                            929.77,
+                            68.73
+                        ]
+                    ],
+                    "text_description": "다음 시계의 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 예각, 직각, 둔각 중 어느 것인지 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            320.77,
+                            74.27,
+                            638.77,
+                            274.27
+                        ]
+                    ],
+                    "text_description": "시계에 빨간색 긴바늘은 12시, 초록색 짧은바늘은 2시에 향해 있고 예각, 직각, 둔각 보기가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.77,
+                            291.27,
+                            107.77,
+                            319.27
+                        ]
+                    ],
+                    "text_description": "예각"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.77,
+                            337.27,
+                            538.77,
+                            402.27
+                        ]
+                    ],
+                    "text_description": "예각: 각도가 $0^{\\circ}$보다 크고 직각보다 작은 각 둔각: 각도가 직각보다 크고 $180^{\\circ}$보다 작은 각"
+                }
+            ]
+        }
+    ]
+}

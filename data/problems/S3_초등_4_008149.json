@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "901534fd-5c47-4f19-9d0d-95cd6b466bcb",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008149",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            9.92,
+                            742,
+                            38.92
+                        ]
+                    ],
+                    "text_description": "$709 \\div 80$을 계산할 때 이용할 곱셈식은 어느 것입니까?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            479,
+                            104.92,
+                            681,
+                            129.92
+                        ]
+                    ],
+                    "text_description": "④ $80 \\times 8=640$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            60.5,
+                            244,
+                            174.5
+                        ]
+                    ],
+                    "text_description": "① $80 \\times 5=400$ ③ $80 \\times 7=560$ ⑤ $80 \\times 9=720$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            479,
+                            59.5,
+                            681,
+                            86.5
+                        ]
+                    ],
+                    "text_description": "② $80 \\times 6=480$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            241.5,
+                            751,
+                            266.5
+                        ]
+                    ],
+                    "text_description": "709는 640과 720 사이에 있으므로 $80 \\times 8$을 이용하여 계산합니다."
+                }
+            ]
+        }
+    ]
+}

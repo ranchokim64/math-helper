@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e1a6721b-cdd3-4ba9-8f6b-6ae4bbaf724d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007848",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.06,
+                            1.06,
+                            693.67,
+                            33.09
+                        ]
+                    ],
+                    "text_description": "모양자에서 다각형이 아닌 것을 모두 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            141.65,
+                            39.68,
+                            745.48,
+                            184.75
+                        ]
+                    ],
+                    "text_description": "각기 다른 도형 모양의 구멍가, 나, 다, 라, 마가 있는 눈금자가 있다. 가: 사각형 나: 정육각형 다: 타원형 라: 오각형 마: 물결모양 도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.93,
+                            194.17,
+                            117.87,
+                            225.03
+                        ]
+                    ],
+                    "text_description": "다, 마"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.31,
+                            238.45,
+                            853.82,
+                            301.56
+                        ]
+                    ],
+                    "text_description": "다는 곡선으로만 이루어진 도형이고, 마는 곡선과 선분으로 이루어진 도형이므로 다각형이 아닙니다."
+                }
+            ]
+        }
+    ]
+}

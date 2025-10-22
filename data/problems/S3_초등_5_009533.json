@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f83216ea-2154-4d3b-b6a2-79d0e8c28eda",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009533",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            3.42,
+                            772.5,
+                            92.42
+                        ]
+                    ],
+                    "text_description": "지민이네 모둠 학생들이 회전열차를 타려고 줄을 서 있습니다. 회전열차는 키가 135cm이하인 사람은 탈 수 없습니다. 회전열차를 탈 수 없는 학생의 이름을 모두 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            93,
+                            773.5,
+                            235
+                        ]
+                    ],
+                    "text_description": "지민이네 모둠 학생들의 키 \\begin{tabular}{c|c|c|c|c|c|c} \\hline이름 & 지민 & 태린 & 수혁 & 민율 & 현아 & 우영 \\\\ \\hline 키 $(\\mathrm{cm})$ & 133. 8 & 136. 8 & 142. 1 & 145. 3 & 135. 0 & 139. 6 \\\\ \\hline \\end{tabular} (지민, 태린, 수현, 민율, 현아, 우영)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            243,
+                            141.5,
+                            267
+                        ]
+                    ],
+                    "text_description": "지민, 현아"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            280,
+                            774.5,
+                            365
+                        ]
+                    ],
+                    "text_description": "키가 135cm이하인 학생은 회전열차들 탈 수 없습니다. 키가 135cm와 같거나 작은 학생은 지민 $(133. 8 \\mathrm{~cm})$, 현아 $(135. 0 \\mathrm{~cm})$ 입니다. 따라서 회전열차를 탈 수 없는 학생은 지민, 현아입니다."
+                }
+            ]
+        }
+    ]
+}

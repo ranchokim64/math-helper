@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7d003b7e-2269-4216-a6e8-c0aff1ae8615",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008483",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.87,
+                            0.37,
+                            939.12,
+                            73.81
+                        ]
+                    ],
+                    "text_description": "용수네 반 학생들이 받고 싶은 선물을 조사하여 나타낸 막대그래프입니다. 가장 많이 받고 싶어 하는 선물은 무엇입니까?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            601.62,
+                            323.81,
+                            934.43,
+                            356.62
+                        ]
+                    ],
+                    "text_description": "(옷, 가방, 인형, 게임기)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            287.56,
+                            86.31,
+                            684.43,
+                            320.68
+                        ]
+                    ],
+                    "text_description": "받고 싶은 선물별 학생 수의 막대그래프이다. 가로는 선물 세로는 학생 수 이다. 옷은 7, 가방은 4, 인형은 8, 게임기는 6을 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.43,
+                            370.68,
+                            114.12,
+                            402.81
+                        ]
+                    ],
+                    "text_description": "인형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.12,
+                            416.68,
+                            941.68,
+                            480.06
+                        ]
+                    ],
+                    "text_description": "(해설)막대그래프에서 막대의 길이를 비교하면 인형이 가장 깁니다. 따라서 인형을 받고 싶어 하는 학생이 가장 많습니다."
+                }
+            ]
+        }
+    ]
+}

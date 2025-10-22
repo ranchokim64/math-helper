@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5d2de42a-002a-4e80-a9cf-ec350981b451",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005834",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.28,
+                            8.74,
+                            693.28,
+                            54.74
+                        ]
+                    ],
+                    "text_description": "가와 같은 정육면체를 잘라서 나와 같이 똑같은 정육면체 조각들로 나누었습니다. 나의 정육면체 조각의 전체 겉넓이는 가의 겉넓이의 몇 배인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.28,
+                            61.28,
+                            496.28,
+                            205.28
+                        ]
+                    ],
+                    "text_description": "가: 밑면 한 모서리의 길이가 8cm인 정육면체의 겨냥도이다. 나: 가와 같은 정육면체를 한 모서리의 길이가 2cm인 정육면체 조각들로 자른 집합체이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.28,
+                            343.28,
+                            37.28,
+                            371.28
+                        ]
+                    ],
+                    "text_description": "4배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.28,
+                            217.28,
+                            676.28,
+                            335.28
+                        ]
+                    ],
+                    "text_description": "가의 겉넓이는 $8 \\times 8 \\times 6=384\\left(\\mathrm{~cm}^{2}\\right)$ 이고, 나의 전체 겉넓이는 한 모서리의 길이가 2cm인 정육면체 $4 \\times 4 \\times 4=64($가)의 겉넓이와 같으므로 나의 겉넓이는 $2 \\times 2 \\times 6 \\times 64=1536\\left(\\mathrm{~cm}^{2}\\right)$입니다. 따라서 나의 정육면체조각의 전체 겉넓이는 가의 겉넓이의 $1536 \\div 384=4$(배)입니다."
+                }
+            ]
+        }
+    ]
+}

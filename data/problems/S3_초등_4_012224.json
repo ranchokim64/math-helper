@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1e49ae2d-6be4-4bf0-92df-92ebd37dac29",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012224",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            12.42,
+                            593,
+                            93.42
+                        ]
+                    ],
+                    "text_description": "각도를 바르게 잰 것은 어느 것인지 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            115.42,
+                            596,
+                            432.42
+                        ]
+                    ],
+                    "text_description": "㉠ 각도기의 밑금 아래에서 각도를 재고 있다. ㉡ 각도기의 밑금과 맞추지 않고 둔각을 재고 있다. ㉢ 각도기의 밑금과 각의 변을 맞추어 재고 있다. ㉣ 각도기의 밑금이 아닌 90도를 나타낸 부분을 중심으로 각을 재고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            463,
+                            454,
+                            489,
+                            481
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93,
+                            495,
+                            594,
+                            547
+                        ]
+                    ],
+                    "text_description": "각도기의 중심과 각의 꼭짓점을 맞추고, 각도기의 밑금과 각의 한 변을 맞추어 각을 잽니다."
+                }
+            ]
+        }
+    ]
+}

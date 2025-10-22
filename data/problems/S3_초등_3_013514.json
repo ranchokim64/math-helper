@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "714a6bb9-2836-40e2-8e28-e9532d12726c",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013514",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.02,
+                            17.92,
+                            500.66,
+                            53.76
+                        ]
+                    ],
+                    "text_description": "각이 있는 도형을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.7,
+                            78.52,
+                            750.26,
+                            333.44
+                        ]
+                    ],
+                    "text_description": "① 타원입니다. ② 사다리꼴입니다. ③ 만나지도 평행하지도 않은 두 직선이 마주하고 있습니다. ④ 곡선의 끝과 직선의 끝이 만난 도형입니다. ⑤ 타원형을 사분할 한 원입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.1,
+                            550.76,
+                            92.98,
+                            577.92
+                        ]
+                    ],
+                    "text_description": "②, ⑤"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.86,
+                            390.84,
+                            608.18,
+                            534.4
+                        ]
+                    ],
+                    "text_description": "① 굽은 선으로 이루어져 있으므로 각이 없습니다. ③ 두 직선이 만나지 않으므로 각이 아닙니다. ④ 직선과 굽은 선이 만났기 때문에 각이라고 할 수 없습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b20aa29d-39f6-4edc-8a18-bba39466455e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008580",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.09,
+                            9.08,
+                            525.16,
+                            43.95
+                        ]
+                    ],
+                    "text_description": "계산한 값이 옳지 않은 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.22,
+                            101.32,
+                            232.7,
+                            128.32
+                        ]
+                    ],
+                    "text_description": "③ $24 \\times 80=1820$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.09,
+                            56.33,
+                            221.45,
+                            85.58
+                        ]
+                    ],
+                    "text_description": "① $30 \\times 20=600$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            479.04,
+                            57.45,
+                            679.27,
+                            128.32
+                        ]
+                    ],
+                    "text_description": "② $21 \\times 20=420$ ④ $20 \\times 60=1200$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.22,
+                            141.82,
+                            230.45,
+                            168.82
+                        ]
+                    ],
+                    "text_description": "⑤ $42 \\times 30=1260$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.09,
+                            234.06,
+                            250.69,
+                            264.43
+                        ]
+                    ],
+                    "text_description": "③ $24 \\times 80=1920$"
+                }
+            ]
+        }
+    ]
+}

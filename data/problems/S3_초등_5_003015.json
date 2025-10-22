@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aedfcfb4-de6b-4987-b174-5fff1590c684",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003015",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            7.42,
+                            645,
+                            40.42
+                        ]
+                    ],
+                    "text_description": "두 정다각형의 둘레가 각각 48cm 일 때 $\\square$ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93,
+                            49.42,
+                            679,
+                            218.42
+                        ]
+                    ],
+                    "text_description": "이 이미지에는 두 개의 다각형이 있습니다. 왼쪽에는 육각형이 있고, 오른쪽에는 팔각형이 있습니다. 각 도형 옆에는 \"cm\"이라고 적힌 상자가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94,
+                            227,
+                            680,
+                            394
+                        ]
+                    ],
+                    "text_description": "이미지에는 두 개의 도형이 있습니다. 왼쪽에는 변의 길이가 8cm인 육각형이 있고, 오른쪽에는 변의 길이가 6cm인 팔각형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            398,
+                            704,
+                            481
+                        ]
+                    ],
+                    "text_description": "정다각형의 둘레는 (한 변의 길이) $\\times$ (변의 수)이므로 정다각형의 한 변의 길이는 (둘레) $\\div$ (변의 수)입니다. 둘레가 48cm 인 정육각형의 한 변의 길이는 $48 \\div 6=8(\\mathrm{~cm})$ 이고, 정팔각형의 한 변의 길이는 $48 \\div 8=6(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

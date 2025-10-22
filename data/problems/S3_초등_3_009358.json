@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9916cf3-8627-42d8-ac8e-88f1340f9990",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009358",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.8,
+                            9.34,
+                            672.64,
+                            37.5
+                        ]
+                    ],
+                    "text_description": "전체를 똑같이 $4$ 나눈 것 중의 $2$인 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.16,
+                            121.68,
+                            167.04,
+                            198.48
+                        ]
+                    ],
+                    "text_description": "④ 마름모를 똑같게 4칸으로 나누고 2칸이 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "4",
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.72,
+                            42.32,
+                            143.36,
+                            122.32
+                        ]
+                    ],
+                    "text_description": "① 정원형을 불균형하게 4칸으로 나누고 2칸이 색칠되어 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            291.84,
+                            41.68,
+                            397.44,
+                            122.88
+                        ]
+                    ],
+                    "text_description": "② 사각형을 대각점선으로 4칸으로 나누고 1칸이 색칠되어 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            551.04,
+                            40.4,
+                            657.92,
+                            124.24
+                        ]
+                    ],
+                    "text_description": "③ 삼각형을 가로 점선으로 4칸으로 나누고 2칸이 색칠되어 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.76,
+                            124.88,
+                            408.32,
+                            198.48
+                        ]
+                    ],
+                    "text_description": "⑤ 타원형을 세로 점선으로 4칸으로 나누고 2칸이 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.2,
+                            250.96,
+                            720.64,
+                            283.6
+                        ]
+                    ],
+                    "text_description": "전체를 똑같이 $4$칸으로 나눈 것 중 $2$칸을 색칠한 것은 $④$입니다."
+                }
+            ]
+        }
+    ]
+}

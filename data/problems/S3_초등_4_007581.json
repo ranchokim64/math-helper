@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "08cbc210-b68e-432e-b121-daa927a8d17f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007581",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.94,
+                            2.18,
+                            851.96,
+                            64.51
+                        ]
+                    ],
+                    "text_description": "같은 길이의 막대가 2 개씩 있습니다. 네 막대를 자르지 않고 사용하여 사 각형을 만들 때, 만들 수 없는 사각형을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            369.42,
+                            118.12,
+                            729.31,
+                            189.83
+                        ]
+                    ],
+                    "text_description": "사다리꼴 평행사변형 직사각형 정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.91,
+                            83.27,
+                            215.95,
+                            223.34
+                        ]
+                    ],
+                    "text_description": "길이가 같은 긴 막대 2개와 작은 2개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.06,
+                            245.87,
+                            141.55,
+                            276.7
+                        ]
+                    ],
+                    "text_description": "정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.19,
+                            288.76,
+                            845.25,
+                            378.57
+                        ]
+                    ],
+                    "text_description": "마주보는 보는 변의 길이가 같은 사각형을 만들 수 있지만 네 변의길이가 모두 같은 정사각형을 만들 수 없습니다."
+                }
+            ]
+        }
+    ]
+}

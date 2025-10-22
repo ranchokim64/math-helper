@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6d0401e5-64cc-4b1d-9980-248e8bb1893b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005516",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            14.4,
+                            510,
+                            92.4
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄹ의 넓이가 $78 \\mathrm{~cm}^{2}$ 일 때 삼각형 ㄱㄹㄷ의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            131,
+                            112.4,
+                            393,
+                            290.4
+                        ]
+                    ],
+                    "text_description": "변 ㄱㄹ과 꼭짓점 ㄱ을 공유하는 두 삼각형 ㄱㄴㄹ과 ㄱㄹㄷ이 있다. 삼각형 ㄱㄴㄹ의 변 ㄴㄹ의 길이가 6cm이고, 넓이는 $78 \\mathrm{~cm}^{2}$이다. 삼각형 ㄱㄹㄷ은 변 ㄹㄷ의 길이가 5cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            342,
+                            309.4,
+                            422,
+                            342.4
+                        ]
+                    ],
+                    "text_description": "$65 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            342.4,
+                            509,
+                            394.4
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄹ과 삼각형 ㄱㄹㄷ의 높이가 같으므로 넓이의 비는 밑변의 길이의 비와 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.43,
+                            395.65,
+                            407.27,
+                            446.21
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}6: 5=78: \\square, 6 \\times \\square=5 \\times 78, 6 \\times \\square=390 \\text {, } \\\\ \\square=390 \\div 6=65\\left(\\mathrm{~cm}^{2}\\right)\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

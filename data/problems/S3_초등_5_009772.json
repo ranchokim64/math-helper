@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d30df7a8-30d9-47a7-90ad-b7227f5f0525",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009772",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.48,
+                            7.21,
+                            678.38,
+                            57.42
+                        ]
+                    ],
+                    "text_description": "다음 그림은 점 ㅇ을 대칭의 중심으로 하는 점대칭도형입니다. 선분 ㄱㅂ의 길이는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            260.25,
+                            63.88,
+                            432.54,
+                            179.5
+                        ]
+                    ],
+                    "text_description": "점 ㅇ을 대칭점으로 하여 다각형 ㄱㄴㄷㄹㅁㅂ가 있다. ㅂㅇ 의 거리는 8cm이고 ㅂㄹ의 거리는 22cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            454.34,
+                            184.69,
+                            518.69,
+                            211.9
+                        ]
+                    ],
+                    "text_description": "③ 6cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.21,
+                            186.96,
+                            301.05,
+                            239.1
+                        ]
+                    ],
+                    "text_description": "① 4cm ② 5cm ④ 7cm ⑤ 8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.47,
+                            279.91,
+                            477.88,
+                            411.39
+                        ]
+                    ],
+                    "text_description": "점 ㅇ을 대칭의 중심으로 하는 점대칭도형이므로 (선분 ㅂㅇ) $=($ 선분 ㄷㅇ), $($ 선분 ㄱㅂ $)=($ 선분 ㄹㄷ $)$ 입니다. $($ 선문 ㅂㅇ) $=($ 선분 ㄷㅇ) $=8 \\mathrm{~cm}$ 이므로 (선분 ㄱㅂ) $=($ 선문 ᄅㄷ $)=22-8-8=6(\\mathrm{~cm})$ 입니다. 따라서 선분 ㄱㅂ의 길이는 6cm 입니다."
+                }
+            ]
+        }
+    ]
+}

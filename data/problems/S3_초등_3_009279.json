@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "20286e13-9206-406d-984e-23acdbf4b0c9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009279",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.82,
+                            2.99,
+                            559.22,
+                            29.39
+                        ]
+                    ],
+                    "text_description": "라트비아 국기를 보고 바르게 말한 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            101.02,
+                            35.62,
+                            610.42,
+                            137.82
+                        ]
+                    ],
+                    "text_description": "라트비아 국기를 가운데 두고 지원과 선희가 말하고 있다. 지원: 갈색 부분은 전체의 $\\frac{2}{3}$야. 선희: 갈색 부분은 전체의 $\\frac{2}{3}$가 아니야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.82,
+                            145.82,
+                            84.02,
+                            169.82
+                        ]
+                    ],
+                    "text_description": "선희"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.82,
+                            180.22,
+                            484.02,
+                            229.02
+                        ]
+                    ],
+                    "text_description": "라트비아 국기는 똑같이 3으로 나누어져 있지 않습니다. 따라서 바르게 말한 사람은 선희입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "86fcd3c1-e4b4-4437-b7c3-b1a189027e92",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004826",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            13.42,
+                            645,
+                            69.42
+                        ]
+                    ],
+                    "text_description": "오른쪽 정육면체의 겨냥도에서 보이는 모서리의 길이의 합이 117cm 일 때 보이지 않는 모서리의 길이의 합은 몇 cm인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            220,
+                            384,
+                            246
+                        ]
+                    ],
+                    "text_description": "정육면체의 한 모서리의 길이는 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15,
+                            77.42,
+                            154,
+                            216.42
+                        ]
+                    ],
+                    "text_description": "정육면체의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            597,
+                            266,
+                            655,
+                            293
+                        ]
+                    ],
+                    "text_description": "13cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20,
+                            251,
+                            515,
+                            294
+                        ]
+                    ],
+                    "text_description": "정육면체는 모든 모서리의 길이가 같습니다. 보이는 모서리는 9 개이므로 정육면체의 한 모서리는 $117 \\div 9=13(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

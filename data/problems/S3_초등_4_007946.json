@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "931ed079-88db-4ce7-abf5-5bb60d03a71c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007946",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            10.42,
+                            779,
+                            36.42
+                        ]
+                    ],
+                    "text_description": "10000원이 되려면 돈이 얼마만큼 필요한지 알맞은 수를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            350,
+                            244,
+                            514,
+                            274
+                        ]
+                    ],
+                    "text_description": "$(100, 1000)$ 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            352,
+                            43.42,
+                            512,
+                            239.42
+                        ]
+                    ],
+                    "text_description": "천 원그림과 아래 10장이라는 글이 있다. 그리고 그 아래엔 10원짜리가 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            294,
+                            99,
+                            318
+                        ]
+                    ],
+                    "text_description": "$1000$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            336,
+                            345,
+                            360
+                        ]
+                    ],
+                    "text_description": "10이 1000 개이면 10000 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df7e7197-ff5f-41a7-acc3-a7b490ad7791",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002851",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-10] 부피를 이해하고, 1cm³, 1m³의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-18] 부피 단위 1cm³, 1m³를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.2,
+                            2.03,
+                            729,
+                            28.43
+                        ]
+                    ],
+                    "text_description": "상자 가와 나에 크기가 같은 사전을 담아 부피를 비교하려고 합니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.6,
+                            375.63,
+                            490.6,
+                            406.03
+                        ]
+                    ],
+                    "text_description": "상자 가와 나 중에서 부피가 더 큰 상자는 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            114.19999999999999,
+                            54.3,
+                            633.8,
+                            326.5
+                        ]
+                    ],
+                    "text_description": "가 상자에는 가로 1권 x 세로 2권으로 총 5층까지 쌓을 수 있는 그림이다. 나 상자에는 가로 2권 x 세로 2권으로 총 3층까지 쌓을 수 있는 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.6,
+                            481.7,
+                            115.4,
+                            512.1
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.4,
+                            417.7,
+                            753,
+                            473.7
+                        ]
+                    ],
+                    "text_description": "상자 가에는 10권, 상자 나에는 12의 사전을 담을 수 있으므로 부피가 더 큰 상자는 나입니다."
+                }
+            ]
+        }
+    ]
+}

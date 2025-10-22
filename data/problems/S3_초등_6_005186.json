@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b3b54d26-40ef-4769-84ac-a9fadbb2edb1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005186",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            16.92,
+                            1022.5,
+                            87.92
+                        ]
+                    ],
+                    "text_description": "수 카드를 모두 한 번씩만 사용하여 몫이 가장 큰 (소수 두 자리 수)(소수 한 자리 수)의 나숫셈 식을 만들려고 합니다. 이 나낫셈식의 몫을 반올림하여 소수 둘째 자리까지 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            343.5,
+                            104.92,
+                            692.5,
+                            168.92
+                        ]
+                    ],
+                    "text_description": "1, 2, 4, 7, 8 카드가 나열되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            879.5,
+                            515.5,
+                            936.5,
+                            543.5
+                        ]
+                    ],
+                    "text_description": "$7. 28$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            257.5,
+                            658.5,
+                            283.5
+                        ]
+                    ],
+                    "text_description": "몫이 가장 크려면 나누어지는 수는 가장 큰 수. 나누는 수는 가장 작은 수여야 합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            322.5,
+                            616.5,
+                            349.5
+                        ]
+                    ],
+                    "text_description": "가장 큰 소수 두 자리 수는 8. 74 이고 가장 작은 소수 한 자리 수는 I. 2이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.5,
+                            385.5,
+                            309.5,
+                            415.5
+                        ]
+                    ],
+                    "text_description": "$8. 74 \\div 1. 2-7. 283 \\cdots \\cdots. . $."
+                }
+            ]
+        }
+    ]
+}

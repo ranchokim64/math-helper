@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "34e46968-2aa8-4039-9770-ddea09302853",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005308",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            9.42,
+                            625.5,
+                            85.42
+                        ]
+                    ],
+                    "text_description": "동우와 다빈이는 소금물을 만들었습니다. 두 소금물 중 누구의 소금물이 더 진한지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            99.42,
+                            559.5,
+                            228.42
+                        ]
+                    ],
+                    "text_description": "동우: 나는 소금 0.5L에 물 0.9L를 넣었어. 다빈: 나는 소금 $\\frac{2}{5} \\mathrm{~L}$에 물 $\\frac{9}{10} \\mathrm{~L}$를 넣었어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            424,
+                            51.5,
+                            450
+                        ]
+                    ],
+                    "text_description": "동우"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            250,
+                            490.5,
+                            276
+                        ]
+                    ],
+                    "text_description": "동우의 소금물의 비 $\\rightarrow 0. 5: 0. 9=(0. 5 \\times 10):(0. 9 \\times 10)=5: 9$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            280,
+                            534.5,
+                            335
+                        ]
+                    ],
+                    "text_description": "다빈이의 소금물의 비 $\\rightarrow \\frac{2}{5}: \\frac{9}{10}=\\left(\\frac{2}{5} \\times 10\\right):\\left(\\frac{9}{10} \\times 10\\right)=4: 9$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            371,
+                            268.5,
+                            393
+                        ]
+                    ],
+                    "text_description": "따라서 동우의 소금물이 더 진합니다."
+                }
+            ]
+        }
+    ]
+}

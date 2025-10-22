@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8f554c00-de20-45ed-af2d-2e6869d0bf57",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017854",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.3,
+                            6.94,
+                            340.7,
+                            31.94
+                        ]
+                    ],
+                    "text_description": "60을 3:7의 비율로 나누어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.7,
+                            54.94,
+                            104.7,
+                            81.34
+                        ]
+                    ],
+                    "text_description": "① 18, 42"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.1,
+                            93,
+                            105.7,
+                            233.2
+                        ]
+                    ],
+                    "text_description": "② 20, 40 ③ 25, 35 ④ 15, 45 ⑤ 30, 30"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.3,
+                            259.4,
+                            697.5,
+                            336.2
+                        ]
+                    ],
+                    "text_description": "1. 전체 비율 합 구하기: 비율의 합은 $3+7=10$ 입니다. 2. 각 부분의 비율 계산: 전체 금액(60)을 비율의 합⑩으로 나눕니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.9,
+                            409.8,
+                            457.5,
+                            534.6
+                        ]
+                    ],
+                    "text_description": "3. 각 부분에 해당하는 값 구하기: - 3의 비율에 해당하는 값: $3 \\times 6=18$ - 7의 비율에 해당하는 값: $7 \\times 6=42$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            571.4,
+                            573.5,
+                            600.2
+                        ]
+                    ],
+                    "text_description": "따라서, 60을 3:7의 비율로 나누면 각각 18과 42가 됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            441.5,
+                            365.6,
+                            580.7,
+                            389.8
+                        ]
+                    ],
+                    "text_description": "$60 \\div 10=6$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6448e084-75d8-4e5d-b618-635a2c5a2b41",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004800",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.8,
+                            17.24,
+                            554.4,
+                            195.64
+                        ]
+                    ],
+                    "text_description": "직육면체 모양의 상자를 그림과 같이 리본으로 한 번 둘러 묶었습니다. 매듭으로 사용한 리본의 길이가 20cm라면 상자를 묶는 데 사용한 리본의 길이는 모두 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            141.6,
+                            209.7,
+                            429.6,
+                            374.5
+                        ]
+                    ],
+                    "text_description": "가로 12㎝ 세로 12㎝ 높이 6㎝의 직육면체 모양의 상자를 리본으로 한 번 둘러 묶은 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            360,
+                            391.3,
+                            452.8,
+                            428.9
+                        ]
+                    ],
+                    "text_description": "92cm"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.6,
+                            443.7,
+                            552,
+                            473.3
+                        ]
+                    ],
+                    "text_description": "사용한 리본은 $12 \\mathrm{~cm}, 6 \\mathrm{~cm}$인 모서리의 길이가 같은 부분을"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.4,
+                            473.3,
+                            236,
+                            502.1
+                        ]
+                    ],
+                    "text_description": "각각 4번씩 둘렀습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.8,
+                            504.1,
+                            464,
+                            560.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 사용한 리본의 길이 }) & =12 \\times 4+6 \\times 4+20 \\\\ & =48+24+20=92(\\mathrm{~cm})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

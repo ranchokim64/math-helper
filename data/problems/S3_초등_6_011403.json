@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c7c37b81-b817-4cc9-83ba-9d940db825ca",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011403",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            0,
+                            761,
+                            58
+                        ]
+                    ],
+                    "text_description": "원기둥의 전개도를 그리고 밑면의 반지름과 옆면의 가로, 세로의 길이를 바르게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            330,
+                            62,
+                            455,
+                            182
+                        ]
+                    ],
+                    "text_description": "원기둥이 있고 반지름은 2cm 높이는 4cm로 표기되어 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            247,
+                            186,
+                            539,
+                            684
+                        ]
+                    ],
+                    "text_description": "한 칸의 가로, 세로 길이가 $1cm$인 모눈종이 위에 원기둥의 전개도가 두 개 있습니다. 위 전개도는 원의 반지름이 $2cm$, 가운데 직사각형의 가로는 $12cm$, 세로는 $4cm$입니다. 아래 전개도는 원의 반지름이 $2cm$, 가운데 직사각형의 가로는 $10cm$, 세로는 $4cm$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            695,
+                            422,
+                            997
+                        ]
+                    ],
+                    "text_description": "한 칸의 가로 세로에 길이가 $1cm$인 모눈종이 위에 원기둥의 전개도가 있습니다. 전개도는 원의 반지름이 $2cm$, 가운데 직사각형의 가로는 $12cm$, 세로는 $4cm$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            1010,
+                            716,
+                            1087
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 옆면의 가로 })=(\\text { 밑면의 둘레 }) & =2 \\times 2 \\times 3=12(\\mathrm{~cm}) \\\\ (\\text { 옆면의 세로 })=(\\text { 원기둥의 높이 }) & =4 \\mathrm{~cm}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

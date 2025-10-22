@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eacf8687-555b-4089-9625-fe5068d52fec",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009345",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.97,
+                            3.67,
+                            439.85,
+                            47.83
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{8}$만큼 바르게 색칠한 사람의 이름을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.77,
+                            55.85,
+                            455.85,
+                            165.29
+                        ]
+                    ],
+                    "text_description": "성희: 정원형을 동일하게 8분할 되어 있고 5개가 색칠되어 있다. 진서: 정원형으로 동일하게 6분할 되어 있고 5개가 색칠되어 있다. 효민: 정원형으로 동일하게 8분할 되어 있고 3개가 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.57,
+                            177.45,
+                            73.13,
+                            198.57
+                        ]
+                    ],
+                    "text_description": "성희"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.93,
+                            208.17,
+                            618.41,
+                            314.41
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{8}$는 전체를 똑같이 8로 나눈 것 중의 5입니다. 진서가 색칠한 것은 $\\frac{5}{6}$이고, 효민이가 색칠한 것은 $\\frac{3}{8}$이므로 바르게 색칠한 사람은 성희입니다."
+                }
+            ]
+        }
+    ]
+}

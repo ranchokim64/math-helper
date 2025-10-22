@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "242803f5-da28-4380-b9ff-8749a1f19cbb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005810",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.06,
+                            86.37,
+                            437.93,
+                            233.44
+                        ]
+                    ],
+                    "text_description": "다음과 같은 상자에 한 모서리의 길이가 1cm 인 정육면체 모양의 쌓기나무를 꼭 맞게 채워 넣으려고 합니다. 채울 수 있는 쌓기나무의 수와 상자의 부피를 각각 구해 보세요. (상자의 두께는 생각하지 않습니다.)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            140.86,
+                            245.5,
+                            309.61,
+                            408.39
+                        ]
+                    ],
+                    "text_description": "가로8cm, 세로4cm, 높이6cm의 직육면체 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.44,
+                            424.21,
+                            437.35,
+                            461.71
+                        ]
+                    ],
+                    "text_description": "$\\left(\\quad 192\\right. $ 개, $\\left. \\quad 192 \\mathrm{~cm}^{3} \\quad\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.64,
+                            9.95,
+                            440.86,
+                            74.99
+                        ]
+                    ],
+                    "text_description": "한 층에 $4 \\times 8=32$ (개)씩 6 층까지 채워 넣을 수 있으므로 채울 수 있는 쌓기나무는 $32 \\times 6=192$ (개)이고, 쌓기나무 I개의 부 피가 I cm³ 이므로 상자의 부피는 $192 \\mathrm{~cm}^{3}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

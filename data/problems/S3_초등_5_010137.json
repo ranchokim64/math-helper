@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "af52a095-fb66-4d90-b87c-19c88c800208",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010137",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.5,
+                            0.94,
+                            663.25,
+                            54.19
+                        ]
+                    ],
+                    "text_description": "검은색 바둑돌이 들어 있는 통에서 바둑돌 1 개를 꺼낼 때 흰색일 가능성을 어떤 수로 표현할 수 있는지 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            233.75,
+                            149.62,
+                            453.5,
+                            193.37
+                        ]
+                    ],
+                    "text_description": "$\\left(\\begin{array}{lll}0, & \\frac{1}{2}, & 1\\end{array}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            291.87,
+                            56.38,
+                            392.27,
+                            147.58
+                        ]
+                    ],
+                    "text_description": "바둑돌이이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.47,
+                            206.78,
+                            50.47,
+                            224.98
+                        ]
+                    ],
+                    "text_description": "$0$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            236.37,
+                            664.5,
+                            283.37
+                        ]
+                    ],
+                    "text_description": "검은색 바둑돌이 들어 있는 통에서 바둑돌 1 개들 꺼낼 때 흰색일 가능성은 '불가능 하다'이고 수로 표현하면 0 입니다."
+                }
+            ]
+        }
+    ]
+}

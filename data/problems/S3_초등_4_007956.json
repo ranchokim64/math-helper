@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a309710c-1ff0-4d70-97fc-d49e10f0c95b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007956",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고 수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.83,
+                            1.55,
+                            527.55,
+                            34.83
+                        ]
+                    ],
+                    "text_description": "더 작은 수를 말한 사람을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            396,
+                            212.9,
+                            566,
+                            244.9
+                        ]
+                    ],
+                    "text_description": "(도윤, 지원)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            128.67,
+                            40.26,
+                            393.2,
+                            212.32
+                        ]
+                    ],
+                    "text_description": "도윤 : 백구십만"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            470,
+                            43.44,
+                            835.62,
+                            210.64
+                        ]
+                    ],
+                    "text_description": "지원 : 100만이 15개인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            262.9,
+                            106,
+                            288.9
+                        ]
+                    ],
+                    "text_description": "도윤"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.13,
+                            308.43,
+                            932.49,
+                            339.63
+                        ]
+                    ],
+                    "text_description": "말한 수를 각각 수로 나타내면 백구십만은 19000000 이고 100 만이 15개인 수는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.47,
+                            347.26,
+                            931.8,
+                            446.41
+                        ]
+                    ],
+                    "text_description": "1500|0000입니다. 따라서 두 수의 크기를 비교하면 $190|0000$($7$ 자리 수) $<1500$|$0000$($8$자리 수)이므로 도윤이가 말한 수가 더 작습니다."
+                }
+            ]
+        }
+    ]
+}

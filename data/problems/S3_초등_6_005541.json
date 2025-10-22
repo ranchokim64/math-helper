@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0f5fb5cb-c32d-480b-887e-b28187368918",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005541",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.3,
+                            6.05,
+                            263.62,
+                            36.77
+                        ]
+                    ],
+                    "text_description": "보기와 같이 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.94,
+                            47.01,
+                            440.26,
+                            142.37
+                        ]
+                    ],
+                    "text_description": "보기 \\[ \\frac{14}{15} \\div 7=\\frac{14 \\div 7}{15}=\\frac{2}{15} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.54,
+                            155.54,
+                            252.74,
+                            208.66
+                        ]
+                    ],
+                    "text_description": "$\\frac{10}{11} \\div 2=\\frac{10 \\div 2}{11}=\\frac{5}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.86,
+                            220.82,
+                            440.26,
+                            263.06
+                        ]
+                    ],
+                    "text_description": "(분수) $\\div$ (자연수)를 계산할 때 분자가 자연수의 배수이면 분수의 분자를 자연수로 나눕니다."
+                }
+            ]
+        }
+    ]
+}

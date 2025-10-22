@@ -1,0 +1,144 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c1804852-b40d-4ba8-9c3f-08abd786a081",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005454",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.4,
+                            4.64,
+                            613,
+                            52.64
+                        ]
+                    ],
+                    "text_description": "한 변이 75.36cm 인 정사각형 모양의 종이에 원기둥의 전개도를 그렸습니다. 이 전개도로 만 들어진 원기둥의 높이는 몇 cm인지 구해 보세요. (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.8,
+                            57.1,
+                            411.4,
+                            207.5
+                        ]
+                    ],
+                    "text_description": "한 변이 75.36cm 인 정사각형 모양의 종이에 그린 원기둥의 전개도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            619.75,
+                            409.88,
+                            712.25,
+                            438.63
+                        ]
+                    ],
+                    "text_description": "27.36cm"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.6,
+                            270.62,
+                            531.97,
+                            343.26
+                        ]
+                    ],
+                    "text_description": "정사각형의 가로는 원기둥의 전개도에서 옆면의 가로와 같고 이것은 밑면의 원주와 같습니다. 밑면의 지름을 $\\square \\mathrm{cm}$ 라 하면 $\\square \\times 3. 14=75. 36. \\square=24 \\mathrm{~cm}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.07,
+                            370.41,
+                            387.42,
+                            390.96
+                        ]
+                    ],
+                    "text_description": "원기둥의 높이는 정사각형의 세로에서 두 원의 지름을 빼면 되므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            575.53,
+                            370.41,
+                            617.82,
+                            390.22
+                        ]
+                    ],
+                    "text_description": "입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            387.42,
+                            371.15,
+                            576.19,
+                            391.69
+                        ]
+                    ],
+                    "text_description": "$75. 36-(24 \\times 2)=27. 36(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

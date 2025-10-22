@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f8434db4-b6ca-4501-a9db-e2d0337550a4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010519",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.24,
+                            7.66,
+                            961.99,
+                            77.66
+                        ]
+                    ],
+                    "text_description": "민주네 반 학생들이 좋아하는 간식을 조사하여 나타낸 띠그래프를 보고 알맞은 말을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.49,
+                            275.66,
+                            951.99,
+                            345.16
+                        ]
+                    ],
+                    "text_description": "가장 많은 학생이 좋아하는 간식은 (피자, 떡볶이, 라면, 햄버거, 기타)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            160.74,
+                            87.13,
+                            830.74,
+                            274.63
+                        ]
+                    ],
+                    "text_description": "좋아하는 간식별 학생 수의 띠그래프이다 0부터 100(%) 눈금자가 있고 피자가 40$, 떡볶이가 25%, 라면이 15%, 햄버거가 10%, 기타가 10%이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.74,
+                            362.13,
+                            118.24,
+                            393.38
+                        ]
+                    ],
+                    "text_description": "피자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.99,
+                            407.13,
+                            965.74,
+                            477.13
+                        ]
+                    ],
+                    "text_description": "(해설)백분율의 크기를 비교하면 $40>25>15>10$ 이므로 가장 많은 학생이 좋아하는 간식은 피자입니다."
+                }
+            ]
+        }
+    ]
+}

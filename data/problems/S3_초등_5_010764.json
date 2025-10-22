@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fa7c3c89-e703-4163-8526-cc20fb3f31a9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010764",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.5,
+                            8.42,
+                            869.5,
+                            100.42
+                        ]
+                    ],
+                    "text_description": "14. $\\frac{7}{8}$과 $\\frac{3}{10}$을 통분하려고 합니다. 공통분모가 될 수 있는 수를 모두 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            207.5,
+                            108.0,
+                            685.5,
+                            183.0
+                        ]
+                    ],
+                    "text_description": "보라색 테두리의 상자에 다음과 같은 내용이 포함되어 있다.\\begin{tabular}{|llllll|} \\hline 20 & 30 & 40 & 60 & 80 & 100 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.5,
+                            196,
+                            109.5,
+                            222
+                        ]
+                    ],
+                    "text_description": "40, 80"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            236,
+                            725.5,
+                            300
+                        ]
+                    ],
+                    "text_description": "공통분모가 될 수 있는 수는 두 분모의 공배수입니다. 8과 10의 최소공배수가 40 이므로 8과 10의 공배수는 $40, 80 \\cdots \\cdots$ 입니다."
+                }
+            ]
+        }
+    ]
+}

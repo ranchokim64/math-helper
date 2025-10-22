@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "475ae85b-557f-40c0-8bfe-4882ef28040c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004364",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            93.41,
+                            359.5,
+                            134.41
+                        ]
+                    ],
+                    "text_description": "분수와 소수의 크기를 비교하여 큰 수부터 차례대로 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            115.5,
+                            154.41,
+                            287.5,
+                            189.41
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{llll}1 \\frac{3}{5} & 0. 8 & \\frac{1}{4} & 1. 2\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            134.5,
+                            203,
+                            336.5,
+                            243
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{3}{5}, 1.2, 0.8, \\frac{1}{4}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            3,
+                            299.5,
+                            86
+                        ]
+                    ],
+                    "text_description": "분수를 소수로 고쳐서 크기를 비교합니다. \\[ \\begin{array}{l} 1 \\frac{3}{5}=1 \\frac{6}{10}=1. 6, \\frac{1}{4}=\\frac{25}{100}=0. 25 \\text { 이므로 } \\\\ 1 \\frac{3}{5}>1. 2>0. 8>\\frac{1}{4} \\text { 입니다. } \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3e089fdc-6a87-492a-a784-7f69fa9669eb",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007951",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고 수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.73,
+                            4.4,
+                            540.73,
+                            33.4
+                        ]
+                    ],
+                    "text_description": "가격이 더 낮은 휴대 전화를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            247.73,
+                            40.4,
+                            720.73,
+                            240.4
+                        ]
+                    ],
+                    "text_description": "가 휴대 전화는 $865000$원 나 휴대 전화는 $1020000$원으로 표기되어 있습니다. $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.73,
+                            250,
+                            82.73,
+                            278
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.73,
+                            320,
+                            783.73,
+                            381
+                        ]
+                    ],
+                    "text_description": "$\\frac{865000}{6 \\text { 자리 수 }}<\\frac{1020000}{7 \\text { 자리 수 }}$ 이므로 가격이 더 낮은 휴대 전화는 가입니다."
+                }
+            ]
+        }
+    ]
+}

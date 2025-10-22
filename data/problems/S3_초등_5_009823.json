@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3a7db677-8509-4fb2-9a54-4f00e45e3750",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009823",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.2,
+                            2.49,
+                            627.95,
+                            26.63
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 6보다 작은 것을 찾아 기호를 선 택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.67,
+                            114.37,
+                            505.11,
+                            176.85
+                        ]
+                    ],
+                    "text_description": "㉠ $7. 2 \\times 0. 9$는 7의 0. 9 배인 6. 3보다 크므로 6보다 큽니다. ㉡ 1. 5의 3. 9배는 1. 5의 4배인 6보다 작습니다. 따라서 어림하여 계산 결과과 6보다 작으느 것은 ㉡입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            439.0,
+                            48.0,
+                            545.0,
+                            73.0
+                        ]
+                    ],
+                    "text_description": "1.5의 3.9배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            235.0,
+                            52.0,
+                            320.0,
+                            73.0
+                        ]
+                    ],
+                    "text_description": "$7.2\\times 0.9$"
+                }
+            ]
+        }
+    ]
+}

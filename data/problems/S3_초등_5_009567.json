@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bcd87db3-ae29-424c-ba2e-f8f751cfe5ce",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009567",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.4,
+                            6.14,
+                            344.6,
+                            30.14
+                        ]
+                    ],
+                    "text_description": "바르게 계산한 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            121.4,
+                            47.4,
+                            571.8,
+                            102.6
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{1}{8} \\times \\frac{1}{6}=\\frac{1}{8+6}=\\frac{1}{14}$ ㉡ $\\frac{1}{8} \\times \\frac{1}{6}=\\frac{1}{8 \\times 6}=\\frac{1}{48}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.8,
+                            178.2,
+                            646.2,
+                            197.4
+                        ]
+                    ],
+                    "text_description": "분자끼리의 곱이 항상 1이므로 분자는 그대로 쓰고 분모끼리 곱하여 계산합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.2,
+                            126.6,
+                            223.0,
+                            169.0
+                        ]
+                    ],
+                    "text_description": "㉡ $\\frac{1}{8} \\times \\frac{1}{6}=\\frac{1}{8 \\times 6}=\\frac{1}{48}$"
+                }
+            ]
+        }
+    ]
+}

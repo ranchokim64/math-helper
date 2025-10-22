@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ea016934-72fe-44b1-ba84-961ed91734aa",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005803",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.56,
+                            16.71,
+                            428.83,
+                            43.02
+                        ]
+                    ],
+                    "text_description": "다음 중 부피가 큰 것부터 차례로 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.49,
+                            54.05,
+                            435.27,
+                            143.18
+                        ]
+                    ],
+                    "text_description": "㉠ $200 \\mathrm{~cm}^{3}$ ㉡ $10000 \\mathrm{~m}^{3}$ ㉢ $2 \\mathrm{~m}^{3}$ ㉣ $10000000 \\mathrm{~cm}^{3}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            192.58,
+                            159.29,
+                            407.35,
+                            185.6
+                        ]
+                    ],
+                    "text_description": "㉡, ㉣, ㉢, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.89,
+                            195.8,
+                            382.65,
+                            239.83
+                        ]
+                    ],
+                    "text_description": "㉠ $200 \\mathrm{~cm}^{3}=0. 0002 \\mathrm{~m}^{3}$ ㉡ $10000 \\mathrm{~m}^{3}$ ㉢ $2 \\mathrm{~m}^{3}$ ㉣ $10000000 \\mathrm{~cm}^{3}=10 \\mathrm{~m}^{3} \\rightarrow$ ㉡ $>$ ㉣ $>$ ㉢ $>$ ㉠"
+                }
+            ]
+        }
+    ]
+}

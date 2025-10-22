@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "25e325bc-7ff6-43ad-90c4-fe114376ea45",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011245",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.8,
+                            9.91,
+                            500.44,
+                            37.23
+                        ]
+                    ],
+                    "text_description": "설명이 맞으면 $\\bigcirc$ 표, 틀리면 $\\times$ 표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167.64,
+                            170.56,
+                            726.64,
+                            196.44
+                        ]
+                    ],
+                    "text_description": "원의 중심을 지나는 선분 ㄱㄴ은 원의 반지름입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            368.96,
+                            41.19,
+                            527.6,
+                            168.55
+                        ]
+                    ],
+                    "text_description": "원이 있고 원의 중심을 지나는 직선 ㄱㄴ이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.28,
+                            267.48,
+                            72.56,
+                            284.12
+                        ]
+                    ],
+                    "text_description": "$\\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.64,
+                            305.24,
+                            536.56,
+                            327.64
+                        ]
+                    ],
+                    "text_description": "원의 중심을 지나는 선분 ㄱㄴ은 원의 지름입니다."
+                }
+            ]
+        }
+    ]
+}

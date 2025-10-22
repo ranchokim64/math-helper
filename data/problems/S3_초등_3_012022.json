@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e9c64c84-0476-4ed1-9fa8-c8164b1d7216",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012022",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20,
+                            12.73,
+                            447.16,
+                            129.49
+                        ]
+                    ],
+                    "text_description": "꽃 가게에 튤립은 357송이 있고, 장미는 튤립보다 186송이 더 많이 있습니다. 장미는 몇 송이 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            311,
+                            155.09,
+                            384.36,
+                            178.05
+                        ]
+                    ],
+                    "text_description": "543송이"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.76,
+                            184.62,
+                            291,
+                            232.26
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { (장미의 수) } & =(\\text { 튤립의 수) }+186 \\\\ & =357+186=543 \\text { (송이) }\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

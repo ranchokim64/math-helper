@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "01f10664-e0d0-42f6-be95-9a0fa2a8f462",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012039",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14,
+                            9.42,
+                            524,
+                            135.42
+                        ]
+                    ],
+                    "text_description": "전체에 대하여 색칠한 부분의 크기가 $\\frac{5}{8}$ 인 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            183.0,
+                            317.42,
+                            302.0,
+                            402.42
+                        ]
+                    ],
+                    "text_description": "⑤ 정사각형이 8등분 되어있고 5칸이 색칠되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            216,
+                            503,
+                            291
+                        ]
+                    ],
+                    "text_description": "① 삼각형이 삼등분되어있고 하나가 색칠되어 있다. ② 원형이 8등분 되어있고 7칸이 색칠되어있다. ③ 직사각형이 6등분 되어있고 4칸이 색칠되어있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            317,
+                            137,
+                            402
+                        ]
+                    ],
+                    "text_description": "④ 육각형이 4등분 되어있고 3칸이 색칠되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.0,
+                            411.0,
+                            354.0,
+                            469.0
+                        ]
+                    ],
+                    "text_description": "① $\\frac{1}{3}$\n② $\\frac{7}{8}$\n③ $\\frac{4}{6}$\n④ $\\frac{3}{4}$\n⑤ $\\frac{5}{8}$"
+                }
+            ]
+        }
+    ]
+}

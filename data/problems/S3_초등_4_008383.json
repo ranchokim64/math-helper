@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "34545b56-83b5-40a3-ba69-29b6164fa306",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008383",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.870000000000005,
+                            3.67,
+                            928.67,
+                            69.87
+                        ]
+                    ],
+                    "text_description": "왼쪽 도형을 움직여서 오른쪽 도형이 되었습니다. 처음 도형을 어떻게 움직인 것인지 알맞은 각도를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.67,
+                            274.96,
+                            915.07,
+                            346.96
+                        ]
+                    ],
+                    "text_description": "처음 도형을 위쪽으로 2번 뒤집고 시계 방향으로 $\\left(90^{\\circ}, 180^{\\circ}, 270^{\\circ}\\right)$만큼 돌렸습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303.67,
+                            82.27,
+                            657.47,
+                            264.07
+                        ]
+                    ],
+                    "text_description": "이미지는 두 개의 도형이 그리드 위에 배치되어 있습니다. 왼쪽에는 \"처음 도형\"이라고 표시된 도형이 있으며, 오른쪽은 \"움직인 도형\"으로 표시된 도형입니다. - 처음 도형: ㄷ자 도형을 뒤집은 형태로 조합된 블록이 그리드에 위치해 있습니다. - 움직인 도형: 처음 도형 형태의 도형과 유사하지만, 각도가 약간 변경되어 있습니다. 이 도형은 처음 도형에서 오른쪽으로 90도 회전한 도형입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.87,
+                            374.96,
+                            81.47,
+                            393.36
+                        ]
+                    ],
+                    "text_description": "$90^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.07,
+                            414.56,
+                            927.87,
+                            511.76
+                        ]
+                    ],
+                    "text_description": "위쪽으로 2 번 뒤집었을 때의 도형은 처음 도형과 같습니다. 따라서 움직인 도형은 처음 도형을 위쪽으로 2 번 뒤집고 시계 방향으로 $90^{\\circ}$만큼 돌 린 것과 같습니다."
+                }
+            ]
+        }
+    ]
+}

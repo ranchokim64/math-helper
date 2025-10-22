@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b13f1a92-d25c-4ab0-9ff2-d7d4aae4dd34",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003066",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            11.5,
+                            598.06,
+                            32.62
+                        ]
+                    ],
+                    "text_description": "간단한 자연수의 비로 나타내고, 나타낸 비를 이용하여 비례식을 세워 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.26,
+                            57.58,
+                            151.34,
+                            132.46
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3}: \\frac{3}{4}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.86,
+                            204.14,
+                            511.02,
+                            231.02
+                        ]
+                    ],
+                    "text_description": "간단한 자연수의 비 : (예) $8:9$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.26,
+                            231.66,
+                            511.02,
+                            286.06
+                        ]
+                    ],
+                    "text_description": "비례식 : (예) $\\frac{2}{3}: \\frac{3}{4}=8: 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.74,
+                            146.54,
+                            419.5,
+                            188.78
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3}: \\frac{3}{4}$의 전항과 후항에 12를 곱하면 $8: 9$입니다."
+                }
+            ]
+        }
+    ]
+}

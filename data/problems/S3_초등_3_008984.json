@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "90e26e18-420f-4d31-90f8-39bd1f25077e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008984",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.66,
+                            0.9099999999999999,
+                            290.24,
+                            27.09
+                        ]
+                    ],
+                    "text_description": "선분을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111.01,
+                            42.63,
+                            207.21000000000004,
+                            61.2
+                        ]
+                    ],
+                    "text_description": "두 점을 곡선이은 형태이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            281.91,
+                            47.5,
+                            399.32,
+                            56.36
+                        ]
+                    ],
+                    "text_description": "두 점을 직선이 한쪽만 통과한 형태이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            462.36,
+                            37.57,
+                            584.54,
+                            66.76
+                        ]
+                    ],
+                    "text_description": "두 점을 직선이 양쪽으로 통과한 형태이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            656.67,
+                            48.5,
+                            753.99,
+                            57.14
+                        ]
+                    ],
+                    "text_description": "두 점을 곧게 직선으로 이은 형태이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.96,
+                            95.31,
+                            128.95,
+                            101.63
+                        ]
+                    ],
+                    "text_description": "두 점을 곧게 직선으로 이은 형태이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.27,
+                            126.95,
+                            410.18,
+                            150.74
+                        ]
+                    ],
+                    "text_description": "두 점을 곧게 이은 선을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

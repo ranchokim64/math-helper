@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6a98c8ba-e6a7-4c82-b466-29d8e1b101ce",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010115",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.58,
+                            4.56,
+                            666.71,
+                            82.12
+                        ]
+                    ],
+                    "text_description": "서주네 학교 다체 줌넘기 대회에서 5학년 1반이 넘은 단체 줄넘기 기록입니다. 평균이 20번 이상 되어야 준결승에 올라갈 수 있을 때 1반은 준결승에 올라갈 수 있나요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            228.93,
+                            101.91,
+                            457.88,
+                            126.52
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lllll}24 & 17 & 14 & 28 & 12\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            340.8,
+                            145.91,
+                            530.97,
+                            175
+                        ]
+                    ],
+                    "text_description": "② 올라갈 수 없습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.84,
+                            149.64,
+                            211.77,
+                            172.01
+                        ]
+                    ],
+                    "text_description": "① 올라갈 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.11,
+                            241.37,
+                            354.97,
+                            263.75
+                        ]
+                    ],
+                    "text_description": "따라서 1반은 준결승에 올라갈 수 없습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            216.76,
+                            454.9,
+                            238.39
+                        ]
+                    ],
+                    "text_description": "$($ 평균 $)=(24+17+14+28+12) \\div 5=95 \\div 5=19$ (번)"
+                }
+            ]
+        }
+    ]
+}

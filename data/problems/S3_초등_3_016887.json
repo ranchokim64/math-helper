@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ca5407c2-f808-4982-acee-faf594b8c4f9",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016887",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.05,
+                            8.42,
+                            453.39,
+                            26.08
+                        ]
+                    ],
+                    "text_description": "2의 단 곱셈구구에서 4의 곱을 구할 때 필요한 곱셈식은 무엇일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.04,
+                            109.87,
+                            65.68,
+                            123.58
+                        ]
+                    ],
+                    "text_description": "$2 \\times 4$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.99,
+                            34.06,
+                            66.59,
+                            101.33
+                        ]
+                    ],
+                    "text_description": "① $2 \\times 6$\n② $4 \\times 3$\n③ $3 \\times 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.93,
+                            139.17,
+                            411.77,
+                            180.8
+                        ]
+                    ],
+                    "text_description": "2의 단 곱셈구구에서 4의 곱을 구할 때는 $2 \\times 4=8$이 됩니다. 따라서 정답은 ④입니다."
+                }
+            ]
+        }
+    ]
+}

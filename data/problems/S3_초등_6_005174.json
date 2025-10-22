@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df8dac59-cd79-41a3-a74e-1540efe1b5ca",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005174",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127.5,
+                            34.13,
+                            613.26,
+                            80.21
+                        ]
+                    ],
+                    "text_description": "★이 나타내는 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216.22,
+                            100.69,
+                            759.82,
+                            252.37
+                        ]
+                    ],
+                    "text_description": "●×2. 7=12. 96 ●÷2. 5=★"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            627.98,
+                            285.38,
+                            707.98,
+                            321.86
+                        ]
+                    ],
+                    "text_description": "$1. 92$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            158.86,
+                            340.42,
+                            661.9,
+                            414.66
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\bullet \\times 2. 7=12. 96, \\bullet=12. 96 \\div 2. 7=4. 8 \\\\ \\star=\\bullet 2. 5=4. 8 \\div 2. 5=1. 92 \\\\ \\bullet\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

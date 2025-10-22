@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "17d64eae-b670-439c-8b07-007d43580124",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010369",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.3,
+                            2.1399999999999997,
+                            497.3,
+                            37.94
+                        ]
+                    ],
+                    "text_description": "각기둥이 아닌 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            497.28,
+                            42.51,
+                            616.32,
+                            143.55
+                        ]
+                    ],
+                    "text_description": "② 사각뿔대이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            376.8,
+                            958.7,
+                            474.4
+                        ]
+                    ],
+                    "text_description": "②는 위와 아래에 있는 면이 서로 평행하고 다각형이지만 합동이 아니기 때문에 각기둥이 아닙니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.28,
+                            41.52,
+                            169.6,
+                            318
+                        ]
+                    ],
+                    "text_description": "① 오각기둥이다. ② 밑면이 사다리꼴인 각기둥이다. ③ 육각기둥이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            496.64,
+                            147.12,
+                            634.24,
+                            222.64
+                        ]
+                    ],
+                    "text_description": "④ 직육면체이다."
+                }
+            ]
+        }
+    ]
+}

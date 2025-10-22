@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "33ac750f-66fc-4cc6-ba37-e09929a71499",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005687",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.4,
+                            58.72,
+                            427,
+                            85.92
+                        ]
+                    ],
+                    "text_description": "백분율을 분수와 소수로 각각 나타내어 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            246.8,
+                            112.12,
+                            290.4,
+                            133.32
+                        ]
+                    ],
+                    "text_description": "$31 \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.8,
+                            152.72,
+                            464.4,
+                            244.32
+                        ]
+                    ],
+                    "text_description": "㉠ 분수: $\\left(\\quad \\frac{31}{100} \\quad\\right)$ ㉡ 소수: $\\left(\\begin{array}{lll}0. 31\\end{array}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.2,
+                            7.720000000000001,
+                            223,
+                            49.52
+                        ]
+                    ],
+                    "text_description": "$31 \\% \\rightarrow \\frac{31}{100}=0. 31$"
+                }
+            ]
+        }
+    ]
+}

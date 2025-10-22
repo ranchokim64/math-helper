@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "36ccfa3b-4bfd-4ead-869c-0a1e62d36452",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008555",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68,
+                            4.42,
+                            597,
+                            34.42
+                        ]
+                    ],
+                    "text_description": "계산 결과가 500보다 큰 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.0,
+                            282.0,
+                            360.0,
+                            350.0
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l} 35 \\times 13=455, 28 \\times 19=532 \\\\ \\quad \\Rightarrow 455<500, 532>500\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            436.0,
+                            70.0,
+                            525.0,
+                            197.0
+                        ]
+                    ],
+                    "text_description": "\\[ 35 \\times 13 \\] \\[ 28 \\times 19 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.0,
+                            238.0,
+                            135.0,
+                            262.0
+                        ]
+                    ],
+                    "text_description": "$28\\times19$"
+                }
+            ]
+        }
+    ]
+}

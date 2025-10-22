@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3d631cd6-e77e-467c-b105-582d765b10bc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005738",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.88,
+                            8.26,
+                            472.2,
+                            63.94
+                        ]
+                    ],
+                    "text_description": "어느 도서실의 책을 종류별로 조사하여 나타낸 띠그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.88,
+                            226.58,
+                            336.16,
+                            251.46
+                        ]
+                    ],
+                    "text_description": "동화책 수는 과학책 수의 몇 배인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.76,
+                            74.82,
+                            460.88,
+                            208.5
+                        ]
+                    ],
+                    "text_description": "종류별 책의 수를 조사하여 나타낸 띠그래프입니다. 전체 100% 중에 동화책(30%), 위인전(20%), 동시집(20%), 과학책(15%), 기타(15%)로 차지하는 비율을 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            314.84,
+                            270.02,
+                            347.4,
+                            294.62
+                        ]
+                    ],
+                    "text_description": "2배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37,
+                            306.58,
+                            438.92,
+                            346.18
+                        ]
+                    ],
+                    "text_description": "동화책 수는 전체의 $30 \\%$, 과학책 수는 전체의 $15 \\%$이므로 2배입니다."
+                }
+            ]
+        }
+    ]
+}

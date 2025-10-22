@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8164891d-bd1b-4b27-98dd-77df3648740b",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003073",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.25,
+                            12.5,
+                            726.25,
+                            41.25
+                        ]
+                    ],
+                    "text_description": "어린이 보호 구역에 있는 최고 속도 제한 표지판입니다. 물음에 답해 보세요. (원주율: 3. 14)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            317,
+                            712.5,
+                            343.75
+                        ]
+                    ],
+                    "text_description": "빨간색 부분의 바깥쪽 원주가 182.12cm 일 때 지름은 몇 cm 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            250,
+                            71.75,
+                            536.25,
+                            305
+                        ]
+                    ],
+                    "text_description": "30이라고 적혀있는 흰색의 원이 있다. 원의 바깥 선에서 지름이 7cm인 빨간색 원이 있다. 빨간색 원을 포함하는 흰색 원이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            101.25,
+                            392.5,
+                            265,
+                            428.75
+                        ]
+                    ],
+                    "text_description": "$58{cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            352.5,
+                            777.5,
+                            377.5
+                        ]
+                    ],
+                    "text_description": "빨간색 부분의 바깥쪽 원주가 182.12cm이므로 지름은 $182. 12 \\div 3. 14=58(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

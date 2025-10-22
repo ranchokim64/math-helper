@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d2bf3d46-a67b-42d7-85c9-91c39f306916",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010785",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-12] 분수와 소수의 관계를 이해하고 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-12] 분수와 소수의 관계를 이해하고 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            3.91,
+                            731,
+                            33.91
+                        ]
+                    ],
+                    "text_description": "분수와 소수의 크기를 비교하여 가장 큰 수를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.0,
+                            37.0,
+                            720.0,
+                            148.0
+                        ]
+                    ],
+                    "text_description": "보라색 상자에 다음과 같은 수가 들어 있다. $1\\frac{1}{4}$ $1.5$ $\\frac{13}{50}$ $0.46$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            199.5,
+                            730,
+                            288.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 분수를 소수로 나타내어 크기를 비교합니다. } \\\\ \\qquad 1 \\frac{1}{4}=1 \\frac{25}{100}=1. 25, \\frac{13}{50}=\\frac{26}{100}=0. 26 \\text { 이므로 } 1. 5>1 \\frac{1}{4}>0. 46>\\frac{13}{50} \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.0,
+                            159.5,
+                            84.0,
+                            184.5
+                        ]
+                    ],
+                    "text_description": "$1. 5$"
+                }
+            ]
+        }
+    ]
+}

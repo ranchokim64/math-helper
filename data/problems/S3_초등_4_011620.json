@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9cc1416-1c54-46a2-938b-74b1161c5ea7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011620",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48,
+                            9.92,
+                            452,
+                            72.92
+                        ]
+                    ],
+                    "text_description": "가장 큰 분수와 가장 작은 분수의 합과 차를 구하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82,
+                            101.92,
+                            416,
+                            160.92
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{13} \\quad \\frac{3}{13} \\quad \\frac{4}{13} \\quad \\frac{1}{13}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            241,
+                            178.5,
+                            383,
+                            275.5
+                        ]
+                    ],
+                    "text_description": "합: $\\frac{8}{13}$ 차: $\\frac{6}{13}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74,
+                            282.5,
+                            352,
+                            409.5
+                        ]
+                    ],
+                    "text_description": "가장 큰 분수: $\\frac{7}{13}$, 가장 작은 분수: $\\frac{1}{13}$ - 두 분수의 합: $\\frac{7}{13}+\\frac{1}{13}=\\frac{8}{13}$ $\\rightarrow$ 두 분수의 차: $\\frac{7}{13}-\\frac{1}{13}=\\frac{6}{13}$"
+                }
+            ]
+        }
+    ]
+}

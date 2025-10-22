@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dc7c6fc0-0b92-4ee2-9818-f5826da773b2",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011614",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.87,
+                            5.27,
+                            447.07,
+                            67.67
+                        ]
+                    ],
+                    "text_description": "1-2 가장 큰 분수와 가장 작은 분수의 차를 구 하세요"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            148.67,
+                            98.87,
+                            318.27,
+                            148.47
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{15}, \\frac{7}{15}, \\frac{3}{15}, \\frac{6}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            340.67,
+                            172.47,
+                            369.47,
+                            212.47
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.27,
+                            207.96,
+                            305.47,
+                            246.36
+                        ]
+                    ],
+                    "text_description": "가장 큰 분수 : $\\frac{7}{15}$, 가장 작은 분수: $\\frac{3}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.47,
+                            252.96,
+                            259.87,
+                            292.16
+                        ]
+                    ],
+                    "text_description": "두 분수의 차 : $\\frac{7}{15}-\\frac{3}{15}=\\frac{4}{15}$"
+                }
+            ]
+        }
+    ]
+}

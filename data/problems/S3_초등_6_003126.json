@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "612e632d-0117-4e91-a913-3afb1b77d291",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003126",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            10.42,
+                            431,
+                            38.42
+                        ]
+                    ],
+                    "text_description": "원의 넓이와 원 안의 마름모의 넓이를 비교해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120,
+                            59.42,
+                            610,
+                            341.42
+                        ]
+                    ],
+                    "text_description": "반지름이 3cm 인 원안에 마름모가 있는 그림 $($ 원 안의 마름모의 넓이 $)=$ $\\square$ $\\times$ $\\square$ $\\div 2=$ $\\square$ $\\left(\\mathrm{cm}^{2}\\right)$ $\\Rightarrow \\square \\mathrm{cm}^{2}<($ 원의 넓이 $)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123.88,
+                            366.78,
+                            633.01,
+                            662.16
+                        ]
+                    ],
+                    "text_description": "반지름이 3cm 인 원안에 마름모의 넓이를 구하는 과정 $($ 원 안의 마름모의 넓이 $)=6 \\times 6 \\div 2=18\\left(\\mathrm{~cm}^{2}\\right)$ $\\Rightarrow 18 \\mathrm{~cm}^{2}<($ 원의 넓이 $)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            668,
+                            756,
+                            724
+                        ]
+                    ],
+                    "text_description": "마름모의 넓이는 $($ 한 대각선의 길이 $) \\times$ (다른 대각선의 길이 $) \\div 2$ 이므로 원 안의 마름모의 넓이는 $6 \\times 6 \\div 2=18\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

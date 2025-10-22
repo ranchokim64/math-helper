@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d94cb717-3a6c-4a0f-a296-f107fba1637a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005361",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.97,
+                            18.79,
+                            468.88,
+                            56.36
+                        ]
+                    ],
+                    "text_description": "도형을 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.71,
+                            302.53,
+                            367.43,
+                            335.6
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            172.8,
+                            109.72,
+                            332.11,
+                            275.8
+                        ]
+                    ],
+                    "text_description": "반지름이 8cm인 원형의 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            323.84,
+                            353.63,
+                            439.57,
+                            389.71
+                        ]
+                    ],
+                    "text_description": "$99. 2 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.01,
+                            394.21,
+                            453.1,
+                            428.03
+                        ]
+                    ],
+                    "text_description": "(색칠한 부분의 넓이) $=(8 \\times 8 \\times 3. 1) \\div 2=99. 2\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

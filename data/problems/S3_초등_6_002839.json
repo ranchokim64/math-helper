@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f23c7c80-20c3-41d8-9093-4fe9e96bc9c5",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002839",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.26,
+                            14.74,
+                            668.26,
+                            42.74
+                        ]
+                    ],
+                    "text_description": "태오네 학교 학생들의 취미 활동을 조사하여 나타낸 표입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.26,
+                            237.27,
+                            491.26,
+                            265.27
+                        ]
+                    ],
+                    "text_description": "취미 활동별 학생 수의 백분율을 구하여 표를 완성해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.26,
+                            272.27,
+                            644.26,
+                            327.27
+                        ]
+                    ],
+                    "text_description": "악기 연주: $\\frac{65}{250} \\times 100=$ $\\square$ (\\%) 노래: $\\frac{30}{250} \\times 100=$ $\\square$ $(\\%)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.26,
+                            54.27,
+                            720.26,
+                            208.27
+                        ]
+                    ],
+                    "text_description": "학생들의 취미 활동으로 운동, 독서, 악기 연주, 노래가 있고 그에 따른 학생 수와 백분율을 표시해둔 표가 있고, 악기 연주, 노래, 합계의 백분율이 비어있다. 이 이미지는 학생들의 취미 활동에 대한 표입니다. 각 취미 활동의 학생 수와 백분율이 나와 있습니다. - 운동: 학생 수 85명, 백분율 34% - 독서: 학생 수 70명, 백분율 28% - 악기 연주: 학생 수 65명 - 노래: 학생 수 30명 - 전체 학생 수는 250명입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.26,
+                            568.27,
+                            621.26,
+                            616.27
+                        ]
+                    ],
+                    "text_description": "악기 연주: $\\frac{65}{250} \\times 100=26$ (%) 노래: $\\frac{30}{250} \\times 100=12$ (%)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.5,
+                            432.5,
+                            696.5,
+                            553.5
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|c|c|c|c|} \\hline 취미 활동 & 운동 & 독서 & 악기 연주 & 노래 & 합계 \\\\ \\hline 학생 수(명) & 85 & 70 & 65 & 30 & 250 \\\\ \\hline 백분율(\\%) & 34 & 28 & 26 & 12 & 100 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.26,
+                            331.27,
+                            572.26,
+                            421.27
+                        ]
+                    ],
+                    "text_description": "악기 연주: $\\frac{65}{250} \\times 100=26$ (%) 노래: $\\frac{30}{250} \\times 100=12$ (%)"
+                }
+            ]
+        }
+    ]
+}

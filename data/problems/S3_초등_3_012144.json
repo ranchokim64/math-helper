@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "09066828-35a3-46ad-8baf-2b58e1f329e9",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012144",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            11.92,
+                            654.5,
+                            59.92
+                        ]
+                    ],
+                    "text_description": "시계가 가리키는 시각을 읽어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            252.5,
+                            88.92,
+                            477.5,
+                            322.92
+                        ]
+                    ],
+                    "text_description": "시침이 3시 분침이 35분 초침이 50초를 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            407.5,
+                            353.5,
+                            618.5,
+                            391.5
+                        ]
+                    ],
+                    "text_description": "3시 35분 50초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            399.5,
+                            575.5,
+                            474.5
+                        ]
+                    ],
+                    "text_description": "짧은바늘과 긴바늘이 나타내는 시각: 3시 35분 초바늘: 숫자 $10 \\rightarrow 50$ 초"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7c66a69a-5d64-4441-8739-c6d8153a902f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009334",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.42,
+                            4.8,
+                            447.42,
+                            27.68
+                        ]
+                    ],
+                    "text_description": "분수의 크기를 비교하여 가장 큰 수를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            165.21,
+                            31.15,
+                            480.01,
+                            106.73
+                        ]
+                    ],
+                    "text_description": "분홍색 테두리의 상자에 다음과 같은 내용이 들어 있다. $\\frac{1}{6} \\quad \\frac{1}{9} \\quad \\frac{1}{10} \\quad \\frac{1}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.71,
+                            118.92,
+                            56.35,
+                            153.59
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.79,
+                            166.07,
+                            390.56,
+                            189.64
+                        ]
+                    ],
+                    "text_description": "분자가 1인 분수는 분모가 작을수록 큰 수입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.15,
+                            192.27,
+                            346.19,
+                            229.86
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow 5<6<9<10$ 이므로 가장 큰 수는 $\\frac{1}{5}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

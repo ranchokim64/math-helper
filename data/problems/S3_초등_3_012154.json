@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4eacf2ad-46c8-4244-bd78-871c3a7424fa",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012154",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.74,
+                            14.19,
+                            488.78,
+                            46.19
+                        ]
+                    ],
+                    "text_description": "색칠한 부분을 분수로 쓰고, 읽어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            184.1,
+                            69.03,
+                            359.5,
+                            220.91
+                        ]
+                    ],
+                    "text_description": "삼각형이 8등분 되었습니다. 5개가 색칠 되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            245.74,
+                            243.36,
+                            490.7,
+                            323.04
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lcl}\\text { 쓰기 }(& \\frac{5}{8} &) \\\\ \\text { 읽기 }(& 8 \\text { 분의 } 5 &)\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.86,
+                            325.96,
+                            361.42,
+                            349.28
+                        ]
+                    ],
+                    "text_description": "전체 8칸 중에서 5칸이 색칠 된 것입니다."
+                }
+            ]
+        }
+    ]
+}

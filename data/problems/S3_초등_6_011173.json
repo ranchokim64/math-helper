@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "63923d9e-c1bc-44a8-a6f1-090c55605d68",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011173",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.5,
+                            -0.08,
+                            772.5,
+                            27.92
+                        ]
+                    ],
+                    "text_description": "진원이의 설명을 보고 만들 수 있는 비례식을 모두 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.5,
+                            178.5,
+                            786.5,
+                            250.5
+                        ]
+                    ],
+                    "text_description": "$8: 1=48: 6$ $8: 48=1: 6$ $8: 6=1: 48$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216.5,
+                            33.92,
+                            679.5,
+                            148.92000000000002
+                        ]
+                    ],
+                    "text_description": "진원: 외항이 8과 6, 내항이 1과 48인 비례식을 세워 봐."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            263.5,
+                            260.5,
+                            292.5
+                        ]
+                    ],
+                    "text_description": "$8: 1=48: 6, 8: 48=1: 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            305.5,
+                            733.5,
+                            331.5
+                        ]
+                    ],
+                    "text_description": "외항에 8과 6, 내항에 1과 48을 번갈아 놓으면서 비례식을 세워 봅니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            338.5,
+                            488.5,
+                            365.5
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow 8: 1=48: 6, 8: 48=1: 6, 6: 48=1: 8, 6: 1=48: 8$"
+                }
+            ]
+        }
+    ]
+}

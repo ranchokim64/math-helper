@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7a1b2bcf-96ee-4780-a758-d3d012165bca",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011114",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.26,
+                            3.65,
+                            869.26,
+                            104.9
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 1 층 위에 서로 다른 모양으로 2 층과 3 층을 쌓으려고 합니다. 1 층 모양을 보고 2 층과 3 층으로 쌓을 수 있는 알맞은 모양을 찾아 기호를 선택 해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315.51,
+                            320.63,
+                            498.01,
+                            436.88
+                        ]
+                    ],
+                    "text_description": "2층 (가, 나, 다)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            550.51,
+                            319.38,
+                            719.26,
+                            438.13
+                        ]
+                    ],
+                    "text_description": "3층 (가, 나, 다)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            215.51,
+                            105.63,
+                            689.26,
+                            301.88
+                        ]
+                    ],
+                    "text_description": "모눈종이 3x3으로 이루어져 있다. 가: 위에서 중간과 오른쪽에 중간에서 중간에 있다. 나: 위 왼쪽, 중간 왼쪽과 중간, 아래 왼쪽에 잇다. 다. 위 중간, 중간 중간에 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            177.51,
+                            320.38,
+                            281.76,
+                            496.88
+                        ]
+                    ],
+                    "text_description": "1층 3x3으로 이루어져 있는 모눈종이이다. 위 3칸 중간 중간 아래 왼쪽 중간에 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.01,
+                            500.63,
+                            118.01,
+                            530.63
+                        ]
+                    ],
+                    "text_description": "가, 다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.51,
+                            543.13,
+                            870.51,
+                            611.88
+                        ]
+                    ],
+                    "text_description": "2 층으로 가능한 모양은 가와 다입니다. 다를 2 층에 놓으면 3 층에 놓을 수 있는 모양이 없습니다. 따라서 2 층에가, 3 층에 다를 놓습니다."
+                }
+            ]
+        }
+    ]
+}

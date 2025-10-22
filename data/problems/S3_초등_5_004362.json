@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c217c92c-79de-4f9a-bd17-136e56acbb00",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004362",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.83,
+                            10.54,
+                            300.81,
+                            28.98
+                        ]
+                    ],
+                    "text_description": "다음 중에서 가장 큰 분수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.67,
+                            38.7,
+                            305.42,
+                            96.49
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{15} \\quad \\frac{6}{13} \\quad \\frac{12}{25}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.19,
+                            98.1,
+                            298.25,
+                            134.96
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.17,
+                            135.79,
+                            361.74,
+                            218.74
+                        ]
+                    ],
+                    "text_description": "분자를 같게 하여 크기를 비교하는 것이 더 쉽습니다. $\\left(\\frac{8}{15}, \\frac{6}{13}, \\frac{12}{25}\\right) \\rightarrow\\left(\\frac{24}{45}, \\frac{24}{52}, \\frac{24}{50}\\right)$ 이고 분자가 같은 때 분모가 작을수록 큰 분수이므로 $\\frac{8}{15}$이 가장 큰 분수입니다."
+                }
+            ]
+        }
+    ]
+}

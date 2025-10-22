@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3fc99be3-db82-47bb-981f-4c85e5968857",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004601",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            18.4,
+                            341.5,
+                            51.4
+                        ]
+                    ],
+                    "text_description": "수직선에 나타내어 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.77,
+                            92.28,
+                            345.77,
+                            120.28
+                        ]
+                    ],
+                    "text_description": "5초과 9 이하인 수"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.7,
+                            87.8,
+                            350.02,
+                            122.36
+                        ]
+                    ],
+                    "text_description": "5 초과 9 이하인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            152.4,
+                            620.5,
+                            212.4
+                        ]
+                    ],
+                    "text_description": "수직선 위에 2~10까지 수를 그려넣고 5초과 9 이하인 수를 표시함."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            227.4,
+                            619.5,
+                            287.4
+                        ]
+                    ],
+                    "text_description": "이상과 이하는 점 ●을, 초과와 미만은 점 $\\bigcirc$을 이용하여 나타 냅니다."
+                }
+            ]
+        }
+    ]
+}

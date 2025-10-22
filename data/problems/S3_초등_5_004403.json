@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "54fa37a1-b248-4bf2-b21d-5cc04870ac0c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004403",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.78,
+                            9.68,
+                            351.94,
+                            32.72
+                        ]
+                    ],
+                    "text_description": "㉠과 ㉡ 중 어느 것이 얼마나 더 큰가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.22,
+                            43.6,
+                            437.06,
+                            119.12
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{3}{5}-\\frac{1}{3}$ ㉡ $\\frac{4}{5}-\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            222.66,
+                            121.9,
+                            380.06,
+                            168.14
+                        ]
+                    ],
+                    "text_description": "㉡ $\\quad, \\frac{1}{30}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.86,
+                            166.5,
+                            442.82,
+                            285.26
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{3}{5}-\\frac{1}{3}=\\frac{9}{15}-\\frac{5}{15}=\\frac{4}{15}$. ㉡ $\\frac{4}{5}-\\frac{1}{2}=\\frac{8}{10}-\\frac{5}{10}=\\frac{3}{10}$ $\\frac{4}{15}=\\frac{8}{30} \\cdot \\frac{3}{10}=\\frac{9}{30}$ 이므로 ㉡이 $\\frac{3}{10}-\\frac{4}{15}=\\frac{9}{30}-\\frac{8}{30}=\\frac{1}{30}$만큼 더 큽니다."
+                }
+            ]
+        }
+    ]
+}

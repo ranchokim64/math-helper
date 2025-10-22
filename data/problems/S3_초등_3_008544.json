@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6d00acfc-a400-417e-bc49-333008d292ed",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008544",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            9.92,
+                            724.5,
+                            39.92
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 순서대로 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            182.5,
+                            163.5,
+                            213.5
+                        ]
+                    ],
+                    "text_description": "③ ㉢ ㉠ ㉡"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            476.5,
+                            138.5,
+                            608.5,
+                            213.5
+                        ]
+                    ],
+                    "text_description": "② ㉢ ㉡ ㉠ ④ ㉡ ㉠ ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            276.5,
+                            923.5,
+                            379.5
+                        ]
+                    ],
+                    "text_description": "㉠ $9 \\times 85=765 \\quad$ ㉡ $8 \\times 65=520 \\quad$ ㉢ $6 \\times 73=438$ $\\Rightarrow 765>520>438$ 이므로 계산 결과가 큰 것부터 순서대로 기호를 쓰면 ㉠, ㉡, ㉢입 니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.0,
+                            50.0,
+                            858.0,
+                            131.0
+                        ]
+                    ],
+                    "text_description": "핑크색 네모 상자에 다음과 같은 식이 들어 있다.㉠ $9 \\times 85 \\quad$ ㉡ $8 \\times 65 \\quad$ ㉢ $6 \\times 73$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.0,
+                            140.0,
+                            156.0,
+                            168.0
+                        ]
+                    ],
+                    "text_description": "㉠ ㉡  ㉢"
+                }
+            ]
+        }
+    ]
+}

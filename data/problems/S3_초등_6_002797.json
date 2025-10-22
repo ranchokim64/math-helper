@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9671b0a0-b822-43db-9520-a94b58bed226",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002797",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.4,
+                            7.94,
+                            543.8,
+                            39.94
+                        ]
+                    ],
+                    "text_description": "자연수의 나눗셈을 이용하여 소수의 나눗셈을 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.2,
+                            78.34,
+                            241.4,
+                            175.14
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}286 \\div 2=143 \\\\ 2. 86 \\div 2=\\square \\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.2,
+                            288.4,
+                            211.8,
+                            375.6
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}286 \\div 2=143 \\\\ 2. 86 \\div 2=1. 43\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.2,
+                            211.6,
+                            626.8,
+                            260.6
+                        ]
+                    ],
+                    "text_description": "나누는 수가 같을 때 나누어지는 수가 $\\frac{1}{100}$ 배가 되면 몫도 $\\frac{1}{100}$ 배가 됩니다."
+                }
+            ]
+        }
+    ]
+}

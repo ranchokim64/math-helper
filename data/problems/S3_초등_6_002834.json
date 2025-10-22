@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ffa12bb2-cf75-4f34-b969-97d451434cb1",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002834",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.28,
+                            7.18,
+                            718.28,
+                            72.18
+                        ]
+                    ],
+                    "text_description": "어느 제과점에서 하루 동안 만들어서 판매한 빵의 수를 조사하여 표로 정리한 것입니다. 판매율이 높은 빵부터 차례대로 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.87,
+                            92.96,
+                            716.45,
+                            209.91
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|c|c|} \\hline 종류 & 식빵 & 카스텔라 & 단팥빵 \\\\ \\hline 만든 개수(개) & 50 & 20 & 25 \\\\ \\hline 판매한 개수(개) & 43 & 18 & 20 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.28,
+                            402.72,
+                            374.28,
+                            429.72
+                        ]
+                    ],
+                    "text_description": "카스텔라, 식빵, 단팥빵"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.28,
+                            269.72,
+                            615.28,
+                            389.72
+                        ]
+                    ],
+                    "text_description": "$($ 판매율 $)=\\frac{(\\text { 판매한 개수) }}{(\\text { 만든 개수) }} \\times 100(\\%)$ 이므로 식빵의 판매율은 $\\frac{43}{50} \\times 100=86(\\%)$, 카스텔라의 판매율은 $\\frac{18}{20} \\times 100=90(\\%)$, 단팔빵의 판매율은 $\\frac{20}{25} \\times 100=80(\\%)$입니다."
+                }
+            ]
+        }
+    ]
+}

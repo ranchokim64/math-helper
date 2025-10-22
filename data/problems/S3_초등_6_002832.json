@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8909431d-e228-4109-8a45-613525004e4f",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002832",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.6,
+                            17.84,
+                            724.6,
+                            77.04
+                        ]
+                    ],
+                    "text_description": "고속 열차의 차량별 좌석 수와 탑승객 수입니다. 차량별 좌석 수에 대한 탑승객 수의 비율을 백분율로 나타내어 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.4,
+                            305.5,
+                            725.4,
+                            339.9
+                        ]
+                    ],
+                    "text_description": "1호 차 () %, 2호 차 () %, 3호 차 () %"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.4,
+                            97.3,
+                            704.6,
+                            292.7
+                        ]
+                    ],
+                    "text_description": "고속 열차가 있고 1호 차에는 좌석 수 25석 탑승객 수 21명 2호 차에는 좌석 수 35석 탑승객 수 28명 3호 차에는 좌석 수 32석 탑승객 수 24명이 표시되어 있는 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.4,
+                            479.9,
+                            680.6,
+                            516.7
+                        ]
+                    ],
+                    "text_description": "1호 차 (84) %, 2호 차 (80) %, 3호 차 (75) %"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.8,
+                            360.7,
+                            564.6,
+                            460.7
+                        ]
+                    ],
+                    "text_description": "1호 차: $\\frac{21}{25} \\times 100=84(\\%)$, 2호 차: $\\frac{28}{35} \\times 100=80(\\%)$, 3호 차: $\\frac{24}{32} \\times 100=75(\\%)$"
+                }
+            ]
+        }
+    ]
+}

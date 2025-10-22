@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2191ec63-5a9a-4d8c-8570-198a7679bb22",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016900",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.78,
+                            3.74,
+                            457.78,
+                            24.74
+                        ]
+                    ],
+                    "text_description": "8의 단 곱셈구구에서 3의 곱을 구할 때 필요한 곱셈식은 무엇일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.78,
+                            29.28,
+                            71.78,
+                            50.28
+                        ]
+                    ],
+                    "text_description": "① $8 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.84,
+                            31.61,
+                            70.13,
+                            46.29
+                        ]
+                    ],
+                    "text_description": "$8 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.78,
+                            56.28,
+                            72.78,
+                            125.28
+                        ]
+                    ],
+                    "text_description": "② $3 \\times 8$\n③ $7 \\times 3$\n④ $6 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.94,
+                            134.69,
+                            413.23,
+                            176.18
+                        ]
+                    ],
+                    "text_description": "8의 단 곱셈구구에서 3의 곱을 구할 때는 $8 \\times 3=24$가 됩니다. 따라서 정답은 ①입니다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            273.78,
+                            132.28,
+                            413.78,
+                            151.28
+                        ]
+                    ],
+                    "text_description": "$8 \\times 3=24$가 됩니다."
+                }
+            ]
+        }
+    ]
+}

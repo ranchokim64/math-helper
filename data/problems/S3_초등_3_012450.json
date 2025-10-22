@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6afd7f4c-45fe-4a23-8486-52cea58276c3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012450",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            19.4,
+                            250.5,
+                            176.4
+                        ]
+                    ],
+                    "text_description": "오른쪽 도형에서 세 원의 반지름은 모두 같습니다. 삼각형 ㄱㄴㄷ의 세 변의 길이의 합은 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.5,
+                            24.4,
+                            405.5,
+                            151.4
+                        ]
+                    ],
+                    "text_description": "반지름이 모두 같은 세개의 원이 있다. 원점 ㄱㄴㄷ으로 된 삼각형이 있다. ㄱ의 반지름은 5cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            305.5,
+                            194.4,
+                            355.5,
+                            213.4
+                        ]
+                    ],
+                    "text_description": "30cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.5,
+                            222.4,
+                            272.5,
+                            260.4
+                        ]
+                    ],
+                    "text_description": "삼각형의 한 변의 길이 : $5 \\times 2=10(\\mathrm{~cm})$ \\[ \\rightarrow 10 \\times 3=30(\\mathrm{~cm}) \\]"
+                }
+            ]
+        }
+    ]
+}

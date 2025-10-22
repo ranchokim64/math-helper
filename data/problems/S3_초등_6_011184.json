@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f66d769f-b16c-41e7-8ae9-d1d99e34b1b1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011184",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.87,
+                            5.48,
+                            853.87,
+                            104.23
+                        ]
+                    ],
+                    "text_description": "은아는 딱지를 만들려고 합니다. 딱지 4 개를 만들려면 색종이 5 장이 필요 할 때, 딱지 8 개를 만들려면 색종이가 몇 장 필요한지 은아의 생각이 옳으 면 $\\bigcirc$ 표, 틀리면 $\\times$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.62,
+                            129.23000000000002,
+                            752.62,
+                            274.23
+                        ]
+                    ],
+                    "text_description": "은아 필요한 색종이 수를 $\\square$ 장이라 하면 $4: 5=8: $\\bigcirc$$ 야. 내항의 곱인 40과 외항의 곱인 $4 \\times \\square$가 같으니까 $\\bigcirc$의 값은 10 이야. 그래서 색종이가 10 장 필요해."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.87,
+                            332,
+                            66.87,
+                            355.25
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.8,
+                            372.86,
+                            141.6,
+                            399.86
+                        ]
+                    ],
+                    "text_description": "$4: 5=8:\\square$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.6,
+                            405.66,
+                            390.4,
+                            453.46
+                        ]
+                    ],
+                    "text_description": "\\[ 4 \\times \\square=5 \\times 8, 4 \\times \\square=40, \\square=10 \\] 따라서 은아의 생각은 옳습니다."
+                }
+            ]
+        }
+    ]
+}

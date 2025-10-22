@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e44a2fc2-0f4b-4415-bc42-512611827f34",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011119",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.5,
+                            3.42,
+                            841.5,
+                            28.42
+                        ]
+                    ],
+                    "text_description": "<보기>와 같이 컵을 놓았을 때 찍을 수 없는 사진을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.5,
+                            33.42,
+                            337.5,
+                            290.42
+                        ]
+                    ],
+                    "text_description": "중앙에 배경이 갈색인 사각형 내부에 서로 다른 색상의 원형 커피잔이 세 개 배치되어 있음. - 파란색 커피잔 (우측 상단) - 노란색 커피잔 (좌측 하단) - 주황색 커피잔 (중앙)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            387.5,
+                            41,
+                            791.5,
+                            269
+                        ]
+                    ],
+                    "text_description": "네 개의 다른 장면 구성이 있음 (가, 나, 다, 라). - 가: 파란색 컵(세로형)과 주황색 컵이 나란히 놓여져 있고, 노란색 컵은 오른쪽에 있음. - 나: 파란색 컵(세로형)과 노란색 컵이 나란히 놓여져 있고, 주황색 컵이 오른쪽에 있음. - 다: 노란색컵, 주황색 컵, 파란색 컵(세로형)이 나란히 배치되어 있음. - 라: 주황색 컵, 노란색 컵, 파란색 컵(세로형)이 순서대로 앞에 나열되어 있음. 각 구성에서 컵들의 배치가 다름."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            300,
+                            79.5,
+                            323
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            339,
+                            229.5,
+                            555
+                        ]
+                    ],
+                    "text_description": "중앙에 배경이 갈색인 사각형 내부에 서로 다른 색상의 원형 커피잔이 세 개 배치되어 있음. - 파란색 커피잔 (우측 상단) - 노란색 커피잔 (좌측 하단) - 주황색 커피잔 (중앙) 위에는 다, 우측엔 라, 하단엔가 라고 적혀 있음"
+                }
+            ]
+        }
+    ]
+}

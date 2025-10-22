@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "03418cf6-5cfb-4e46-864d-624558af3478",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004745",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.26,
+                            6.15,
+                            451.76,
+                            69.9
+                        ]
+                    ],
+                    "text_description": "다음 계산에서 소수점을 찍어야 할 곳을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.7,
+                            76.74,
+                            427.3,
+                            194.34
+                        ]
+                    ],
+                    "text_description": "핑크색 테두리의 네모 상자에 다음과 같은 내용이 들어 있다. $4. 237 \\times 100=4+\\square_{\\uparrow}^{2} \\square_{\\uparrow}^{3} \\square_{\\uparrow}^{7}$ 그리고 좌즉부터 각 네모 ㉠, ㉡, ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            339.3,
+                            206,
+                            361.7,
+                            229.2
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.1,
+                            235.6,
+                            234.3,
+                            263.8
+                        ]
+                    ],
+                    "text_description": "$4. 237 \\times 100=423. 7$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9c97e4fc-a3f5-44fc-9f2e-ceef3734cf8c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010864",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.56,
+                            1.71,
+                            686.35,
+                            28.76
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 작은 것부터 차례로 나타낸 것을 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196.67,
+                            38.01,
+                            706.27,
+                            208.12
+                        ]
+                    ],
+                    "text_description": "㉠ $9 \\div \\frac{5}{7}$ ㉡ $\\frac{2}{5} \\div \\frac{7}{12}$ ㉢ $\\frac{3}{4} \\div \\frac{3}{13}$ ㉣ $12 \\div \\frac{8}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            581.72,
+                            211.37,
+                            748.27,
+                            246.96
+                        ]
+                    ],
+                    "text_description": "③ ㉡, ㉢, ㉠, ㉣"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.97,
+                            210.66,
+                            477.1,
+                            288.24
+                        ]
+                    ],
+                    "text_description": "① ㉠, ㉡, ㉢, ㉣ ② ㉡, ㉠, ㉢, ㉣ ④ ㉢, ㉡, ㉠, ㉣ ⑤ ㉢, ㉣, ㉡, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.129999999999995,
+                            357.99,
+                            783.85,
+                            545.18
+                        ]
+                    ],
+                    "text_description": "㉠ $9 \\div \\frac{5}{7}=9 \\times \\frac{7}{5}=\\frac{63}{5}=12 \\frac{3}{5}$ ㉡ $\\frac{2}{5} \\div \\frac{7}{12}=\\frac{2}{5} \\times \\frac{12}{7}=\\frac{24}{35}$ ㉢ $\\frac{3}{4} \\div \\frac{3}{13}=\\frac{3}{4} \\times \\frac{13}{3}=\\frac{13}{4}=3 \\frac{1}{4}$ ㉣ $12 \\div \\frac{8}{15}=12 \\times \\frac{15}{8}=\\frac{45}{2}=22 \\frac{1}{2}$ 따라서 $\\frac{24}{35}<3 \\frac{1}{4}<12 \\frac{3}{5}<22 \\frac{1}{2}$ 이므로 ㉡<㉢<㉠<㉣입니다."
+                }
+            ]
+        }
+    ]
+}

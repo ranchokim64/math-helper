@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ece44678-6847-49b2-90d2-64e72e77dfb6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007372",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.6,
+                            14.04,
+                            845.8,
+                            73.24
+                        ]
+                    ],
+                    "text_description": "삼각형 모양의 종이가 찢어졌습니다. 처음 모양이 정삼각형인 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            241.8,
+                            83.84,
+                            638.6,
+                            225.24
+                        ]
+                    ],
+                    "text_description": "삼각형 모양의 종이가 찢어져 있는 도형 2개가 있습니다. 왼쪽 파란색가 삼각형은 각각 60도와 65도의 각도가 표기되어 있고 오른쪽 모서리가 찢어져 있습니다. 오른쪽 주황색 나 삼각형은 양쪽 모서리가 60도로 표기되어 있고 윗쪽 모서리가 찢어져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            248.1,
+                            75.4,
+                            268.9
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.2,
+                            288.9,
+                            540.2,
+                            314.5
+                        ]
+                    ],
+                    "text_description": "(가의 나머지 한 각의 크기)$=180^{\\circ}-60^{\\circ}-65^{\\circ}=55^{\\circ}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.8,
+                            320.9,
+                            507.4,
+                            347.3
+                        ]
+                    ],
+                    "text_description": "(나의 나머지 한 각의 크기)=$180-60^{\\circ}-60^{\\circ}=60^{\\circ}$"
+                }
+            ]
+        }
+    ]
+}

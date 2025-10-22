@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aad6309d-8296-4787-a694-65719770ffa8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008724",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.1,
+                            4.24,
+                            924.7,
+                            34.64
+                        ]
+                    ],
+                    "text_description": "점 ㄱ, 점 느은 원의 중심입니다. 선분 ㄱㄷㄴㅇㅢ 길이는 몇 cm 인지 구하세"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            45.04,
+                            67.9,
+                            72.24
+                        ]
+                    ],
+                    "text_description": "요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296.7,
+                            85.5,
+                            662.1,
+                            288.7
+                        ]
+                    ],
+                    "text_description": "큰 원과 작은 원이 있습니다$. $큰원의 중심은 ㄱ 작은 점의 중심은 ㄴ입니다 두 원은 중심 점이 곧게 연결되어 있고 반지름이 표시 되어 있습니다$. $ 점 ㄷ은 점 ㄱ에서 출발해 ㄴ을 지나 ㄷ과 연결되어 있습니다 ㄱ 원의 반지름은 $12cm$, ㄱㄷ은 반지름 9cm를 표시하고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            620.7,
+                            302.3,
+                            714.3,
+                            333.5
+                        ]
+                    ],
+                    "text_description": "③ 30cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.3,
+                            303.9,
+                            423.9,
+                            373.5
+                        ]
+                    ],
+                    "text_description": "① 21cm ② 24cm ① 33cm ⑤ 40cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.9,
+                            438.3,
+                            926.7,
+                            475.1
+                        ]
+                    ],
+                    "text_description": "$($ 선분 ㄱㄷ의 길이 $)=($ 큰 원의 반지름 $)+($ 작은 원의 지름 $)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.700000000000003,
+                            485.5,
+                            519.9,
+                            554.7
+                        ]
+                    ],
+                    "text_description": "\\[ =12+18=30(\\mathrm{~cm}) \\] 따라서 선분 ㄱㄷ의 길이는 30cm 입니다."
+                }
+            ]
+        }
+    ]
+}

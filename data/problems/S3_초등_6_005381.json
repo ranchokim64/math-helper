@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f65f0a84-8a4f-4745-bd4e-93901c3b5cc4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005381",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.16,
+                            8.84,
+                            394.88,
+                            36.36
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이를 구해 보세요. (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            268.8,
+                            41.82,
+                            442.88,
+                            193.5
+                        ]
+                    ],
+                    "text_description": "직사각형 안에 꽃 그림. 직사각형의 가로세로는 10cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.76,
+                            236.62,
+                            519.32,
+                            368.22
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 색칠한 부분에 넓이의 8배입니다. (색칠한 부분의 넓이 $)=\\left(5 \\times 5 \\times 3. 14 \\times \\frac{1}{4}\\right)-\\left(5 \\times 5 \\times \\frac{1}{2}\\right)=19. 625-12. 5=7. 125\\left(\\mathrm{~cm}^{2}\\right)$ (색칠한 부분의 넓이) $=7. 125 \\times 8=57\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            611.0,
+                            389.0,
+                            637.0,
+                            412.0
+                        ]
+                    ],
+                    "text_description": "57"
+                }
+            ]
+        }
+    ]
+}

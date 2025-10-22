@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "28752188-2cf5-4368-ac72-30fcff2e48fa",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009224",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.35,
+                            0.85,
+                            667.92,
+                            25.97
+                        ]
+                    ],
+                    "text_description": "다음 글을 읽고, 주어진 길이에 해당하는 단위를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.15,
+                            30.33,
+                            749.82,
+                            182.11
+                        ]
+                    ],
+                    "text_description": "유선이와 현주는 같은 반 친구입니다. 유선이의 키는 $132(\\mathrm{~mm}, \\mathrm{~cm})$ 이고, 현주는 유선이보다 $80(\\mathrm{~mm}, \\mathrm{~cm})$ 작습니다. 그런데 신발 크기는 현주가 약 $1(\\mathrm{~mm}, \\mathrm{~cm})$ 정도 큽니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.62,
+                            194.79,
+                            159.09,
+                            213.35
+                        ]
+                    ],
+                    "text_description": "$\\mathrm{cm}, \\mathrm{mm}, \\mathrm{cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.59,
+                            227.55,
+                            749.82,
+                            338.92
+                        ]
+                    ],
+                    "text_description": "사람의 키는 일반적으로 $cm$ 또는 $m$로 재는데, 유선이의 키가 $132$이라고 하였으므로 단위는 $cm$ 입니다. 그리고 신발 크기는 $5mm$ 단위이므로 현주의 신발 크기가 약 $1cm$ 정도 크다는 표현이 맞습니다."
+                }
+            ]
+        }
+    ]
+}

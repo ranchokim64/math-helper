@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1f695916-9c7d-4ccf-9abc-6a8df634bde8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010838",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.61,
+                            10.719999999999999,
+                            608.36,
+                            58.22
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{3}{4} \\div \\frac{5}{9}$를 곱셈식으로 바르게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            211.36,
+                            63.97,
+                            578.36,
+                            145.72
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{4} \\times \\frac{5}{9} \\quad \\frac{7}{4} \\times \\frac{9}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.36,
+                            158.72,
+                            104.11,
+                            199.97
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{4} \\times \\frac{9}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.11,
+                            214.01,
+                            741.61,
+                            239.01
+                        ]
+                    ],
+                    "text_description": "나눗셈을 곱셈으로 나타낼 때에는 나누는 분수의 분모와 분자를 바꾸어야 합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.11,
+                            245.26,
+                            256.61,
+                            291.51
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{3}{4} \\div \\frac{5}{9}=\\frac{7}{4} \\div \\frac{5}{9}=\\frac{7}{4} \\times \\frac{9}{5}$"
+                }
+            ]
+        }
+    ]
+}

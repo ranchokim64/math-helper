@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5df4cd29-8318-49d0-b82f-c2f556e09f19",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008539",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.9,
+                            4.64,
+                            933.3,
+                            70.24
+                        ]
+                    ],
+                    "text_description": "정사각형 모양의 배열을 보고 사각형()이 45개인 모양은 몇째에 알맞은 모양일지 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            266.9,
+                            87.04,
+                            701.3,
+                            242.24
+                        ]
+                    ],
+                    "text_description": "첫째 둘째 셋째 넷째에 사각형이 배열에 맞게 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            332.29,
+                            296.96,
+                            433.15,
+                            326.14
+                        ]
+                    ],
+                    "text_description": "⑤ 아홉째"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.35,
+                            255.49,
+                            136.7,
+                            325.63
+                        ]
+                    ],
+                    "text_description": "① 다섯째 ④ 여덟째"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.31,
+                            254.98,
+                            728.58,
+                            282.62
+                        ]
+                    ],
+                    "text_description": "② 여섯째 ③ 일곱째"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17,
+                            394.88,
+                            931.84,
+                            488.52
+                        ]
+                    ],
+                    "text_description": "사각형이 1개에서 시작하여 2개, 3개, 4개. . . . . 씩 늘어납니다. $1+2+3+4+5+6+7+8+9=45$ 이므로 사각형이 45개인 모양은 아홉째에 알맞은 모양입니다."
+                }
+            ]
+        }
+    ]
+}

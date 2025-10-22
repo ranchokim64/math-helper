@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "47d39584-3f31-44b2-ae15-d6f6a1fb7ea2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011148",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.46,
+                            4.44,
+                            867.22,
+                            69.41
+                        ]
+                    ],
+                    "text_description": "비례식의 성질을 이용하여 $\\mathbf{\\Delta}$의 값을 바르게 구한 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            400.67,
+                            317.05,
+                            505,
+                            347.56
+                        ]
+                    ],
+                    "text_description": "(가, 나)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.35,
+                            73.93,
+                            860.33,
+                            317.05
+                        ]
+                    ],
+                    "text_description": "가 \\[ \\begin{aligned} \\frac{1}{2}: \\frac{1}{3}=6: \\boldsymbol{\\Delta} \\Rightarrow \\frac{1}{2} \\times 6 & =\\frac{1}{3} \\times \\Delta \\\\ \\frac{1}{3} \\times \\boldsymbol{\\Delta} & =3 \\\\ \\boldsymbol{\\Delta} & =9 \\end{aligned} \\] $\\begin{array}{l} \\text { 나 } \\\\ \\frac{1}{2}: \\frac{1}{3}=6: \\boldsymbol{\\Delta} \\Rightarrow \\frac{1}{2} \\times \\boldsymbol{\\Delta}=\\frac{1}{3} \\times 6 \\\\ \\frac{1}{2} \\times \\boldsymbol{\\Delta}=2 \\\\ \\boldsymbol{\\Delta}=4\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.12,
+                            360.36,
+                            86.68,
+                            389.89
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.13,
+                            406.62,
+                            773.71,
+                            434.18
+                        ]
+                    ],
+                    "text_description": "비례식의 성질을 이용할 때에는 외항끼리 곱하고 내항끼리 곱해야 합니다."
+                }
+            ]
+        }
+    ]
+}

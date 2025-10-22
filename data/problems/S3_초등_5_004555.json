@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aea5f73d-f6f9-43b6-bc73-c9af3fec1052",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004555",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.4,
+                            12.93,
+                            130.4,
+                            52.73
+                        ]
+                    ],
+                    "text_description": "$5 \\frac{8}{15}-3 \\frac{7}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -2.6,
+                            155.6,
+                            27.2,
+                            200.4
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{5}{6}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20,
+                            62,
+                            328.8,
+                            154.8
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}=5 \\frac{16}{30}-3 \\frac{21}{30}=4 \\frac{46}{30}-3 \\frac{21}{30} \\\\ =(4-3)+\\left(\\frac{46}{30}-\\frac{21}{30}\\right)=1+\\frac{25}{30}=1 \\frac{25}{30}=1 \\frac{5}{6}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

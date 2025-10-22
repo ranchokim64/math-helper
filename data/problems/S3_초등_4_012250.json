@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3ce6870c-5235-45cc-a8ff-3bdf6766644d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012250",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.5,
+                            14.41,
+                            591.5,
+                            150.41
+                        ]
+                    ],
+                    "text_description": "배 576개를 한 상자에 16개씩 담으려 고 합니다. 배는 모두 몇 상자가 될까 요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.5,
+                            410,
+                            168.5,
+                            443
+                        ]
+                    ],
+                    "text_description": "36상자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            358,
+                            238.5,
+                            384
+                        ]
+                    ],
+                    "text_description": "배는 모두 36상자가 됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            172.41,
+                            147.5,
+                            328.41
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}36 \\\\ 1 6 \\longdiv { 5 7 6 } \\\\ 48 \\\\ \\hline 96 \\\\ 96 \\\\ \\hline 0\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

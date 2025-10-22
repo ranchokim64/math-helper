@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d332c058-f74b-4783-9408-065c39b77f3f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010851",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.2,
+                            9.440000000000001,
+                            479.2,
+                            32.44
+                        ]
+                    ],
+                    "text_description": "주어진 나눗셈의 계산 결과를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            302,
+                            39.44,
+                            485.8,
+                            131.64
+                        ]
+                    ],
+                    "text_description": "테두리만 핑크색인 네모박스 안에 다음과 같은 식이 있다. $4 \\frac{1}{6} \\div 2 \\frac{2}{9}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            250,
+                            133.7,
+                            373.6,
+                            213.7
+                        ]
+                    ],
+                    "text_description": "짙은 핑크색테두리에 옅은 핑크색으로 채워진 박스안에 다음과 같은 값이 있다.$1 \\frac{7}{8}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            413.2,
+                            132.9,
+                            537.8,
+                            211.7
+                        ]
+                    ],
+                    "text_description": "짙은 핑크색테두리에 옅은 핑크색으로 채워진 박스안에 다음과 같은 값이 있다.$2 \\frac{1}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.2,
+                            227.3,
+                            71.8,
+                            269.5
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{7}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.6,
+                            284.7,
+                            407,
+                            358.5
+                        ]
+                    ],
+                    "text_description": "$4 \\frac{1}{6} \\div 2 \\frac{2}{9}=\\frac{25}{6} \\div \\frac{20}{9}=\\frac{25}{6} \\times \\frac{9}{20}=\\frac{15}{8}=1 \\frac{7}{8}$"
+                }
+            ]
+        }
+    ]
+}

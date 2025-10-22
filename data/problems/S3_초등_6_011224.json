@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "31880833-9ce0-4be8-b53f-81d5c9785179",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011224",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.84,
+                            1.32,
+                            558.84,
+                            32.32
+                        ]
+                    ],
+                    "text_description": "원을 보고 설명이 맞으면 $\\bigcirc$ 표, 틀리면 $\\times$ 표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            239.84,
+                            162.32,
+                            645.84,
+                            189.32
+                        ]
+                    ],
+                    "text_description": "원주와 원의 지름은 길이가 같습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.84,
+                            194.95,
+                            50.84,
+                            241.95
+                        ]
+                    ],
+                    "text_description": "($\\bigcirc$) $\\otimes$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            365.84,
+                            34.32,
+                            522.84,
+                            159.32
+                        ]
+                    ],
+                    "text_description": "ㄱㄴ을 지름으로 하는 원의 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.84,
+                            257.95,
+                            74.84,
+                            279.95
+                        ]
+                    ],
+                    "text_description": "$\\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.84,
+                            294.95,
+                            685.84,
+                            324.95
+                        ]
+                    ],
+                    "text_description": "원주는 원의 지름의 3배보다 길고, 원의 지름의 4배보다 짧습니다."
+                }
+            ]
+        }
+    ]
+}

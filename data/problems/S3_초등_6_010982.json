@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "57ff5130-5a60-4963-a045-5d077e2f362c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010982",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26,
+                            4.42,
+                            861,
+                            138.42
+                        ]
+                    ],
+                    "text_description": "가는 윤아가 쌓기나무로 쌓은 모양을 층별로 나타낸 모양이고, 나는 희주가 쌓기나무로 쌓은 모양을 위에서 본 모양에 수를 쓴 방법으로 나타낸 것입 니다. 똑같은 모양으로 쌓는 데 필요한 쌓기나무의 개수가 더 많은 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            384,
+                            322,
+                            508,
+                            354
+                        ]
+                    ],
+                    "text_description": "(가, 나)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104,
+                            146,
+                            530,
+                            320
+                        ]
+                    ],
+                    "text_description": "가 $1$층: $2x3$의 모눈종이이다. 위쪽에 $3$칸, 아래쪽은 왼쪽에서부터 $2$칸, $2$층: $2x3$의 모눈종이이다. 위쪽에 $3$칸, 아래쪽은 중간 $1$칸, $3$층: $2x3$의 모눈종이이다. 위쪽에서 왼쪽에서부터 $2$칸이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            626,
+                            145,
+                            785,
+                            321
+                        ]
+                    ],
+                    "text_description": "나 위쪽에서 보는 시점이다 $2x3$의 모눈종이이다. 위쪽 왼쪽 칸은 $2$, 중간 $3$, 오른쪽 $3$입니다. 아래쪽은 중간 $2$, 오른쪽 $2$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            366,
+                            95,
+                            397
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            421,
+                            904,
+                            477
+                        ]
+                    ],
+                    "text_description": "윤아의 쌓기나무는 $5+4+2=11$ (개), 희주의 쌓기나무는 $2+3+3+2+2=12$ (개)입니다. 따라서 똑같은 모양으로 쌓는 데 펄요한 쌓기나무의 개수가 더 많은 것은 나입니다."
+                }
+            ]
+        }
+    ]
+}

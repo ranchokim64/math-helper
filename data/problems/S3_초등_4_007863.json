@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2f8ddc69-7eab-48e6-8241-59d777187fc6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007863",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채울 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채우고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            5.42,
+                            841,
+                            76.42
+                        ]
+                    ],
+                    "text_description": "(), (), () 모양 조각 중에서 2가지를 골라 정삼각형을 만들려고 합니다. 다음 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            89.42,
+                            822,
+                            159.42
+                        ]
+                    ],
+                    "text_description": "② () 모양 조각 1 개를 사용할 때, 필요한 모양 조각과 개수를 선택하세 요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            173,
+                            768,
+                            246
+                        ]
+                    ],
+                    "text_description": "모양 조각은 $(\\square, \\triangle)$ 이며 모두 $(1, 2, 3)$ 개가 필요합니 다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3,
+                            367,
+                            106,
+                            410
+                        ]
+                    ],
+                    "text_description": "② $\\triangle$, 2"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            262,
+                            144,
+                            352
+                        ]
+                    ],
+                    "text_description": "② 삼각형 두 개와 평행사변형 한 개로 정삼각형을 만들었습니다."
+                }
+            ]
+        }
+    ]
+}

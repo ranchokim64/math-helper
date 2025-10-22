@@ -1,0 +1,84 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e3a6d4ca-3597-4d16-b566-3afd8ecfce5a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005157",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.7,
+                            194.2,
+                            838.9,
+                            421.4
+                        ]
+                    ],
+                    "text_description": "올해 세연이네 집에서 수확한 쌀은 1610.2kg이고, 이 쌀을 한 가마니에 80kg 씩 나누어 담 으려고 합니다. 나누어 담을 수 있는 가마니는 몇 가마니이고 남는 쌀은 몇 kg 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            367.7,
+                            458.2,
+                            765.3,
+                            500.6
+                        ]
+                    ],
+                    "text_description": "20 가마니, $\\quad 10. 2 \\mathrm{~kg}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            140.5,
+                            20.94,
+                            410.1,
+                            173.74
+                        ]
+                    ],
+                    "text_description": "$\\begin{tabular}{rl} 80 & 20 \\\\ \\hline 1 & 6 \\\\ 1 & 1 \\end{tabular}"
+                }
+            ]
+        }
+    ]
+}

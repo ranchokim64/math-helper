@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1c62df49-a5cd-4554-b4a2-88e2f7b84cf9",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012222",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            19.42,
+                            590,
+                            104.42
+                        ]
+                    ],
+                    "text_description": "각의 크기가 큰 것부터 차례로 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65,
+                            113.42,
+                            609,
+                            280.42
+                        ]
+                    ],
+                    "text_description": "㉠ 예각입니다. ㉡ 예각입니다. ㉢둔각입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85,
+                            343,
+                            577,
+                            371
+                        ]
+                    ],
+                    "text_description": "두 변이 벌어진 정도가 클수록 더 크므로 ㉢, ㉠, ㉡입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            349.0,
+                            298.0,
+                            587.0,
+                            336.0
+                        ]
+                    ],
+                    "text_description": "(㉢, ㉠, ㉡)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ed59a100-aa93-4f64-93c0-e9561c8b499e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009353",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.28,
+                            9.73,
+                            821.28,
+                            72.73
+                        ]
+                    ],
+                    "text_description": "색칠한 부분이 전체를 똑같이 3으로 나눈 것 중의 1인 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.28,
+                            104.27,
+                            735.28,
+                            190.27
+                        ]
+                    ],
+                    "text_description": "가: 사다리꼴을 불균형하게 3분할 한 모양이다. 나: 다원형을 십자가 모양으로 동일하게 4분할 한 모양이다. 다: 삼각형을 세로 선으로 동일하게 2분할 한 모양이다. 라: 직사각형을 세로 선으로 동일하게 3분할 한 모양이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.28,
+                            221.27,
+                            73.28,
+                            246.27
+                        ]
+                    ],
+                    "text_description": "라"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.28,
+                            261.27,
+                            738.28,
+                            287.27
+                        ]
+                    ],
+                    "text_description": "전체를 3으로 나눈 것은가, 라이지만 전체를 똑같이 나눈 것은 라입니다."
+                }
+            ]
+        }
+    ]
+}

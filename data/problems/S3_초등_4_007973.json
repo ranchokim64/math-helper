@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e74e755e-5597-47e9-bbf0-89f6e1866eb3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007973",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고 수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.11,
+                            10.88,
+                            929.11,
+                            77.88
+                        ]
+                    ],
+                    "text_description": "이탈리아와 핀란드의 2021년 수출액을 조사하여 다음과 같이 나타냈습니다. 두 나라 중 수출액이 더 많은 나라의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            359.11,
+                            256.51,
+                            605.11,
+                            287.51
+                        ]
+                    ],
+                    "text_description": "(이탈리아, 핀란드)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147.11,
+                            85.88,
+                            816.11,
+                            244.88
+                        ]
+                    ],
+                    "text_description": "<div class=\"table_tabular \" style=\"text-align: center\"> <div class=\"inline-tabular\"><table id=\"tabular\"> <tbody> <tr style=\"border-top: none !important; border-bottom: none !important;\"> <td style=\"text-align: center; border-left: none !important; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">이탈리아</td> <td style=\"text-align: center; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">610283000000 달러</td> </tr> <tr style=\"border-top: none !important; border-bottom: none !important;\"> <td style=\"text-align: center; border-left: none !important; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top: none !important; width: auto; vertical-align: middle; \">핀란드</td> <td style=\"text-align: center; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top: none !important; width: auto; vertical-align: middle; \">팔백십구억 육천오백만 달러</td> </tr> <tr style=\"border-top: none !important; border-bottom: none !important;\"> <td style=\"text-align: center; border-left: none !important; border-right-style: solid !important; border-right-width: 1px !important; border-bottom: none !important; border-top: none !important; width: auto; vertical-align: middle; \" class=\"_empty\"></td> <td style=\"text-align: center; border-bottom: none !important; border-top: none !important; width: auto; vertical-align: middle; \">&lt;출처: KOSIS, 2022&gt;</td> </tr> </tbody> </table> </div></div>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.11,
+                            306.51,
+                            157.11,
+                            334.51
+                        ]
+                    ],
+                    "text_description": "이탈리아"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.11,
+                            350.51,
+                            508.11,
+                            382.51
+                        ]
+                    ],
+                    "text_description": "수출액을 수로 나타내면 다음과 같습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.11,
+                            391.51,
+                            865.11,
+                            487.51
+                        ]
+                    ],
+                    "text_description": "이탈리아: 610283000000 달러 핀란드: 팔백십구억 육천오백만 달러 81965000000$ 달러 610283000000>81965000000 이므로 수출액이 더 많은 나라는 이탈리아입니다."
+                }
+            ]
+        }
+    ]
+}

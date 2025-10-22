@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8b04e297-7c86-49f2-a7c4-a1a373884c32",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016850",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.44,
+                            5.88,
+                            598.04,
+                            23.16
+                        ]
+                    ],
+                    "text_description": "동물원에서 기른 기린의 다리를 세어 보니 모두 32개였습니다. 기린은 모두 몇 마리일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.44,
+                            90.36,
+                            68.12,
+                            107.64
+                        ]
+                    ],
+                    "text_description": "③ 8마리"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.44,
+                            39.8,
+                            67.48,
+                            83.96
+                        ]
+                    ],
+                    "text_description": "① 4마리 ② 6마리"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.18,
+                            114.17,
+                            76.18,
+                            132.61
+                        ]
+                    ],
+                    "text_description": "④ 10마리"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.14,
+                            147.25,
+                            498.07,
+                            163.66
+                        ]
+                    ],
+                    "text_description": "기린의 다리는 4개씩 있으므로 4의 단 곱셈구구를 이용하여 알 수 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.14,
+                            196.94,
+                            223.64,
+                            213.84
+                        ]
+                    ],
+                    "text_description": "따라서 기린은 모두 8마리입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.11,
+                            173.9,
+                            179.1,
+                            187.72
+                        ]
+                    ],
+                    "text_description": "$4 \\times 8=32 \\rightarrow 32 \\div 4=8$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9a82051d-1eb3-438e-9422-72b6545ab547",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002886",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-01] 구체적인 조작 활동을 통하여 도형의 합동의 의미를 알고, 합동인 도형을 찾을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.83,
+                            4.83,
+                            613.83,
+                            64.83
+                        ]
+                    ],
+                    "text_description": "모양이 서로 합동인 시계를 모두 찾아 기호를 써 보세요 (단. 시계의 색깔과 시계 안의 모양은 생각하지 않습니다.)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.83,
+                            74.83,
+                            613.83,
+                            307.83
+                        ]
+                    ],
+                    "text_description": "시계모양의가$:$팔각형 나$:$원형 다$:$정사각형 라: 원형 마$:$정사각형 바$:$팔각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            364.83,
+                            322.83,
+                            503.83,
+                            348.83
+                        ]
+                    ],
+                    "text_description": "가와 바, 다와 마"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.83,
+                            352.44,
+                            469.83,
+                            375.44
+                        ]
+                    ],
+                    "text_description": "두 시계를 포개었을 때 완전히 겹치는 것은 가와 바. 다와 마입니다."
+                }
+            ]
+        }
+    ]
+}

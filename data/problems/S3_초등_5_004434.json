@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e666634c-19d1-45bc-9fd9-2444cb87d398",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004434",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            10.92,
+                            441.5,
+                            59.92
+                        ]
+                    ],
+                    "text_description": "다음 그림과 같이 모눈종이 위에 그려진 마름모의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146.5,
+                            71.92,
+                            340.5,
+                            216.92
+                        ]
+                    ],
+                    "text_description": "모눈종이의 하나의 넓이는 $1cm^2$ 이고 꼭 맞게 마름모가 들어가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.5,
+                            228.5,
+                            379.5,
+                            253.5
+                        ]
+                    ],
+                    "text_description": "$24 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.5,
+                            264.5,
+                            425.5,
+                            303.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 마름모의 넓이) } & =(\\text { 한 대각선의 길이 }) \\times(\\text { 다른 대각선의 길이 }) \\div 2 \\\\ & =8 \\times 6 \\div 2=24\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

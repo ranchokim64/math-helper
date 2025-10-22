@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "31bd5dd4-3df9-4ab8-b778-c29672a433c4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004335",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.31,
+                            8.55,
+                            363.59,
+                            98.15
+                        ]
+                    ],
+                    "text_description": "어머니의 연세가 40살일 때 윤주의 나이는 II살 입니다. 어머니의 연세를 $\\square$, 윤주의 나이를 $\\triangle$라고 할 때, $\\square$와 $\\triangle$ 사이의 대응 관계를 식으로 나타내 어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123.17,
+                            109.34,
+                            314.66,
+                            135.45
+                        ]
+                    ],
+                    "text_description": "$\\square-29=\\boldsymbol{\\triangle}$ (또는 $\\boldsymbol{\\triangle}+29=\\square$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.59,
+                            192.28,
+                            325.41,
+                            230.17
+                        ]
+                    ],
+                    "text_description": "어머니의 연세와 윤주의 나이 차는 $40-11=29$ 입니다. 따라서 $\\boldsymbol{\\square}-29=\\mathbf{\\triangle}$ 또는 $\\mathbf{\\triangle}+29=\\square$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.15,
+                            142.11,
+                            332.58,
+                            192.28
+                        ]
+                    ],
+                    "text_description": "어머니와 윤주의 나이의 변화를 나타낸 표이며 자세히는이 이미지는 두 개의 행과 여러 개의 열로 구성된 표를 보여줍니다. 첫 번째 행에는 숫자 40, 41, 42, 43이 있으며, 두 번째 행에는 삼각형 모양 기호와 숫자 11, 12, 13, 14가 있습니다."
+                }
+            ]
+        }
+    ]
+}

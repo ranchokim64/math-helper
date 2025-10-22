@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "02cc10b8-e115-415f-a14e-2b2aab0e6d44",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010104",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.6,
+                            4.9399999999999995,
+                            664.4,
+                            81.94
+                        ]
+                    ],
+                    "text_description": "봉지 속에 딸기 맛 사탕 $3$개와 바나나 맛 사탕 $3$개가 들어 있습니다. 봉지에서 사탕 $1$개를 꺼낼 때 꺼낸 사탕이 딸기 맛일 가능성과 화살이 파란색에 멈출 가능성이 같도록 회전판을 알맞게 색칠한 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            209.36,
+                            85.78,
+                            475.16,
+                            207.38
+                        ]
+                    ],
+                    "text_description": "첫번째 원은 $6$등분 되어 있고 $12$시 방향을 가리키고 있고 원 오른쪽의 반이 파란색으로 채워져 있다. 두번째 원은 $6$등분 되어 있고 $12$시 방향을 가리키고 있고 원 오른쪽 두 부분에 파란색으로 채워져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.16,
+                            213.58,
+                            159.96,
+                            333.58
+                        ]
+                    ],
+                    "text_description": "첫번째 원은 $6$등분 되어 있고 $12$시 방향을 가리키고 있고 원 오른쪽의 반이 파란색으로 채워져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.2,
+                            342.4,
+                            663,
+                            433.6
+                        ]
+                    ],
+                    "text_description": "꺼낸 사탕이 딸기 맛일 가능성은 '반반이다'이고, 이들 수로 표현하면 $\\frac{1}{2}\\left(=\\frac{3}{6}\\right)$입니다. 따라서 회전판의 $6$칸 중 $3$칸을 파란색으로 색칠합니다."
+                }
+            ]
+        }
+    ]
+}

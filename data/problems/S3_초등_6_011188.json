@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "46f8b61e-cafd-43a3-8623-80e1b174f095",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011188",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            9.89,
+                            811.5,
+                            32.89
+                        ]
+                    ],
+                    "text_description": "수 카드 중에서 4장을 골라 비례식을 알맞게 세운 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            272.5,
+                            47.89,
+                            620.5,
+                            98.89
+                        ]
+                    ],
+                    "text_description": "수 카드 6장이 있습니다. 각각 5, 8, 15, 10, 3, 16이 적혀있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283.5,
+                            167.5,
+                            609.5,
+                            188.5
+                        ]
+                    ],
+                    "text_description": "$8: 5=16: 10$ $3: 5=10: 15$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            228.5,
+                            159.5,
+                            245.5
+                        ]
+                    ],
+                    "text_description": "$8: 5=16: 10$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            264.5,
+                            580.5,
+                            301.5
+                        ]
+                    ],
+                    "text_description": "두 수의 곱이 같은 카드를 찾으면 $5 \\times 16=80, 8 \\times 10=80$에서 5, 16과 8, 10 입니다. 외항의 곱과 내항의 곱이 같도록 비례식을 세우면 $8: 5=16: 10$ 입니다."
+                }
+            ]
+        }
+    ]
+}

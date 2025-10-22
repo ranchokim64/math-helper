@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9500c872-e0cf-4f89-a423-a50e17fc6000",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005630",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.41000000000000014,
+                            12.91,
+                            356.62,
+                            106.12
+                        ]
+                    ],
+                    "text_description": "다음 각기둥에서 면 ㄱㄴㄷㄹ에 수직인 면의 넓이의 합은 몇 $\\mathrm{cm}^{2}$ 인지 구해 보 세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.55,
+                            119.55,
+                            177.13,
+                            307.96
+                        ]
+                    ],
+                    "text_description": "ㄱ에서 ㄴ까지의 거리가 3cm이고, ㄱ에서ㄹ까지의 거리가 3cm, ㄹ에서ㄷ까지의 거리가 5cm, ㄷ에서ㅅ까지의 거리가 9cm, ㅂ에서 ㅅ까지의 거리가 7cm인 사각기둥의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.48,
+                            517.27,
+                            94.81,
+                            540
+                        ]
+                    ],
+                    "text_description": "$162 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.6000000000000001,
+                            310.96,
+                            545.01,
+                            501.33
+                        ]
+                    ],
+                    "text_description": "면 ㄱㄴㄷㄹ에 수직인 면은 면 ㄱㄴㅂㅁ, 면 ㄴㅂㅅㄷ, 면 ㄷㅅㅇㄹ, 면 ㄱㅁㅇㄹ입 니다. (면 ㄱㄴㅂㅁ) $=3 \\times 9=27\\left(\\mathrm{~cm}^{2}\\right)$, (면 ㄴ ㅂㅅㄷ) $=7 \\times 9=63\\left(\\mathrm{~cm}^{2}\\right)$, $\\left(\\right. $ 면 당ㄹ) $=5 \\times q=45\\left(\\mathrm{~cm}^{2}\\right)$, (면 ㄱㅁ ㅇㄹ) $=3 \\times q=27\\left(\\mathrm{~cm}^{2}\\right)$ 입니다. 면 ㄱㄴ ㄷ ㄹ에 수직인 면의 넓이의 합은 $27+63+45+27=162\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

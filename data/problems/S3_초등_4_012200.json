@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a1952fb3-b8ce-4fe1-801a-76f897ad2ba3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012200",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            4.91,
+                            468.5,
+                            89.91
+                        ]
+                    ],
+                    "text_description": "9 12 마을별 자동차 수를 조사하여 그래 프로 나타내었습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            425.5,
+                            455.5,
+                            455.5
+                        ]
+                    ],
+                    "text_description": "네 마을의 자동차는 모두 몇 대인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            114.91,
+                            461.5,
+                            415.91
+                        ]
+                    ],
+                    "text_description": "죄송합니다. 다시 정확하게 계산해서 설명드리겠습니다. 이 이미지는 '마을별 자동차 수'를 보여주는 표입니다. 범례에 따르면: - 큰 자동차 그림 = 100대 - 작은 자동차 그림 = 10대 각 마을별 자동차 수는 다음과 같습니다: - 가 마을: 큰 자동차 2대 + 작은 자동차 2대 = (200 + 20) = 220대 - 나 마을: 큰 자동차 5대 + 작은 자동차 1대 = (500 + 10) = 510대 - 다 마을: 큰 자동차 4대 + 작은 자동차 1대 = (400 + 10) = 410대 - 라 마을: 큰 자동차 3대 = 300대 표의 구성: - 표는 오렌지색 테두리로 되어 있음 - 자동차는 빨간색으로 그려져 있음 - 각 행은 마을별로 구분되어 있음 - 하단에 범례로 자동차 크기별 의미가 표시되어 있음"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            350.5,
+                            472.5,
+                            423.5,
+                            501.5
+                        ]
+                    ],
+                    "text_description": "1080대"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111.5,
+                            510.5,
+                            362.5,
+                            535.5
+                        ]
+                    ],
+                    "text_description": "$220+240+320+300=1080$ (대)"
+                }
+            ]
+        }
+    ]
+}

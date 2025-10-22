@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "36aa6534-f87f-4152-a99e-98244e999493",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004718",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            11.92,
+                            683.5,
+                            57.92
+                        ]
+                    ],
+                    "text_description": "선분 ㄱㄷ을 대칭축으로 하는 선대칭도형입니다. 선분 ㄱㄷ은 $10cm$이고 선분 ㄴㄹ은 $8cm$일 때, 사각형 ㄱㄴㄷㄹ의 넓이는 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            249.5,
+                            199.5,
+                            271.5
+                        ]
+                    ],
+                    "text_description": "선분 ㄴㅁ은 몇 $cm$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283.5,
+                            74.66,
+                            410.5,
+                            222.66
+                        ]
+                    ],
+                    "text_description": "사각형 ㄱㄴㄷㄹ 에 각 꼭짓점이 대응되는 직선이 있고 교차하는 지점은 ㅁ이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            528.5,
+                            289.5,
+                            566.5,
+                            309.5
+                        ]
+                    ],
+                    "text_description": "$4 \\text{ cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.5,
+                            277.5,
+                            333.5,
+                            312.5
+                        ]
+                    ],
+                    "text_description": "대옹점을 이은 선분은 대칭축에 의해 똑같이 둘로 나누어지므로 (선분 ㄴㅁ) $=($ 선분 ㄹㅁ $)=8 \\div 2=4(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

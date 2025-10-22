@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4f0a3479-c014-41f2-9683-155a83d7a46f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005525",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-10] ‘(자연수)÷(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-10] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15,
+                            11.35,
+                            337.27,
+                            35.66
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫을 분수로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.35,
+                            55.75,
+                            94.72,
+                            76.1
+                        ]
+                    ],
+                    "text_description": "① $12 \\div 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.56,
+                            165.61,
+                            108.85,
+                            216.88
+                        ]
+                    ],
+                    "text_description": "$\\frac{12}{5}\\left(=2 \\frac{2}{5}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.26,
+                            91.94,
+                            312.39,
+                            113.42
+                        ]
+                    ],
+                    "text_description": "(자연수) $\\div$ (자연수)의 몫을 분수로 나타내는 방법은"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.08,
+                            119.07,
+                            135.43,
+                            154.69
+                        ]
+                    ],
+                    "text_description": "$\\mathbf{\\Delta} \\div \\frac{\\boldsymbol{\\Delta}}{\\mathbf{O}}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

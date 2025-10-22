@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c43d6bba-fd1c-4421-a45f-b8fc268b5a3b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010245",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.94,
+                            -0.07,
+                            667.06,
+                            78.97
+                        ]
+                    ],
+                    "text_description": "상자 안에 4 이상 12 미만의 자연수가 적힌 공이 들어 있습니다. 이 상자에서 공을 한 개 꺼낼 때 짝수가 적힌 공을 꺼낼 가능성을 수로 표현한 것을 선 택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            182.63,
+                            80.5,
+                            502.6,
+                            164.82
+                        ]
+                    ],
+                    "text_description": "초록색테두리의 박스안에 다음과 같은 숫자들이 나열되어 있다.0 $\\frac{1}{4}$ $\\frac{1}{2}$ 1"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.85,
+                            223.43,
+                            668.62,
+                            318.13
+                        ]
+                    ],
+                    "text_description": "4 이상 12 미만의 자연수는 4, 5, 6, 7, 8, 9, 10, 11입니다. 이 중 짝수는 4, 6, 8, 10 이므로 짝수가 적힌 공을 꺼낼 가능성을 수로 표현하면 $\\frac{4}{8}=\\frac{1}{2}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.29,
+                            190.3,
+                            53.6,
+                            214.82
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{2}$"
+                }
+            ]
+        }
+    ]
+}

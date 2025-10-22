@@ -1,0 +1,191 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7dda43dc-4776-4595-b974-23d3ef13cf73",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010177",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.6,
+                            0.64,
+                            661,
+                            59.84
+                        ]
+                    ],
+                    "text_description": "주어진 카드 중에서 한 장을 뽑을 때, (스페이드) 카드를 뽑을 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            135.4,
+                            63.04,
+                            543.4,
+                            144.64
+                        ]
+                    ],
+                    "text_description": "스페이드 클로버 스페이드 클로버 클로버 스페이드 카드가 일렬로 놓여있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            176.3,
+                            320.2,
+                            241.1
+                        ]
+                    ],
+                    "text_description": "수직선 양 끝단에 0과 1이 있다. 수직선 중앙에 $\\frac{1}{2}$이 적혀있는 점이 있고, 위에 $\\downarrow$가 적혀있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            363.4,
+                            175.9,
+                            640.2,
+                            242.7
+                        ]
+                    ],
+                    "text_description": "수직선 양 끝단에 0과 1이 있다. 1에 $\\downarrow$가 적혀있다. 수직선 중앙에 $\\frac{1}{2}$이 적혀있는 점이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.2,
+                            249.9,
+                            299.2,
+                            309.9
+                        ]
+                    ],
+                    "text_description": "수직선 양 끝단에 0과 1이 있다. 수직선 중앙에 $\\frac{1}{2}$이 적혀있는 점이 있고, 위에 $\\downarrow$가 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.4,
+                            319.5,
+                            126.6,
+                            340.3
+                        ]
+                    ],
+                    "text_description": "카드 6장 중"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.4,
+                            320.3,
+                            303.4,
+                            340.3
+                        ]
+                    ],
+                    "text_description": "카드는 3 장이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            348.2,
+                            320.3,
+                            658.6,
+                            342.7
+                        ]
+                    ],
+                    "text_description": "카드들 뽑을 가능성은 '반반이다'이고, 수"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.4,
+                            354.9,
+                            188.6,
+                            393.3
+                        ]
+                    ],
+                    "text_description": "로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            131.8,
+                            311.7,
+                            167.2,
+                            352.9
+                        ]
+                    ],
+                    "text_description": "스페이드"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309,
+                            311.7,
+                            343.6,
+                            353.7
+                        ]
+                    ],
+                    "text_description": "스페이드"
+                }
+            ]
+        }
+    ]
+}

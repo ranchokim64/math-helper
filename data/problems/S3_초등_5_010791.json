@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4cf70ce3-5cc3-426b-b8cf-80ce65415fcf",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010791",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-05] 분수의 성질을 이용하여 크기가 같은 분수를 만들 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.77,
+                            7.24,
+                            632.77,
+                            63.24
+                        ]
+                    ],
+                    "text_description": "$\\frac{18}{27}$과 크기가 같은 분수를 모두 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            282.77,
+                            89.77,
+                            608.77,
+                            154.77
+                        ]
+                    ],
+                    "text_description": "$\\frac{27}{81} \\quad \\frac{9}{10} \\quad \\frac{2}{3} \\quad \\frac{5}{9} \\quad \\frac{36}{54}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.77,
+                            188.77,
+                            120.77,
+                            242.77
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3}, \\frac{36}{54}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.77,
+                            259.77,
+                            426.77,
+                            312.77
+                        ]
+                    ],
+                    "text_description": "$\\frac{18}{27}=\\frac{18 \\div 9}{27 \\div 9}=\\frac{2}{3}, \\frac{18}{27}=\\frac{18 \\times 2}{27 \\times 2}=\\frac{36}{54}$"
+                }
+            ]
+        }
+    ]
+}

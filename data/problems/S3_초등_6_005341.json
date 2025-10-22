@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bfca72a8-ea2c-4bb1-ab3c-afc69298fb0a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005341",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.62,
+                            6.99,
+                            525.82,
+                            91.79
+                        ]
+                    ],
+                    "text_description": "정오각형의 넓이를 이용하여 원의 넓이를 어림하려고 합니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.62,
+                            342.62,
+                            514.62,
+                            421.82
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ의 넓이가 $122 \\mathrm{~cm}^{2}$ 이면 원 안의 정오각형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            143.22,
+                            108.42,
+                            345.82,
+                            312.22
+                        ]
+                    ],
+                    "text_description": "정오각형 안에 정원형이 있고 그 안에 정오각형이 있는 평면도형."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            332.22,
+                            439.42,
+                            435.42,
+                            472.22
+                        ]
+                    ],
+                    "text_description": "$610 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.42,
+                            477.02,
+                            217.82,
+                            509.82
+                        ]
+                    ],
+                    "text_description": "$122 \\times 5=610\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c05e89ca-2c0b-40c8-8f42-6d85c401a921",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004719",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.43,
+                            7.79,
+                            682.67,
+                            57.22
+                        ]
+                    ],
+                    "text_description": "선분 ㄱㄷ을 대칭축으로 하는 선대칭도형입니다. 선분 ㄱㄷ은 10cm이고 선분 ㄴㄹ은 8cm 일 때, 사각형 ㄱㄴㄷㄹ의 넓이는 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.91,
+                            252.43,
+                            306.4,
+                            276.77
+                        ]
+                    ],
+                    "text_description": "사각형 ㄱㄴㄷㄹ의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            277.63,
+                            71.05,
+                            412.64,
+                            230.41
+                        ]
+                    ],
+                    "text_description": "마름모 ㄱㄴㄷㄹ 대각선 ㄱㄷ, ㄴㄹ이 있고 교차하는 지점 ㅁ이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            515.93,
+                            286.37,
+                            578.64,
+                            316.61
+                        ]
+                    ],
+                    "text_description": "$40 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.66,
+                            279.56,
+                            409.43,
+                            315.88
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text{(사각형 ㄱㄴㄷㄹ의 넓이)} = \\text{삼각형 ㄱㄴㄷ의 넓이} + \\text{삼각형 ㄱㄹㄷ의 넓이}\\\\ =10 \\times 4 \\div 2+10 \\times 4 \\div 2=40\\left(\\mathrm{~cm}^{2}\\right) \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

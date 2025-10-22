@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e7c2c957-0ec0-4745-a444-598eb8242a04",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011084",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            1.92,
+                            862,
+                            62.92
+                        ]
+                    ],
+                    "text_description": "두 쌓기나무의 쌓은 모양과 1층 모양입니다. 두 쌓기나무의 2층 모양을 하나로 합치면 어떤 알파벳 모양이 나오는지 찾아 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66,
+                            70.02,
+                            826,
+                            283.77
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 있습니다. 가는 1층에 5개, 2층에 3개, 3층에 2개인 쌓기나무가 있고, 1층 모양이 왼쪽에서부터 1층, 1층, 3층으로 표기되어 있습니다. 나는 1층에 7개, 2층에 4개, 3층에 1개인 쌓기나무가 있고, 1층 모양이 왼쪽에서부터 3층, 3층, 1층으로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.25,
+                            289.49,
+                            71,
+                            318.24
+                        ]
+                    ],
+                    "text_description": "① C"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196,
+                            290.24,
+                            736,
+                            316.99
+                        ]
+                    ],
+                    "text_description": "② H ③ I ④ L ⑤ O"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            378.24,
+                            519.75,
+                            406.74
+                        ]
+                    ],
+                    "text_description": "각 쌓기나무의 2층 모양은 다음과 같습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.75,
+                            565.74,
+                            503.5,
+                            593.24
+                        ]
+                    ],
+                    "text_description": "따라서 하나로 합치면 알파벳 C 모양입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            415.49,
+                            628.5,
+                            555.74
+                        ]
+                    ],
+                    "text_description": "쌓기나무의 모양이 9칸짜리 모눈종이에 표기되어 있습니다. 칸을 1부터 9라고 할 때 가는 3, 8, 9칸에 색칠 되어있고, 나는 1, 2, 4, 7칸에 색칠되어 있습니다. 맨 오른쪽은 1, 2, 3, 4, 7, 8, 9칸에 색칠되어 있습니다."
+                }
+            ]
+        }
+    ]
+}

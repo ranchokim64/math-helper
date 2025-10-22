@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "691eddda-f735-4615-8110-6b7777928646",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007356",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70,
+                            9.4,
+                            752,
+                            38.4
+                        ]
+                    ],
+                    "text_description": "그림을 보고 서점에서 병원까지의 거리는 몇 km 인지 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            212,
+                            54.4,
+                            667,
+                            220.4
+                        ]
+                    ],
+                    "text_description": "수직선 위에 점이 찍혀 있고, 그 점들은 각각 약국, 은행, 서점, 병원의 위치를 표시한다. 약국에서 은행까지의 거리는 $4 \\frac{2}{7}km$, 약국에서 서점까지의 거리는 $4 \\frac{6}{7}km$, 은행에서 병원까지의 거리는 $6 \\frac{1}{7}km$로 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            307.4,
+                            129,
+                            364.4
+                        ]
+                    ],
+                    "text_description": "④ $5 \\frac{4}{7}km$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            237.4,
+                            668,
+                            295.4
+                        ]
+                    ],
+                    "text_description": "① $4 \\frac{3}{7} \\mathrm{~km}$ ② $4 \\frac{4}{7} \\mathrm{~km}$ ③ $5 \\frac{3}{7} \\mathrm{~km}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301,
+                            306.4,
+                            399,
+                            362.4
+                        ]
+                    ],
+                    "text_description": "⑤ $5 \\frac{5}{7} \\mathrm{~km}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            418.4,
+                            848,
+                            601.4
+                        ]
+                    ],
+                    "text_description": "(서점에서 병원까지의 거리 $)=($ 약국에서 병원까지의 거리 $)-($ 약국에서 서점까지의 거리)입니다. 약국에서 병원까지의 거리는 $4 \\frac{2}{7}+6 \\frac{1}{7}=10 \\frac{3}{7}(\\mathrm{~km})$ 이므로 서점에서 병원까지의 거리는 $10 \\frac{3}{7}-4 \\frac{6}{7}=9 \\frac{10}{7}-4 \\frac{6}{7}=5 \\frac{4}{7}(\\mathrm{~km})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

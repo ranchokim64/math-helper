@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d1bd70e-46a3-4527-938b-406649c0d9d2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009006",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.17,
+                            3.92,
+                            319.9,
+                            30.47
+                        ]
+                    ],
+                    "text_description": "알맞은 말을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.38,
+                            224.13,
+                            390.3,
+                            248.06
+                        ]
+                    ],
+                    "text_description": "선분은 두 점을 이은 곧은 선입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.61,
+                            265.5,
+                            204.41,
+                            291.44
+                        ]
+                    ],
+                    "text_description": "선분이 아닙니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.0,
+                            55.0,
+                            398.0,
+                            195.0
+                        ]
+                    ],
+                    "text_description": "두 점을 이은 굽은 선 이미지 아래에 두 점을 이은 굽은 선은(선분입니다,선분이 아닙니다).라고 쓰여져 있다,"
+                }
+            ]
+        }
+    ]
+}

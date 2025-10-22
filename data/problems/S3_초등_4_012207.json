@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "372c9d7a-1688-4e08-adbe-892f6a263869",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012207",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.11,
+                            11.37,
+                            703.11,
+                            139.37
+                        ]
+                    ],
+                    "text_description": "지영이네 과수원에서 어제 사과를 897kg 수확 하였습니다. 이 사과를 한 상자에 15kg 씩 포장 한다면 몇 상자가 되고, 몇 kg이 남을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.11,
+                            160.37,
+                            699.11,
+                            244.37
+                        ]
+                    ],
+                    "text_description": "상자 수 (59상자) 남는 무게 (12kg)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.11,
+                            285,
+                            446.11,
+                            310
+                        ]
+                    ],
+                    "text_description": "59상자를 포장하고, 12kg이 남습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.11,
+                            258,
+                            271.11,
+                            283
+                        ]
+                    ],
+                    "text_description": "$897 \\div 15=59 \\cdots 12$"
+                }
+            ]
+        }
+    ]
+}

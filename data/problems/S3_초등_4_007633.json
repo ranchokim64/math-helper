@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "beb6852c-1102-4597-bc66-83631b5505e4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007633",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            0.92,
+                            847,
+                            61.92
+                        ]
+                    ],
+                    "text_description": "각도기를 사용하여 점 ㄱ을 지나고 직선 가에 수직인 직선을 그은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            71.92,
+                            364,
+                            340.92
+                        ]
+                    ],
+                    "text_description": "왼쪽 각도기는 반원 형태이고 접선가 중심을 기준으로 잡고 수직으로 그은 직선이 있고 그 때 생기는 접점이 ㄱ이다. 오른쪽 각도기는 반원 형태이고 접선 가에서 그은 직선이 있고 그 때 생기는 접점 ㄱ이 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            387,
+                            135.5,
+                            836,
+                            279.5
+                        ]
+                    ],
+                    "text_description": "직선 가에 수직인 직선은 셀 수 없이 많이 그을 수 있지만 점 ㄱ을 지나고 직선 가에 수직인 직선은 $1$개뿐이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            351.5,
+                            165,
+                            570.5
+                        ]
+                    ],
+                    "text_description": "각도기는 반원 형태이고 접선가 중심을 기준으로 잡고 수직으로 그은 직선이 있고 그 때 생기는 접점이 ㄱ이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            578.5,
+                            374,
+                            598.5
+                        ]
+                    ],
+                    "text_description": "각도기의 중심과 점 ㄱ을 직선으로 이어야 합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8f0f7a5a-cef1-43ac-ac2c-32330751173c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010493",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 그 관계를 비로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 두 양의 관계를 비로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.77,
+                            1.24,
+                            737.77,
+                            37.24
+                        ]
+                    ],
+                    "text_description": "빵 수와 우유 수를 바르게 비교한 학생을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            239.0,
+                            77.0,
+                            748.0,
+                            529.0
+                        ]
+                    ],
+                    "text_description": "8 개의 빵과 4개의 우유에 대하여 지아는 뺄셈으로 비교하면 빵은 우유보다 4개가 더 많다고 하고있고 서준은 나눗셈으로 비교하면 빵수는 우유 수의 3배라고 하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.77,
+                            594.78,
+                            775.77,
+                            628.78
+                        ]
+                    ],
+                    "text_description": "서준: 나눗셈으로 비교하면 빵 수는 우유 수의 $8 \\div 4=2$ (배)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.77,
+                            548.78,
+                            107.77,
+                            577.78
+                        ]
+                    ],
+                    "text_description": "지아"
+                }
+            ]
+        }
+    ]
+}

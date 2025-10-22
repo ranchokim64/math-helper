@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "45454e34-e0e4-45ea-aa71-244251ccd310",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010267",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.5,
+                            2.42,
+                            638.5,
+                            37.42
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 다른 하나를 찾아 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            197.5,
+                            42.42,
+                            774.5,
+                            158.42
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{7} \\div 9 \\quad \\frac{5}{14} \\div 10 \\quad \\frac{8}{21} \\div 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            175,
+                            145.5,
+                            232
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{14} \\div 10$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.369999999999997,
+                            249.86,
+                            409.77,
+                            436.66
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{7} \\div 9=\\frac{6}{7} \\times \\frac{1}{9}=\\frac{2}{21}\\left(=\\frac{6}{63}\\right)$ $\\\\$ $\\frac{5}{14} \\div 10=\\frac{5}{14} \\times \\frac{1}{10}=\\frac{1}{28}\\left(=\\frac{5}{140}\\right) \\\\ \\frac{8}{21} \\div 4=\\frac{8 \\div 4}{21}=\\frac{2}{21}$"
+                }
+            ]
+        }
+    ]
+}

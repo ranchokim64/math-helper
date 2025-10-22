@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dc77fc95-87ac-418d-9d3a-899814b812be",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007957",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고 수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.01,
+                            2.54,
+                            495.32,
+                            32.02
+                        ]
+                    ],
+                    "text_description": "더 큰 수를 말한 사람을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.32,
+                            47.75,
+                            851.29,
+                            228.56
+                        ]
+                    ],
+                    "text_description": "서희 : 삼천이십만 원준 : 100만이 35개인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.27,
+                            241.24,
+                            102.23,
+                            271.82
+                        ]
+                    ],
+                    "text_description": "원준"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.18,
+                            287.1,
+                            924.45,
+                            317.68
+                        ]
+                    ],
+                    "text_description": "말한 수를 각각 수로 나타내면 삼천이십만은 $3020: 0000$ 이고 100 만이 35 개인 수는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.88,
+                            326.41,
+                            923.35,
+                            447.62
+                        ]
+                    ],
+                    "text_description": "35000000입니다. 따라서 두 수의 크기를 비교하면 \\[ \\begin{aligned} 30200000 &> 35000000 \\\\ \\left[ 0 < 5 \\right] \\end{aligned} \\] 이므로 원준이가 말한 수가 더 큽니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0dbd94a1-d3db-4f5e-ad05-e0a0a7461873",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010297",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.28,
+                            12.07,
+                            685.44,
+                            38.31
+                        ]
+                    ],
+                    "text_description": "삼각기둥을 만들 수 있는 전개도를 모두 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.28,
+                            47.27,
+                            856.96,
+                            248.23
+                        ]
+                    ],
+                    "text_description": "이미지는 세 개의 도형(가, 나, 다)으로 구성되어 있습니다. 1. 가: 두 개의 삼각형과 직사각형이 결합된 형태로, 중앙의 직사각형 위, 아래에 삼각형이 붙어 있습니다. 2. 나: 직사각형이 주를 이룬 형태로, 직사각형의 오른쪽 위와 오른쪽 아래에 삼각형이 붙어 있습니다. 3. 다: 복잡한 구조로, 직사각형과 삼각형의 결합이 특징입니다. 직사각형의 아래 양쪽으로 삼각형이 붙어 있고, 왼쪽 삼각형 아래로 직사각형이 붙어있는 형태입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.2,
+                            262.68,
+                            115.2,
+                            290.84
+                        ]
+                    ],
+                    "text_description": "가, 다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.6,
+                            307.4,
+                            940.4,
+                            368.2
+                        ]
+                    ],
+                    "text_description": "나: 전개도를 접었을 때 두 면이 서로 겹쳐지기 때문에 삼각기둥을 만들 수 없습니다."
+                }
+            ]
+        }
+    ]
+}

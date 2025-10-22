@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "878bf5c4-87d4-4063-a81e-f00cb3f8da41",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008608",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.62,
+                            2.93,
+                            458.28,
+                            37.53
+                        ]
+                    ],
+                    "text_description": "몫이 다른 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162.38,
+                            50.18000000000001,
+                            314.89,
+                            251.56
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}30 \\div 3 \\\\ \\text { 은재 }\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            400.55,
+                            44.84,
+                            553.43,
+                            251.22
+                        ]
+                    ],
+                    "text_description": "\\[ 40 \\div 2 \\] 성환"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            640.33,
+                            44.06,
+                            791.99,
+                            257.66
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}70 \\div 7 \\\\ \\text { 기영 }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.55,
+                            267.31,
+                            102.63,
+                            298.7
+                        ]
+                    ],
+                    "text_description": "성환"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.55,
+                            315.59,
+                            639.32,
+                            343.75
+                        ]
+                    ],
+                    "text_description": "은재: $30 \\div 3=10$, 성환: $40 \\div 2=20$, 기영: $70 \\div 7=10$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.56,
+                            350.19,
+                            385.86,
+                            383.18
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow$ 몫이 다른 사람은 성환입니다."
+                }
+            ]
+        }
+    ]
+}

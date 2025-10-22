@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0c08ed4f-d6cb-43f0-b2a5-e1a422287b73",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012191",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.25,
+                            3,
+                            465,
+                            126.75
+                        ]
+                    ],
+                    "text_description": "9~12 기차역 근처의 제과점에서 팔린 케이크의 수를 조사한 것입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.75,
+                            475.25,
+                            493.75,
+                            549.25
+                        ]
+                    ],
+                    "text_description": "12 케이크가 많이 팔린 제과점부터 차례로 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.75,
+                            139.25,
+                            470,
+                            471.75
+                        ]
+                    ],
+                    "text_description": "제과점별 케이크 판매량의 그림그래프이다. 가로는 판매량 세로는 제과점이다. 큰 케이크는 10개 작은 케이크는 1개이다. 유명은 큰 케이크 1 작은 케이크 1, 팡팡은 큰 케이크 2 작은케이크 3, 대박은 큰 케이크 1 작은케이크 5, 아름은 작은 케이크 6개를 나타내고있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180,
+                            566.75,
+                            437.5,
+                            595.5
+                        ]
+                    ],
+                    "text_description": "팡팡, 대박, 유명, 아름 제과점"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116.75,
+                            604.25,
+                            493.75,
+                            656.75
+                        ]
+                    ],
+                    "text_description": "가장 많이 팔린 제과점은 팡팡 제과점이고, 대박 제과점이 유명 제과점보다 판매량이 많습니다."
+                }
+            ]
+        }
+    ]
+}

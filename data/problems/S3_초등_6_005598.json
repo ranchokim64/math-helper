@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6180f752-5d71-4da4-b832-2f42e8c70f99",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005598",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.54,
+                            1.07,
+                            439.62,
+                            61.87
+                        ]
+                    ],
+                    "text_description": "각기둥의 전개도를 잘라 모서리를 이어 붙였을 때, 점 ㅈ과맞닿는 점을 모두 찾아 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95.3,
+                            78.71,
+                            341.06,
+                            266.03
+                        ]
+                    ],
+                    "text_description": "각기둥의 전개도입니다. 자세히는이 이미지는 사각형과 다각형이 함께 있는 도형을 나타냅니다. 사각형은 평행사변형처럼 보이며, 위에 있는 다각형은 여러 변을 가지고 있습니다. 각 점들은 ㄱ~ㅊ까지 표시되어있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            275.14,
+                            286.04,
+                            374.34,
+                            312.48
+                        ]
+                    ],
+                    "text_description": "점 ㄱ, 점 ㅅ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.3,
+                            320.8,
+                            437.7,
+                            385.44
+                        ]
+                    ],
+                    "text_description": "변 ㅈㅊ에맞닿는 모서리는 변 ㄱㅊ이고 변 ㅈㅇ에 맞닿는 모서 리는 변 ㅅㅇ입니다. 따라서 점 ㅈㄱ과 맞닿는 점은 점 ㄱ과 점 ㅅ입니다."
+                }
+            ]
+        }
+    ]
+}

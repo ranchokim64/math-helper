@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ea960c68-6777-4c58-b224-ad9f61589da0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011085",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.2,
+                            6.54,
+                            861.6,
+                            32.14
+                        ]
+                    ],
+                    "text_description": "같은 쌓기나무 모양 $2$개로 정육면체를 만들 수 있는 모양을 선택해 보세요 $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.6,
+                            40.14,
+                            808,
+                            188.14
+                        ]
+                    ],
+                    "text_description": "이미지는 나무 블록으로 구성된 다양한 형태의 구조물을 보여줍니다. 왼쪽부터 오른쪽까지, 각 구조물은 블록의 수와 배치가 다릅니다. 첫 번째 구조물은 1층에 2개, 2층에 1개로 되어있고, 두 번째는 1층에 3개, 2층에 1개로 되어있고, 세 번째는 1층에 4개, 2층에 1개, 마지막 구조물은 1층에 2개, 2층에 2개로 구성되어 있습니다. 각 구조물은 나무 톤의 색상으로 나타나 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.6,
+                            199.8,
+                            129.6,
+                            267
+                        ]
+                    ],
+                    "text_description": "이미지는 나무 블록으로 구성된 구조물입니다. 1층에 3개, 2층에 1개로 구성되어 있는 나무 블록입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.6,
+                            280.6,
+                            864.2,
+                            489
+                        ]
+                    ],
+                    "text_description": "정육면체 모양을 만들려면 가로로 $2$줄, 세로로 $2$줄씩 $2$층으로 쌓아야 하므로 쌓기나무 $2 \\times 2 \\times 2=8$ 개가 필요합니다. 같은 쌓기나무 모양 $2$ 개로 정육면체를 만들려면 쌓기나무 $8 \\div 2=4$ 개로 만든 모양이어야 합니다. 같은 쌍기나무 모양 $2$ 개로 정육면체를 만들면 다음과 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.2,
+                            496.6,
+                            134.4,
+                            595.8
+                        ]
+                    ],
+                    "text_description": "정육면체 모양으로 만든 쌓기나무 모양입니다."
+                }
+            ]
+        }
+    ]
+}

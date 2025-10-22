@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "90c84b80-23af-4077-9d52-b139e3e87d9c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005767",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.33,
+                            12.74,
+                            291.32,
+                            40.79
+                        ]
+                    ],
+                    "text_description": "정육면체의 겉넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.53,
+                            56.26,
+                            375.96,
+                            279.22
+                        ]
+                    ],
+                    "text_description": "한 모서리의 길이가 6cm의 정육면체의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283.48,
+                            294.76,
+                            366.77,
+                            317.36
+                        ]
+                    ],
+                    "text_description": "$216 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.13,
+                            328.84,
+                            431.02,
+                            370.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 정육면체의 겉넓이 }) & =(\\text { 한 모서리의 길이 }) \\times(\\text { 한 모서리의 길이 }) \\times 6 \\\\ & =6 \\times 6 \\times 6=216\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

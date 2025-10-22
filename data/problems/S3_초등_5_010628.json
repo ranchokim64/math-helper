@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8bd37f02-3b18-4cde-a6af-8f26eb4228ba",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010628",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            4.41,
+                            872.5,
+                            62.41
+                        ]
+                    ],
+                    "text_description": "1부터 9 까지의 자연수 중에서 $\\square$ 안에 들어갈 수 있는 수는 모두 몇 개인 가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            253.7,
+                            72.1,
+                            644.3,
+                            131.3
+                        ]
+                    ],
+                    "text_description": "$\\square+26<40-6 \\times 7 \\div 3+5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.9,
+                            177.7,
+                            84.1,
+                            206.5
+                        ]
+                    ],
+                    "text_description": "④ 4 개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.1,
+                            137.3,
+                            642.5,
+                            166.5
+                        ]
+                    ],
+                    "text_description": "① 1 개 ② 2 개 ③ 3 개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303.7,
+                            178.5,
+                            363.3,
+                            205.7
+                        ]
+                    ],
+                    "text_description": "⑤ 5 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            267,
+                            665.5,
+                            525
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l} 40-6 \\times 7 \\div 3+5=40-42 \\div 3+5=40-14+5=26+5=31 \\\\ \\square+26<31 \\text { 에서 } \\\\ \\square=1 \\text { 일 때 } 1+26=27 \\text { 이고 } 27<31 \\text { 입니다. } \\\\ \\square=2 \\text { 일 때 } 2+26=28 \\text { 이고 } 28<31 \\text { 입니다. } \\\\ \\square=3 \\text { 일 때 } 3+26=29 \\text { 이고 } 29<31 \\text { 입니다. } \\\\ \\square=4 \\text { 일 때 } 4+26=30 \\text { 이고 } 30<31 \\text { 입니다. } \\\\ \\square=5 \\text { 일 때 } 5+26=31 \\text { 이고 } 31=31 \\text { 입니다. } \\\\ \\text { 따라서 } \\square \\text { 안에 들어갈 수 있는 수는 } 1, 2, 3, 4 \\text { 로 모두 } 4 \\text { 개입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

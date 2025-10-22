@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "406113d5-071b-4896-b501-e2c7747a11a8",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011842",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.3,
+                            16.84,
+                            560.3,
+                            40.44
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ의 세 변의 길이의 합은 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.66,
+                            61.29,
+                            267.66,
+                            234.73
+                        ]
+                    ],
+                    "text_description": "① 삼각형 ㄱㄴㄷ의 선분 ㄱㄴ의 길이는 9cm, 선분 ㄱㄷ의 길이는 10cm이며, ㄱ의 각은 $65^{\\circ}$, ㄴ의 각은 $50^{\\circ}$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.26,
+                            306.14,
+                            147.34,
+                            329.82
+                        ]
+                    ],
+                    "text_description": "29cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.62,
+                            245.34,
+                            569.74,
+                            289.5
+                        ]
+                    ],
+                    "text_description": "① (각 ㄱㄴㄷ) $=180^{\\circ}-50^{\\circ}-65^{\\circ}=65^{\\circ}$ 이므로 두 각의 크기가 같은 이등변삼각형입니다. (변 ㄱㄷ) $=($ 변 ㄴㄷ $)=10 \\mathrm{~cm}$, (세 변의 길이의 합) $=10+9+10=29(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "57fae179-019b-48f1-b5bc-008d0bf7d95e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012589",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.61,
+                            18.880000000000003,
+                            442.61,
+                            81.88
+                        ]
+                    ],
+                    "text_description": "$4 \\div 2$의 몫에 얼마를 곱하면 $40 \\div 2$의 몫과 같아질까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            339.61,
+                            109.88,
+                            360.61,
+                            127.88
+                        ]
+                    ],
+                    "text_description": "$10$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.61,
+                            142.88,
+                            131.61,
+                            204.88
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}4 \\div 2=2 \\\\ \\times 10 \\quad \\times 10 \\\\ 40 \\div 2=20\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

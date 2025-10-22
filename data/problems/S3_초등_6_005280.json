@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "913f8c6c-c510-447c-86bb-9373caef3984",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005280",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68,
+                            10.42,
+                            511,
+                            182.42
+                        ]
+                    ],
+                    "text_description": "다음 사다리꼴의 아랫변의 길이에 대한 윗변의 길이의 비율이 $\\frac{5}{7}$라고 합니다. 이 사다리꼴의 대 각선을 따라 두 개의 삼각형 ㉮ 와 ㉯로 나눌 때, ㉮와 ㉯의 넓이의 비를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            219,
+                            190,
+                            359,
+                            326
+                        ]
+                    ],
+                    "text_description": "사다리꼴"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94,
+                            373,
+                            511,
+                            467
+                        ]
+                    ],
+                    "text_description": "삼각형 ㉮와 ㉡)의 높이는 같으므로 ㉠와 (ㅏ)의 넓이의 비는 ㉮와 ㉡의 밑변의 길이의 비와 같습니다. (윗변의 길이) : (아랫변의 길이)=5 : 7 $\\rightarrow$ (자의 넓이) : (나의 넓이) $=5: 7$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            363.0,
+                            339.0,
+                            426.0,
+                            367.0
+                        ]
+                    ],
+                    "text_description": "$5: 7$"
+                }
+            ]
+        }
+    ]
+}

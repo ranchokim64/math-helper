@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a44be5af-d428-4776-b80d-9b4b9db9767d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012304",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            8.92,
+                            553.5,
+                            102.92
+                        ]
+                    ],
+                    "text_description": "다음 조건을 만족하는 수를 찾아 써보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.5,
+                            137.92,
+                            524.5,
+                            326.92
+                        ]
+                    ],
+                    "text_description": "- $\\square$ 안에 있는 9개의 수 중의 하나 입니다. - $\\square$ 안에 있는 9개의 수의 합을 9로 나눈 몫과 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            409.5,
+                            375.5,
+                            455.5,
+                            409.5
+                        ]
+                    ],
+                    "text_description": "$13$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.5,
+                            413.5,
+                            532.5,
+                            451.5
+                        ]
+                    ],
+                    "text_description": "$5+6+7+12+13+14+19+20+21=117, 117 \\div 9=13$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7ecf6b7f-3002-4490-93c3-33af50e5b95c",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017000",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.56,
+                            0.97,
+                            515.53,
+                            25.58
+                        ]
+                    ],
+                    "text_description": "다음에서 1에서 9 까지의 수 중 $\\square$ 안에 들어갈 수 있는 수의 개수를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.74,
+                            29.84,
+                            131.75,
+                            52.8
+                        ]
+                    ],
+                    "text_description": "$25 \\times 3>30 \\times \\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.2,
+                            84.44,
+                            57.12,
+                            107.4
+                        ]
+                    ],
+                    "text_description": "② 2 개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.92,
+                            59.02,
+                            55.48,
+                            82.98
+                        ]
+                    ],
+                    "text_description": "① 1 개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.74,
+                            109.86,
+                            60.4,
+                            159.88
+                        ]
+                    ],
+                    "text_description": "③ 3 개 ④ 4 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.38,
+                            165.62,
+                            631.16,
+                            265.67
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} 25 \\times 3=75 \\text { 이므로 } 75>30 \\times \\square \\text { 입니다. } \\\\ 30 \\times 1=30, 30 \\times 2=60, 30 \\times 3=90, 30 \\times 4=120, 30 \\times 5=150, 30 \\times 6=180, 30 \\times 7= \\\\ 210, 30 \\times 8=240, 30 \\times 9=270 \\end{array} \\] 따라서 $\\square$에 들어갈 수 있는 수는 1, 2로 모두 2개입니다."
+                }
+            ]
+        }
+    ]
+}

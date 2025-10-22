@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9993fca-a6f5-4aa0-aca8-9a20b95dd057",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017844",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.35,
+                            1.01,
+                            436.53,
+                            41.15
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{9}: \\frac{4}{11}$을 간단한 자연수의 비로 나타내세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.64,
+                            53.49,
+                            96.74,
+                            83.11
+                        ]
+                    ],
+                    "text_description": "① $77:36$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.17,
+                            91.34,
+                            100.03,
+                            234.5
+                        ]
+                    ],
+                    "text_description": "② $36:77$ ③ $28:36$ ④ $44:77$ ⑤ $28:44$"
+                }
+            ]
+        },
+        {
+            "class_num": "2",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.46,
+                            262.15,
+                            216.86,
+                            325.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{9} \\div \\frac{4}{11}=\\frac{7}{9} \\times \\frac{11}{4}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.26,
+                            385.56,
+                            193,
+                            449.74
+                        ]
+                    ],
+                    "text_description": "$\\frac{7 \\times 11}{9 \\times 4}=\\frac{77}{36}$"
+                }
+            ]
+        }
+    ]
+}

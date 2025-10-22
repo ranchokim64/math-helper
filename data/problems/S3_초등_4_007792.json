@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9720edea-2c8c-495b-8c55-bd6871c21e08",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007792",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.01,
+                            0.9100000000000001,
+                            851.01,
+                            61.41
+                        ]
+                    ],
+                    "text_description": "신우네 학교의 연도별 졸업생 수를 조사하여 나타낸 꺾은선그래프입니다. 알맛은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.51,
+                            360.88,
+                            785.51,
+                            392.13
+                        ]
+                    ],
+                    "text_description": "2019년의 졸업생 수는 2018년보다 더 (늘어날, 줄어들) 것 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            220.51,
+                            72.66,
+                            668.01,
+                            350.16
+                        ]
+                    ],
+                    "text_description": "졸업생 수 가로가 연도(년), 세로가 졸업생 수(명)이다. 2014년부터 2018년까지 감소하고있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.01,
+                            504.63,
+                            101.76,
+                            533.38
+                        ]
+                    ],
+                    "text_description": "줄어들"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.51,
+                            420.88,
+                            834.26,
+                            488.38
+                        ]
+                    ],
+                    "text_description": "2014년부터 2018까지 졸업생 수가 계속 줄어들었기 때문에 2019년의 졸 업생 수는 2018년보다 더 줄어들 것 같습니다."
+                }
+            ]
+        }
+    ]
+}

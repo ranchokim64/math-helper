@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8b373744-6897-48d7-82b2-5610f1eb132f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008756",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-05] 들이를 나타내는 표준 단위의 필요성을 인식하여 1L와 1mL의 단위를 알고, 이를 이용하여 들이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-17] 들이 단위 1L와 1mL를 알고, 이를 이용하여 들이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.89,
+                            7.43,
+                            917.89,
+                            38.43
+                        ]
+                    ],
+                    "text_description": "500mL 생수병을 보고 들이를 어림해 보려고 합니다. 알맞은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.89,
+                            271.06,
+                            891.89,
+                            351.06
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { 종이컵의 들이는 } 500 \\mathrm{~mL} \\text { 생수병의 들이보다 (많습니다, 적습니다). } \\\\ \\Rightarrow \\text { 종이컵의 들이는 약 }(180 \\mathrm{~mL}, 180 \\mathrm{~L}) \\text {)입니다. }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            306.89,
+                            48.06,
+                            646.89,
+                            228.06
+                        ]
+                    ],
+                    "text_description": "500mL생수병과 종이컵 이미지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.89,
+                            364.06,
+                            249.89,
+                            397.06
+                        ]
+                    ],
+                    "text_description": "적습니다, 180mL"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.89,
+                            409.06,
+                            929.89,
+                            479.06
+                        ]
+                    ],
+                    "text_description": "종이컵의 들이는 500mL 생수병의 들이보다 적습니다. 따라서 500mL보다 적은 180mL로 어림할 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

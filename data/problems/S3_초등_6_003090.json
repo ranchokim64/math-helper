@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "88800431-1a7f-49a7-babc-d828562194fe",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003090",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-09] 원뿔과 구를 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.7,
+                            10.94,
+                            538.5,
+                            38.74
+                        ]
+                    ],
+                    "text_description": "대화를 읽고 구에 대해 잘못 설명한 친구의 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.5,
+                            62.6,
+                            722.5,
+                            415.6
+                        ]
+                    ],
+                    "text_description": "시우: 구는 공 모양의 입체도형이다. 예지: 구의 중심은 1개야. 구의 반지름은 셀 수 없이 많아. 다희: 꼭짓점도 셀 수 없이 많지."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.5,
+                            529.5,
+                            120,
+                            553.25
+                        ]
+                    ],
+                    "text_description": "다희"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.7,
+                            490,
+                            205.3,
+                            511.6
+                        ]
+                    ],
+                    "text_description": "구는 꼭짓점이 없습니다."
+                }
+            ]
+        }
+    ]
+}

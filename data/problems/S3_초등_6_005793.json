@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eb222a96-d1a6-4c4b-83a2-6c18f8b5c1d1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005793",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.27,
+                            3.74,
+                            434.27,
+                            97.74
+                        ]
+                    ],
+                    "text_description": "겉넓이가 $180 \\mathrm{~cm}^{2}$ 이고 옆면의 넓이가 $132 \\mathrm{~cm}^{2}$인 직육면체가 있습니다. 이 직육면체의 한 밑면의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283.27,
+                            111.28,
+                            359.27,
+                            141.28
+                        ]
+                    ],
+                    "text_description": "$24 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.27,
+                            143.28,
+                            390.27,
+                            177.28
+                        ]
+                    ],
+                    "text_description": "$($ 한 밑면의 넓이 $)=(180-132) \\div 2=48 \\div 2=24\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

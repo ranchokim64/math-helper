@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8124507b-6cab-4bac-a1b5-edf860fd28a0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010929",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.34,
+                            9.33,
+                            863.34,
+                            73.33
+                        ]
+                    ],
+                    "text_description": "주어진 모양은 쌓기나무 $5$개로 만든 모양입니다. 같은 모양을 찾아 선택해보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.34,
+                            79.33,
+                            742.34,
+                            222.33
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 만든 모양의 이미지가 3개가 있다. 첫번째는 1층에 3개, 2층에 1개, 3층에 1개이고 두번째는 1층에 3개, 2층에 1개, 3층에 1개이고 세번째는 1층에만 6개 있는 형태이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.34,
+                            226.94,
+                            132.34,
+                            280.94
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 만든 모양의 도형이며 1층에 6개가 있는 형태이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.34,
+                            290.94,
+                            507.34,
+                            319.94
+                        ]
+                    ],
+                    "text_description": "돌리거나 뒤집어서 같은 것은 같은 모양입니다."
+                }
+            ]
+        }
+    ]
+}

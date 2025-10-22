@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "08ed9209-31a0-4273-baf2-f2063057c019",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005372",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.55,
+                            145.33,
+                            592.8,
+                            241.84
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이가 $41. 04 \\mathrm{~cm}^{2}$ 일 때 원의 반 지름은 몇 cm인가요? (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            200.26,
+                            250.2,
+                            390.61,
+                            442.43
+                        ]
+                    ],
+                    "text_description": "원안의 모양이 정사각형으로 되어있는 원의 그림으로 정사각형을 제외한 부분이 색칠되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            404.86,
+                            464.87,
+                            468.37,
+                            494.68
+                        ]
+                    ],
+                    "text_description": "6cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.88,
+                            9.93,
+                            542.25,
+                            138.25
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 반지름을 } \\square \\mathrm{cm} \\text { 라고 하면 } \\\\ \\square \\times \\square \\times 3. 14)-(\\square \\times 2 \\times \\square \\times 2 \\div 2)=41. 04, \\\\ \\square \\times \\square \\times 1. 14=41. 04, \\square \\times \\square=41. 04 \\div 1. 14=36 \\\\ 36=6 \\times 6 \\text { 이므로 원의 반지름은 } 6 \\mathrm{~cm} \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

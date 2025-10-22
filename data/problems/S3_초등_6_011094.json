@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6332af82-0785-4cff-9f9f-abd1ab7ca3f1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011094",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.1,
+                            11.24,
+                            521.7,
+                            33.44
+                        ]
+                    ],
+                    "text_description": "<보기>와 같은 모양을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            348.9,
+                            43.04,
+                            536.9,
+                            168.64
+                        ]
+                    ],
+                    "text_description": "나무 블록이 쌓여 있는 모습이 나타나 있습니다. 1층으로 되어있으며 블록 5개가 있는 모양입니다. 위쪽에 <보기>라고 적혀있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            243.5,
+                            170.9,
+                            640.9,
+                            268.3
+                        ]
+                    ],
+                    "text_description": "나무 블록이 쌓여 있는 모습이 나타나 있습니다. 첫번째 블록은 1층에 ㄱ자 모양으로 4개가 쌓여있고 2층에 블록이 하나 올라가 있습니다. 두번째 블록은 직선으로 3개의 블록이 붙어있고 위아래에 하나씩 붙어 총 5개의 블록이 쌓여있습니다. 세번째 블록은 ㄱ자 모양으로 4개 쌓여있고 오른쪽으로 블록 하나가 붙어있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.9,
+                            278.9,
+                            123.9,
+                            337.1
+                        ]
+                    ],
+                    "text_description": "나무 블록이 있습니다. 블록은 ㄱ자 모양으로 4개 쌓여있고 오른쪽으로 블록 하나가 붙어있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.3,
+                            348.3,
+                            528.9,
+                            374.7
+                        ]
+                    ],
+                    "text_description": "왼쪽 모양을 돌리면 오른쪽 모양과 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.7,
+                            382.7,
+                            252.9,
+                            439.5
+                        ]
+                    ],
+                    "text_description": "나무 블록이 있습니다. 블록은 ㄱ자 모양으로 4개 쌓여있고 오른쪽으로 블록 하나가 붙어있습니다. 왼쪽 모양과 오른쪽 모양은 동일하나, 놓여있는 형태가 다릅니다."
+                }
+            ]
+        }
+    ]
+}

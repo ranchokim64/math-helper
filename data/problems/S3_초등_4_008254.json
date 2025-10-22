@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1e35e26e-1ae4-4b5d-b764-5323184013dd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008254",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            1.92,
+                            935,
+                            69.92
+                        ]
+                    ],
+                    "text_description": "66. 현주는 테트리스 게임에서 아래 세 줄을 없애기 위해서 가를 나와 같은 모양으로 넣어야 합니다. 가를 어떻게 돌려야 하는지 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            319,
+                            76.5,
+                            643,
+                            427.5
+                        ]
+                    ],
+                    "text_description": "테트리스 그림에 내려오는 가와 아래 투명한 점선으로 되어 있는 나가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            210,
+                            429.5,
+                            271,
+                            467.5
+                        ]
+                    ],
+                    "text_description": "② 반 시계 방향 90도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            579.5,
+                            935,
+                            644.5
+                        ]
+                    ],
+                    "text_description": "따라서 가를 시계 반대 방향으로 $90^{\\circ}$만큼 돌리거나 시계 방향으로 $270^{\\circ}$만큼 돌려야 합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            525.5,
+                            377,
+                            578.5
+                        ]
+                    ],
+                    "text_description": "반 시계 방향으로 90도 돌린 그림 또는 시계 방향으로 270도 돌린 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            388,
+                            429.5,
+                            808,
+                            466.5
+                        ]
+                    ],
+                    "text_description": "③ 시계 방향 180도 ④ 반 시계 방향 180도 ⑤ 시계 방향 360도"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            429.5,
+                            94,
+                            468.5
+                        ]
+                    ],
+                    "text_description": "① 시계 방향 90도"
+                }
+            ]
+        }
+    ]
+}

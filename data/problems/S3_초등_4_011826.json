@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "18dde62d-0f22-41fe-b1f7-5b66fd9d1e38",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011826",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.2,
+                            16.64,
+                            645.6,
+                            141.44
+                        ]
+                    ],
+                    "text_description": "은민이는 집에서 $4 \\frac{1}{5} \\mathrm{~km}$ 떨어진 수영장까지 달려가고 있습니다. 지금까지 $2 \\frac{3}{5} \\mathrm{~km}$를 달렸다면 앞으로 몇 km를 더 달려야 할까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.8,
+                            220.7,
+                            192.8,
+                            263.5
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{3}{5} \\mathrm{~km}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.2,
+                            161.44,
+                            271.2,
+                            206.24
+                        ]
+                    ],
+                    "text_description": "$4 \\frac{1}{5}-2 \\frac{3}{5}=3 \\frac{6}{5}-2 \\frac{3}{5}=1 \\frac{3}{5}(\\mathrm{~km})$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ea94bcab-3df9-4a63-8be2-321221bb71b5",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004795",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.13,
+                            18.47,
+                            433.38,
+                            50.77
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도를 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.13,
+                            271.46,
+                            253.71,
+                            300.48
+                        ]
+                    ],
+                    "text_description": "모서리는 모두 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.61,
+                            106.45,
+                            356.86,
+                            246.18
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도이다. 가로는 3cm, 세로는 4cm, 높이는 2cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.25,
+                            320.35,
+                            340.65,
+                            341.88
+                        ]
+                    ],
+                    "text_description": "12개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.66,
+                            353.47,
+                            425.1,
+                            396.52
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도에서 모서리는 실선 9 개와 점선 3 개로 그려 져 있으므로 모서리는 $9+3=12$ (개)입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f4f2a0b5-d94b-4e8c-9db0-a87f1e4ffbb1",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003096",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            5.41,
+                            453.5,
+                            57.41
+                        ]
+                    ],
+                    "text_description": "그림을 이용하여 $\\frac{5}{9} \\div \\frac{2}{9}$는 얼마인지 알아보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127.5,
+                            78.41,
+                            675.5,
+                            287.41
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\frac{5}{9} \\div \\frac{2}{9}=\\square \\div \\square=\\frac{\\square}{\\square}= \\end{array} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            415,
+                            354.5,
+                            498
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{9} \\div \\frac{2}{9}=5 \\div 2=\\frac{5}{2}=2 \\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.5,
+                            313,
+                            725.5,
+                            414
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\frac{5}{9} \\text { 는 } \\frac{1}{9} \\text { 이 } 5 \\text { 개, } \\frac{2}{9} \\text { 는 } \\frac{1}{9} \\text { 이 } 2 \\text { 개이므로 } 5 \\text { 개를 } 2 \\text { 개씩 묶으면 } 2 \\text { 개씩 } 2 \\text { 묶음과 } \\frac{1}{2} \\text { 묶음 } \\\\ \\text { 이므로 } 2 \\frac{1}{2} \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d02ddcc5-86c7-4a53-ac6b-fe56cd14a804",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005148",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            15.92,
+                            191.5,
+                            47.92
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.77,
+                            65.27000000000001,
+                            319.77,
+                            113.27
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r} 4. 52\\, \\overline{\\smash{\\big)} \\, 54. 24} \\\\ \\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.77,
+                            190.27,
+                            307.77,
+                            449.27
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r} 12 \\\\ 4. 52\\, \\overline{\\smash{\\big)} \\, 54. 24} \\\\ 452 \\\\ \\hline 904\\\\ 904 \\\\ \\hline 0 \\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            124.5,
+                            583.5,
+                            182.5
+                        ]
+                    ],
+                    "text_description": "소수점을 오른쪽으로 두 자리씩 옮겨 (자연수) $\\div$ (자연수)로 계 산합니다."
+                }
+            ]
+        }
+    ]
+}

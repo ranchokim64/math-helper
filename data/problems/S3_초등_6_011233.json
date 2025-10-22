@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "203672c1-9877-4d19-8c82-75b7c1fc952a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011233",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.8,
+                            7.74,
+                            543.8,
+                            30.54
+                        ]
+                    ],
+                    "text_description": "원 모양이 있는 여러 가지 악기를 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.2,
+                            339,
+                            857.4,
+                            366.2
+                        ]
+                    ],
+                    "text_description": "주어진 악기에서 (원주) $\\div$ (지름)을 계산한 결과를 보고 원주율에 대해서"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.8,
+                            375,
+                            730.2,
+                            438.2
+                        ]
+                    ],
+                    "text_description": "알 수 있는 것으로 알맞은 말을 선택해 보세요. 원의 크기가 달라도 원주율은 (같습니다, 다릅니다)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.6,
+                            38.54,
+                            770.2,
+                            323.54
+                        ]
+                    ],
+                    "text_description": "징과 탬버린 북이 있습니다. 징은 지름: 25cm, 원주: 78. 5cm로 표기되어 있습니다. 탬버린은 22cm, 원주: 69. 08cm로 표기되어 있습니다. 북은 40cm, 원주: 125. 6cm로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.2,
+                            456.8,
+                            135.8,
+                            479.2
+                        ]
+                    ],
+                    "text_description": "같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.4,
+                            498.6,
+                            859,
+                            522.2
+                        ]
+                    ],
+                    "text_description": "징의 원주율은 $78. 5 \\div 25=3. 14$, 탬버린의 원주율은 $69. 08 \\div 22=3. 14$, 북의 원주율"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.2,
+                            531.6,
+                            859,
+                            586.2
+                        ]
+                    ],
+                    "text_description": "은 $125. 6 \\div 40=3. 14$ 입니다. 징, 탬버린, 북의 원주율은 모두 3. 14로 같습니다. 이를 통 하여 원의 크기가 달라도 원주율은 같다는 것을 알 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

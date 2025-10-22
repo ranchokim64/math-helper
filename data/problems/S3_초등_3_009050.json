@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "04c6713c-9abe-45ae-beac-ebe9c348ed99",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009050",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.4,
+                            3.6399999999999997,
+                            323.2,
+                            28.44
+                        ]
+                    ],
+                    "text_description": "선분을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            153.4,
+                            56.04,
+                            252,
+                            113.84
+                        ]
+                    ],
+                    "text_description": "두 점을 잇는 직선이있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            372.2,
+                            65.3,
+                            483.4,
+                            107.3
+                        ]
+                    ],
+                    "text_description": "두 점을 잇는 곡선이있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            620.4,
+                            49.1,
+                            686,
+                            121.9
+                        ]
+                    ],
+                    "text_description": "두 점을 잇는 물결모양의 선이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.4,
+                            146.7,
+                            147.4,
+                            201.9
+                        ]
+                    ],
+                    "text_description": "두 점을 잇는 선이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.2,
+                            212.9,
+                            500,
+                            237.1
+                        ]
+                    ],
+                    "text_description": "둘째와 셋째는 굽은 선이므로 선분이 아닙니다."
+                }
+            ]
+        }
+    ]
+}

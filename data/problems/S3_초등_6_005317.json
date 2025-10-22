@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8aca8903-1d74-4fb3-a3ac-d45f5c3a372f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005317",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.77,
+                            13.74,
+                            489.77,
+                            132.74
+                        ]
+                    ],
+                    "text_description": "길이가 77.5cm 인 철사로 원 모양을 만들려고 합니다. 만들어진 원의 지름을 구해 보세요. (원주율:3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            172.0,
+                            143.0,
+                            329.0,
+                            297.0
+                        ]
+                    ],
+                    "text_description": "원 이미지이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.77,
+                            357.27,
+                            394.77,
+                            389.27
+                        ]
+                    ],
+                    "text_description": "$($ 지름 $)=($ 원주 $) \\div($ 원주율 $)=77. 5 \\div 3. 1=25(\\mathrm{~cm})$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            331.77,
+                            322.27,
+                            401.77,
+                            356.27
+                        ]
+                    ],
+                    "text_description": "25cm"
+                }
+            ]
+        }
+    ]
+}

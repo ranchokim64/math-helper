@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "08e04957-f4ac-4747-9a3c-1a075e4252a3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010283",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.5,
+                            12.42,
+                            927.5,
+                            78.42
+                        ]
+                    ],
+                    "text_description": "주스 $\\frac{20}{21} \\mathrm{~L}$를 컵 5개에 똑같이 나누어 담으려고 합니다. 컵 한 개에 담는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.5,
+                            82.42,
+                            333.5,
+                            120.42
+                        ]
+                    ],
+                    "text_description": "주스의 양은 몇 $L$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            626.5,
+                            135,
+                            714.5,
+                            193
+                        ]
+                    ],
+                    "text_description": "③ $\\frac{4}{21} \\mathrm{~L}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.5,
+                            134,
+                            398.5,
+                            269
+                        ]
+                    ],
+                    "text_description": "① $\\frac{2}{21} \\mathrm{~L}$ ② $\\frac{1}{7} \\mathrm{~L}$ ④ $\\frac{5}{21} \\mathrm{~L}$ ⑤ $\\frac{2}{7} \\mathrm{~L}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            336,
+                            346.5,
+                            363
+                        ]
+                    ],
+                    "text_description": "(컵 한 개에 담는 주스의 양)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            372,
+                            374.5,
+                            401
+                        ]
+                    ],
+                    "text_description": "$=($ 전체 주스의 양 $) \\div($ 컵의 개수 $)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            413,
+                            325.5,
+                            466
+                        ]
+                    ],
+                    "text_description": "$=\\frac{20}{21} \\div 5=\\frac{20 \\div 5}{21}=\\frac{4}{21}(\\mathrm{~L})$"
+                }
+            ]
+        }
+    ]
+}

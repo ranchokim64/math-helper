@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "643d0b0a-77f1-4416-a54e-b0ec90a4b3c3",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003053",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.6,
+                            6.82,
+                            389.2,
+                            95.62
+                        ]
+                    ],
+                    "text_description": "짐을 $1 t$까지 실을 수 있는 트럭에 무게가 $17.5kg$인 상자를 몇 상자까지 실을 수 있는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.6,
+                            126.62,
+                            292.4,
+                            267.62
+                        ]
+                    ],
+                    "text_description": "1톤 트럭이 있고 실려있는 상자와 바닥에 있는 상자가 있는 이미지가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.6,
+                            341.22,
+                            210,
+                            367.62
+                        ]
+                    ],
+                    "text_description": "57 상자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            274.02,
+                            705.2,
+                            321.22
+                        ]
+                    ],
+                    "text_description": "$1 \\mathrm{t}=1000 \\mathrm{~kg}$ 입니다. $1000 \\div 17. 5=10000 \\div 175=57. 1 \\cdots$ 이므로 57 상자까지 실을 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

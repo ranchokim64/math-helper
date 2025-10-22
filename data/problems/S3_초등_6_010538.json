@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ecbc37e8-0383-4887-8de9-762a429fb27f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010538",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            1.66,
+                            961.75,
+                            80.66
+                        ]
+                    ],
+                    "text_description": "지상이네 학교 전교 회장 선거의 후보자별 득표율을 조사하여 나타낸 원그래프입니다. 옳지 않은 설명은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            347,
+                            89.16,
+                            638.75,
+                            394.16
+                        ]
+                    ],
+                    "text_description": "전교 회장 선거의 후보자별 득표율의 원그래프가 있다 지상이 42%, 신아가 22%, 건형이 21%, 연우가 11%, 민재가 4% 차지하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.25,
+                            531.13,
+                            600,
+                            563.63
+                        ]
+                    ],
+                    "text_description": "④ 건형이보다 득표율이 낮은 사람은 3 명입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            402.13,
+                            657,
+                            518.63
+                        ]
+                    ],
+                    "text_description": "① 회장으로 선출된 사람은 지상입니다. ② 지상이의 득표율은 건형이의 득표율의 2 배입니다. ③ 두 번째로 득표율이 높은 사람은 선아입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            573.13,
+                            777,
+                            607.13
+                        ]
+                    ],
+                    "text_description": "⑤ 전교 학생 수가 500 명일 때 지상이의 득표수는 210 표입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.75,
+                            674.88,
+                            912.5,
+                            884.88
+                        ]
+                    ],
+                    "text_description": "(해설) ① 지상이의 득표율이 가장 높으므로 회장으로 선출된 사람은 지상입니다. ② 지상이의 득표율은 $42 \\%$, 건형이의 득표율은 $21 \\%$ 이고 $42 \\div 21=2$ 이므로 지상이의 득표율은 건형이의 득표율의 2 배입니다. ④ 건형이보다 득표율이 낮은 사람은 연우, 민재로 2 명입니다. ⑤ 지상이의 득표율은 $42 \\%$ 이므로 전교 학생 수가 500 명일 때 지상이의 득표 수는 $500 \\times 0. 42=210$ (표)입니다."
+                }
+            ]
+        }
+    ]
+}

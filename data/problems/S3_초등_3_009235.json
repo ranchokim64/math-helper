@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9b205b6-77f4-4171-a13f-57c7b8af9f2b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009235",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.62,
+                            5.89,
+                            545.62,
+                            28.89
+                        ]
+                    ],
+                    "text_description": "알맞은 단위를 선택하고, 단위가 다른 하나를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            169.62,
+                            160.5,
+                            535.62,
+                            187.5
+                        ]
+                    ],
+                    "text_description": "단위가 다른 하나는 (ㄱ, ㄴ, ㄷ)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133.62,
+                            32.89,
+                            570.62,
+                            159.89
+                        ]
+                    ],
+                    "text_description": "ㄱ. 기린의 키: 약 $300(\\mathrm{~cm}, \\mathrm{~mm})$ ㄴ. 운동화의 길이: 약 $23(\\mathrm{~cm}, \\mathrm{~mm})$ ㄷ. 당근의 길이: 약 $150(\\mathrm{~cm}, \\mathrm{~mm})$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.62,
+                            203.5,
+                            186.62,
+                            222.5
+                        ]
+                    ],
+                    "text_description": "$\\mathrm{cm}, \\mathrm{cm}, \\mathrm{mm}, $ ㄷ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.62,
+                            235.5,
+                            350.62,
+                            377.5
+                        ]
+                    ],
+                    "text_description": "알맞은 단위를 알아보면 ㄱ. 기린의 키는 약 300cm ㄴ. 운동화의 길이는 약 23cm ㄷ. 당근의 길이는 약 150mm 따라서 단위가 다른 하나는 ㄷ입니다."
+                }
+            ]
+        }
+    ]
+}

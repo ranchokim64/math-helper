@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0159e508-6be4-4d4a-8c6b-885206b23b4e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012202",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.63,
+                            9.77,
+                            693.63,
+                            94.77
+                        ]
+                    ],
+                    "text_description": "다음 수에서 ㉠의 3이 나타내는 수는 ㉡의 3이 나타내는 수의 몇 배일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176.13,
+                            109.77,
+                            579.88,
+                            248.52
+                        ]
+                    ],
+                    "text_description": "$㉠3456㉡3789$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            528.63,
+                            261.01,
+                            624.88,
+                            291.76
+                        ]
+                    ],
+                    "text_description": "10000 배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.88,
+                            301.76,
+                            421.13,
+                            356.76
+                        ]
+                    ],
+                    "text_description": "$\\left. \\begin{array}{l}\\text { ㉠ : } 30000000 \\\\ \\text { ㉡ : } 3000\\end{array}\\right\\}$ ㉠은 ㉡의 10000 배"
+                }
+            ]
+        }
+    ]
+}

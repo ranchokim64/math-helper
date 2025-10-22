@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d94c5384-c0b1-4d1a-97d7-bb76aba56ccf",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002913",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            15.42,
+                            523.5,
+                            188.42
+                        ]
+                    ],
+                    "text_description": "빛은 소리보다 빠르게 이동하므로 번개가 먼저 보인 후 천둥소리가 들립니다. 소리는 공기 중에서 1초 동안 약 0.34km를 이동합니다. 예지가 번개를 보고 나서 5. 5초 후에 천둥소리를 들었다면, 예지가 있는 곳과 번개가 친 곳은 약 몇 km 떨어져 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            533.5,
+                            12,
+                            785.5,
+                            223
+                        ]
+                    ],
+                    "text_description": "번개가 치는 날에 우비를 입고 있는 예지 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            292,
+                            262.5,
+                            334
+                        ]
+                    ],
+                    "text_description": "약 $1. 87 \\mathrm{~km}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            224,
+                            774.5,
+                            281
+                        ]
+                    ],
+                    "text_description": "번개를 보고 나서 5. 5초 후에 천둥소리를 들었으므로 소리는 5. 5초 동안 이동했습니다. 따라서 예지가 있는 곳과 번개가 친 곳은 약 $0. 34 \\times 5. 5=1. 87(\\mathrm{~km})$ 떨어져 있습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1987d4b8-5b60-4d8c-a8bc-3eee7f2533fa",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004867",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.46,
+                            15.95,
+                            396.55,
+                            101
+                        ]
+                    ],
+                    "text_description": "주머니 속에 빨간색 구슬이 2개 들어 있습니다. 주머니에서 구슬 1 개를 꺼낼 때 빨간색일 가능성을 수로 표현해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            150.39,
+                            115.72,
+                            257.52,
+                            217.13
+                        ]
+                    ],
+                    "text_description": "주머니속 빨간구슬 2개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289.96,
+                            234.49,
+                            303.32,
+                            253.93
+                        ]
+                    ],
+                    "text_description": "1"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.45,
+                            262.62,
+                            390,
+                            283.88
+                        ]
+                    ],
+                    "text_description": "빨간색 구슬을 꺼내는 것은 '확실하다'이므로 가능성은 1 입니다."
+                }
+            ]
+        }
+    ]
+}

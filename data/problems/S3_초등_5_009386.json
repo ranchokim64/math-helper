@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d4187b0a-bcab-44b4-9d0e-e81acc35bacd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009386",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.01,
+                            4.55,
+                            463.85,
+                            27.96
+                        ]
+                    ],
+                    "text_description": "56이 포함되는 수의 범위를 찾아 선택해보세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.15,
+                            40.95,
+                            241.47,
+                            66.03
+                        ]
+                    ],
+                    "text_description": "① 55초과인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            291.64,
+                            39.28,
+                            644.46,
+                            64.36
+                        ]
+                    ],
+                    "text_description": "② 56 미만인 수 ③ 56초과인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.1,
+                            264.18,
+                            463.87,
+                            340.26
+                        ]
+                    ],
+                    "text_description": "① 55를 점 ○으로 나타내고 오른쪽으로 선을 긋습니다. ② 56을 점 ○으로 나타내고 왼쪽으로 선을 긋습니다. ③ 56을 점 ○으로 나타내고 오른쪽으로 선을 긋습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.340000000000003,
+                            132.77,
+                            405.34,
+                            176.72
+                        ]
+                    ],
+                    "text_description": "① 55초과인 수 $\\Rightarrow$ 수직선 위에 53부터 57까지의 자연수가 표시되어 있고, 55 위에 비워진 파란점부터 57을 지나 오른쪽으로 파란선이 쭉 이어져 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.93,
+                            177.23,
+                            406.18,
+                            220.7
+                        ]
+                    ],
+                    "text_description": "② 56 미만인 수 $\\Rightarrow$ 수직선 위에 53부터 57까지의 자연수가 표시되어 있고, 56 위에 비워진 파란점부터 53을 지나 왼쪽으로 파란선이 쭉 이어져 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.93,
+                            220.7,
+                            405.34,
+                            263.34
+                        ]
+                    ],
+                    "text_description": "③ 56초과인 수 $\\Rightarrow$ 수직선 위에 53부터 57까지의 자연수가 표시되어 있고, 56 위에 비워진 파란점부터 57을 지나 오른쪽으로 파란선이 쭉 이어져 있다."
+                }
+            ]
+        }
+    ]
+}

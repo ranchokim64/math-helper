@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b8192883-35d9-4518-8e56-ae40684c7124",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007395",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            4.92,
+                            844,
+                            69.92
+                        ]
+                    ],
+                    "text_description": "지현이가 색종이로 만든 삼각형의 일부가 찢어젔습니다. 이 삼각형은 어 떤 삼각형인지 모두 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            245,
+                            206.5,
+                            560,
+                            283.5
+                        ]
+                    ],
+                    "text_description": "이등변삼각형 정삼각형 예각삼각형 둔각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            354.0,
+                            76.0,
+                            522.0,
+                            187.0
+                        ]
+                    ],
+                    "text_description": "일부가 찢어진 삼가형 두 각은 각각 70도와 55도 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            357.5,
+                            843,
+                            452.5
+                        ]
+                    ],
+                    "text_description": "나머지 한 각의 크기는 $180^{\\circ}-70^{\\circ}-55^{\\circ}=55^{\\circ}$ 이므로이 삼각형의 세 각의 크기는 $55^{\\circ}, 70^{\\circ}, 55^{\\circ}$ 입니다. 따라서 두 각의 크기가 같기 때문에 이등변삼각형이고, 세 각이 모두 예각이기 때문에 예각삼각형입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.0,
+                            315.5,
+                            305.0,
+                            345.5
+                        ]
+                    ],
+                    "text_description": "이등변삼각형, 예각삼각형"
+                }
+            ]
+        }
+    ]
+}

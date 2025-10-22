@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "262114f3-f27e-4888-bce3-3b128a65bd3f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008559",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.87,
+                            2.5,
+                            756.62,
+                            33.75
+                        ]
+                    ],
+                    "text_description": "색칠된 부분은 실제 어떤 수의 곱인지를 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            532.87,
+                            86.99,
+                            634.12,
+                            240.74
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 6 & \\times 4 \\\\ 60 & \\times 4 \\\\ 62 & \\times 4 \\\\ 600 & \\times 4\\end{aligned}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.37,
+                            35.74,
+                            440.37,
+                            290.74
+                        ]
+                    ],
+                    "text_description": "``` \\[ \\begin{array}{cccc} & 7 & 6 & 2 \\\\ \\times & & & 4\\\\ \\hline & & & 8\\\\ & 2 & 4 & 0 \\\\ 2 & 8 & 0 & 0 \\\\ \\hline3 & 0 & 4 & 8 \\\\ \\end{array} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.37,
+                            301.99,
+                            127.87,
+                            326.99
+                        ]
+                    ],
+                    "text_description": "$60 \\times 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.37,
+                            344.99,
+                            591.62,
+                            374.49
+                        ]
+                    ],
+                    "text_description": "762에서 6은 십의 자리이므로 $60 \\times 4=240$ 입니다."
+                }
+            ]
+        }
+    ]
+}

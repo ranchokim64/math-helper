@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "764fa0e6-5ab6-4045-a62e-655ac334a9d2",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012312",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            7.4,
+                            594,
+                            101.4
+                        ]
+                    ],
+                    "text_description": "삼각형 모양의 배열을 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            313.4,
+                            530,
+                            361.4
+                        ]
+                    ],
+                    "text_description": "여섯째에 올 바둑돌의 개수를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83,
+                            122.4,
+                            564,
+                            293.4
+                        ]
+                    ],
+                    "text_description": "첫째: 두번째줄에 바둑돌이 2개, 첫번째줄에 바둑돌이 한개로 되어있는 총 세개의 바둑돌이 있다. 둘째: 세번째줄에 바둑돌이 3개, 두번째줄에 바둑돌이 두개, 첫번째줄에 바둑돌이 한개로 되어있는 총 여섯개의 바둑돌이 있다. 셋째: 네번째줄에 바둑돌이 4개, 세번째줄에 가운데가 비어있는 바둑돌이 두개, 두번째줄에 바둑돌이 2개, 첫번째줄에 바둑돌이 한개로 되어있는 총 9개의 바둑돌이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            397,
+                            387.4,
+                            456,
+                            414.4
+                        ]
+                    ],
+                    "text_description": "18개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            415.4,
+                            451,
+                            497.4
+                        ]
+                    ],
+                    "text_description": "바둑돌이 3개, 6개, 9개로 3개씩 늘어나는 규칙이므로 여섯째에 올 바둑돌은 $9+3+3+3=18$ (개)입니다."
+                }
+            ]
+        }
+    ]
+}

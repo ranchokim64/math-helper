@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ee397ca0-82b2-4116-8e76-7cc4f499373f",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003006",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            9.42,
+                            623,
+                            107.42
+                        ]
+                    ],
+                    "text_description": "어제 $272 \\frac{3}{5} \\mathrm{~L}$의 물을 사용한 시우는 오늘 $261 \\frac{1}{6} \\mathrm{~L}$의 물을 사용하였 습니다. 오늘 시우는 어제보다 몇 L의 물을 절약하였을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            139.3,
+                            139,
+                            302.3
+                        ]
+                    ],
+                    "text_description": "수도꼭지에서 물이 나오는 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.39,
+                            345.39,
+                            152.74,
+                            383.28
+                        ]
+                    ],
+                    "text_description": "$11 \\frac{13}{30}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.18,
+                            305.97,
+                            383.14,
+                            343.34
+                        ]
+                    ],
+                    "text_description": "$272 \\frac{3}{5}-261 \\frac{1}{6}=272 \\frac{18}{30}-261 \\frac{5}{30}=11 \\frac{13}{30}(\\mathrm{~L})$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5f8de788-9c60-46ee-9a9c-7ce99949c07f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004506",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            4.42,
+                            438.5,
+                            31.42
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 차례대로 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            177.5,
+                            55.42,
+                            316.5,
+                            131.42
+                        ]
+                    ],
+                    "text_description": "㉠ $25-2 \\times 3+5$ ㉡ $(25-2) \\times 3+5$ ㉢ $25-2 \\times(3+5)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            277.5,
+                            162.0,
+                            415.5,
+                            184.0
+                        ]
+                    ],
+                    "text_description": "㉡㉠㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.5,
+                            192.0,
+                            344.5,
+                            253.0
+                        ]
+                    ],
+                    "text_description": "$25-2 \\times 3+5=25-6+5=19+5=24$  $(25-25) \\times 3+5=23 \\times 3+5=69+5=74$  $25-2 \\times(3+5)=25-2 \\times 8=25-16=9$"
+                }
+            ]
+        }
+    ]
+}

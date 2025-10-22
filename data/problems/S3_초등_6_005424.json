@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3d5382a3-543d-4588-b544-cc613776375e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005424",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.55,
+                            115.56,
+                            449.18,
+                            223.78
+                        ]
+                    ],
+                    "text_description": "그림과 같이 원기웅의 전개도에서 여편의 넓이가 $200. 96 \\mathrm{~cm}^{2}$ 이고 높이가 $8cm$ 일 때 원기둥의 밑면의 반지름은 몇 cm 인가요? (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.68,
+                            234.88,
+                            360.51,
+                            440.08
+                        ]
+                    ],
+                    "text_description": "원기둥의 전개도 이다. 옆면의 넓이: $200. 96cm^2$이고 높이는 $8cm$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            304.55,
+                            455.63,
+                            360.51,
+                            484.65
+                        ]
+                    ],
+                    "text_description": "$4cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.29,
+                            16.05,
+                            345.95,
+                            108.78
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { (옆면의 가로) } & =(\\text { 옆면의 넓이) } \\div \\text { (옆면의 세로) } \\\\ & =200. 96 \\div 8=25. 12(\\mathrm{~cm}) \\\\ \\text { (밑면의 반지름) } & =(\\text { 옆면의 가로 }) \\div(\\text { (원주윤 }) \\div 2 \\\\ & =25. 12 \\div 3. 14 \\div 2=4(\\mathrm{~cm})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

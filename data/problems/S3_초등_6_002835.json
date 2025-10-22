@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8877562b-dfb5-48cc-a78d-3a4d9a7e46c8",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002835",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-02] 실생활 자료를 그림그래프로 나타내고, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            5.64,
+                            724.75,
+                            66.89
+                        ]
+                    ],
+                    "text_description": "재이네 반 학급 회장 선거 결과입니다. 학급 회장으로 당선된 학생의 득표율은 몇 %인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.75,
+                            77.62,
+                            551,
+                            318.87
+                        ]
+                    ],
+                    "text_description": "학급 회장 선거의 칠판 표 이다. 김채민 7표. 이재윤12표. 정소희 5표를 받았다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1,
+                            461.12,
+                            177.25,
+                            496.37
+                        ]
+                    ],
+                    "text_description": "($50 \\quad$ ）%"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.25,
+                            379.12,
+                            610.5,
+                            448.87
+                        ]
+                    ],
+                    "text_description": "전체 투표수는 $7+12+5=24$ 이고, 학급 회장으로 당선된 학생의 득표수는 12 표이므로 득표율은 $\\frac{12}{24} \\times 100=50(\\%)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

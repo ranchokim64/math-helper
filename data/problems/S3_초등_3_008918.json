@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9280af33-24b3-42fd-bc06-869aa90bb033",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008918",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            10.4,
+                            924.4,
+                            77.6
+                        ]
+                    ],
+                    "text_description": "마을별 기르고 있는 돼지 수를 그림그래프로 나타내었습니다. 가장 많은 돼지를 기르고 있는 마을을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            231.8,
+                            85.6,
+                            729.2,
+                            473.6
+                        ]
+                    ],
+                    "text_description": "마을 별 돼지 수를 표시한 그림 그래프 입니다. 단위는 큰 돼지는 10마리 작은 돼지는 1마리 입니다. 초록 마을은 큰 돼지 3마리, 작은 돼진 3마리 입니다. 하늘 마을은 큰 돼지 4마리, 작은 돼지 3마리 입니다. 금빛 마을은 큰 돼지 2마리, 작은 돼지 4마리 입니다. 바람 마을은 큰 돼지 1마리, 작은 돼지 6마리 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            477.2,
+                            484.8,
+                            617.2,
+                            519.2
+                        ]
+                    ],
+                    "text_description": "② 하늘 마을"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.8,
+                            483.2,
+                            174,
+                            559.6
+                        ]
+                    ],
+                    "text_description": "① 초록 마을 ③ 금빛 마을"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            476.8,
+                            525,
+                            620.8,
+                            565
+                        ]
+                    ],
+                    "text_description": "④ 바람 마을"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.8,
+                            623.2,
+                            623.6,
+                            652.8
+                        ]
+                    ],
+                    "text_description": "큰 그림이 가장 많은 마을을 찾으면 하늘 마을입니다."
+                }
+            ]
+        }
+    ]
+}

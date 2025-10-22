@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ff3a60ac-7d61-4d70-92b1-534d382d118f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007819",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            4.42,
+                            851,
+                            69.42
+                        ]
+                    ],
+                    "text_description": "25. 어느 도시의 기온을 2시간마다 조사하여 나타낸 꺾은선그래프입니다. 오 후 3 시의 기온은 몇 ${ }^{\\circ} \\mathrm{C}$ 였을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224,
+                            84.42,
+                            663,
+                            363.42
+                        ]
+                    ],
+                    "text_description": "도시의 온도 y축는 섭씨, z축은 시간을 나타내고 있다. 10시부터 2시까지 상승하다가 6시까지 하강하는 모양을 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15,
+                            413,
+                            851,
+                            473
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (해설)오후 } 3 \\text { 시의 기온은 오후 } 2 \\text { 시의 기온인 } 16^{\\circ} \\mathrm{C} \\text { 와 오후 } 4 \\text { 시의 기온인 } 9^{\\circ} \\mathrm{C} \\text { 의 중간인 } \\\\ 12. 5^{\\circ} \\mathrm{C} \\text { 였을 것입니다. }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.0,
+                            379.0,
+                            107.0,
+                            398.0
+                        ]
+                    ],
+                    "text_description": "$12. 5^{\\circ} \\mathrm{C}$"
+                }
+            ]
+        }
+    ]
+}

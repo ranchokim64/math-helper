@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "36183777-aeb7-4312-af93-6c155f442210",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009148",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            8.4,
+                            745.5,
+                            37.4
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 큰 것부터 순서대로 바르게 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            177.5,
+                            42.4,
+                            685.5,
+                            119.4
+                        ]
+                    ],
+                    "text_description": "㉠ $24 \\div 4$ ㉡ $48 \\div 6$ ㉢ $35 \\div 7$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            555.5,
+                            126.4,
+                            682.5,
+                            155.4
+                        ]
+                    ],
+                    "text_description": "③ ㉡, ㉠, ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            126.4,
+                            420.5,
+                            155.4
+                        ]
+                    ],
+                    "text_description": "① ㉠, ㉡, ㉢ ② ㉡, ㉢, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            211.4,
+                            533.5,
+                            374.4
+                        ]
+                    ],
+                    "text_description": "㉠$4 \\times 6 = 24$ 이므로 $24 \\div 4 = 6$ ㉡$6 \\times 8 = 48$ 이므로 $48 \\div 6 = 8$ ㉢$7 \\times 5 = 35$ 이므로 $35 \\div 7 = 5$ 나눗셈의 몫은 ㉠ $6$, ㉡ $8$, ㉢ $5$ 이므로 $8 > 6 > 5$입니다. 따라서 몫이 큰 것부터 쓰면 ㉡, ㉠, ㉢입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "af34d1b3-95f3-44c3-9f32-e3158fef2d50",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010691",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            7.92,
+                            389,
+                            32.92
+                        ]
+                    ],
+                    "text_description": "17의 배수가 아닌 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            78.92,
+                            72,
+                            102.92
+                        ]
+                    ],
+                    "text_description": "④ 95"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            44.5,
+                            576,
+                            68.5
+                        ]
+                    ],
+                    "text_description": "① 17 ② 51 ③ 68"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            278,
+                            80.5,
+                            336,
+                            104.5
+                        ]
+                    ],
+                    "text_description": "⑤ 102"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.46,
+                            159.72,
+                            473.46,
+                            301.72
+                        ]
+                    ],
+                    "text_description": "① $17 \\times 1=17$ ② $17 \\times 3=51$ ③ $17 \\times 4=68$ ④ $17 \\times 5=85$ 이므로 $95$는 $17$의 배수가 아닙니다. ⑤ $17 \\times 6=102$"
+                }
+            ]
+        }
+    ]
+}

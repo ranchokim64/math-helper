@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4a1393a0-ef6c-49d2-a980-e6c56d640760",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010875",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            6.92,
+                            862.5,
+                            70.92
+                        ]
+                    ],
+                    "text_description": "밀가루 $8.4kg$을 한 사람에 $4kg$ 씩 나누어 주려고 합니다. 나누어 줄 수 있는 사람 수와 남는 밀가루의 양을 바르게 구한 것의 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            228.5,
+                            381.5,
+                            253.5,
+                            408.5
+                        ]
+                    ],
+                    "text_description": "㉠"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            637.5,
+                            382.5,
+                            662.5,
+                            409.5
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.5,
+                            75.5,
+                            438.5,
+                            379.5
+                        ]
+                    ],
+                    "text_description": "나누어 줄 수 있는 사람 수: $2$ 명 남는 밀가루의 양: $0.1kg$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            447.5,
+                            76.5,
+                            854.5,
+                            380.5
+                        ]
+                    ],
+                    "text_description": "나누어 줄 수 있는 사람 수: $2$ 명 남는 밀가루의 양: $0.4kg$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.5,
+                            428.92,
+                            78.5,
+                            455.92
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            473.5,
+                            698.5,
+                            566.5
+                        ]
+                    ],
+                    "text_description": "사람 수는 자연수이므로 몫을 자연수까지 구해야 합니다. (전체 밀가루의 양) $-($ 나누어 주는 밀가루의 양 $)=8. 4-8=0. 4$ 이므로 나누어 주고 남는 밀가루의 양은 $0.4kg$ 입니다."
+                }
+            ]
+        }
+    ]
+}

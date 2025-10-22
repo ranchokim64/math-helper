@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8e4a6679-c7c6-4113-95b0-c47bd65a35e0",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002973",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            2.9,
+                            298,
+                            31.9
+                        ]
+                    ],
+                    "text_description": "조건에 모두 맞는 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195,
+                            51.900000000000006,
+                            536,
+                            188.9
+                        ]
+                    ],
+                    "text_description": "$\\cdot$ 6과 9의 공배수입니다. $\\cdot$ 20보다 크고 40보다 작습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88,
+                            310.9,
+                            131,
+                            340.9
+                        ]
+                    ],
+                    "text_description": "$36$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            198.9,
+                            603,
+                            304.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}6 \\text { 의 배수: } 6, 12, 18, 24, 30, 36, 42, 48, 54, \\ldots \\\\ 9 \\text { 의 배수: } 9, 18, 27, 36, 45, 54, \\ldots \\\\ 6 \\text { 과 } 9 \\text { 의 공배수는 } 18, 36, 54, \\ldots \\text { 입니다. } \\\\ \\text { 또 } 20 \\text { 보다 크고 } 40 \\text { 보다 작으므로 조건을 모두 만족하는 수는 } 36 \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

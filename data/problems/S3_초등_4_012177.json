@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2fe629ab-70bf-4b52-8aab-f85d325e5a8f",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012177",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            114.5,
+                            17.41,
+                            645.5,
+                            53.41
+                        ]
+                    ],
+                    "text_description": "현수가 살고 있는 지역의 학교에 있는 나무를 조사하여"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            56.41,
+                            527.5,
+                            93.41
+                        ]
+                    ],
+                    "text_description": "나타낸 표와 그림그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            564,
+                            538.5,
+                            598
+                        ]
+                    ],
+                    "text_description": "나무가 가장 많이 있는 학교는 어느 학교인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            109,
+                            650.5,
+                            232
+                        ]
+                    ],
+                    "text_description": "학교별 심은 나무 수 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 학교 & 사랑 & 믿음 & 행복 & 미소 & 합계 \\\\ \\hline 나무 수(그루) & 15 & 40 & 31 & 24 & 110 \\\\ \\hline \\end{tabular}"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146.5,
+                            243,
+                            550.5,
+                            546
+                        ]
+                    ],
+                    "text_description": "이 이미지는 \"학교별 심은 나무 수\"를 나타내는 그림입니다. 표는 각 학교에서 심은 나무 수를 시각적으로 나타내고 있으며, 다음과 같은 구조로 되어 있습니다. - **상단 제목**: \"학교별 심은 나무 수\" - **열**: - 첫 번째 열은 \"학교\" 항목으로 각 학교 이름이 포함되어 있습니다. - 두 번째 열은 \"나무 수\" 항목으로 각 학교에서 심은 나무의 수를 나무 아이콘으로 표시하고 있습니다. - **학교 이름과 나무 수**: - 사랑 학교: 작은 나무 아이콘이 7개 있습니다. - 믿음 학교: 나무 아이콘이 4개 있습니다. - 행복 학교: 나무 아이콘이 6개 있습니다. - 미소 학교: 나무 아이콘이 9개 있습니다. - **하단 범례**: 나무 1그룹 아이콘이 \"10그루\"를 의미한다는 설명이 있습니다. 이 표는 각 학교에서 심은 나무의 양을 한눈에 알아볼 수 있도록 시각화한 것입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            504.5,
+                            615,
+                            591.5,
+                            644
+                        ]
+                    ],
+                    "text_description": "믿음 학교"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.5,
+                            656,
+                            653.5,
+                            706
+                        ]
+                    ],
+                    "text_description": "큰 그림의 개수가 가장 많은 학교가 나무가 가장 많이 있는 학교이고 밈음 학교입 니다."
+                }
+            ]
+        }
+    ]
+}

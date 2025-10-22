@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "294c8174-992c-42d6-8149-d6dc30897d3f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011395",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.5,
+                            2.24,
+                            712.5,
+                            36.64
+                        ]
+                    ],
+                    "text_description": "원기둥을 만들 수 있는 전개도는 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370.9,
+                            147.24,
+                            496.5,
+                            250.24
+                        ]
+                    ],
+                    "text_description": "⑤직사각형에 위, 아래로 원이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.7,
+                            311.5,
+                            425.3,
+                            341.1
+                        ]
+                    ],
+                    "text_description": "① 두 밑면이 합동이 아닙니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.7,
+                            353.9,
+                            456.5,
+                            420.3
+                        ]
+                    ],
+                    "text_description": "②, ④ 옆면이 직사각형이 아닙니다. ③ 두 밑면이 겹칩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.7,
+                            45.1,
+                            842.1,
+                            146.7
+                        ]
+                    ],
+                    "text_description": "① 직사각형에 위에는 작은 원 아래는 큰 원이 있습니다. ② 두 변이 직각인 사각형에 위, 아래로 원이 있습니다. ③ 직사각형 위에 두 개의 원이 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            148.5,
+                            170.1,
+                            249.1
+                        ]
+                    ],
+                    "text_description": "④ 사다리꼴의 위, 아래에 원이 있습니다."
+                }
+            ]
+        }
+    ]
+}

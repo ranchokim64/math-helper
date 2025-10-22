@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a0dcec47-2d5d-46c8-be86-5f6ea13fa847",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005349",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.25,
+                            12.91,
+                            375.25,
+                            44.16
+                        ]
+                    ],
+                    "text_description": "도형을 보고 물음에 답하세요 (원주율: 3)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            248.63,
+                            321.5,
+                            281.13
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 둘레를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.25,
+                            92.41,
+                            324.5,
+                            233.41
+                        ]
+                    ],
+                    "text_description": "반지름이 12cm인 반원에서 반지름 8cm의 반원을 뺀 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296.5,
+                            294.88,
+                            365.25,
+                            326.13
+                        ]
+                    ],
+                    "text_description": "68cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.75,
+                            332.38,
+                            445.25,
+                            431.13
+                        ]
+                    ],
+                    "text_description": "(반지름이 8cm 인 원의 원주) $\\div 2+$ (반지름이 12cm 인 원의 원주) $\\div 2+4 \\times 2$ \\[ \\begin{array}{l} =8 \\times 2 \\times 3 \\div 2+12 \\times 2 \\times 3 \\div 2+8 \\\\ =24+36+8=68(\\mathrm{~cm}) \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

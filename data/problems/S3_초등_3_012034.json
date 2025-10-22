@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "48cbb91b-0df6-4693-a742-0e20c8ebeab7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012034",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.28,
+                            16.81,
+                            340.94,
+                            50.17
+                        ]
+                    ],
+                    "text_description": "두 곱의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.04,
+                            81,
+                            485.05,
+                            160.37
+                        ]
+                    ],
+                    "text_description": "$3 \\times 64 \\quad 43 \\times 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            393.34,
+                            193.18,
+                            424.17,
+                            216.3
+                        ]
+                    ],
+                    "text_description": "$20$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.4,
+                            231.63,
+                            330.92,
+                            277.27
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}3 \\times 64=64 \\times 3=192, 43 \\times 4=172 \\\\ \\rightarrow 192-172=20\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

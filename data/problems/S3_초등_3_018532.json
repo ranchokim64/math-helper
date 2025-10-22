@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b01a3231-dead-417e-8668-d21a97c8f23c",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018532",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.17,
+                            5.89,
+                            784.17,
+                            59.89
+                        ]
+                    ],
+                    "text_description": "연필이 56자루 있습니다. 한 명에게 7자루씩 나누어 주려고 합니다. 모두 몇 명에게 나누어 줄 수 있 을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.17,
+                            72.89,
+                            66.17,
+                            97.89
+                        ]
+                    ],
+                    "text_description": "① 8 명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.29,
+                            104.87,
+                            66.76,
+                            189.24
+                        ]
+                    ],
+                    "text_description": "② 9명 ③ 7명 ④ 6명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.17,
+                            229.5,
+                            556.17,
+                            254.5
+                        ]
+                    ],
+                    "text_description": "따라서 56자루의 연필을 7자루씩 나누면 8명에게 나눠줄 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.06,
+                            202.61,
+                            102.81,
+                            224.32
+                        ]
+                    ],
+                    "text_description": "$56 \\div 7=8$"
+                }
+            ]
+        }
+    ]
+}

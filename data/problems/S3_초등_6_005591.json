@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7789f00e-867c-4a89-a907-e35dda05c3e1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005591",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.11,
+                            1.61,
+                            428.5,
+                            59.62
+                        ]
+                    ],
+                    "text_description": "다음은 어떤 각뿔의 밑면입니다. 이 각뿔에서 꼭짓점은 모두 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147.25,
+                            68.99,
+                            278.5,
+                            193.21
+                        ]
+                    ],
+                    "text_description": "오각뿔 평면도형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            300.77,
+                            208.79,
+                            335.34,
+                            232.81
+                        ]
+                    ],
+                    "text_description": "6개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.1,
+                            243.36,
+                            416.78,
+                            289.06
+                        ]
+                    ],
+                    "text_description": "밑면이 오각형인 각뿔이므로 오각뿔입니다. $\\rightarrow($ 오각뿔의 꼭짓점의 수 $)=($ 밑면의 변의 수 $)+1=5+1=6$ (개)"
+                }
+            ]
+        }
+    ]
+}

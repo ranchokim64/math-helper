@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "66a3a390-d60e-46aa-b311-a166c4a28995",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012244",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            24.42,
+                            593.5,
+                            108.42
+                        ]
+                    ],
+                    "text_description": "도형 안에 표시한 모든 각의 크기의 합 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            222.5,
+                            131.42000000000002,
+                            437.5,
+                            256.42
+                        ]
+                    ],
+                    "text_description": "이 이미지는 서로 붙어있는 삼각형과 평행사변형을 나타냅니다. 평행사변형의 네 꼭짓점과 삼각형의 세 꼭짓점이 있으며, 각 꼭짓점에는 각 표시가 되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            449.5,
+                            277,
+                            502.5,
+                            306
+                        ]
+                    ],
+                    "text_description": "$540^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.5,
+                            321,
+                            475.5,
+                            372
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 두 도형은 삼각형과 사각형을 붙인 도형입니다. } \\\\ 180^{\\circ}+360^{\\circ}=540^{\\circ}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

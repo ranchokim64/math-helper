@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0d52dbaf-b5c4-4be9-b354-9a429abe479e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007774",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            10.16,
+                            850,
+                            76.41
+                        ]
+                    ],
+                    "text_description": "지아네 집의 보리 생산량과 쌀 생산량을 조사하여 나타낸 꺾은선그래프입니다. 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            187.5,
+                            353.38,
+                            696.25,
+                            428.38
+                        ]
+                    ],
+                    "text_description": "보리 생산량은 (늘어나고, 줄어들고) 쌀 생산량은 (늘어나고, 줄어들고) 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.5,
+                            87.66,
+                            830,
+                            323.91
+                        ]
+                    ],
+                    "text_description": "보리 생산량 : 가로는 연도(년), 세로는 생산량(kg)이다. 2014년에서 2017년까지 증가하고있다. 쌀 생산량 : 가로는 연도(년), 세로는 생산량(kg)이다. 2014년도에서 2017년까지 감소하고있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            454.63,
+                            247.5,
+                            484.63
+                        ]
+                    ],
+                    "text_description": "늘어나고, 줄어들고"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.75,
+                            497.13,
+                            847.5,
+                            563.38
+                        ]
+                    ],
+                    "text_description": "(해설) 보리의 선은 오른쪽 위로 올라가고, 쌀의 선은 오른쪽 아래로 내려가고 있으므로 보리 생산량은 늘어나고 쌀 생산량은 줄어들고 있습니다."
+                }
+            ]
+        }
+    ]
+}

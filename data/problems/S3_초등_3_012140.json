@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aee10f4d-9fa9-4e6b-ba6a-8d6d5b48de52",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012140",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.5,
+                            14.92,
+                            582.5,
+                            51.92
+                        ]
+                    ],
+                    "text_description": "곱이 가장 큰 것을 찾아 기호를 쓰세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.5,
+                            115.92,
+                            547.5,
+                            156.92
+                        ]
+                    ],
+                    "text_description": "㉠ $43 \\times 9$ ㉡ $56 \\times 7$ ㉢ $75 \\times 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            462.5,
+                            216.5,
+                            495.5,
+                            242.5
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95.5,
+                            251.5,
+                            523.5,
+                            305.5
+                        ]
+                    ],
+                    "text_description": "㉠ $43 \\times 9=387$ ㉡ $56 \\times 7=392$ ㉢ $75 \\times 5=375$ 따라서 곱이 가장 큰 것은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

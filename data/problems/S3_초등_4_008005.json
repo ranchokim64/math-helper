@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ae34b56d-a168-4445-93fe-7e087a2f32ff",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008005",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.3,
+                            3.74,
+                            764.9,
+                            35.34
+                        ]
+                    ],
+                    "text_description": "다음 중 알맞게 어림한 것을 모두 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            664.9,
+                            356.2,
+                            929.7,
+                            396.2
+                        ]
+                    ],
+                    "text_description": "(가, 나, 다, 라)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.7,
+                            42.94,
+                            826.5,
+                            354.14
+                        ]
+                    ],
+                    "text_description": "가: 약 45도 나: 약 120도 다: 약 70도 라: 약 95도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.7,
+                            417,
+                            130.5,
+                            446.6
+                        ]
+                    ],
+                    "text_description": "가, 라"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.7,
+                            466.6,
+                            929.7,
+                            579.4
+                        ]
+                    ],
+                    "text_description": "가: 직각을 이등분한 것 중의 하나처럼 보이므로 약 $45^{\\circ}$라고 어림할 수 있 습니다. 라: 직각과 비슷해 보이므로 약 $95^{\\circ}$라고 어림할 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

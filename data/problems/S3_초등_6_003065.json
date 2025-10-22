@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bcbe7262-6c12-484e-8ee4-aee8343087a5",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003065",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            12.41,
+                            683.5,
+                            72.41
+                        ]
+                    ],
+                    "text_description": "다희와 태오는 포도 원액과 물을 섞어 포도주스를 만들었습니다. 다희와 태오가 사용한 포도 원액 양과 물양의 비를 각각 구하고, 간단한 자연수의 비로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.5,
+                            81,
+                            632.5,
+                            280
+                        ]
+                    ],
+                    "text_description": "다희: 나는 포도 원액 0.08L와 물 0.3L를 넣었어. 태우: 나는 포도 원액 1/5 컵과 물 2/3 컵을 넣었어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            430,
+                            330.5,
+                            524
+                        ]
+                    ],
+                    "text_description": "다희: 0. 08:0. 3, 예 4:15 태우: 1/5:2/3, 예 3:10"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            286,
+                            328.5,
+                            411
+                        ]
+                    ],
+                    "text_description": "다희: $0. 08: 0. 3$의 전항과 후항에 50을 곱하면 4:15입니다. 태오: $\\frac{1}{5}: \\frac{2}{3}$의 전항과 후항에 15를 곱하면 $3: 10$ 입니다."
+                }
+            ]
+        }
+    ]
+}

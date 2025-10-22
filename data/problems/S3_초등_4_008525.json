@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2c0ac201-b50c-4f92-825e-ec211187160d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008525",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.87,
+                            2.75,
+                            548.67,
+                            35.51
+                        ]
+                    ],
+                    "text_description": "설명에 맞는 계산식을 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            220,
+                            60.62,
+                            755.04,
+                            131.6
+                        ]
+                    ],
+                    "text_description": "$10$씩 커지는 수에 $10$씩 작아지는 수를 더하면 계산 결과는 항상 일정합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            765.96,
+                            391.03,
+                            936.3,
+                            424.88
+                        ]
+                    ],
+                    "text_description": "(가, 나, 다)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104.26,
+                            156.27,
+                            872.97,
+                            389.94
+                        ]
+                    ],
+                    "text_description": "가 $130+170=300$, $140+160=300$, $150+150=300$, $160+140=300$ 나 $521+165=686$, $521+265=786$, $521+365=886$, $521+465=986$ 다 $897-613=284$, $887-623=264$, $140+160=300$0, $140+160=300$1"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.76,
+                            440.17,
+                            90.06,
+                            469.65
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.9,
+                            486.21,
+                            865.33,
+                            588.67
+                        ]
+                    ],
+                    "text_description": "가: $10$씩 커지는 수에 $10$씩 작아지는 수를 더하면 계산 결과는 일정합니다. 나: 일정한 수에 $100$씩 커지는 수를 더하면 계산 결과는 $100$씩 커집니다. 다: $10$씩 작아지는 수에 $10$씩 커지는 수를 빼면 계산 결과는 20씩 작아집니다."
+                }
+            ]
+        }
+    ]
+}

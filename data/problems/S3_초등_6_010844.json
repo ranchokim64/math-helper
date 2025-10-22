@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "34584594-7760-4d09-87be-d5ac49f55b9a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010844",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.95,
+                            8.53,
+                            599.06,
+                            33.52
+                        ]
+                    ],
+                    "text_description": "계산이 처음으로 잘못된 부분을 찾아 기호를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.83999999999997,
+                            64.59,
+                            527.35,
+                            191.81
+                        ]
+                    ],
+                    "text_description": "$ \\begin{aligned} \\frac{3}{10} \\div \\frac{2}{3} &= \\frac{3}{10} \\times \\frac{2}{3} = \\frac{6}{30} = \\frac{1}{5} \\\\ \\end{aligned} $ 첫 번째 식에서 두 번째 식으로 화살표로 표시되고 ㉠ 두 번째 식에서 세 번째 식으로 화살표로 표시되고 ㉡ 세 번째 식에서 네 번째 식으로 화살표로 표시되고 ㉢으로 나타나 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.34,
+                            225.37,
+                            69.45,
+                            249.4
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.89,
+                            263.89,
+                            416.43,
+                            339.75
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{10} \\div \\frac{2}{3}=\\frac{3}{10} \\times \\frac{3}{2}=\\frac{9}{20}$ $\\Rightarrow$ 계산이 처음으로 잘못된 부분은 ㉠입니다."
+                }
+            ]
+        }
+    ]
+}

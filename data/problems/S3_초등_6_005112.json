@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "92b078d5-0a24-4db7-af2b-3f2db9bf9ce9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005112",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.77,
+                            16.74,
+                            609.77,
+                            112.74
+                        ]
+                    ],
+                    "text_description": "큰 수를 작은 수로 나눈 몫을 구하여 빈칸에 써넣 으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.77,
+                            370.28,
+                            318.77,
+                            578.28
+                        ]
+                    ],
+                    "text_description": "$\\left(\\frac{3}{8}, \\frac{9}{20}\\right)$와 빈 칸이 있는 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.77,
+                            293.28,
+                            61.77,
+                            355.28
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{1}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.77,
+                            119.28,
+                            525.77,
+                            283.28
+                        ]
+                    ],
+                    "text_description": "$\\left(\\frac{3}{8}, \\frac{9}{20}\\right)$를 통분하면 $\\left(\\frac{15}{40}, \\frac{18}{40}\\right)$ 입니다. \\[ \\frac{3}{8}<\\frac{9}{20} \\text { 이므로 } \\frac{9}{20} \\div \\frac{3}{8}=\\frac{9}{20} \\times \\frac{\\frac{2}{8}}{3}=\\frac{6}{5}=1 \\frac{1}{5} \\]"
+                }
+            ]
+        }
+    ]
+}

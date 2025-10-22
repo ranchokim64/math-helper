@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a24c347c-34ee-4c77-ad8a-57423a9f1fbb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005479",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.4,
+                            120.74,
+                            504.6,
+                            184.74
+                        ]
+                    ],
+                    "text_description": "16.3m의 통나무를 3m 씩 자르면 몇 도막이 되고 남는 통나무는 몇 m인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            223.8,
+                            201,
+                            462.2,
+                            235.2
+                        ]
+                    ],
+                    "text_description": "5도막 $\\quad, \\quad 1. 3 \\mathrm{~m}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.85,
+                            16.83,
+                            185.15,
+                            113.62
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}5 \\\\ 3 \\longdiv { 1 6. 3 } \\\\ 15 \\\\ \\hline 1. 3\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

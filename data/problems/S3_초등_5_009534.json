@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f99710c0-f1bd-482c-a53a-74c496eac625",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009534",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.21,
+                            1.39,
+                            535.81,
+                            26.99
+                        ]
+                    ],
+                    "text_description": "36이 포함되지 않는 수의 범위를 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138.21,
+                            43.82,
+                            667.01,
+                            69.82
+                        ]
+                    ],
+                    "text_description": "36 미만인 수 $\\quad$ 36 이하인 수 $\\quad$ 35초과인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.81,
+                            93.02,
+                            159.01,
+                            113.82
+                        ]
+                    ],
+                    "text_description": "36 미만인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.01,
+                            205.02,
+                            548.61,
+                            233.82
+                        ]
+                    ],
+                    "text_description": "따라서 36이 포함되지 않는 수의 범위는 36 미만인 수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.01,
+                            143.42,
+                            195.01,
+                            184.22
+                        ]
+                    ],
+                    "text_description": "수직선 위에 33부터 37까지의 자연수가 표시되어 있고, 36 위에 비워진 파란점부터 33를 지나 왼쪽으로 파란선이 쭉 이어져 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            235.81,
+                            145.02,
+                            406.21,
+                            185.82
+                        ]
+                    ],
+                    "text_description": "수직선 위에 33부터 37까지의 자연수가 표시되어 있고, 36 위에 채워진 파란점부터 33를 지나 왼쪽으로 파란선이 쭉 이어져 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            451.81,
+                            143.42,
+                            622.21,
+                            185.82
+                        ]
+                    ],
+                    "text_description": "수직선 위에 33부터 37까지의 자연수가 표시되어 있고, 35 위에 비워진 파란점부터 37를 지나 오른쪽으로 파란선이 쭉 이어져 있다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b634fc2f-b3bf-4544-9df0-a11ae6deeff5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011207",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.01,
+                            -0.12,
+                            819.01,
+                            26.88
+                        ]
+                    ],
+                    "text_description": "가로와 세로의 비가 $3: 4$와 비율이 같은 직사각형을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104.01,
+                            40.88,
+                            706.01,
+                            272.88
+                        ]
+                    ],
+                    "text_description": "직사각형가, 나, 다 3개가 있습니다. 가는 가로 6cm, 세로 10cm 나는 가로 9cm, 세로 12cm 다는 가로 15cm, 세로 25cm 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.01,
+                            285.5,
+                            79.01,
+                            311.5
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.01,
+                            326.5,
+                            864.01,
+                            352.5
+                        ]
+                    ],
+                    "text_description": "가 직사각형의 가로와 세로의 비 $6: 10$은 전항과 후항을 2로 나누면 $3: 5$가 되므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.01,
+                            358.5,
+                            863.01,
+                            483.5
+                        ]
+                    ],
+                    "text_description": "$3: 4$와 비율이 같지 않습니다. - 나 직사각형의 가로와 세로의 비 $9: 12$는 전항과 후항을 3으로 나누면 $3: 4$가 됩니다. - 다 직사각형의 가로와 세로의 비 $15: 25$는 전항과 후항을 5로 나누면 $3: 5$가 되므로 $3: 4$와 비율이 같지 않습니다."
+                }
+            ]
+        }
+    ]
+}

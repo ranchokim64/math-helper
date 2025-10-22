@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b20d2d83-918c-4389-a26c-ab63e3851868",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012036",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.8,
+                            16.39,
+                            526.75,
+                            149.93
+                        ]
+                    ],
+                    "text_description": "시계가 가리키는 시각에서 1시간 35분 25초 후의 시각은 몇 시 몇 분 몇 초일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            190.86,
+                            183.54,
+                            356.12,
+                            349.58
+                        ]
+                    ],
+                    "text_description": "시계가 3시 10분 15초를 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.86,
+                            383.9,
+                            456.13,
+                            405.21
+                        ]
+                    ],
+                    "text_description": "4시 45분 40초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.58,
+                            418.23,
+                            512.55,
+                            468.34
+                        ]
+                    ],
+                    "text_description": "시계가 가리키는 시각은 3시 10분 I5초입니다. $\\rightarrow$ 3시 10분 1초+ 1시간 35분 25초=4시 45분 40초"
+                }
+            ]
+        }
+    ]
+}

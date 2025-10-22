@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4897e511-25ed-4309-8e23-121ed22f9d1a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012149",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.15,
+                            10.56,
+                            487.62,
+                            41.47
+                        ]
+                    ],
+                    "text_description": "시계가 가리키는 시각을 읽어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            189.14,
+                            71.05,
+                            355.98,
+                            236.73
+                        ]
+                    ],
+                    "text_description": "시계가 4시 33분 45초를 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            306.87,
+                            265.35,
+                            459.54,
+                            289.61
+                        ]
+                    ],
+                    "text_description": "4시 33분 45초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.76,
+                            301.44,
+                            381.63,
+                            376.8
+                        ]
+                    ],
+                    "text_description": "짧은바늘: 숫자 4와 5사이 $\\rightarrow 4$시 긴비늘: 숫자 6과 작은 눈금 3칸 $\\rightarrow 33$분 초바늘: 숫자 $9\\rightarrow 45$초"
+                }
+            ]
+        }
+    ]
+}

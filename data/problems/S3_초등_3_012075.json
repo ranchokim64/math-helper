@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d5ae8af1-14dd-4b7c-8de3-365f820c2d6a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012075",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            159.67,
+                            14.47,
+                            370.07,
+                            49.67
+                        ]
+                    ],
+                    "text_description": "나눗셈을 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.67,
+                            69.87,
+                            151.67,
+                            116.07
+                        ]
+                    ],
+                    "text_description": "12 $24 \\div 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.47,
+                            180.96,
+                            38.87,
+                            203.16
+                        ]
+                    ],
+                    "text_description": "$6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.47,
+                            126.67,
+                            257.27,
+                            155.27
+                        ]
+                    ],
+                    "text_description": "$4 \\times 6=24 \\rightarrow 24 \\div 4=6$"
+                }
+            ]
+        }
+    ]
+}

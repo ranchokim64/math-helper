@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c0218813-460d-4e2c-8dc2-ab97d9ad5c24",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004861",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            12.42,
+                            453.5,
+                            80.42
+                        ]
+                    ],
+                    "text_description": "지은이네 마을 학생 35 명이 한 달 동안 종류별 읽은 책 수를 나타낸 표입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            271,
+                            446.5,
+                            336
+                        ]
+                    ],
+                    "text_description": "지은이네 마을 학생들은 한 명이 한 달에 책을 몇 권씩 읽었나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            129.42,
+                            457.5,
+                            262.42
+                        ]
+                    ],
+                    "text_description": "이 이미지는 \"종류별 읽은 책 수\"라는 제목의 표입니다. 표에는 다음과 같은 항목이 있습니다: - 종류: 동화책, 위인전, 만화, 잡지, 기타 - 책 수(권): 각각 50, 58, 46, 23, 33권으로 나열되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            313.5,
+                            353,
+                            352.5,
+                            379
+                        ]
+                    ],
+                    "text_description": "6권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            386,
+                            384.5,
+                            414
+                        ]
+                    ],
+                    "text_description": "$(50+58+46+23+33) \\div 35=210 \\div 35=6$ (권)"
+                }
+            ]
+        }
+    ]
+}

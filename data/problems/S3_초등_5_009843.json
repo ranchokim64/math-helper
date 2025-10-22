@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ac1a6576-0ef0-4384-b27e-5be9c691f805",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009843",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.51,
+                            4.42,
+                            389.13,
+                            25.93
+                        ]
+                    ],
+                    "text_description": "잘못 계산한 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            211.91,
+                            47.23,
+                            525.52,
+                            73.86
+                        ]
+                    ],
+                    "text_description": "$73 \\times 0. 6=4. 38 \\quad 24 \\times 0. 18=4. 32$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.98,
+                            95.71,
+                            117.29,
+                            107.39
+                        ]
+                    ],
+                    "text_description": "$73 \\times 0. 6=4. 38$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.51,
+                            116.28,
+                            394.25,
+                            158.41
+                        ]
+                    ],
+                    "text_description": "$73 \\times 0. 6=73 \\times \\frac{6}{10}=\\frac{73 \\times 6}{10}=\\frac{438}{10}=43. 8$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fdf9f81a-746c-464c-a8b0-570ef908f804",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017863",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.8,
+                            13,
+                            354,
+                            36.8
+                        ]
+                    ],
+                    "text_description": "$900$을 $3:7$의 비율로 나누어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.6,
+                            139.2,
+                            129.2,
+                            162.4
+                        ]
+                    ],
+                    "text_description": "③ $270, 630$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.8,
+                            62.4,
+                            130.8,
+                            125.6
+                        ]
+                    ],
+                    "text_description": "① $300, 600$ ② $350, 550$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.8,
+                            176.8,
+                            130,
+                            239.2
+                        ]
+                    ],
+                    "text_description": "④ $400, 500$ ⑤ $450, 450$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.4,
+                            274.4,
+                            492.4,
+                            424
+                        ]
+                    ],
+                    "text_description": "전체 비율 합 구하기: 비율의 합은 $3+7=10$입니다. 각 부분의 비율 계산: 전체 금액($900$)을 비율의 합($10$)으로 나눕니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.2,
+                            499.2,
+                            478.8,
+                            622.4
+                        ]
+                    ],
+                    "text_description": "각 부분에 해당하는 값 구하기: ● $3$의 비율에 해당하는 값: $3 \\times 90=270$ ● $7$의 비율에 해당하는 값: $7 \\times 90=630$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            663.2,
+                            553.2,
+                            688
+                        ]
+                    ],
+                    "text_description": "따라서, $900$을 $3:7$의 비율로 나누면 $270$과 $630$이 됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            424.4,
+                            455.2,
+                            585.2,
+                            480
+                        ]
+                    ],
+                    "text_description": "$900 \\div 10=90$"
+                }
+            ]
+        }
+    ]
+}

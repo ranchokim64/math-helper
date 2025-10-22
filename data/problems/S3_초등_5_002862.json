@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dc37734d-56f4-4fe0-8474-bb96a5653e54",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002862",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.25,
+                            7.25,
+                            753.25,
+                            69.75
+                        ]
+                    ],
+                    "text_description": "시우네 모둠 남학생들의 제자리멀리뛰기 기록과 등급별 제자리멀리뛰기 기록을 나타낸 표입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.25,
+                            476,
+                            242,
+                            502.25
+                        ]
+                    ],
+                    "text_description": "시우가 속한 등급을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77,
+                            87.25,
+                            752,
+                            196
+                        ]
+                    ],
+                    "text_description": "제자리멀리뛰기 기록 \\begin{tabular}{|c|c|c|c|c|c|c|} \\hline이름 & 시우 & 태오 & 정민 & 현준 & 영후 & 서준 \\\\ \\hline 기록 $(\\mathrm{cm})$ & 110 & 181. 9 & 163. 5 & 155 & 137 & 179. 1 \\\\ \\hline \\end{tabular}"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            267.25,
+                            249.5,
+                            471
+                        ]
+                    ],
+                    "text_description": "남학생들이 제자리멀리뛰기를 하는 그림"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            248.25,
+                            216,
+                            582,
+                            468.5
+                        ]
+                    ],
+                    "text_description": "등급별 제자리멀리뛰기 기록 \\begin{tabular}{|c|c|} \\hline 등급 & 기록 $(\\mathrm{cm})$ \\\\ \\hline 1 & 180초과 \\\\ \\hline 2 & 159초과 180 이하 \\\\ \\hline 3 & 141초과 159 이하 \\\\ \\hline 4 & 111초과 141 이하 \\\\ \\hline 5 & 111 이하 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.75,
+                            557.25,
+                            214.5,
+                            581.5
+                        ]
+                    ],
+                    "text_description": "⑤등급"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.25,
+                            509.75,
+                            567,
+                            551
+                        ]
+                    ],
+                    "text_description": "시우의 제자리멀리뛰기 기록은 110cm 입니다. 110은 111 이하인 수의 범위에 포함되므로 시우가 속한 등급은 5 등급입니다."
+                }
+            ]
+        }
+    ]
+}

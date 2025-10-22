@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bfba9928-ca25-49ee-92c9-14fb9e3e29b0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011186",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            11.4,
+                            858,
+                            73.4
+                        ]
+                    ],
+                    "text_description": "밑변의 길이와 높이의 비가 $3: 2$와 비율이 같은 삼각형을 찾아 기호를 선택 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            150,
+                            85.92,
+                            735,
+                            234.92
+                        ]
+                    ],
+                    "text_description": "가 밑변이 $10cm$이고, 높이가 $4cm$인 삼각형이다. 나 밑변이 $4cm$이고, 높이가 $6cm$인 삼각형이다. 다 밑변이 $9cm$이고, 높이가 $6cm$인 삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            246.5,
+                            78,
+                            271.5
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            288.4,
+                            859,
+                            441.4
+                        ]
+                    ],
+                    "text_description": "가 삼각형의 밑변의 길이와 높이의 비 $10: 4$의 전항과 후항을 2로 나누면 $5: 2$가 됩니다. - 나 삼각형의 밑변의 길이와 높이의 비 $4: 6$의 전항과 후항을 2로 나누면 $2: 3$이 됩니다. - 다 삼각형의 밑변의 길이와 높이의 비 $9: 6$의 전항과 후항을 3으로 나누면 $3: 2$가 됩니다."
+                }
+            ]
+        }
+    ]
+}

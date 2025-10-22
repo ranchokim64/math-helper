@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ba1c1821-9b59-4c01-a2e9-98b35c53518f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010611",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.1,
+                            2.94,
+                            799.5,
+                            65.34
+                        ]
+                    ],
+                    "text_description": "계산 결과의 크기를 비교하여 $\\bigcirc$ 안에 $>, =, <$ 중 알맞은 것을 선택하세3요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            649.9,
+                            101.8,
+                            800.3,
+                            137.8
+                        ]
+                    ],
+                    "text_description": "$(>, =, <)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            189.9,
+                            69.34,
+                            630.7,
+                            102.14
+                        ]
+                    ],
+                    "text_description": "$63-72 \\div 8 \\times 4+5 \\bigcirc 28+(29-14) \\times 3 \\div 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.3,
+                            152.2,
+                            73.1,
+                            173
+                        ]
+                    ],
+                    "text_description": "$<$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.7,
+                            182.6,
+                            388.3,
+                            380.2
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l} 63-72 \\div 8 \\times 4+5=63-9 \\times 4+5 \\\\ =63-36+5 \\\\ =27+5 \\\\ =32 \\\\ 28+(29-14) \\times 3 \\div 9=28+15 \\times 3 \\div 9 \\\\ =28+45 \\div 9 \\\\ =28+5 \\\\ =33\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

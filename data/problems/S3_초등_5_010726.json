@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "18892542-1716-4232-bb99-f716fe845e93",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010726",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26,
+                            7.9,
+                            793,
+                            100.9
+                        ]
+                    ],
+                    "text_description": "다음 그림에서 탁자마다 의자가 1개씩 더 있을 때, 탁자의 수와 의자의 수 사이의 대응 관계를 기호를 사용하여 식으로 바르게 나타낸 것을 선택하세요. (탁자의 수: $\\diamond$, 의자의 수: $\\star$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            193,
+                            99.9,
+                            631,
+                            283.9
+                        ]
+                    ],
+                    "text_description": "탁자가 3개 있고 탁자마다 의자가 2개씩 놓여져 있는 그림이다. $\\diamond \\times 3 =\\star$ $\\diamond + 3 = \\star$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46,
+                            290.9,
+                            147,
+                            317.9
+                        ]
+                    ],
+                    "text_description": "$\\diamond \\times 3= \\star$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            329.9,
+                            796,
+                            388.9
+                        ]
+                    ],
+                    "text_description": "한 탁자에 놓이는 의자의 수가 1개 늘어났기 때문에 2배였던 대응 관계가 3배로 바뀌었습니다. $\\Rightarrow \\diamond \\times 3= \\star$"
+                }
+            ]
+        }
+    ]
+}

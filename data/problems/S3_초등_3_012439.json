@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e4589ab4-5b29-4353-9c5a-4158b7d02e99",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012439",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            12.92,
+                            384.5,
+                            39.92
+                        ]
+                    ],
+                    "text_description": "그림에서 원의 반지름은 몇 cm일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            153.5,
+                            51.92,
+                            296.5,
+                            194.92
+                        ]
+                    ],
+                    "text_description": "원이 있고 반지름은 4cm입니다. 그리고 원주에 연결된 선분이 6cm입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303.5,
+                            212.5,
+                            348.5,
+                            234.5
+                        ]
+                    ],
+                    "text_description": "4cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            241.5,
+                            409.5,
+                            282.5
+                        ]
+                    ],
+                    "text_description": "원의 반지름은 원의 중심과 원 위의 한 점을 이은 선분입니 다."
+                }
+            ]
+        }
+    ]
+}

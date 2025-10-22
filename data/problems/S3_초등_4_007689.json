@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "36c88059-6314-464d-aa57-57b42fe804d3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007689",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            3.92,
+                            495.5,
+                            29.92
+                        ]
+                    ],
+                    "text_description": "사다리꼴이 아닌 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            39.92,
+                            696.5,
+                            235.92
+                        ]
+                    ],
+                    "text_description": "① 마주 보는 한 쌍의 변이 서로 평행한 사각형이다.\n② 변의 길이가 모두 같은 정사각형이다.\n③ 사각형이다.\n④ 마주 보는 변의 길이가 각각 같은 직사각형이다.\n⑤ 마주 보는 두 쌍의 변이 서로 평행한 사각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            248.5,
+                            75.5,
+                            272.5
+                        ]
+                    ],
+                    "text_description": "③"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.24,
+                            290.64,
+                            730.09,
+                            345.96
+                        ]
+                    ],
+                    "text_description": "마주 보는 한 쌍의 변이 서로 평행한 사각형을 사다리꼴이라고 합니다. ③은 서로 평행한 변이 없으므로 사다리꼴이 아닙니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "898e7030-4cef-4070-9517-35af737b9b31",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012483",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-05] 들이를 나타내는 표준 단위의 필요성을 인식하여 1L와 1mL의 단위를 알고, 이를 이용하여 들이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-17] 들이 단위 1L와 1mL를 알고, 이를 이용하여 들이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.59,
+                            15.29,
+                            414.23,
+                            104.89
+                        ]
+                    ],
+                    "text_description": "주전자와 물병에 가득 채운 물을 컵에 따 라 들이를 비교하였습니다. 어느 쪽의 들 이가 더 많을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.50999999999999,
+                            131.01,
+                            393.75,
+                            275.13
+                        ]
+                    ],
+                    "text_description": "이미지에는 왼쪽에 주전자가 있고, 오른쪽에는 물병이 있습니다. 주전자 오른쪽에는 8개의 투명한 컵이 쌓여 있으며, 물병 오른쪽에도 동일한 모양의 컵이 6개 있습니다. 주전자는 \"주전자\", 물병은 \"물병\"이라고 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309.27,
+                            291.77,
+                            357.91,
+                            312.25
+                        ]
+                    ],
+                    "text_description": "주전자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.79,
+                            320.96,
+                            262.55,
+                            340.16
+                        ]
+                    ],
+                    "text_description": "주전자 : 8컵, 물병 : 6컵 8>6"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "14dfcd32-4a95-45e4-9320-6e7c783084a8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007716",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            0.92,
+                            839,
+                            68.92
+                        ]
+                    ],
+                    "text_description": "교실의 온도를 조사하여 나타낸 꺾은선그래프입니다. 오후 2시 30분에는 교실의 온도가 몇 °C였을까요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            584,
+                            426.5,
+                            841,
+                            458.5
+                        ]
+                    ],
+                    "text_description": "(14°C, 15°C, 16°C)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            210,
+                            77.92,
+                            663,
+                            309.92
+                        ]
+                    ],
+                    "text_description": "교실의 온도 가로는 시각(시)이고 세로는 온도(°C)이다. 11시에서 2시까지 증가하다가 3시에 감소한다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132,
+                            311.5,
+                            731,
+                            425.5
+                        ]
+                    ],
+                    "text_description": "여자아이가 오후 2시와 오후 3시의 온도의 값을 이은 선분의 가운데에 점을 찍고 그 점의 값을 읽어서 예상해봐. 라고 말하고있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            474.5,
+                            85,
+                            494.5
+                        ]
+                    ],
+                    "text_description": "15°C"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            512.5,
+                            844,
+                            571.5
+                        ]
+                    ],
+                    "text_description": "(해설) 오후 2시의 온도는 16°C, 오후 3시의 온도는 14°C이므로 오후 2시 30분의 온도는 중간인 15°C였을 것입니다."
+                }
+            ]
+        }
+    ]
+}

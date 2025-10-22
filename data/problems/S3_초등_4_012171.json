@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a7056495-f58f-4e5a-944a-b9210391388d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012171",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            30.41,
+                            660.5,
+                            100.41
+                        ]
+                    ],
+                    "text_description": "어느 해 II 월의 날씨를 조사한 표입니다. 맑은 날은 눈 온 날보다 며칠이 더 많은가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.5,
+                            114.41,
+                            655.5,
+                            273.41
+                        ]
+                    ],
+                    "text_description": "날씨별 날수 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 날씨 & 弥 & C & 京 & 游: & 합계 \\\\ \\hline 날수(일) & & 5 & 3 & 8 & 30 \\\\ \\hline \\end{tabular}날씨弥C京游:합계날수(일)53830"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            539.5,
+                            289,
+                            578.5,
+                            316
+                        ]
+                    ],
+                    "text_description": "6일"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.5,
+                            325,
+                            418.5,
+                            377
+                        ]
+                    ],
+                    "text_description": "(맑은 날수)=30-5-3-8=14(일) (맑은 날수와 눈 온 날수의 차) $=14-8=6$ (일)"
+                }
+            ]
+        }
+    ]
+}

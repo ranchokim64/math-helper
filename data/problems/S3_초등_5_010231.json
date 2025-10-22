@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8c23ee9b-3e90-43ac-99bc-daa9e4139c47",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010231",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.07,
+                            5.88,
+                            670.84,
+                            82.8
+                        ]
+                    ],
+                    "text_description": "주머니에 1, 2, 3, 4, 5, 6의 공이 들어 있습니다. 이 중에서 공 1 개를 꺼낼 때, 꺼낸 공에 적힌 수가 4 이상일 가능성과 화살이 파란색에 멈출 가능성이 같도록 회전판을 알맞게 색칠한 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.85,
+                            321.39,
+                            673.4,
+                            368.7
+                        ]
+                    ],
+                    "text_description": "꺼낸 공에 적힌 수가 홀수일 가능성은 '반반이다'이므로 회전판에서 6 칸 중 3 칸을 파란색으로 색칠한 것을 찾습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.0,
+                            88.0,
+                            223.0,
+                            204.0
+                        ]
+                    ],
+                    "text_description": "6칸 중 3칸이 파란색으로 칠해진 회전"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            476.0,
+                            92.0,
+                            579.0,
+                            198.0
+                        ]
+                    ],
+                    "text_description": "6칸 중 3칸이 주황색으로 칠해진 회전판"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.0,
+                            93.0,
+                            403.0,
+                            197.0
+                        ]
+                    ],
+                    "text_description": "6칸 중 3칸이 파란색으로 칠해진 회전판"
+                }
+            ]
+        }
+    ]
+}

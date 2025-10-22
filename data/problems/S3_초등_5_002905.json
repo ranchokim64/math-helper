@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "90c287b5-bc39-4d76-8bd7-72d5585df760",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002905",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            6.4,
+                            739.5,
+                            97.4
+                        ]
+                    ],
+                    "text_description": "태오네 가족은 전기를 절약하기 위하여 가전제품을 사용하지 않을 때는 플러그를 뽑아 놓았습니다. 지난달 태오네 집 전기 요금은 20000원이었고 이번 달 전기 요금은 지난달 전기 요금의 0. 15배만큼 적게 나왔습니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            290.4,
+                            658.5,
+                            315.4
+                        ]
+                    ],
+                    "text_description": "이번 달에는 지난달보다 전기 요금이 얼마만큼 적게 나왔는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            229.1,
+                            123.92,
+                            524.7,
+                            271.92
+                        ]
+                    ],
+                    "text_description": "남학생이 TV 플러그를 뽑는 삽화."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.1,
+                            364.72,
+                            204.7,
+                            395.92
+                        ]
+                    ],
+                    "text_description": "$3000$ 원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            329.4,
+                            492.5,
+                            355.4
+                        ]
+                    ],
+                    "text_description": "(지난달 전기 요금) $\\times 0. 15=20000 \\times 0. 15=3000$(원)"
+                }
+            ]
+        }
+    ]
+}

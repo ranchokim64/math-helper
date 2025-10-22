@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fad12efe-0a00-4a09-9820-5d4f32120184",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016911",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.73,
+                            2.86,
+                            450.87,
+                            21.78
+                        ]
+                    ],
+                    "text_description": "비스킷이 한 줄에 60 개씩 3줄 있습니다. 비스킷은 모두 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.41,
+                            80.64,
+                            69.84,
+                            97.46
+                        ]
+                    ],
+                    "text_description": "③ 180 개"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.25,
+                            141.42,
+                            96.65,
+                            159.29
+                        ]
+                    ],
+                    "text_description": "$60 \\times 3=180$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.93,
+                            31.24,
+                            70.37,
+                            70.65
+                        ]
+                    ],
+                    "text_description": "① 150 개 ② 170 개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.98,
+                            105.87,
+                            72.47,
+                            123.73
+                        ]
+                    ],
+                    "text_description": "④ 200개"
+                }
+            ]
+        }
+    ]
+}

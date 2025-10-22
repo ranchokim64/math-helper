@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5f139c17-6e8b-4b3b-8303-be53a92d8678",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004755",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.76,
+                            154.49,
+                            387.88,
+                            185.21
+                        ]
+                    ],
+                    "text_description": "곱이 큰 것부터 차례로 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            186.66,
+                            206.71,
+                            304.42,
+                            316.28
+                        ]
+                    ],
+                    "text_description": "㉠ $4. 3 \\times 2. 8$ ㉡ $0. 7 \\times 0. 3$ ㉢ $8. 3 \\times 0. 9$ ㉣ $0. 96 \\times 3. 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196.39,
+                            341.17,
+                            450.86,
+                            372.92
+                        ]
+                    ],
+                    "text_description": "㉠ ㉢ ㉣ ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.1,
+                            5.81,
+                            451.88,
+                            67.25
+                        ]
+                    ],
+                    "text_description": "(소수) $\\times$ (소수)의 계산 방법은 먼저 자연수의 곱으로 계산하고 두 소수의 소수점 아래 자리 수의 합만큼 소수점을 왼쪽으로이 동하여 찍습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.19,
+                            69.81,
+                            403.75,
+                            110.77
+                        ]
+                    ],
+                    "text_description": "㉠ $4. 3 \\times 2. 8=12. 04$ ㉡ $0. 7 \\times 0. 3=0. 21$ ㉢ $8. 3 \\times 0. 9=7. 47$ ㉣ $0. 96 \\times 3. 5=3. 36$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.09,
+                            110.77,
+                            349.48,
+                            153.78
+                        ]
+                    ],
+                    "text_description": "$\\frac{12. 04}{㉠}>\\frac{7. 47}{㉢}>\\frac{3. 36}{\\text { ㉣ }}>\\frac{0. 21}{㉡}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3a3ba847-3848-477d-b7c8-9a2f6eae210d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012496",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-11] 실생활 문제 상황을 통하여 무게의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-23] 실생활 문제 상황과 연결하여 무게의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.28,
+                            7.62,
+                            486.68,
+                            153.22
+                        ]
+                    ],
+                    "text_description": "바구니에 감자를 담아 무게를 재었더니 5kg 400g이었습니다. 바구니만의 무게가 850g 일 때 감자의 무게는 몇 kg 몇 g일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            325.08,
+                            175.62,
+                            425.08,
+                            202.02
+                        ]
+                    ],
+                    "text_description": "4kg 550g"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.28,
+                            210.5,
+                            365.88,
+                            255.3
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 5 \\mathrm{~kg} 400 \\mathrm{~g}-850 \\mathrm{~g} & =4 \\mathrm{~kg} 1400 \\mathrm{~g}-850 \\mathrm{~g} \\\\ & =4 \\mathrm{~kg} 550 \\mathrm{~g}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

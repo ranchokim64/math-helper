@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "65f09eaf-830e-40d4-ae07-d6433e625c9c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010453",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.5,
+                            16.939999999999998,
+                            782.5,
+                            42.94
+                        ]
+                    ],
+                    "text_description": "어림셈하여 몫의 소수점 위치가 옳은 식을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            388.5,
+                            48.94,
+                            625.5,
+                            229.94
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}6. 58 \\div 7=940 \\\\ 6. 58 \\div 7=94 \\\\ 6. 58 \\div 7=9. 4 \\\\ 6. 58 \\div 7=0. 94\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            245.5,
+                            216.5,
+                            267.5
+                        ]
+                    ],
+                    "text_description": "$6. 58 \\div 7=0. 94$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            286.5,
+                            788.5,
+                            312.5
+                        ]
+                    ],
+                    "text_description": "$6. 58 \\div 7$을 $7 \\div 7$로 어림하면 $6. 58 \\div 7$의 몫은 약 $1$이므로 0. 94입니다."
+                }
+            ]
+        }
+    ]
+}

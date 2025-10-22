@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "17b70d19-9fc1-4f66-862d-2eac26e7d487",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011088",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.2,
+                            6.74,
+                            686.6,
+                            33.14
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 앞에서 본 모양은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            355,
+                            46.34,
+                            538.6,
+                            209.14
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 십자 모양으로 1층에 쌓여있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            219.4,
+                            688.2,
+                            476.8
+                        ]
+                    ],
+                    "text_description": "3x3 블록에 쌓기나무를 쌓은 모양을 앞에서 본 모양을 표기한 이미지입니다. ① 1행 중앙 1칸, 2행 3칸, 3행 중앙 1칸에 블럭이 채워져 있습니다. ② 2행 중앙 1칸, 3행 중앙 1칸에 블럭이 채워져 있습니다. ③ 3행 3칸에 블럭이 채워져 있습니다. ④ 2행 좌측부터 2칸, 3행 좌측부터 2칸에 블럭이 채워져 있습니다. ⑤ 2행 3칸, 3행 중앙 1칸에 블럭이 채워져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            492,
+                            77,
+                            516.8
+                        ]
+                    ],
+                    "text_description": "③"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            535.2,
+                            861.8,
+                            562.4
+                        ]
+                    ],
+                    "text_description": "앞에서 봤을 때의 모양은 먼저 가로로 쌓기나무가 몇 개 놓여 있는지를 알아"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.4,
+                            572.8,
+                            861.4,
+                            635.2
+                        ]
+                    ],
+                    "text_description": "본 후 각 줄마다 가장 높은 층이 몇 층인지를 알아봅니다. 앞에서 보면 가로로 3개가 놓여 있고 모두 1층이므로 앞에서 본 모양은 ③입니다."
+                }
+            ]
+        }
+    ]
+}

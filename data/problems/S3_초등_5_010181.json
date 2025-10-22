@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c2505a4c-f596-41ce-ba4d-f6570852a2ac",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010181",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.82,
+                            5.81,
+                            669.21,
+                            56.4
+                        ]
+                    ],
+                    "text_description": "상자 안에서 번호표를 한 개 꺼낼 때 26번 번호표를 꺼낼 가능성을 말로 표현한 것으로 알맞은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            189.39,
+                            59.29,
+                            507.64,
+                            261.66
+                        ]
+                    ],
+                    "text_description": "상자 안에는 1번부터 25번까지의 번호표가 있어. (불가능하다, 반반이다, 확실하다)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.95,
+                            300.02,
+                            659.42,
+                            348.98
+                        ]
+                    ],
+                    "text_description": "상자 안에는 1번부터 25번까지의 번호표만 있으므로 26번 번호표를 꺼낼 가능성은 ‘불가능하다’입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.4,
+                            268.19,
+                            134.72,
+                            292.67
+                        ]
+                    ],
+                    "text_description": "불가능하다."
+                }
+            ]
+        }
+    ]
+}

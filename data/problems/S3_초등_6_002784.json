@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3b409ce1-ebc7-4b79-95ef-60be9713ce7f",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002784",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            3.92,
+                            330,
+                            38.92
+                        ]
+                    ],
+                    "text_description": "$\\square$안에 각 부분의 이름을 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95,
+                            60.92,
+                            661,
+                            284.92
+                        ]
+                    ],
+                    "text_description": "오각기둥의 밑면과 높이 꼭지점 옆면이 빈칸으로 되어있다. 육각기둥의 모서리와 밑면 꼭짓점이 빈칸으로 되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92,
+                            298.5,
+                            624,
+                            508.5
+                        ]
+                    ],
+                    "text_description": "오각기둥의 화살표로 표시된 빈칸에 밑면, 옆면, 높이, 꼭지점이 적혀있다. 육각기둥의 화살표로 표시된 빈칸에 모서리와 밑면 꼭짓점이 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            514.5,
+                            529,
+                            537.5
+                        ]
+                    ],
+                    "text_description": "각기둥을 옆으로 눕혀도 각 구성 요소의 이름은 바뀌지 않습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5fdc3a4c-cdfc-4059-a2dd-06cdf18695af",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010871",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.58,
+                            9.04,
+                            867.66,
+                            67.84
+                        ]
+                    ],
+                    "text_description": "물 $6.8L$를 한 사람에 $2L$ 씩 나누어 줄 때, 나누어 줄 수 있는 사람 수와 남는 물의 양을 알아보려고 합니다. 누구의 계산 방법이 옳은가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            645.58,
+                            386.56,
+                            868.3,
+                            416.64
+                        ]
+                    ],
+                    "text_description": "(지아, 윤호, 민서)"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.18,
+                            72.96,
+                            309.58,
+                            385.28
+                        ]
+                    ],
+                    "text_description": "지아의 방법 $ \\begin{array}{r} 3. 4 \\\\ 2)6. 8 \\\\ 6 \\\\ \\hline8 \\\\ 8 \\\\ \\hline 0 \\\\ \\end{array} $ $\\left[\\begin{array}{l}\\text { 사람 수: } 3 \\text { 명 } \\\\ \\text { 남는 물의 양: } 0. 4 \\mathrm{~L}\\end{array}\\right. $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            321.1,
+                            72.96,
+                            583.5,
+                            385.92
+                        ]
+                    ],
+                    "text_description": "윤호의 방법 $ \\begin{array}{r} 3 \\\\ 2)6. 8 \\\\ 6 \\\\ \\hline8 \\\\ \\end{array} $ $\\left[\\begin{array}{l}\\text { 사람 수: } 3 \\text { 명 } \\\\ \\text { 남는 물의 양: } 8 \\mathrm{~L}\\end{array}\\right. $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            595.02,
+                            72.32,
+                            859.34,
+                            384.64
+                        ]
+                    ],
+                    "text_description": "민서의 방법 $ \\begin{array}{r} 3 \\\\ 2)6. 8 \\\\ 6 \\\\ \\hline0. 8 \\\\ \\end{array} $ $\\left[\\begin{array}{l}\\text { 사람 수: } 3 \\text { 명 } \\\\ \\text { 남는 물의 양: } 0. 8 \\mathrm{~L}\\end{array}\\right. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.7,
+                            433.28,
+                            101.58,
+                            458.96
+                        ]
+                    ],
+                    "text_description": "민서"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.46,
+                            475.32,
+                            867.66,
+                            564.48
+                        ]
+                    ],
+                    "text_description": "나누어 주기 전의 물의 양은 $6.8L$ 입니다. 민서의 방법으로 계산했을 때 나누어 주는 물의 양과 나누어 주고 남는 물의 양의 합이 $6.8L$가 되므로 민서의 계산 방법이 옳습니다."
+                }
+            ]
+        }
+    ]
+}

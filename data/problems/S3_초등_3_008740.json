@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "34b6d46c-df17-4911-8a2d-ca1478e97b0f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008740",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            9,
+                            924,
+                            38
+                        ]
+                    ],
+                    "text_description": "두 분수의 크기를 비교하여 더 큰 분수를 빈칸에 써넣으려고 합니다. ㉠에 들어"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            44,
+                            745,
+                            72
+                        ]
+                    ],
+                    "text_description": "갈 분수로 알맞은 것을 가장 아래 칸의 분수들 중에 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293,
+                            102,
+                            659,
+                            400
+                        ]
+                    ],
+                    "text_description": "㉠\\begin{tabular}{llll} $\\frac{23}{6}$ & $\\frac{21}{6}$ & $3 \\frac{2}{6}$ & $3 \\frac{4}{6}$ \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            430,
+                            93,
+                            486
+                        ]
+                    ],
+                    "text_description": "$\\frac{23}{6}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            504,
+                            251,
+                            566
+                        ]
+                    ],
+                    "text_description": "$\\frac{23}{6}>\\frac{21}{6}, 3 \\frac{2}{6}<3 \\frac{4}{6}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            840,
+                            699,
+                            960
+                        ]
+                    ],
+                    "text_description": "$\\frac{23}{6}$과 $3 \\frac{4}{6}$의 크기를 비교하면 $\\frac{23}{6}=3 \\frac{5}{6}$ 이므로 $\\frac{23}{6}>3 \\frac{4}{6}$ 입니다 따라서 ㉠에 알맞은 수는 $\\frac{23}{6}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            585,
+                            348,
+                            818
+                        ]
+                    ],
+                    "text_description": "이미지에는 분수와 관계를 나타내는 트리 구조가 있다. - 상단에 기호가 위치하고, 그 아래에 두 개의 분수가 있다: - 왼쪽: \\(\\frac{23}{6} \\) - 오른쪽: \\(3\\frac{4}{6} \\) - 왼쪽 분수 아래에는 두 개의 하위 분수가 있으며, 각각: - \\(\\frac{23}{6} \\) - \\(\\frac{21}{6} \\) - 오른쪽 분수 아래에도 두 개의 하위 분수가 있으며, 각각: - \\(3\\frac{2}{6} \\) - \\(3\\frac{4}{6} \\) 모두 분수 형태로 나타나 있다."
+                }
+            ]
+        }
+    ]
+}

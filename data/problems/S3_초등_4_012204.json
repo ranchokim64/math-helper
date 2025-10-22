@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a13f34af-f558-47a2-a899-2c66a372c459",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012204",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            11.91,
+                            489,
+                            53.91
+                        ]
+                    ],
+                    "text_description": "각도의 합과 차를 각각 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            178,
+                            64.91,
+                            575,
+                            164.91
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|ll} \\hline $135^{\\circ}$ & $70^{\\circ}$ \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            417,
+                            181.5,
+                            702,
+                            269.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lll}\\text { 합 }(& 205^{\\circ} &) \\\\ \\text { 차 }(& 65^{\\circ} &)\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90,
+                            276.5,
+                            286,
+                            333.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 합 : } 135^{\\circ}+70^{\\circ}=205^{\\circ} \\\\ \\text { 차 : } 135^{\\circ}-70^{\\circ}=65^{\\circ}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

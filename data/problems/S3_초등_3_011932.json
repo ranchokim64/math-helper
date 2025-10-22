@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a406093c-5fba-432c-b1e8-47baff65546c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011932",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.85,
+                            7.45,
+                            438.13,
+                            111.77
+                        ]
+                    ],
+                    "text_description": "수족관에 금붕어가 548마리, 열대어가 674마리 있습니다. 수족관에 있는 물고기는 모두 몇 마리일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.89,
+                            132.89,
+                            385.01,
+                            157.85
+                        ]
+                    ],
+                    "text_description": "|222마리"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.97,
+                            168.45,
+                            406.49,
+                            211.61
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 수족관에 있는 물고기 수) } & =\\text { (금붕어의 수)+(열대어의 수) } \\\\ & =548+674=1222 \\text { (마리) }\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

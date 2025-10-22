@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c0084e38-95fb-4554-8749-18468da05ed7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010632",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.3,
+                            5.84,
+                            499.9,
+                            37.84
+                        ]
+                    ],
+                    "text_description": "9의 배수가 아닌 수를 모두 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            261.5,
+                            57.84,
+                            646.3,
+                            88.24
+                        ]
+                    ],
+                    "text_description": "9 27 32 45 69 81 99"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.3,
+                            113.5,
+                            113.5,
+                            145.7
+                        ]
+                    ],
+                    "text_description": "32, 69"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.1,
+                            159.9,
+                            675.9,
+                            190.3
+                        ]
+                    ],
+                    "text_description": "$9 \\times 1=9, 9 \\times 3=27, 9 \\times 5=45, 9 \\times 9=81, 9 \\times 11=99$"
+                }
+            ]
+        }
+    ]
+}

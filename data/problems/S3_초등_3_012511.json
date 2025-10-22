@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1e6675a4-b132-4047-960b-d8fba08598d7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012511",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            3.25,
+                            498,
+                            78.25
+                        ]
+                    ],
+                    "text_description": "18~20 재민이네 반에서 모둠별로 모은 동화책 수를 조사한 것입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.75,
+                            390,
+                            492.25,
+                            449.5
+                        ]
+                    ],
+                    "text_description": "19 동화책을 가장 많이 모은 모둠부터 차례로 이름을 쓰세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.75,
+                            94.5,
+                            508,
+                            380.75
+                        ]
+                    ],
+                    "text_description": "모둠별로 모은 동화책 수의 그림그래프이다. 큰 동화책은 10권 작은 동화책은 1권이다. 토끼/14(큰 동화책 1권, 작은 동화책 4권) 사자/9(작은 동화책 9권) 염소/21(큰 동화책 2권, 작은 동화책 1권) 다람쥐/17(큰 동화책 1권, 작은 동화책 7권)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            210.5,
+                            469.5,
+                            393,
+                            497
+                        ]
+                    ],
+                    "text_description": "염소, 다람쥐, 토끼, 사자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.75,
+                            505.75,
+                            495.5,
+                            551.25
+                        ]
+                    ],
+                    "text_description": "10 권을 나타내는 그림이 많은 모둠부터 쓰고, 10 권의 그림 수가 같은 경우 1권을 나타내는 그림이 많은 모둠 순으로 씁니다."
+                }
+            ]
+        }
+    ]
+}

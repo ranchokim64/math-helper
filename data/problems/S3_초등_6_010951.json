@@ -1,0 +1,173 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8bfd31f3-6292-491d-8b2c-5f39daa61cbf",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010951",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.38,
+                            7.13,
+                            762.46,
+                            30.17
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위, 앞, 옆에서 본 모양입니다. 쌓은 모양을 선택"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.46,
+                            37.85,
+                            123.1,
+                            60.25
+                        ]
+                    ],
+                    "text_description": "헤 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            199.9,
+                            66.38,
+                            589.66,
+                            182.86
+                        ]
+                    ],
+                    "text_description": "세 개의 모눈종이 3x2의 배열로 되어있고 위에서 볼 경우 1층에는 1칸, 2층에는 3칸으로 보이고 앞에서 볼 때는 1층에는 모두 채워져 있고 2층에는 첫 번째 칸에만 있으며 옆에서 볼 때는 1층에 첫 번째, 두 번째 칸, 2층은 두 번째 칸에 나무가 보인다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            238.32,
+                            188.52,
+                            554.52,
+                            282.92
+                        ]
+                    ],
+                    "text_description": "두 개의 이미지는 쌓기나무로 쌓은 모양이다. 앞에서 본다는 표시가 있으며 두 개 모두 1층에 4개, 2층에 1개가 쌓여져 있으나 2층에 쌓여있는 나무의 위치가 다르다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.12,
+                            294.12,
+                            116.52,
+                            370.92
+                        ]
+                    ],
+                    "text_description": "이미지는 쌓기나무로 쌓은 모양이다. 앞에서 본다는 표시가 있으며 1층에 4개, 2층에 1개가 쌓여져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.94,
+                            390.3,
+                            300.02,
+                            411.34
+                        ]
+                    ],
+                    "text_description": "왼쪽 모양은 앞에서 본 모양이"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            382.86,
+                            388.94,
+                            445.02,
+                            411.34
+                        ]
+                    ],
+                    "text_description": "입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307.42,
+                            376.14,
+                            381.42,
+                            429.46
+                        ]
+                    ],
+                    "text_description": "모눈종이 3x2 배열에 색이 채워져 있는 모양이고 1행 2열과 2행 모두에 색이 채워져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            239.46,
+                            189.38,
+                            330.82,
+                            280.78
+                        ]
+                    ],
+                    "text_description": "앞 1층에는 4개 2층에는 1개가 있다."
+                }
+            ]
+        }
+    ]
+}

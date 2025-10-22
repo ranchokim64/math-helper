@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f7a0e8b0-dfe2-4faa-bbd5-82762bd70979",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005682",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 그 관계를 비로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 두 양의 관계를 비로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.6,
+                            11.62,
+                            433,
+                            99.62
+                        ]
+                    ],
+                    "text_description": "다음 그림을 보고 빨간 구슬 수에 대한 노란 구슬 수의 비율을 분수로 나타내려고 합니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.4,
+                            255.62,
+                            342.6,
+                            281.22
+                        ]
+                    ],
+                    "text_description": "기준량과 비교하는 양을 찾아 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            110.02,
+                            431.4,
+                            234.82
+                        ]
+                    ],
+                    "text_description": "노란 구슬 13개와 빨간 구슬 9개가 뒤섞여 있는 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.2,
+                            294.82,
+                            436.2,
+                            360.42
+                        ]
+                    ],
+                    "text_description": "㉠ 비교하는 양: （노란 구슬 수） ㉡ 기준량: (빨간 구슬 수）"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            369.22,
+                            289,
+                            411.62
+                        ]
+                    ],
+                    "text_description": "$\\underbrace{빨간 구슬 수}_{기준량}$에 대한 $\\underbrace{노란 구슬 수}_{비교하는 양}$의 비율"
+                }
+            ]
+        }
+    ]
+}

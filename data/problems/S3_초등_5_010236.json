@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cb1670a5-769b-464a-9ce6-bc677040c294",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010236",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.5,
+                            8.04,
+                            667.1,
+                            56.64
+                        ]
+                    ],
+                    "text_description": "바구니에 사과가 2 개, 귤이 2 개, 참외가 4 개 있습니다. 바구니에서 과일 1 개들 꺼낼 때 꺼낸 과일이 참외일 가능성을 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            177.9,
+                            176.5,
+                            512.9,
+                            330.5
+                        ]
+                    ],
+                    "text_description": "수평선 양 끝단에 0과 1이 있다. 수평선 중심에는 $\\frac{1}{2}$을 나타내는 점이 있는데 $1$ 위에 $\\downarrow$가가 표시되어 있다. 수평선 양 끝단에 0과 1이 있다. 수평선 중심에는 $\\frac{1}{2}$을 나타내는 점이 있는데 $\\frac{1}{2}$ 위에 $\\downarrow$가가 표시되어 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269,
+                            58.5,
+                            426,
+                            175.5
+                        ]
+                    ],
+                    "text_description": "과일 바구니"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.9,
+                            336.5,
+                            371.9,
+                            409.5
+                        ]
+                    ],
+                    "text_description": "수평선 양 끝단에 0과 1이 있다. 수평선 중심에는 $\\frac{1}{2}$을 나타내는 점이 있는데 $\\frac{1}{2}$ 위에 $\\downarrow$가가 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.1,
+                            414.9,
+                            667.5,
+                            508.3
+                        ]
+                    ],
+                    "text_description": "(전체 과일의 수) $=2+2+4=8$ (개) 전체 과일 8 개 중 참외는 4 개이므로 꺼낸 과일이 참외일 가능성은 '반반이다'이고, 이를 수로 표현하면 $\\frac{1}{2}\\left(=\\frac{4}{8}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

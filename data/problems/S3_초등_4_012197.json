@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bfed59e7-ce96-4e5d-aa92-576fcde0e802",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012197",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            3.91,
+                            398.5,
+                            108.91
+                        ]
+                    ],
+                    "text_description": "5 8 현진이네 반 학급 문고에 있는 책 수를 조사하여 표로 나타내었습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            241.5,
+                            390.5,
+                            274.5
+                        ]
+                    ],
+                    "text_description": "학급 문고에 있는 위인전은 몇 권인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            120.91,
+                            401.5,
+                            229.91
+                        ]
+                    ],
+                    "text_description": "학급 문고에 있는 책 수 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 종류 & 동화책 & 위인전 과학책 & 역사책 & 합계 \\\\ \\hline 책 수(권) & 25 & 12 & 13 & 10 & 60 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            295.5,
+                            284.5,
+                            334.5,
+                            309.5
+                        ]
+                    ],
+                    "text_description": "12권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.5,
+                            314.5,
+                            213.5,
+                            339.5
+                        ]
+                    ],
+                    "text_description": "위인전은 12권입니다."
+                }
+            ]
+        }
+    ]
+}

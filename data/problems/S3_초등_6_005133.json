@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a1e0984c-c482-4ef8-80a0-4b4c7f72b37f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005133",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            16.92,
+                            412,
+                            62.92
+                        ]
+                    ],
+                    "text_description": "철사 1m의 가격은 얼마인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.25,
+                            117.25,
+                            586.25,
+                            437.25
+                        ]
+                    ],
+                    "text_description": "철사 1. 55m는 620원이야. 그럼 철사 1m는 얼마일까?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            298,
+                            456.5,
+                            620,
+                            510.5
+                        ]
+                    ],
+                    "text_description": "400원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.75,
+                            521,
+                            245,
+                            659.75
+                        ]
+                    ],
+                    "text_description": "$620 \\div 1. 55$ 풀이과정2"
+                }
+            ]
+        }
+    ]
+}

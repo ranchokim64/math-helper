@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "10baf29c-a61a-42a9-b3f5-c6c1af126933",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002996",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            11.44,
+                            295.6,
+                            43.84
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.8,
+                            60.02,
+                            323.2,
+                            206.42
+                        ]
+                    ],
+                    "text_description": "양옆에 풍선이 있고, 가운데 분홍색 원이 있습니다. 왼쪽부터 각각 $\\frac{1}{7}$, +$\\frac{1}{5}$, $\\square$로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.8,
+                            289.22,
+                            275.2,
+                            427.22
+                        ]
+                    ],
+                    "text_description": "양옆에 풍선이 있고, 가운데 분홍색 원이 있습니다. 왼쪽부터 각각 $\\frac{1}{7}$, +$\\frac{1}{5}$, $\\frac{12}{35}$로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            223.3,
+                            310.4,
+                            276.1
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{7}+\\frac{1}{5}=\\frac{5}{35}+\\frac{7}{35}=\\frac{12}{35}$"
+                }
+            ]
+        }
+    ]
+}

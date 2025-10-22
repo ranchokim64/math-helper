@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9a55fea2-91a2-4eaf-8495-ad6c7c59a70a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010240",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.1,
+                            3.74,
+                            664.5,
+                            51.34
+                        ]
+                    ],
+                    "text_description": "노란색 구슬이 5개 들어 있는 상자에서 구슬 1개들 꺼냈습니다. 꺼낸 구슬이 노란색이 아닐 가능성을 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            177.96,
+                            56.72,
+                            509.96,
+                            285.72
+                        ]
+                    ],
+                    "text_description": "수평선 위 왼쪽 $0$, 중심 $\\frac{1}{2}$, 오른쪽 $1$이 있고 화살표가 $1$을 가리키고 있다. 수평선 위 왼쪽 $0$, 중심 $\\frac{1}{2}$, 오른쪽 $1$이 있고 화살표가 $\\frac{1}{2}$을 가리키고 있다. 수평선 위 왼쪽 $0$, 중심 $\\frac{1}{2}$, 오른쪽 $1$이 있고 화살표가 $0$을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.96,
+                            293.72,
+                            369.96,
+                            367.72
+                        ]
+                    ],
+                    "text_description": "수평선 위 왼쪽 $0$, 중심 $\\frac{1}{2}$, 오른쪽 $1$이 있고 화살표가 $0$을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.9,
+                            373,
+                            664.9,
+                            419.8
+                        ]
+                    ],
+                    "text_description": "상자에는 노란색 구슬만 들어 있으므로 꺼낸 구슬이 노란색이 아닐 가능성은 '불가능하다'이고, 수로 나타내면 0입니다."
+                }
+            ]
+        }
+    ]
+}

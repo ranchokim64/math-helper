@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4ec35a2e-9394-448d-a889-38b52a2c4792",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005097",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            24.92,
+                            615.5,
+                            117.92
+                        ]
+                    ],
+                    "text_description": "계산 결과를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞 게 써넣으세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            262.5,
+                            344.5,
+                            342.5
+                        ]
+                    ],
+                    "text_description": "$2 \\div \\frac{2}{3} \\bigcirc 5 \\div \\frac{5}{6}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            134.92,
+                            33.5,
+                            167.92
+                        ]
+                    ],
+                    "text_description": "이 이미지에는 다음과 같은 수식이 있습니다: 왼쪽: \\(2 \\div \\frac{2}{3}\\) 오른쪽: \\(5 \\div \\frac{5}{6}\\) 가운데는 빈 원이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            178.5,
+                            476.5,
+                            237.5
+                        ]
+                    ],
+                    "text_description": "$2 \\div \\frac{2}{3}=(2 \\div 2) \\times 3=3. 5 \\div \\frac{5}{6}=(5 \\div 5) \\times 6=6$"
+                }
+            ]
+        }
+    ]
+}

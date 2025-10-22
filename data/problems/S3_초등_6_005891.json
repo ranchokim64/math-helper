@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "655f1830-3c45-4582-99f0-935d67449b6a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005891",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.04,
+                            8.49,
+                            552.16,
+                            40.49
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 다른 하나를 찾아 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.04,
+                            85.33,
+                            534.8,
+                            151.57
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{5}{8} \\div 5$ ㉡ $\\frac{1}{4} \\div 2$ ㉢ $\\frac{1}{8} \\div 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            428,
+                            191.9,
+                            454.24,
+                            214.94
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.84,
+                            202.06,
+                            407.52,
+                            258.46
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{5}{8} \\div 5=\\frac{D}{8} \\times \\frac{1}{\\not}=\\frac{1}{8}$ ㉡ $\\frac{1}{4} \\div 2=\\frac{1}{4} \\times \\frac{1}{2}=\\frac{1}{8}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            450.32,
+                            214.94,
+                            612.32,
+                            257.82
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{8} \\div 2=\\frac{1}{8} \\times \\frac{1}{2}=\\frac{1}{16}$"
+                }
+            ]
+        }
+    ]
+}

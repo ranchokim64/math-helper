@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dea85284-913d-4dda-becc-4cea5f69b450",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005523",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-10] ‘(자연수)÷(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-10] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.62,
+                            6.55,
+                            540.34,
+                            108.67
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫을 분수로 나타내어 보세요. ① $1 \\div 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.18,
+                            255.88,
+                            35.54,
+                            335.24
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.66,
+                            122.39,
+                            640.82,
+                            220.31
+                        ]
+                    ],
+                    "text_description": "$($ 자연수 $) \\div($ 자연수 $)$ 의 몫을 분수로 나타내는 방법은 $\\mathbf{\\Delta} \\div=\\frac{\\boldsymbol{\\Delta}}{\\boldsymbol{O}}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

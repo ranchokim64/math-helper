@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aa611997-a059-4076-8e0a-8d14a53d92fe",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008371",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.4,
+                            4.84,
+                            926.2,
+                            74.44
+                        ]
+                    ],
+                    "text_description": "도형을 시계 반대 방향으로 $90^{\\circ}$만큼 돌리고 오른쪽으로 뒤집었을 때의 도형을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            425.4,
+                            79.24,
+                            532.8,
+                            188.44
+                        ]
+                    ],
+                    "text_description": "모눈종이에 다각형 도형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            327.04,
+                            190.08,
+                            447.36,
+                            287.36
+                        ]
+                    ],
+                    "text_description": "② 도형을 반 시계 방향으로 90도 돌리고 오른쪽으로 뒤집은 그림입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.24,
+                            440.96,
+                            424.96,
+                            540.8
+                        ]
+                    ],
+                    "text_description": "도형을 반 시계 방향으로 90도 돌리고 오른쪽으로 뒤집는 과정을 그린 그립니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            623,
+                            187.7,
+                            746.2,
+                            289.3
+                        ]
+                    ],
+                    "text_description": "③ 도형을 아래로 뒤집은 그림 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.4,
+                            190.7,
+                            152,
+                            384.1
+                        ]
+                    ],
+                    "text_description": "① 시계 방향으로 90도 돌린 그림입니다. ④ 왼쪽으로 한번 뒤집은 그림 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            327,
+                            288.7,
+                            446.6,
+                            386.9
+                        ]
+                    ],
+                    "text_description": "⑤시 꼐 방향으로 180도 돌린 그림입니다."
+                }
+            ]
+        }
+    ]
+}

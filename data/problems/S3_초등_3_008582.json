@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cba813cb-8830-4d59-96de-fda5bf981867",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008582",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            9.42,
+                            649,
+                            44.42
+                        ]
+                    ],
+                    "text_description": "계산 결과가 더 큰 사람의 이름을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.0,
+                            305.0,
+                            630.0,
+                            331.0
+                        ]
+                    ],
+                    "text_description": "진수: $63 \\times 12=756$, 수호: $24 \\times 31=744 \\Rightarrow 756>744$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.0,
+                            255.0,
+                            101.0,
+                            286.0
+                        ]
+                    ],
+                    "text_description": "wlstn"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            204.0,
+                            53.0,
+                            750.0,
+                            237.0
+                        ]
+                    ],
+                    "text_description": "진수$63\\times12$, 수호$24\\times31$"
+                }
+            ]
+        }
+    ]
+}

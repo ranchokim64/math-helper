@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "af03c5c1-2c71-4910-8693-b7d2e034a3c6",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002942",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.92,
+                            6.99,
+                            612.12,
+                            58.99
+                        ]
+                    ],
+                    "text_description": "상자에 ①, ②, ③, ④, ⑤, ⑥의 공이 1개씩 들어 있습니다. 이 상자에서 공 1개를 꺼낼 때, 친구들이 말한 일이 일어날 가능성을 비교해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.32,
+                            396.22,
+                            461.72,
+                            420.22
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성이 '반반이다'인 경우를 말한 친구는 누구인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.32,
+                            79.42,
+                            614.52,
+                            385.02
+                        ]
+                    ],
+                    "text_description": "시우, 예지, 태오, 다희, 지후가 원 테이블에 앉아 6개의 공이 들어있는 상자를 앞에 두고 의견을 말하고 있는 그림이다. 시우: 홀수가 적혀 있는 공이 나올 거야. 예지: 빨간색 공이 나올 거야. 태오: 10 미만의 수가 적혀 있는 공이 나올 거야. 다희: 7이 적혀 있는 공이 나올 거야. 지후: 초록색 공이 나올 거야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.92,
+                            484.22,
+                            120.12,
+                            510.62
+                        ]
+                    ],
+                    "text_description": "시우"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.32,
+                            427.42,
+                            603.32,
+                            471.42
+                        ]
+                    ],
+                    "text_description": "상자에 들어 있는 공에는 1부터 6까지의 수가 적혀 있으므로 홀수가 적혀 있는 공이 나올 가능성은 '반반이다'입니다."
+                }
+            ]
+        }
+    ]
+}

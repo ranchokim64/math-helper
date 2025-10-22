@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ab3b070c-ed3f-4126-811c-6dd11b99a0a8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010554",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.3,
+                            13.94,
+                            903.1,
+                            41.94
+                        ]
+                    ],
+                    "text_description": "직접 맞대어 부피를 비교하였을 때 부피가 가장 큰 상자를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.7,
+                            49.34,
+                            916.7,
+                            253.94
+                        ]
+                    ],
+                    "text_description": "가 직육면체이고 가로 5cm, 세로 3cm 높이 4cm이다. 나 직육면체이고 가로 6cm, 세로 3cm 높이 2cm이다. 다 직육면체이고 가로 5cm, 세로 3cm 높이 6cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.7,
+                            266.4,
+                            81.5,
+                            293.6
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.1,
+                            311.2,
+                            956.7,
+                            628.8
+                        ]
+                    ],
+                    "text_description": "직접 맞대어 비교하려면 가로$, $세로$, $높이 중에서 두 종류 이상의 길이가 같아야하므로 가와 나는 직접 맞대어 부피를 비교할 수 없습니다$. $ 나와 다는 $3cm, 6cm$인 변의 길이가 같으므로 나머지 한 변의 길이를 비교하면 $2<5$입니다$. $ $->($나의 부피$)($다의 부피$)$ 가와 다는 $3cm, 5cm$인 변의 길이가 같으므로 나머지 한변의 길이를 비교하면 $, $0입니다 $, $1가의 부피$, $2다의 부피$)$ 따라서 부피가 가장 큰 상자는 다 입니다$. $"
+                }
+            ]
+        }
+    ]
+}

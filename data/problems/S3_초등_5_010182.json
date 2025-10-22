@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "035b2ba4-ad90-43fd-8d16-0ba30ef382cd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010182",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            0.94,
+                            667,
+                            50.44
+                        ]
+                    ],
+                    "text_description": "다음 회전판을 돌릴 때, 화살이 파란색에 멈출 가능성을 말과 수로 표현하려고 합니다. 알맞은 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            159.25,
+                            164.87,
+                            496.75,
+                            194.87
+                        ]
+                    ],
+                    "text_description": "말 (불가능하다, 반반이다, 확실하다)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            158.5,
+                            203.12,
+                            377.5,
+                            254.12
+                        ]
+                    ],
+                    "text_description": "수 $\\left(0, \\frac{1}{2}, 1\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            320.12,
+                            589,
+                            360.62
+                        ]
+                    ],
+                    "text_description": "화살이 파란색에 멈출 가능성은 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.0,
+                            268.37,
+                            138.25,
+                            311.87
+                        ]
+                    ],
+                    "text_description": "반반이다, $\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            290.0,
+                            57.0,
+                            404.0,
+                            157.0
+                        ]
+                    ],
+                    "text_description": "빨간색과 파란색이 반반 칠해져 있는 회전판"
+                }
+            ]
+        }
+    ]
+}

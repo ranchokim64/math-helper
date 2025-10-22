@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fffb08ef-7d8e-4980-9ec7-def141bedf96",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011270",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33,
+                            6.42,
+                            862,
+                            112.42
+                        ]
+                    ],
+                    "text_description": "정육각형의 넓이를 이용하여 원의 넓이를 어림하려고 합니다. 삼각형 ㄱㅇㄷ의 넓이가 $40 \\mathrm{~cm}^{2}$, 삼각형 ㄹㅇㅂ의 넓이가 $30 \\mathrm{~cm}^{2}$ 일 때, 원의 넓이를 어림한 것으로 알맞은 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            685,
+                            275,
+                            864,
+                            306
+                        ]
+                    ],
+                    "text_description": "$(210, 250) \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            353,
+                            116,
+                            540,
+                            272
+                        ]
+                    ],
+                    "text_description": "이미지는 정육각형을 중심으로 다양한 도형이 그려져 있습니다. - 정육각형 내부에는 중점을 꼭짓점으로 한, 두 개의 삼각형이 있습니다. - 하나는 초록색으로 채워져 있으며, 정육각형의 한 변을 포함하고 있습니다. - 다른 하나는 보라색으로 채워져 있고, 초록색 삼각형과 대칭적인 위치에 있습니다. - 육각형의 중심에는 점이 표시되어 있습니다. - 육각형의 안에는 내접하는 원과, 그 원에 내접하는 육각형이 있습니다. - 각 측면에는 삼각형과, 육각형의 꼭짓점을 표현한 한글이 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            324,
+                            87,
+                            346
+                        ]
+                    ],
+                    "text_description": "$210$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            369,
+                            554,
+                            399
+                        ]
+                    ],
+                    "text_description": "(원 안에 있는 정육각형의 넓이) $=30 \\times 6=180\\left(\\mathrm{~cm}^{2}\\right)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            408,
+                            862,
+                            509
+                        ]
+                    ],
+                    "text_description": "(원 밖에 있는 정육각형의 넓이) $=40 \\times 6=240\\left(\\mathrm{~cm}^{2}\\right)$ $\\Rightarrow$ 원의 넓이는 원 안에 있는 정육각형의 넓이보다 넓고, 원 밖에 있는 정육각형의 넓 이보다 좁으므로 $180 \\mathrm{~cm}^{2}$보다 넓고, $240 \\mathrm{~cm}^{2}$보다 좁습니다."
+                }
+            ]
+        }
+    ]
+}

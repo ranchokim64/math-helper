@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5de3db2b-6491-4330-a7f9-b919e26a1e81",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005281",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.5,
+                            11.92,
+                            566.5,
+                            170.92
+                        ]
+                    ],
+                    "text_description": "간단한 자연수의 비로 나타내어 보세요. ① $4: 3 \\frac{1}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            312.92,
+                            91.5,
+                            356.92
+                        ]
+                    ],
+                    "text_description": "$5: 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            189.5,
+                            559.5,
+                            305.5
+                        ]
+                    ],
+                    "text_description": "① $\\begin{aligned} 4: 3 \\frac{1}{5} & =4: \\frac{16}{5}=(4 \\times 5):\\left(\\frac{16}{5} \\times 5\\right) \\\\ & =20: 16=(20 \\div 4):(16 \\div 4)=5: 4\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

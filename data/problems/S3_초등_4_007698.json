@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c764abc0-3662-47bd-929c-56dff7d56315",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007698",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.5,
+                            5.9,
+                            710.5,
+                            37.9
+                        ]
+                    ],
+                    "text_description": "대호와 세아의 대화를 읽고 바르게 말한 사람을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120.5,
+                            44.9,
+                            759.5,
+                            197.9
+                        ]
+                    ],
+                    "text_description": "대호: 한 직선에 대한 수선은 1개뿐이야. 세아: 한 점을 지나고 주어진 직선에 수직인 직선은 1개만 그을 수 있어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            213.9,
+                            102.5,
+                            244.9
+                        ]
+                    ],
+                    "text_description": "세아"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            255.9,
+                            846.5,
+                            347.9
+                        ]
+                    ],
+                    "text_description": "한 점을 지나고 한 직선에 수직인 직선은 1 개분이지만 한 점이 주어지지 않은 경우 한 직선에 대한 수선은 셀 수 없이 많습니다. 따라서 바르게 말한 사람은 세아입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0ff2f0ac-ee23-44c7-8857-71e62f672b03",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009119",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 4,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.25,
+                            2.1,
+                            644.8,
+                            23.56
+                        ]
+                    ],
+                    "text_description": "<보기>에서 반직선과 직선을 설명한 것을 각각 찾아 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.71,
+                            43.88,
+                            604.71,
+                            190.68
+                        ]
+                    ],
+                    "text_description": "<보기> ㉠ 한 점에서 시작하여 한쪽으로 끝없이 늘인 굽은 선입니다. ㉡ 한 점에서 시작하여 한쪽으로 끝없이 늘인 곧은 선입니다. ㉢ 선분을 양쪽으로 끝없이 늘인 굽은 선입니다. ㉣ 선분을 양쪽으로 끝없이 늘인 곧은 선입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            230.37,
+                            206.82,
+                            473.16,
+                            236.75
+                        ]
+                    ],
+                    "text_description": "반직선: (㉢, ㉡, ㉢, ㉣)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            241.1,
+                            236.75,
+                            473.16,
+                            266.11
+                        ]
+                    ],
+                    "text_description": "직선: (㉠, ㉡, ㉢, ㉣)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.39,
+                            305.07,
+                            153.66,
+                            381.85
+                        ]
+                    ],
+                    "text_description": "점에서 점으로 이어진 선분이 왼쪽 오른쪽으로 더 넓어지면 직선이 된다. 그리고 점과 점 사이를 선분이라고 한다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.73,
+                            274.58,
+                            92.6,
+                            296.6
+                        ]
+                    ],
+                    "text_description": "㉡, ㉣"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1c7aeeee-8e7c-4928-ac68-ea6aab28e431",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012314",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            156.5,
+                            10.41,
+                            535.5,
+                            48.41
+                        ]
+                    ],
+                    "text_description": "달력을 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            410,
+                            543.5,
+                            492
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 달력에서의 규칙 중 잘못된 것을 찾아 } \\\\ \\text { 기호를 써 보세요. }\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.5,
+                            536,
+                            466.5,
+                            671
+                        ]
+                    ],
+                    "text_description": "㉠ $\\downarrow$ 방향으로 7씩 커집니다. ㉡ $/$ 방향으로 6씩 커집니다. ㉢ \\ 방향으로 7 씩 커집니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            160.5,
+                            69.41,
+                            488.5,
+                            390.41
+                        ]
+                    ],
+                    "text_description": "월요일이 1일부터 시작하는 8월 달력이다. 1일부터 25일까지 화살표가있고, 토요일 6일부터 화요일 30일까지 또 화살표가 그어져있다. 중간에 9, 10, 100, 16, 17, 18, 23, 24, 25는 굵은 빨간선으로 네모박스 되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            401.5,
+                            716,
+                            431.5,
+                            747
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            761,
+                            539.5,
+                            816
+                        ]
+                    ],
+                    "text_description": "9-I=8, $17-9=8, 25-17=8$ 이므로 $\\backslash$ 방향으로 8 씩 커 집니다."
+                }
+            ]
+        }
+    ]
+}

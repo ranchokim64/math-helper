@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7ba89fdd-6d5e-41af-9bda-43a82358fdde",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003077",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.19,
+                            2.38,
+                            588.87,
+                            32.52
+                        ]
+                    ],
+                    "text_description": "그림을 보고 빨간색 부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요. (원주율: 3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.22,
+                            44.81,
+                            191.58,
+                            232.2
+                        ]
+                    ],
+                    "text_description": "태극 문양의 정원형 평면도형이 있고 반지름이 10cm로 나왔있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.67,
+                            282.16,
+                            260.19,
+                            311.34
+                        ]
+                    ],
+                    "text_description": "$155 \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.25,
+                            236.59,
+                            671.33,
+                            260.66
+                        ]
+                    ],
+                    "text_description": "원주율이 3. 1일 때 빨간색 부분의 넓이는 $10 \\times 10 \\times 3. 1 \\div 2=155\\left(\\mathrm{~cm}^{2}\\right)$입니다."
+                }
+            ]
+        }
+    ]
+}

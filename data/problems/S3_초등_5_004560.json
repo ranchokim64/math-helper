@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fc818cc4-f5c7-4111-bfbb-b041b23a41be",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004560",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.77,
+                            19.24,
+                            347.77,
+                            61.24
+                        ]
+                    ],
+                    "text_description": "수직선에 나타내어 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.77,
+                            112.78,
+                            341.77,
+                            148.78
+                        ]
+                    ],
+                    "text_description": "② 22 이하인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.77,
+                            211.78,
+                            598.77,
+                            277.78
+                        ]
+                    ],
+                    "text_description": "수직선 위에 8부터 32까지의 자연수가 표시되어 있고, 22 위에 채워진 파란점부터 8을 지나 왼쪽으로 파란선이 쭉 이어져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.77,
+                            171.78,
+                            306.77,
+                            201.78
+                        ]
+                    ],
+                    "text_description": "② 22와 같거나 작은 수입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "43720ec7-e81e-4f21-b939-2d14a9ccf7c1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012008",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.2,
+                            14.72,
+                            718.24,
+                            121.6
+                        ]
+                    ],
+                    "text_description": "그림에서 초바늘이 작은 눈금 한 칸을 지나는 데 걸리는 시간은 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.2,
+                            150.4,
+                            699.68,
+                            416
+                        ]
+                    ],
+                    "text_description": "이 이미지는 시계의 시침과 분침의 움직임을 보여주는 도해입니다. 두 개의 동일한 아날로그 시계가 나란히 있고, 시계들 위에는 12시를 확대해서 보여주는 원형 디테일이 있습니다. 각 시계에는 분침(분을 가리키는 분홍색 바늘)과 시침(시간을 가리키는 녹색 바늘)이 표시되어 있으며, 시계 사이에는 움직임의 방향을 나타내는 분홍색 화살표가 있습니다. 시계는 기본적인 1부터 12까지의 숫자가 표시되어 있고, 테두리에는 분을 나타내는 작은 눈금들이 베이지색 띠 안에 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.4,
+                            506.88,
+                            718.88,
+                            576
+                        ]
+                    ],
+                    "text_description": "초바늘이 작은 눈금 한 칸을 지나는 데 걸리는 시간은 1초 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            542.24,
+                            451.84,
+                            594.08,
+                            490.24
+                        ]
+                    ],
+                    "text_description": "|초"
+                }
+            ]
+        }
+    ]
+}

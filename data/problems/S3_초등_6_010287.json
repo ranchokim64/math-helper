@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "49e58e07-4363-4be6-8293-57ebecf9e3d9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010287",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.72,
+                            11.91,
+                            460.72,
+                            39.91
+                        ]
+                    ],
+                    "text_description": "몫이 가장 작은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.72,
+                            46.91,
+                            849.72,
+                            164.91
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{9} \\div 4, \\quad \\frac{3}{8} \\div 6, \\quad \\frac{4}{5} \\div 8, \\quad \\frac{4}{7} \\div 12$가 순서대로 나열되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.72,
+                            215.5,
+                            109.72,
+                            253.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{7} \\div 12$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.72,
+                            292.5,
+                            794.72,
+                            517.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{9} \\div 4=\\frac{2}{9} \\times \\frac{1}{4}=\\frac{2}{36}=\\frac{1}{18}$ \\[ \\frac{3}{8} \\div 6=\\frac{3}{8} \\times \\frac{1}{6}=\\frac{3}{48}=\\frac{1}{16} \\] $\\frac{4}{5} \\div 8=\\frac{4}{5} \\times \\frac{1}{8}=\\frac{4}{40}=\\frac{1}{10}$ \\[ \\frac{4}{7} \\div 12=\\frac{4}{7} \\times \\frac{1}{12}=\\frac{4}{84}=\\frac{1}{21} \\] 분자가 1로 모두 같으므로 분모가 가장 큰 분수가 가장 작습니다. 따라서 몫이 가장 작은 것은 $\\frac{4}{7} \\div 12$입니다."
+                }
+            ]
+        }
+    ]
+}

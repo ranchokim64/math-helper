@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0b20a182-b3ab-4d64-84fc-104dafa1d13d",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002982",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19,
+                            15.22,
+                            663.8,
+                            68.02
+                        ]
+                    ],
+                    "text_description": "사각형 수를 $\\diamond$, 사각형의 각의 크기의 합을 $\\bigcirc$라고 할 때, 두 양 사이의 대응 관계를 기호를 사용하여 식으로 나타내어 보세요. (사각형의 네 각의 크기의 합은 $360^{\\circ}$ 입니다.)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.4,
+                            87.62,
+                            664.6,
+                            168.02
+                        ]
+                    ],
+                    "text_description": "사각형이 1개, 2개, 3개로 점점 늘어나는 이미지가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.8,
+                            299.22,
+                            407,
+                            325.42
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc=\\diamond \\times 360^{\\circ}$ 또는 $\\diamond=\\bigcirc \\div 360^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.8,
+                            224.82,
+                            728.6,
+                            275.22
+                        ]
+                    ],
+                    "text_description": "사각형 1개의 네 각의 크기의 합은 $360^{\\circ}$이므로 사각형의 각의 크기의 합은 사각형 수에 $30^{\\circ}$를 곱한 것과 같습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "82f8f3b3-8ebf-4d2b-8744-3cd5b97cbf9e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011699",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.06,
+                            18.47,
+                            339.06,
+                            46.47
+                        ]
+                    ],
+                    "text_description": "평행선을 모두 찾아 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132.66,
+                            62.67,
+                            383.06,
+                            219.27
+                        ]
+                    ],
+                    "text_description": "수평선 '가', '다'가 있고 가운데에 비스듬한 선 '나'가 있습니다. 수직선 라, 마, 바, 사가가, 나, 다를 지나고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146.26,
+                            235.27,
+                            463.86,
+                            261.67
+                        ]
+                    ],
+                    "text_description": "직선 가와 직선 다, 직선 라와 직선 사"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.66,
+                            269.56,
+                            419.86,
+                            290.96
+                        ]
+                    ],
+                    "text_description": "길이를 길게 늘여도 서로 만나지 않는 직선을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

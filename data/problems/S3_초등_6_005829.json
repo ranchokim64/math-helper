@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3ac4d7c0-8e14-4b8d-9184-bdc73c0848ae",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005829",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            6.63,
+                            540.46,
+                            75.95
+                        ]
+                    ],
+                    "text_description": "색칠한 면의 둘레가 12cm 인 직육면체 모양의 상자를 만들기 위해 오른쪽 그림과 같은 전개도를 만들었습니다. 이 전개도를 접었을 때 만들어지는 상자의 겉넓이는 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.619999999999999,
+                            265.56,
+                            327.98,
+                            288.6
+                        ]
+                    ],
+                    "text_description": "색칠한 면의 짧은 변의 길이는 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.68,
+                            91.34,
+                            129.63,
+                            250.06
+                        ]
+                    ],
+                    "text_description": "직육면체 전개도에 한변의 길이가 4cm로 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.42,
+                            295.64,
+                            305.58,
+                            346.2
+                        ]
+                    ],
+                    "text_description": "전해도를 접었을 때 만나는 변끼리는 길이가 같으므로 색칠한 면의 긴 변의 길이는 4cm이고 짧은 변의 길이는 $12 \\div 2-4=2(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            386.0,
+                            304.0,
+                            422.0,
+                            321.0
+                        ]
+                    ],
+                    "text_description": "2cm"
+                }
+            ]
+        }
+    ]
+}

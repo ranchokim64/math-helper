@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e8c0f3de-c405-4474-8848-7b55896d2b10",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005736",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.8,
+                            6.12,
+                            476,
+                            64.52
+                        ]
+                    ],
+                    "text_description": "어느 도시의 학교별 학생 수를 조사하여 나타낸 띠그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.6,
+                            266.12,
+                            473.6,
+                            323.72
+                        ]
+                    ],
+                    "text_description": "이 도시의 학생이 3000명일 때, 초등학교 학생은 모두 몇 명인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48,
+                            76.32,
+                            473,
+                            231.72
+                        ]
+                    ],
+                    "text_description": "학교별 학생 수를 조사하여 나타낸 띠그래프입니다. 전체 100% 중에 초등학교(40%), 중학교(30%), 고등학교(25%), 대학교(5%)로 차지하는 비율을 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            330.4,
+                            338.12,
+                            403.2,
+                            364.52
+                        ]
+                    ],
+                    "text_description": "1200명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.6,
+                            374.12,
+                            307.2,
+                            438.92
+                        ]
+                    ],
+                    "text_description": "초등학교 학생은 전체의 $40 \\%$이므로 $3000 \\times \\frac{40}{100}=1200$(명)입니다."
+                }
+            ]
+        }
+    ]
+}

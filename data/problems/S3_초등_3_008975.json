@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7acd4121-44e0-4809-a118-e9c91c869b39",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008975",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            5.92,
+                            326.5,
+                            33.92
+                        ]
+                    ],
+                    "text_description": "반직선을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            586.5,
+                            47.5,
+                            718.5,
+                            100.5
+                        ]
+                    ],
+                    "text_description": "곧은 선."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            144.5,
+                            41.5,
+                            508.5,
+                            108.5
+                        ]
+                    ],
+                    "text_description": "곧지 않은 두개의 선."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.5,
+                            179.5,
+                            626.5,
+                            209.5
+                        ]
+                    ],
+                    "text_description": "한 점에서 한쪽으로 끝없이 늘인 곧은 선을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

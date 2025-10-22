@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c2fceab-499a-497d-b85b-ebbc8cac962a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005126",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.5,
+                            15.42,
+                            507.5,
+                            182.42
+                        ]
+                    ],
+                    "text_description": "성주네 가게에서 아이스크림을 팔고 있습니다. 아이스크림의 재료가 $23 \\frac{2}{9} \\mathrm{~L}$ 있고 아이스크림 하나를 만드는 데 재료를 $\\frac{1}{10} \\mathrm{~L}$ 사용한다고 합니다. 아이스크림 1개의 가격이 700 원 이라면 아이스크림을 판 돈은 모두 얼마인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            516.5,
+                            15,
+                            779.5,
+                            194
+                        ]
+                    ],
+                    "text_description": "아이스크림을 제조하고 있는 여자아이 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.5,
+                            316,
+                            198.5,
+                            337
+                        ]
+                    ],
+                    "text_description": "162400원"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            276,
+                            396.5,
+                            296
+                        ]
+                    ],
+                    "text_description": "따라서 아이스크림을 판 돈은 모두 $232 \\times 700=162400$ (원)입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            380.5,
+                            218,
+                            590.5,
+                            238
+                        ]
+                    ],
+                    "text_description": "이므로 232개까지 만들 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            206,
+                            379.5,
+                            249
+                        ]
+                    ],
+                    "text_description": "$23 \\frac{2}{9} \\div \\frac{1}{10}=\\frac{209}{9} \\div \\frac{1}{10}=\\frac{209}{9} \\times 10=\\frac{2090}{9}=232 \\frac{2}{9}$"
+                }
+            ]
+        }
+    ]
+}

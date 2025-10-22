@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0f67649c-8b88-428c-ad34-6004cba7e23b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012545",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.44,
+                            1.1099999999999999,
+                            424.2,
+                            102.11
+                        ]
+                    ],
+                    "text_description": "구슬이 $97$개 있습니다. $6$명에게 똑같이 나누어 주려면 구슬을 한 명에게 몇 개씩 주어야 할까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            114.64,
+                            168.56,
+                            152.4,
+                            187.86
+                        ]
+                    ],
+                    "text_description": "$16$ 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.18,
+                            127.49,
+                            104.45,
+                            145.79
+                        ]
+                    ],
+                    "text_description": "$96 \\div 6=16$"
+                }
+            ]
+        }
+    ]
+}

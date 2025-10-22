@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ce246075-4c2d-4cd1-b5dc-696bf1e7a83c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005110",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            121,
+                            42.92,
+                            731,
+                            176.92
+                        ]
+                    ],
+                    "text_description": "다음 중 $6 \\div \\frac{3}{4}$과 계산 결과가 같은 것은 어느 것 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            425,
+                            257.92,
+                            603,
+                            296.92
+                        ]
+                    ],
+                    "text_description": "④ $(6 \\div 3) \\times 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120,
+                            210.5,
+                            299,
+                            384.5
+                        ]
+                    ],
+                    "text_description": "① $(6 \\times 3) \\times 4$ ③ $(6 \\div 3) \\div 4$ ⑤ $6 \\times \\frac{3}{4}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            425,
+                            210.5,
+                            608,
+                            251.5
+                        ]
+                    ],
+                    "text_description": "② $(6 \\div 4) \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            150,
+                            398.5,
+                            385,
+                            547.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}6 \\div \\frac{3}{4}=(6 \\div 3) \\times 4=8 \\\\ 6 \\div \\frac{3}{4}=6 \\times \\frac{4}{3}=8\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

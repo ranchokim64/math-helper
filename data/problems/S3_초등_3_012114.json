@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4eea2b47-e8ef-4975-ba17-7cf529d97f23",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012114",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            5.42,
+                            646.5,
+                            117.42
+                        ]
+                    ],
+                    "text_description": "해인이는 직사각형 모양을 여러 개 그려서 그림과 같은 작 품을 만들었습니다. 그림에서 찾을 수 있는 크고 작은 직사 각형은 모두 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            204.5,
+                            128.42,
+                            449.5,
+                            261.42
+                        ]
+                    ],
+                    "text_description": "이 이미지는 다양한 색상의 직사각형 블록들이 서로 다른 크기로 배열된 형태입니다. 파란색. 노란색. 핑크색, 주황색, 연두색."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            529.5,
+                            273,
+                            565.5,
+                            303
+                        ]
+                    ],
+                    "text_description": "8개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            305,
+                            516.5,
+                            354
+                        ]
+                    ],
+                    "text_description": "|칸짜리 직사각형: 4개, 2칸짜리 직사각형: 2개, 4칸짜리 직사각형: 1 개, 5 칸짜리 직사각형: 1 개 $\\rightarrow 4+2+1+1=8$ (개)"
+                }
+            ]
+        }
+    ]
+}

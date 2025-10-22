@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9654b531-214e-49a1-b1be-ade182a3452f",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002974",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.7,
+                            4.94,
+                            466.3,
+                            134.54
+                        ]
+                    ],
+                    "text_description": "버스 종점에서 태오네 집으로 가는 버스는 10분마다, 시우네 집으로 가는 버스는 12분마다 출발합니다. 첫차가 동시에 출발한 후, 두 버스는 몇 분마다 동시에 출발하는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            473.5,
+                            5.140000000000001,
+                            729.5,
+                            122.54
+                        ]
+                    ],
+                    "text_description": "버스 2대 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.3,
+                            234.4,
+                            227.7,
+                            263
+                        ]
+                    ],
+                    "text_description": "$60분$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.9,
+                            140.6,
+                            663.1,
+                            219.8
+                        ]
+                    ],
+                    "text_description": "두 버스가 동시에 출발하는 시간 간격은 10과 12의 최소공배수입니다. 10의 배수: $10, 20, 30, 40, 50, 60, \\ldots / 12$의 배수: $12, 24, 36, 48, 60, \\ldots$ 10과 12의 최소공배수는 60이므로 두 버스는 60분마다 동시에 출발합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f61ef218-e93a-40e9-8006-27022abc133f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011106",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.1,
+                            8.48,
+                            739.33,
+                            33.57
+                        ]
+                    ],
+                    "text_description": "왼쪽 쌓기나무와 같은 모양인 것을 찾아 기호를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            197.56,
+                            70.43,
+                            280.58,
+                            136.48
+                        ]
+                    ],
+                    "text_description": "쌓기 나무가 아래에 $2$개 위에 $2$개 쌓여있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309.76,
+                            44.1,
+                            701.95,
+                            163.4
+                        ]
+                    ],
+                    "text_description": "㉠ 밑면에 $2$개의 쌓기 나무와 윗면에 $3$개의 쌓기 나무가 있다. ㉡ 밑면에 $3$개의 쌓기 나무가 있고 윗면에는 $1$개의 쌓기 나무가 있다. ㉢ 밑면에 $4$개의 쌓기 나무가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.32,
+                            213.58,
+                            78.34,
+                            235.59
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.83,
+                            254.02,
+                            395.26,
+                            278.6
+                        ]
+                    ],
+                    "text_description": "왼쪽 모양을 눕히면 ㉢과 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.33,
+                            282.26,
+                            336.58000000000004,
+                            358.98
+                        ]
+                    ],
+                    "text_description": "아래에 $2$개 위에 $2$개 쌓여있는 쌓기 나무를 눕히면 밑면에만 쌓기 나무가 $4$개 있는 모형이 된다 $. $"
+                }
+            ]
+        }
+    ]
+}

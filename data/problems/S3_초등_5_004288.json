@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dde555c9-9d28-42df-94af-6a7ecb08ffea",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004288",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.5,
+                            114.9,
+                            511.5,
+                            173.9
+                        ]
+                    ],
+                    "text_description": "다음 조건을 보고 $㉠$과 $㉡$의 최소공배수를 구해 보세요 $. $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            145.5,
+                            203.9,
+                            421.5,
+                            261.9
+                        ]
+                    ],
+                    "text_description": "- ㉠과 ㉡의 곱은 $240$입니다. - ㉠과 ㉡의 최대공약수는 $4$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            384.5,
+                            295.9,
+                            415.5,
+                            318.9
+                        ]
+                    ],
+                    "text_description": "$60$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            253.5,
+                            15.9,
+                            485.5,
+                            83.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { ㉠ } \\times\\text { ㉡ } & =(4 \\times \\square) \\times(4 \\times \\mathbf{\\Delta}) \\\\ & =(4 \\times \\square \\times \\mathbf{\\Delta}) \\times 4 \\\\ & =(\\text { 최소공배수 }) \\times(\\text { 최대공약수 })\\end{aligned}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.5,
+                            84.9,
+                            466.5,
+                            106.9
+                        ]
+                    ],
+                    "text_description": "따라서 (㉠과 ㉡의 최소공배수) $=240 \\div 4=60$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.5,
+                            16.9,
+                            213.5,
+                            68.9
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{r} 4) ㉠ ㉡ \\\\ \\hline \\square \\quad \\Delta \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

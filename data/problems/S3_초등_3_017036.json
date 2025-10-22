@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "233bbb5d-917a-4c17-b314-67fcea433ccf",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017036",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.46,
+                            3.33,
+                            431.12,
+                            22.87
+                        ]
+                    ],
+                    "text_description": "$100$이 $8$개, $10$이 $2$개, $1$이 $5$개인 수보다 $511$ 큰 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.46,
+                            36.24,
+                            65,
+                            54.75
+                        ]
+                    ],
+                    "text_description": "① $1336$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.52,
+                            60.92,
+                            63.97,
+                            128.8
+                        ]
+                    ],
+                    "text_description": "② $1337$ ③ $1338$ ④ $1339$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.26,
+                            144.79,
+                            428.04,
+                            164.41
+                        ]
+                    ],
+                    "text_description": "$100$이 $8$개, $10$이 $2$개, $1$이 $5$개인 수는 $800+20+5=825$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f0f80c90-8012-41f7-9aba-af8bb9696d22",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010521",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.76,
+                            3.91,
+                            961.76,
+                            73.91
+                        ]
+                    ],
+                    "text_description": "다음은 지훈이네 학교 학생들의 성씨를 조사하여 나타낸 원그래프입니다. 비율이 가장 높은 성씨를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            330.51,
+                            395.16,
+                            666.76,
+                            425.16
+                        ]
+                    ],
+                    "text_description": "(김씨, 이씨, 박씨, 기타)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370.51,
+                            82.13,
+                            639.26,
+                            390.88
+                        ]
+                    ],
+                    "text_description": "성씨별 학생 수의 원그래프가 있다 김씨는 31%, 이씨는 26%, 박씨는 24%, 기타 19%를 차지하고 있다. (조사한 학생: 1000명)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.26,
+                            440.88,
+                            113.01,
+                            474.63
+                        ]
+                    ],
+                    "text_description": "김씨"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.01,
+                            488.38,
+                            965.51,
+                            554.63
+                        ]
+                    ],
+                    "text_description": "(헤설) 김씨: $31 \\%$, 이씨: $26 \\%$, 박씨: $24 \\%$, 기타: $19 \\%$ 이므로 비율이 가장 높은 성씨는 김씨입니다."
+                }
+            ]
+        }
+    ]
+}

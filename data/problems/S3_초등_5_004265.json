@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "81031861-2b9a-435f-8c49-1bc9340c62a8",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004265",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            8.92,
+                            336.5,
+                            32.92
+                        ]
+                    ],
+                    "text_description": "야채의 가격표를 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146.82,
+                            57.48,
+                            321.82,
+                            135.56
+                        ]
+                    ],
+                    "text_description": "당근$1$개 $500$원 감자$5$개 $2000$원 팽이버섯 $2$봉지 $1000$원"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            170.5,
+                            480.5,
+                            287.5
+                        ]
+                    ],
+                    "text_description": "예원이는 당근과 감자를 $5$개씩 사고 승철이는 팽이버섯 $4$봉지를 샀습니다. 예원이가 쓴 돈은 승철이가 쓴 돈보다 얼마 더 많은지 하나의 식으로 나타내어 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.5,
+                            40.92,
+                            380.5,
+                            152.92
+                        ]
+                    ],
+                    "text_description": "당근 1개 500 원\n감자 5개 2000원\n팽이버섯 2봉지 1000 원"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296.5,
+                            469.5,
+                            368.5,
+                            493.5
+                        ]
+                    ],
+                    "text_description": "2500원"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.02,
+                            416.24,
+                            433.54,
+                            439.84
+                        ]
+                    ],
+                    "text_description": "(또는 $500 \\times 2+2000-1000 \\div 2 \\times 4=2500$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            291.5,
+                            278.5,
+                            375.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 예원이가 쓴 돈은 } 500 \\times 5+2000 \\text {, } \\\\ \\text { 승철이가 쓴 든 } 1000 \\times 2 \\text { 이므로 } \\\\ 500 \\times 5+2000-1000 \\times 2 \\\\ =2500+2000-2000=2500 \\text { (원) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

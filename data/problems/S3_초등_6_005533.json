@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f8e2a92a-d196-410c-a0b1-65635238b4b9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005533",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.92,
+                            8.99,
+                            576.12,
+                            52.99
+                        ]
+                    ],
+                    "text_description": "나눗셈을 곱셈으로 바꾸어 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.32,
+                            72.02,
+                            122.52,
+                            155.02
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{3} \\div 5=$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            372.32,
+                            258.02,
+                            480.92,
+                            300.22
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{3} \\times \\frac{1}{5}=\\frac{7}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.95,
+                            200.24,
+                            479.46,
+                            245.81
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{3} \\div 5$는 $\\frac{7}{3}$을 똑같이 5로 나눈 것 중의 하나입니다. 이것은 $\\frac{7}{3}$의"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.44,
+                            256.56,
+                            197.86,
+                            301.1
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{5}$ 이므로 $\\frac{7}{3} \\times \\frac{1}{5}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

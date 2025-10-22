@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "52471cef-588d-4cc0-bf06-1cb7d919e40d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011837",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.17,
+                            16.46,
+                            491.37,
+                            82.06
+                        ]
+                    ],
+                    "text_description": "가장 큰 분수와 가장 작은 분수의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            157.17,
+                            124.46,
+                            390.37,
+                            176.06
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{llll}\\frac{28}{9}, & 3 \\frac{4}{9}, & \\frac{30}{9} ,& 2 \\frac{5}{9}\\end{array}$가 순서대로 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            378.3,
+                            206.9,
+                            407.1,
+                            250.1
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.3,
+                            250.5,
+                            371.3,
+                            286.9
+                        ]
+                    ],
+                    "text_description": "가장 큰 분수 : $3 \\frac{4}{9}$, 가장 작은 분수 : $2 \\frac{5}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.5,
+                            294.9,
+                            301.5,
+                            332.1
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow 3 \\frac{4}{9}-2 \\frac{5}{9}=2 \\frac{13}{9}-2 \\frac{5}{9}=\\frac{8}{9}$"
+                }
+            ]
+        }
+    ]
+}

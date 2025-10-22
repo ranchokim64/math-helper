@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9ed5c5a7-6363-466a-96ae-d572733c62dd",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002885",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            7.92,
+                            744,
+                            68.92
+                        ]
+                    ],
+                    "text_description": "5 장의 수 카드 중에서 3 장을 골라 $\\square$ 안에 한 번씩만 넣어 계산 결과가 가장 작은 곱셈을 만들고 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            207,
+                            83.5,
+                            548,
+                            245.5
+                        ]
+                    ],
+                    "text_description": "2, 3, 4, 5, 6이 써진 5장의 카드가 있고, \\[ \\frac{1}{\\square} \\times \\frac{1}{\\square} \\times \\frac{1}{\\square} \\]가 있는 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97,
+                            622.5,
+                            157,
+                            682.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{120}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            300.5,
+                            299,
+                            496.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{\\square} \\times \\frac{1}{\\square} \\times \\frac{1}{\\square}$에서 분모에 큰 수가 들어갈수록 계산 결과가 작아집니다. 따라서 계산 결과가 가장 작은 곱셈을 만들려면 수 카드 4, 5, 6을 사용해야 합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            510.5,
+                            235,
+                            585.5
+                        ]
+                    ],
+                    "text_description": "(예) $\\frac{1}{4} \\times \\frac{1}{5} \\times \\frac{1}{6}$"
+                }
+            ]
+        }
+    ]
+}

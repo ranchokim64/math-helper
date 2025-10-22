@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8c8fe174-c2dc-44f7-89ea-ed905f81d928",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011712",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.56,
+                            16.47,
+                            491.76,
+                            76.87
+                        ]
+                    ],
+                    "text_description": "도형은 모두 어떤 사각형이라고 할 수 있나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.56,
+                            91.27,
+                            492.56,
+                            231.27
+                        ]
+                    ],
+                    "text_description": "네 변의 길이가 모두 같고, 마주보는 꼭짓점끼리 이은 선분이 서로 수직으로 만나는 마름모가 다른 모양으로 3개 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            358.16,
+                            248.07,
+                            416.56,
+                            272.07
+                        ]
+                    ],
+                    "text_description": "마름모"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.56,
+                            282.96,
+                            490.16,
+                            326.96
+                        ]
+                    ],
+                    "text_description": "마름모는 네 변의 길이가 모두 같고, 마주 보는 꼭짓점끼리 이은 선분이 서로 수직으로 만나고 이등분합니다."
+                }
+            ]
+        }
+    ]
+}

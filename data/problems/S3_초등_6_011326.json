@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1d91a030-342f-41f1-b1ac-44ee9b0b244f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011326",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            2,
+                            672.5,
+                            53
+                        ]
+                    ],
+                    "text_description": "원기둥의 전개도를 그리고 밑면의 반지름과 옆면의 가로, 세로의 길이를 바르게 나타낸 것을 선택해 보세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.5,
+                            66,
+                            594.5,
+                            563
+                        ]
+                    ],
+                    "text_description": "원의 반지름이 2cm이고 높이가 5cm인 원기둥이 있습니다. 원기둥과 모눈종이 사이에는 오른쪽 표시의 화살표가 있고 그 쪽에는 원기둥의 전개도가 두 개가 있습니다. 모눈종이의 가로 세로 길이는 1cm이며 위의 전개도의 원 반지름은 2cm이고 직사각형 가로 14cm, 세로 5cm입니다. 다른 하나는 원 반지름이 2cm이고 직사각형 가로 12cm, 세로 5cm입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            581,
+                            414.5,
+                            873
+                        ]
+                    ],
+                    "text_description": "모눈종이의 가로 세로 길이는 1cm이며 원기둥의 전개도가 있습니다. 원 반지름이 2cm이고 직사각형 가로 12cm 세로 5cm 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            882,
+                            937.5,
+                            982
+                        ]
+                    ],
+                    "text_description": "밑면의 반지름은 $2cm$ 이고, 옆면의 가로의 길이는 밑면의 둘레와 같으므로 (밑면의 반지름) $\\times 2 \\times(원주율)=2 \\times 2 \\times 3=12(\\mathrm{~cm})$ 입니다. 옆면의 세로의 길이는 원기둥의 높이와 같으므로 $5cm$ 입니다."
+                }
+            ]
+        }
+    ]
+}

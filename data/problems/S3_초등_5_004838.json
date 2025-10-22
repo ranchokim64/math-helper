@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c3353886-8ccc-4130-a033-3f124ca343f7",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004838",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.33,
+                            14.2,
+                            420.85,
+                            109.79
+                        ]
+                    ],
+                    "text_description": "6장의 카드 중 한 장을 뽑을 때 $\\diamond$의 카드를 뽑을 가능성을 수로 표현해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.95,
+                            120.24,
+                            407.13,
+                            182.94
+                        ]
+                    ],
+                    "text_description": "$\\diamond$ $\\diamond$ $\\star$ $\\diamond$ $\\star$ $\\star$의 순서로 카드가 정렬되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.91,
+                            188.3,
+                            326.81,
+                            233.46
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.04,
+                            233.83,
+                            419.58,
+                            317.6
+                        ]
+                    ],
+                    "text_description": "$\\diamond$ 모양의 카드가 3장이므로 카드 6장 중 한 장을 뽑을 때 $\\diamond$ 모양의 카드를 뽑을 가능성은 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

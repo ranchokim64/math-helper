@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e661f7a3-7510-45c4-88ca-9ff6fbcf271e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008125",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.88,
+                            -0.21,
+                            598.26,
+                            27.66
+                        ]
+                    ],
+                    "text_description": "나머지가 더 큰 나눗셈의 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            405,
+                            121.4,
+                            542,
+                            160.4
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            242.62,
+                            32.47,
+                            703.95,
+                            119.15
+                        ]
+                    ],
+                    "text_description": "㉠ $462 \\div 27$ ㉡ $327 \\div 17$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.39,
+                            179.14,
+                            77.3,
+                            206.05
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.25,
+                            223.35,
+                            639.59,
+                            445.39
+                        ]
+                    ],
+                    "text_description": "㉠$$ \\begin{array}{r} \\phantom{1} 17 \\\\ 27) 462 \\\\ \\phantom{2} 27 \\\\ \\hline \\phantom{1} 192 \\\\ \\phantom{2} 189 \\\\ \\hline \\phantom{1} \\phantom{0}3 \\\\ \\end{array} $$ ㉡ $\\begin{array}{r|r} 17 & 327 \\\\ \\hline & 19 \\\\ & 17 \\\\ \\hline & 157 \\\\ & 153 \\\\ \\hline & 4 \\\\ \\end{array}$ $\\begin{aligned} \\end{aligned}$ $\\Rightarrow$ 나머지의 크기를 비교하면 $3<4$ 이므로 ㉡이 더 큽니다."
+                }
+            ]
+        }
+    ]
+}

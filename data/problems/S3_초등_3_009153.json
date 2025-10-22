@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d05b0727-0e36-43e4-8898-b0db47ecd659",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009153",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.22,
+                            3.4,
+                            536.22,
+                            30.4
+                        ]
+                    ],
+                    "text_description": "다음을 읽고, 알맞은 나늣셈식을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            264.22,
+                            40.4,
+                            601.22,
+                            106.4
+                        ]
+                    ],
+                    "text_description": "학생 27 명을 3 모둠으로 똑같이 나누면 한 모둠에 9 명씩 됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.22,
+                            273.01,
+                            428.22,
+                            407.01
+                        ]
+                    ],
+                    "text_description": "사각형 $\\div$ 세모 $=$ 동그라미로 표기되어 있습니다. 네모는 나누어지는 수, 세모는 나누는 수, 동그라미는 몫입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.22,
+                            214.01,
+                            148.22,
+                            238.01
+                        ]
+                    ],
+                    "text_description": "$27 \\div 3=9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.0,
+                            149.0,
+                            563.0,
+                            169.0
+                        ]
+                    ],
+                    "text_description": "\\[ 27 \\div 9=3 \\quad 27 \\div 3=9 \\]"
+                }
+            ]
+        }
+    ]
+}

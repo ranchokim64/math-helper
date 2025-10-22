@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4b2d4521-f0bb-4db0-bec3-4b50501e11d7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010262",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.19,
+                            7.88,
+                            731.57,
+                            38.64
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫을 잘못 구한 사람의 이름을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            223.86,
+                            45.040000000000006,
+                            459.06,
+                            184.48
+                        ]
+                    ],
+                    "text_description": "준수: $8 \\frac{1}{4} \\div 11=\\frac{3}{4}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            525.36,
+                            43.650000000000006,
+                            762.03,
+                            186.05
+                        ]
+                    ],
+                    "text_description": "현지: $5 \\frac{1}{3} \\div 8=\\frac{1}{3}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.66,
+                            193.96,
+                            108.72,
+                            222.8
+                        ]
+                    ],
+                    "text_description": "현지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.6,
+                            241.33,
+                            595.04,
+                            400.62
+                        ]
+                    ],
+                    "text_description": "준수: $8 \\frac{1}{4} \\div 11=\\frac{33}{4} \\div 11=\\frac{33 \\div 11}{4}=\\frac{3}{4}$ 현지: $5 \\frac{1}{3} \\div 8=\\frac{16}{3} \\div 8=\\frac{16 \\div 8}{3}=\\frac{2}{3}$ 따라서 나눗셈의 몫을 잘못 구한 사람은 현지입니다."
+                }
+            ]
+        }
+    ]
+}

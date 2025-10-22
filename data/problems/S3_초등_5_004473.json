@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "edf20853-9692-47f8-879f-290969db9511",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004473",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.05,
+                            75.72,
+                            282.71,
+                            103.75
+                        ]
+                    ],
+                    "text_description": "도형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            165.4,
+                            107.87,
+                            327.72,
+                            283.46
+                        ]
+                    ],
+                    "text_description": "두각이 직각인 다각형이 오각형이 있습니다. 각 변의 길이를 표시 되어 있습니다. 6. cm, 12cm, 10cm, 4cm, 8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            300.42,
+                            300,
+                            377.89,
+                            321.4
+                        ]
+                    ],
+                    "text_description": "$100 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.49,
+                            10.48,
+                            407.4,
+                            70.24
+                        ]
+                    ],
+                    "text_description": "$($ 위의 사다리꼴의 넓이 $)=(6+10) \\times(12-4) \\div 2=64\\left(\\mathrm{~cm}^{2}\\right)$ (아래의 사다리꼴의 넓이) $=(10+8) \\times 4 \\div 2=36\\left(\\mathrm{~cm}^{2}\\right)$ 두 사다리꼴의 넒이의 합은 $64+36=100\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

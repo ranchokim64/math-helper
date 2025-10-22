@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8e088ae8-02cb-42a8-8f90-a3074ac295eb",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016991",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.72,
+                            4.56,
+                            362.88,
+                            22.48
+                        ]
+                    ],
+                    "text_description": "다음 수들 중 나타내는 수가 가장 작은 값을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.72,
+                            81.36,
+                            107.52,
+                            98.64
+                        ]
+                    ],
+                    "text_description": "㉢ 40씩 7묶음"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.87,
+                            31.19,
+                            112.64,
+                            73.17
+                        ]
+                    ],
+                    "text_description": "㉠ $70 \\times 5$ ㉡ 60과 7의 곱"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.87,
+                            106.45,
+                            148.99,
+                            123.35
+                        ]
+                    ],
+                    "text_description": "㉣ $100+100+100$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.34,
+                            137,
+                            201.22,
+                            253.73
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}70 \\times 5=350 \\\\ 60 \\text { 과 } 7 \\text { 의 곱 }=60 \\times 7=420 \\\\ 40 \\text { 씩 } 7 \\text { 묶음 }=40 \\times 7=280 \\\\ 100+100+100=300 \\\\ 280<300<350<420\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

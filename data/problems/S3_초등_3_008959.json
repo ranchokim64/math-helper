@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "13976a3a-37d5-4ce8-9db2-c062de548486",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008959",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.75,
+                            2.64,
+                            932.25,
+                            77.14
+                        ]
+                    ],
+                    "text_description": "아파트별 나무 수를 조사하여 표와 그림그래프로 나타내었습니다. 아파트의 나무 수를 바르게 나타낸 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            125.75,
+                            80.75,
+                            835.75,
+                            227.13
+                        ]
+                    ],
+                    "text_description": "<div class=\"table_tabular\" style=\"text-align: center\">\n    <div class=\"inline-tabular\">\n        <table id=\"tabular\">\n            <tbody>\n                <tr>\n                    <td colspan=\"7\" style=\"text-align: center;\">아파트별 나무 수</td>\n                </tr>\n                <tr>\n                    <td style=\"text-align: center;\">아파트</td>\n                    <td style=\"text-align: center;\">가</td>\n                    <td style=\"text-align: center;\">나</td>\n                    <td style=\"text-align: center;\">다</td>\n                    <td style=\"text-align: center;\">라</td>\n                    <td style=\"text-align: center;\">합계</td>\n                </tr>\n                <tr>\n                    <td style=\"text-align: center;\">나무 수(그루)</td>\n                    <td style=\"text-align: center;\">46</td>\n                    <td style=\"text-align: center;\">19</td>\n                    <td style=\"text-align: center;\"></td>\n                    <td style=\"text-align: center;\">23</td>\n                    <td style=\"text-align: center;\">115</td>\n                </tr>\n            </tbody>\n        </table>\n    </div>\n</div>"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            268.25,
+                            229.25,
+                            695.5,
+                           497.25
+                        ]
+                    ],
+                    "text_description": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>아파트별 나무 수</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            background-color: #f0f0f0;\n        }\n        table {\n            border-collapse: collapse;\n            width: 60%;\n            background-color: #e0f7fa;\n            border: 1px solid #00796b;\n        }\n        th, td {\n            border: 1px solid #00796b;\n            padding: 10px;\n            text-align: center;\n        }\n        th {\n            background-color: #b2ebf2;\n            font-size: 1.5em;\n        }\n        .tree {\n            font-size: 1.5em; /* 나무 이모지 크기 조정 */\n        }\n    </style>\n</head>\n<body>\n\n<table>\n    <tr>\n        <th colspan=\"2\">아파트별 나무 수</th>\n    </tr>\n    <tr>\n        <th>아파트</th>\n        <th>나무 수</th>\n    </tr>\n    <tr>\n        <td>가</td>\n        <td class=\"tree\">나무7그루 이미지</td>\n    </tr>\n    <tr>\n        <td>나</td>\n        <td class=\"tree\">나무 6그루 이미지</td>\n    </tr>\n    <tr>\n        <td>다</td>\n        <td class=\"tree\"></td>\n    </tr>\n    <tr>\n        <td>라</td>\n        <td class=\"tree\">나무 5그루 이미지</td>\n    </tr>\n</table>\n\n</body>\n</html>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            330.96,
+                            544.15,
+                            467.75,
+                            584.63
+                        ]
+                    ],
+                    "text_description": "⑤ 큰 나무 2그루, 중간 크기의 나무 1그루, 작은 나무 2그루가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.75,
+                            643.38,
+                            768.75,
+                            714.63
+                        ]
+                    ],
+                    "text_description": "가, 나, 라 마을 아파트의 나무 수는 $46+19+23=88$ (그루)이므로 다 마을 아파트의 나무 수는 $115-88=27$ (그루)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            493.38,
+                            163.75,
+                            592.13
+                        ]
+                    ],
+                    "text_description": "① 중간 나무 $1$그루, 작은 나무 $2$그루가 있다. ④ 큰 나무 $2$그루, 중간 크기의 나무 $1$그루, 작은 나무 $1$그루가 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            327.5,
+                            501.38,
+                            743.5,
+                            540.38
+                        ]
+                    ],
+                    "text_description": "② 큰 나무 $1$그루, 작은 나무 $2$그루가 있다. ③ 큰 나무 $2$그루, 작은 나무 $2$그루가 있다."
+                }
+            ]
+        }
+    ]
+}

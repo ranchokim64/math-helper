@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4460ca84-ee82-4368-93e5-ce0df4226c94",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002831",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            10.92,
+                            605,
+                            40.92
+                        ]
+                    ],
+                    "text_description": "그림을 보고 전체에 대한 색칠한 부분의 비율을 백분율로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.36,
+                            60.72,
+                            170.36,
+                            286.72
+                        ]
+                    ],
+                    "text_description": "정삼각형 4개가 합쳐져서 한 개의 정삼각형을 이루고 있다. 정삼각형 3개가 색칠 되어 있다. $\\square \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            370.5,
+                            160,
+                            596.5
+                        ]
+                    ],
+                    "text_description": "정삼각형 4개가 합쳐져서 한 개의 정삼각형을 이루고 있다. 정삼각형 3개가 색칠 되어 있다. $75 \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            308.5,
+                            573,
+                            354.5
+                        ]
+                    ],
+                    "text_description": "전체에 대한 색칠한 부분의 비율이 $\\frac{3}{4}$ 이므로 $\\frac{3}{4} \\times 100=75(\\%)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

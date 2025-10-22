@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fbeb3b84-aec3-45e3-b5fd-a052116ba6a7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010631",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            6.4,
+                            654,
+                            39.4
+                        ]
+                    ],
+                    "text_description": "왼쪽 수가 오른쪽 수의 약수가 아닌 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97,
+                            51.4,
+                            805,
+                            106.4
+                        ]
+                    ],
+                    "text_description": "㉠ 7 49 ㉡ 6 26 ㉢ 9 81"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            124.4,
+                            78,
+                            151.4
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            198.4,
+                            353,
+                            227.4
+                        ]
+                    ],
+                    "text_description": "㉡ 6은 26의 약수가 아닙니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            165.4,
+                            512,
+                            193.4
+                        ]
+                    ],
+                    "text_description": "㉠ $49 \\div 7=7$ ㉡ $26 \\div 6=4 \\cdots 2$ ㉢ $81 \\div 9=9$"
+                }
+            ]
+        }
+    ]
+}

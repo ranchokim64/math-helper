@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "40a6cfa3-cb5f-4273-a59d-f8943639fe6b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010145",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.05,
+                            1.62,
+                            657.29,
+                            50.8
+                        ]
+                    ],
+                    "text_description": "회전판을 돌렸을 때 일이 일어날 가능성을 비교하려고 합니다. 화살이 초록색에 멈출 가능성이 '~일 것 같다'인 회전판을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            112.09,
+                            56.47,
+                            563.09,
+                            138.33
+                        ]
+                    ],
+                    "text_description": "왼쪽부터 네 개의 회전판이 있다. 왼쪽부터 사분의 일이 노란색이고 사분의 삼이 초록색인 회전판, 노란색과 초록색이 절반씩 칠해진 회전판, 초록책으로 칠해진 회전판, 노란색으로 칠해진 회전판 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.89,
+                            143.66,
+                            95.41,
+                            204.69
+                        ]
+                    ],
+                    "text_description": "사분의 일이 노란색이고 사분의 삼이 초록색인 회전판"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97.91,
+                            222.19,
+                            658.12,
+                            245.53
+                        ]
+                    ],
+                    "text_description": "회전판에서 초록색의 넓이가 노란색의 넓이보다 넓으므로 화살이 초록색"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.88,
+                            267.21,
+                            349.67,
+                            289.72
+                        ]
+                    ],
+                    "text_description": "에 멈출 가능성이 높습니다. $\\Rightarrow$ ~일 것 같다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.89,
+                            207.19,
+                            95.41,
+                            268.88
+                        ]
+                    ],
+                    "text_description": "사분의 일이 노란색이고 사분의 삼이 초록색인 회전판"
+                }
+            ]
+        }
+    ]
+}

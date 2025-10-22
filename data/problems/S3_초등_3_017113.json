@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e3b1608b-383f-4bc3-bb89-74d660e0a5e0",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017113",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.27,
+                            2.74,
+                            266.27,
+                            23.74
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 큰 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.27,
+                            67.28,
+                            112.27,
+                            87.28
+                        ]
+                    ],
+                    "text_description": "ㄴ) $654+987$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.27,
+                            222.28,
+                            66.27,
+                            238.28
+                        ]
+                    ],
+                    "text_description": "ㄴ"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.27,
+                            39.28,
+                            112.27,
+                            59.28
+                        ]
+                    ],
+                    "text_description": "ㄱ) $234+789$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.27,
+                            95.28,
+                            112.27,
+                            115.28
+                        ]
+                    ],
+                    "text_description": "ㄷ) $876+234$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.27,
+                            131.28,
+                            169.27,
+                            205.28
+                        ]
+                    ],
+                    "text_description": "$234+789=1023$ $654+987=1641$ $876+234=1110$"
+                }
+            ]
+        }
+    ]
+}

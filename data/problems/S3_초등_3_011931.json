@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9aeaedb8-5421-456a-87fd-3a7f53bd33ef",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011931",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.88,
+                            12.5,
+                            445.63,
+                            47.5
+                        ]
+                    ],
+                    "text_description": "두 수의 합과 차를 각각 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.88,
+                            72.5,
+                            453.13,
+                            160
+                        ]
+                    ],
+                    "text_description": "$847$ $589$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            263.13,
+                            178.24,
+                            533.13,
+                            263.24
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lll}\\text { 합(} & \\text 1436 &) \\\\ \\text { 차 (} & 258 &)\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.63,
+                            268.24,
+                            226.88,
+                            321.99
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 합 : } 847+589=1436 \\\\ \\text { 차 : } 847-589=258\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

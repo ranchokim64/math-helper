@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f54773eb-a8e9-415a-bacf-ed5584848047",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002815",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.5,
+                            4.92,
+                            721.5,
+                            64.92
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 15cm 인 정사각형 모양의 색종이가 있습니다. 이 색종이를 다음과 같이 두 번 접었을 때 생기는 작은 정사각형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.5,
+                            77.5,
+                            616.5,
+                            263.5
+                        ]
+                    ],
+                    "text_description": "정사각형 모양의 색종이를 두 번 접어서 작은 정사각형이 생기는 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            421.5,
+                            333.5,
+                            602.5,
+                            360.5
+                        ]
+                    ],
+                    "text_description": "$\\left(\\begin{array}{ll}56. 25\\end{array}\\right) \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.5,
+                            348.5,
+                            357.5,
+                            370.5
+                        ]
+                    ],
+                    "text_description": "$($ 큰 정사각형의 넓이 $)=15 \\times 15=225\\left(\\mathrm{~cm}^{2}\\right)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.5,
+                            368.5,
+                            562.5,
+                            438.5
+                        ]
+                    ],
+                    "text_description": "$($ 작은 정사각형의 넓이 $)=($ 큰 정사각형의 넓이 $) \\div 4=225 \\div 4=56. 25\\left(\\mathrm{~cm}^{2}\\right)$ 작은 정사각형의 한 변의 길이는 $15 \\div 2=7. 5(\\mathrm{~cm})$ 이므로 $($ 작은 정사각형의 넓이 $)=7. 5 \\times 7. 5=56. 25\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

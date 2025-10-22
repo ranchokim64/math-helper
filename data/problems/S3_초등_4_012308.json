@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c09d71c7-2591-4c7d-952b-b1126b3bc45d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012308",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.99,
+                            8.71,
+                            596.09,
+                            91.37
+                        ]
+                    ],
+                    "text_description": "모양의 배열을 보고 다섯째에 올 모양에서 모형의 개수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            163.52,
+                            118.45,
+                            450.41,
+                            250.2
+                        ]
+                    ],
+                    "text_description": "이미지에서 세 개의 다각형 블록이 나열되어 있다. 첫째, 둘째, 셋째로 레이블이 붙어 있으며, 첫째는 다각형 블록이 1개이며 둘째는 다각형 블록이 밑에 2개가 있고 그 위로 1개가 올려져 있고 셋째는 다각형 블록이 제일 밑에 3개가 있고 그 위로 2개, 또 그 위에 1개가 올려져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            453.49,
+                            275.8,
+                            503.97,
+                            301.04
+                        ]
+                    ],
+                    "text_description": "I5개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.94,
+                            317.51,
+                            593.4,
+                            397.08
+                        ]
+                    ],
+                    "text_description": "모형이 1 개에서 시작하여 2개, 3개 …. . 씩 늘어나는 규칙입니다. 따라서 다섯째에 올 모양에서 모형의 개수는 1+2+3+4+5=15(개)입니다."
+                }
+            ]
+        }
+    ]
+}

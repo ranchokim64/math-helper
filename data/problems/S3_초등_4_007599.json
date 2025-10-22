@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c4a1c358-b173-410b-ab34-6b6a736911bc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007599",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76,
+                            9.4,
+                            940,
+                            39.4
+                        ]
+                    ],
+                    "text_description": "삼각자를 사용하여 직선 가에 대한 수선을 바르게 그은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            297.4,
+                            707,
+                            328.4
+                        ]
+                    ],
+                    "text_description": "삼각자의 직각 부분을 이용하여 직각을 만든 것을 찾습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            226.0,
+                            72.4,
+                            396.0,
+                            164.4
+                        ]
+                    ],
+                    "text_description": "직각삼각형 모양의 삼각자의 두 변을 강조한 직선을 그렸을 때 예각이 만들어진다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            588.0,
+                            48.4,
+                            758.0,
+                            167.4
+                        ]
+                    ],
+                    "text_description": "직각삼각형 모양의 삼각자의 두 변을 강조한 직선을 그렸을 때 직각이 만들어진다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6e518ab0-ef06-42ab-91e7-ff85f6021495",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012215",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            22.92,
+                            468.5,
+                            90.92
+                        ]
+                    ],
+                    "text_description": "다음 중 나타내는 수가 $6000000000$인 것은 어느 것일까요? $?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94.5,
+                            125.92,
+                            422.5,
+                            155.92
+                        ]
+                    ],
+                    "text_description": "$6576294626086$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            169.5,
+                            158.5,
+                            198.5,
+                            187.5
+                        ]
+                    ],
+                    "text_description": "②"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94.5,
+                            158.5,
+                            123.5,
+                            186.5
+                        ]
+                    ],
+                    "text_description": "①"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            273.5,
+                            159.5,
+                            423.5,
+                            188.5
+                        ]
+                    ],
+                    "text_description": "③ ④ ⑤"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.5,
+                            219.5,
+                            348.5,
+                            241.5
+                        ]
+                    ],
+                    "text_description": "① $6$조 ② $60$억 ③ $60$만 ④ $6$천 ⑤ $6$"
+                }
+            ]
+        }
+    ]
+}

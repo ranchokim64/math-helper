@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "654f310a-5f2d-45e7-8216-3298b1e6c9bf",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011755",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            6.92,
+                            586,
+                            69.92
+                        ]
+                    ],
+                    "text_description": "사각형 ㄱㄴㄷㄹ은 마름모입니다. ㉠과 ㉡의 합은 얼마 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            198,
+                            89.92,
+                            442,
+                            231.92
+                        ]
+                    ],
+                    "text_description": "이미지는 평행사변형을 나타내고 있습니다. 두 개의 대각선이 교차하며, 한편에는 길이가 4cm인 변이 설정되어 있습니다. 나머지 변의 길이는 나타나지 않고, 한 각의 크기를 나타내는 기호가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            468,
+                            232.5,
+                            500,
+                            258.5
+                        ]
+                    ],
+                    "text_description": "$94$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83,
+                            268.5,
+                            584,
+                            337.5
+                        ]
+                    ],
+                    "text_description": "마름모는 네 변의 길이가 모두 같고, 마주 보는 꼭짓점끼리 이은 선분이 서로 수직으로 만나브로 ㉠=90, ㉡=4입니다. $\\rightarrow$ ①+ $($) $=90+4=94$"
+                }
+            ]
+        }
+    ]
+}

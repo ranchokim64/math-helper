@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b14f67d0-81b3-40fe-8a92-1986fd12c418",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010408",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70,
+                            11.92,
+                            621,
+                            40.92
+                        ]
+                    ],
+                    "text_description": "각뿔의 높이를 바르게 잰 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            169.92,
+                            160,
+                            303.92
+                        ]
+                    ],
+                    "text_description": "④ 삼각자와 자를 이용해 높이를 재고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            360.5,
+                            803,
+                            390.5
+                        ]
+                    ],
+                    "text_description": "각뿔의 꼭짓점에서 밑면에 수직인 선분의 길이를 재는 것을 찾습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            49.5,
+                            158,
+                            169.5
+                        ]
+                    ],
+                    "text_description": "① 빗변을 자로 재고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            336,
+                            47.5,
+                            469,
+                            150.5
+                        ]
+                    ],
+                    "text_description": "② 밑변의 길이를 재고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            642,
+                            47.5,
+                            806,
+                            147.5
+                        ]
+                    ],
+                    "text_description": "③ 밑변의 길이를 재고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            336,
+                            168.5,
+                            466,
+                            273.5
+                        ]
+                    ],
+                    "text_description": "⑤ 빗변을 자로 재고 있다."
+                }
+            ]
+        }
+    ]
+}

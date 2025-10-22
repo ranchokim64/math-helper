@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3e921aac-ccb7-42bd-bddb-dbb0cf20783a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012583",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.51,
+                            17.95,
+                            588.26,
+                            104.2
+                        ]
+                    ],
+                    "text_description": "연필이 64타 있습니다. 연필은 모두 몇 자루인지 곱셈식을 쓰고 답을 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            178.26,
+                            135.45,
+                            483.26,
+                            166.7
+                        ]
+                    ],
+                    "text_description": "식 $\\quad 12 \\times 64=768$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.51,
+                            179.2,
+                            518.26,
+                            219.2
+                        ]
+                    ],
+                    "text_description": "답 768 자루"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.01,
+                            226.7,
+                            319.51,
+                            316.7
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (전체 연필 수) } \\\\ =(\\text { 한 타의 연필 수 }) \\times(\\text { 타 수 }) \\\\ =12 \\times 64=768 \\text { (자루) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

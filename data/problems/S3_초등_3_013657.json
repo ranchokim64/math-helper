@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8172aba7-3ade-49f1-beaa-359b4bbd111a",
+        "date": "2024-11-04",
+        "publisher": "교학사",
+        "publication_year": "2023-05-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013657",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.06,
+                            17.23,
+                            725.66,
+                            58.39
+                        ]
+                    ],
+                    "text_description": "다음 중 나누어떨어지는 나눗셈은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            411.14,
+                            135.91,
+                            541.98,
+                            174.87
+                        ]
+                    ],
+                    "text_description": "② $27 \\div 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            410.78,
+                            188.12,
+                            542.62,
+                            223.32
+                        ]
+                    ],
+                    "text_description": "④ $29 \\div 3$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.66,
+                            138.84,
+                            226.46,
+                            277.08
+                        ]
+                    ],
+                    "text_description": "① $26 \\div 4$ ③ $28 \\div 5$ ⑤ $30 \\div 7$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.54,
+                            323.8,
+                            482.46,
+                            447.96
+                        ]
+                    ],
+                    "text_description": "① $26 \\div 4=6 \\cdots 2$\n② $27 \\div 3=9$\n③ $28 \\div 5=5 \\cdots 3$\n④ $29 \\div 3=9 \\cdots 2$\n⑤ $30 \\div 7=4 \\cdots 2$"
+                }
+            ]
+        }
+    ]
+}

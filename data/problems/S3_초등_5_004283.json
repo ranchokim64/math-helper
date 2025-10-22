@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "44ff98d0-b330-4f70-bbe2-680503ec3139",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004283",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.88,
+                            21.22,
+                            372.04,
+                            42.98
+                        ]
+                    ],
+                    "text_description": "승민이가 설명하는 수는 무엇인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            141.64,
+                            51.9,
+                            324.64,
+                            263.78
+                        ]
+                    ],
+                    "text_description": "승민: 20과 30의 공배수야. 그리고 50보다 크고 100보다 작아."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            300.36,
+                            281.7,
+                            327.88,
+                            298.98
+                        ]
+                    ],
+                    "text_description": "$60$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.24,
+                            273.38,
+                            205,
+                            307.94
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}20 \\text { 의 배수: } 20, 40, 60, 80, 100 \\cdots \\cdots\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.52,
+                            309.86,
+                            282.44,
+                            341.86
+                        ]
+                    ],
+                    "text_description": "30의 배수: $30, 60, 90, 120 \\cdots \\cdots$ 20과 30의 공배수: $60, 120, 180 \\cdots \\cdots$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.52,
+                            342.5,
+                            395.72,
+                            359.78
+                        ]
+                    ],
+                    "text_description": "50부터 100까지의 수 중에서 20과 30의 공배수는 60입니다."
+                }
+            ]
+        }
+    ]
+}

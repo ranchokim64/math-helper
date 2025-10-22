@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a5a61306-4e99-489a-9a1c-917b4c125697",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007347",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.8,
+                            2,
+                            518.8,
+                            34
+                        ]
+                    ],
+                    "text_description": "계산한 값이 가장 큰 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            444.8,
+                            118.4,
+                            567.8,
+                            172.4
+                        ]
+                    ],
+                    "text_description": "④ $3+2 \\frac{9}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.8,
+                            45.4,
+                            196.8,
+                            244.4
+                        ]
+                    ],
+                    "text_description": "① $1 \\frac{9}{12}+2 \\frac{9}{12}$ ③ $2 \\frac{6}{12}+3 \\frac{1}{12}$ ⑤ $2 \\frac{11}{12}+2 \\frac{5}{12}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            438.8,
+                            47.4,
+                            588.8,
+                            104.4
+                        ]
+                    ],
+                    "text_description": "② $\\frac{5}{12}+4 \\frac{7}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.8,
+                            301.4,
+                            337.8,
+                            643.4
+                        ]
+                    ],
+                    "text_description": "① $1 \\frac{9}{12}+2 \\frac{9}{12}=3 \\frac{18}{12}=4 \\frac{6}{12}$ ② $\\frac{5}{12}+4 \\frac{7}{12}=4 \\frac{12}{12}=5$ ③ $2 \\frac{6}{12}+3 \\frac{1}{12}=5 \\frac{7}{12}$ ④ $3+2 \\frac{9}{12}=5 \\frac{9}{12}$ ⑤ $2 \\frac{11}{12}+2 \\frac{5}{12}=4 \\frac{16}{12}=5 \\frac{4}{12}$ 따라서 ④ $5 \\frac{9}{12}$가 가장 큽니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d0ace106-37c1-466f-a27a-8ea26585836e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005512",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.5,
+                            19.92,
+                            549.5,
+                            142.92
+                        ]
+                    ],
+                    "text_description": "거리가 $79.58m$ 인 도로 양쪽에 $3.46m$ 간격으로 처음부터 끝까지 가로수를 심으려고 합니다. 모두 몇 그루의 가로수가 필요한가요? $?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.38,
+                            154.94,
+                            510.4,
+                            392.27
+                        ]
+                    ],
+                    "text_description": "가로수길 이미지 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370.48,
+                            409.89,
+                            453.39,
+                            439.95
+                        ]
+                    ],
+                    "text_description": "$48$그루"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            449.5,
+                            549.5,
+                            563.5
+                        ]
+                    ],
+                    "text_description": "(도로 한 쪽에 필요한 가로수의 수) \\[ =79. 58 \\div 3. 46+1=23+1=24 \\text { (그루) } \\] 따라서 도로 앙쪽에 필요한 가로수의 수는 $24 \\times 2=48 (그루)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

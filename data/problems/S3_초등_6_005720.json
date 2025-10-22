@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "44a1c38d-6b7d-4d7b-9207-199843fc9c4c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005720",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.1,
+                            7.02,
+                            433.9,
+                            67.02
+                        ]
+                    ],
+                    "text_description": "선우네 집에 있는 책을 종류별로 조사하여 나타낸 원그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.9,
+                            303.82,
+                            424.3,
+                            330.22
+                        ]
+                    ],
+                    "text_description": "전체 책 수에 대한 위인전의 백분율은 몇 $\\%$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.3,
+                            73.62,
+                            305.1,
+                            279.82
+                        ]
+                    ],
+                    "text_description": "종류별 책 수를 조사하여 나타낸 원그래프입니다. 전체 100% 중에 위인전(20%), 동화책(35%), 추리소설(10%), 만화책(20%), 기타(15%)로 차지하는 비율을 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.1,
+                            342.22,
+                            352.3,
+                            369.42
+                        ]
+                    ],
+                    "text_description": "$20 \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            381.42,
+                            271.5,
+                            404.62
+                        ]
+                    ],
+                    "text_description": "$100-(35+10+20+15)=20(\\%)$"
+                }
+            ]
+        }
+    ]
+}

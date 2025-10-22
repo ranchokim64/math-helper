@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "340c6f32-3732-41a2-aa92-0938a43339df",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007940",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채울 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채우고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.43,
+                            9.27,
+                            848.88,
+                            76.98
+                        ]
+                    ],
+                    "text_description": "다, 라, 마 모양 조각을 한 번씩 사용하여 만들 수 있는 모양이 아닌 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            136.41,
+                            79.83,
+                            744.63,
+                            324.31
+                        ]
+                    ],
+                    "text_description": "가:육각형 나:사다리꼴 다:평행사변형 라:삼각형 마:정사각형 바:평행사변형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188.61,
+                            348.91,
+                            325.25,
+                            469.51
+                        ]
+                    ],
+                    "text_description": "마와 다 라를 합친 그림이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            389.36,
+                            326.48,
+                            491.12,
+                            499.65
+                        ]
+                    ],
+                    "text_description": "마와 다 라를 합친 그림이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            559.52,
+                            344.68,
+                            680.99,
+                            475.2
+                        ]
+                    ],
+                    "text_description": "바와 다 라를 합친 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.23,
+                            504.49,
+                            157.31,
+                            607.86
+                        ]
+                    ],
+                    "text_description": "바와 다 라를 합친 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.17,
+                            611.63,
+                            849.01,
+                            743.31
+                        ]
+                    ],
+                    "text_description": "마와 다 라를 합친 그림, 마와 다 라를 합친 그림, 바와 다 라를 합친 그림이므로 다, 라, 마 모양 조각을 한 번씩 사용하여 만든"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.78,
+                            745.88,
+                            371.19,
+                            843.41
+                        ]
+                    ],
+                    "text_description": "모양이 아닌 것은 바와 다 라를 합친 그림 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c1c69c7-eb07-4fd8-aaa2-de7d0fc168a4",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012106",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.5,
+                            11.42,
+                            587.5,
+                            52.42
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.5,
+                            79.42,
+                            552.5,
+                            189.42
+                        ]
+                    ],
+                    "text_description": "직선이 있고 총 길이는 782 이고 496의 길이가 표시 되어 있고 나머지가 $\\square$로 표시 되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            446.5,
+                            214,
+                            503.5,
+                            241
+                        ]
+                    ],
+                    "text_description": "$286$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.5,
+                            247,
+                            512.5,
+                            306
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수는 782와 496의 차와 같으므로 782-496=286입니다."
+                }
+            ]
+        }
+    ]
+}

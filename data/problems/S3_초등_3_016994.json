@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "222337b2-f0e0-4da5-a7b9-e34709d845b7",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016994",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.32,
+                            3.54,
+                            338.2,
+                            24.53
+                        ]
+                    ],
+                    "text_description": "다음 수들 중 나타내는 수가 가장 큰 값을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.32,
+                            105.88,
+                            95.46,
+                            126.87
+                        ]
+                    ],
+                    "text_description": "㉣ 50 씩 6 묶음"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.65,
+                            28.98,
+                            182.37,
+                            99.17
+                        ]
+                    ],
+                    "text_description": "㉠ $20+20+20+20+20$ ㉡ $30 \\times 8$ ㉢ $40+40+40$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.52,
+                            133.94,
+                            237.82,
+                            259.25
+                        ]
+                    ],
+                    "text_description": "㉠ $20+20+20+20+20=100$ ㉡ $30 \\times 8=240$ ㉢ $40+40+40=120$ ㉣ 50 씩 6 묶음 $=50 \\times 6=300$ \\[ \\rightarrow 300>240>120>100 \\]"
+                }
+            ]
+        }
+    ]
+}

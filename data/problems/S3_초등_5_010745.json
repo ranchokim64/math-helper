@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0bbbeb5e-7090-496a-8019-c7fdd1729ec2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010745",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            2.4,
+                            709.5,
+                            61.4
+                        ]
+                    ],
+                    "text_description": "91. 한 사람에게 색종이를 7장씩 나누어 주려고 합니다. 사람 수와 색종이의 수 사이의 대응 관계를 잘못 이야기한 사람의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            298.5,
+                            224.4,
+                            432.5,
+                            250.4
+                        ]
+                    ],
+                    "text_description": "(민우, 현아)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.5,
+                            68.4,
+                            364.5,
+                            214.4
+                        ]
+                    ],
+                    "text_description": "민우: 대응 관계를 나타낸 식 $\\triangle \\times 7=\\bigcirc$에서 $\\triangle$는 색종이의 수, $\\bigcirc$는 사람 수를 나타내."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            366.5,
+                            69.4,
+                            644.5,
+                            215.4
+                        ]
+                    ],
+                    "text_description": "현아: 사람 수를 $\\star$, 색종이의 수를 $\\diamond$라고 할 때, 두 양 사이의 대응 관계는 $\\diamond \\div 7= \\star$이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            261.4,
+                            82.5,
+                            287.4
+                        ]
+                    ],
+                    "text_description": "민우"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            295.4,
+                            712.5,
+                            371.4
+                        ]
+                    ],
+                    "text_description": "한 사람에게 색종이들 7장씩 나누어 주므로 대응 관계들 나타낸 식 $\\triangle \\times 7=\\bigcirc$에서 $\\triangle$는 사람 수, $\\bigcirc$는 색종이의 수들 나타냅니다. 따라서 잘못 이야기 한 사람은 민우입니다."
+                }
+            ]
+        }
+    ]
+}

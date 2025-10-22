@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6682982b-d173-4cc1-9692-9fb3efd3b104",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010705",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            4.91,
+                            501,
+                            27.91
+                        ]
+                    ],
+                    "text_description": "24와 18의 최소공배수로 알맞은 수를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.32,
+                            228.48,
+                            789.96,
+                            281.6
+                        ]
+                    ],
+                    "text_description": "1 이외의 공약수가 없을 때까지 1 이외의 공약수로 24와 18을 나누었을 때 나눈 공 약수 2, 3과 밑에 남은 몫 4, 3을 곱합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            373.0,
+                            154.0,
+                            399.0,
+                            171.0
+                        ]
+                    ],
+                    "text_description": ""
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            415.0,
+                            152.0,
+                            440.0,
+                            174.0
+                        ]
+                    ],
+                    "text_description": "90"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            344.0,
+                            38.0,
+                            472.0,
+                            136.0
+                        ]
+                    ],
+                    "text_description": "\\[\n\\begin{array}{r|cc}\n2 & 24 & 18 \\\\\n\\hline\n3 & 12 & 9 \\\\\n\\hline\n  & 4 & 3\n\\end{array}\n\\]"
+                }
+            ]
+        }
+    ]
+}

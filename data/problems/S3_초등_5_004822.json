@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c09dbf40-4af1-44e6-8eb9-bb7a9640ac53",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004822",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.12,
+                            11.59,
+                            460.32,
+                            121.99
+                        ]
+                    ],
+                    "text_description": "직육면체 가와 정육면체 나의 모든 모서리의 길 이의 합이 같습니다. 정육면체 나의 한 모서리의 길이는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.72,
+                            136.82,
+                            437.92,
+                            310.42
+                        ]
+                    ],
+                    "text_description": "직육면체 가와 정육면체 나. 직육면체 가는 가로 20cm, 세로 5cm, 높이 8cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            308.32,
+                            322.42,
+                            376.32,
+                            356.02
+                        ]
+                    ],
+                    "text_description": "$11 \\mathrm{cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.32,
+                            359.22,
+                            459.52,
+                            462.42
+                        ]
+                    ],
+                    "text_description": "(직육면체 가의 모든 모서리의 길이의 합) \\[ (20+5+8) \\times 4=132(\\mathrm{~cm}) \\] 정육면체는 모서리가 12 개이고 그 길이가 모두 같으므로 정육 면체 나의 한 모서리는 $132 \\div 12=11(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

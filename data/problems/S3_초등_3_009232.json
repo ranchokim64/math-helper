@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c09ffd1f-4fb7-4dc9-9ef4-4c9b09b147f1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009232",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            3.9,
+                            347,
+                            26.9
+                        ]
+                    ],
+                    "text_description": "시간이 더 오래 걸린 일은 무엇일까요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            225.8,
+                            37.56,
+                            382.6,
+                            83
+                        ]
+                    ],
+                    "text_description": "우유 마시기 :$315$ 초 손 씻기 :$3$ 분 $43$ 초"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            213.64,
+                            93.88,
+                            413.32,
+                            113.72
+                        ]
+                    ],
+                    "text_description": "(우유 마시기, 손 씻기)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.28,
+                            125.88,
+                            124.68,
+                            145.08
+                        ]
+                    ],
+                    "text_description": "우유 마시기"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.72,
+                            180.92,
+                            485,
+                            199.48
+                        ]
+                    ],
+                    "text_description": "315초>223초이므로 시간이 더 오래 걸린 일은 우유 마시기입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.64,
+                            155.32,
+                            348.04,
+                            175.8
+                        ]
+                    ],
+                    "text_description": "$3$ 분 $43$ 초 =$3$ 분 +$43$ 초 =$180$ 초 +$43$ 초 =$223$ 초"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5e782ded-c870-4ec0-a72d-252ccb84457b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005060",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.4,
+                            14.04,
+                            444,
+                            63.04
+                        ]
+                    ],
+                    "text_description": "보기와 같이 계산해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.2,
+                            232.1,
+                            155.2,
+                            304.9
+                        ]
+                    ],
+                    "text_description": "② $\\frac{8}{9} \\div \\frac{5}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.2,
+                            72.44,
+                            692,
+                            222.04
+                        ]
+                    ],
+                    "text_description": "보기 \\[ \\frac{5}{6} \\div \\frac{3}{6}=5 \\div 3=\\frac{5}{3}=1 \\frac{2}{3} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.6,
+                            307.7,
+                            202,
+                            381.7
+                        ]
+                    ],
+                    "text_description": "$8 \\div 5=\\frac{8}{5}=1 \\frac{3}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            387.3,
+                            614.6,
+                            477.5
+                        ]
+                    ],
+                    "text_description": "분자끼리 나누어떨어지지 않는 분모가 같은 (분수) $\\div$ (분수)의 계산입니다. 분자끼리 계산하고 분자끼리 나누어떨어지지 않 으면 몫이 분수로 나옵니다."
+                }
+            ]
+        }
+    ]
+}

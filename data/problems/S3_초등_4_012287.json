@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9c87bf0f-4ffd-4eae-beba-928dc92489db",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012287",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            3.41,
+                            528,
+                            126.41
+                        ]
+                    ],
+                    "text_description": "송 5 8 윤석이네 반 학생들이 사는 마을을 조사하여 나타낸 그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            448,
+                            489,
+                            528
+                        ]
+                    ],
+                    "text_description": "가장 많은 학생들이 사는 마을은 어디인 가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84,
+                            141.41,
+                            490,
+                            421.41
+                        ]
+                    ],
+                    "text_description": "이 이미지는 '학생들이 사는 마을'을 보여주는 막대 그래프입니다. 각 마을별 학생 수는 다음과 같습니다: - 라 마을: 약 18명 - 다 마을: 약 12명 - 나 마을: 약 15명 - 가 마을: 약 6명 그래프의 구성: - X축은 0부터 20까지의 학생 수를 표시 - Y축은가, 나, 다, 라 마을을 표시 - 막대는 베이지색으로 채워져 있으며, 5명 단위로 파란색 세로선으로 구분되어 있음 - 각 막대마다 작은 격자가 그려져 있어 정확한 수치 확인이 가능"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            342,
+                            542,
+                            415,
+                            577
+                        ]
+                    ],
+                    "text_description": "라 마을"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            585,
+                            490,
+                            633
+                        ]
+                    ],
+                    "text_description": "가장 많은 학생들이 사는 마을은 18 명이 사는 라 마을입니 다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "94c68347-7c8a-4b1e-90d4-620c9be416ef",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011175",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.67,
+                            7.86,
+                            861,
+                            71.55
+                        ]
+                    ],
+                    "text_description": "연호와 지수가 비례식 $5: 9=15: 27$을 보고 말한 것입니다. 잘못 말한 사람은 누구인지 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.16,
+                            73.67,
+                            773.96,
+                            214.83
+                        ]
+                    ],
+                    "text_description": "연호: 두 비의 비율이 같으니 비례식 $5: 9=15: 27$로 나타낼 수 있어. 지수: 비례식 $5: 9=15: 27$에서 내항은 5와 15이고, 외항은 9와 27이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.77,
+                            226.28,
+                            92.77,
+                            253.28
+                        ]
+                    ],
+                    "text_description": "지수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.69,
+                            271.72,
+                            857.81,
+                            454.28
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{c} \\text { 연호: } 5: 9 \\text { 의 비율은 } \\frac{5}{9} \\text { 이고, } 15: 27 \\text { 의 비율은 } \\frac{15}{27}\\left(=\\frac{5}{9}\\right) \\text { 이므로 } \\\\ \\quad 5: 9 \\text { 와 } 15: 27 \\text { 의 비율은 같습니다. } \\\\ \\quad \\Rightarrow \\text { 비례식 } 5: 9=15: 27 \\text { 로 나타낼 수 있습니다. } \\end{array} \\] \\[ \\text { 지수: 비례식 } 5: 9=15: 27 \\text { 에서 안쪽에 있는 } 9 \\text { 와 } 15 \\text { 를 내항, 바깥쪽에 있는 } 5 \\text { 와 } 27 \\text { 을 외 } \\] 항이라 합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b43c519b-c4f5-4bae-86c7-d6132b7be8b1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011675",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            38.42,
+                            359,
+                            66.42
+                        ]
+                    ],
+                    "text_description": "그림에서 평행선을 찾아 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113,
+                            89.42,
+                            442,
+                            239.42
+                        ]
+                    ],
+                    "text_description": "이미지는 6개의 직선입니다. 그 중 \"가\"와 \"바\"의 직선은 평행하고 평행한 선을 교차하는 선이 \"나\", \"다\", \"라\", \"마\" 이며 직선 \"나\"는 사선으로 교차했고 직선 \"다\"와 직선 \"라\"의 경우도 사선으로 교체했고 동시에 서로 교차합니다. 직선 \"마\"는 평행한 두 직선과 수직을 이루게 교차합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            287,
+                            253,
+                            440,
+                            280
+                        ]
+                    ],
+                    "text_description": "직선 가와 직선 바"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78,
+                            289,
+                            472,
+                            315
+                        ]
+                    ],
+                    "text_description": "길이를 길게 늘였을 때 서로 만나지 않는 직선을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

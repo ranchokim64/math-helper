@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "67094ff5-b343-4faa-a9b8-635f75a5e62e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008069",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            6.42,
+                            932.5,
+                            116.42
+                        ]
+                    ],
+                    "text_description": "진우는 시계의 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 예각인 시각에 운동을 하려고 합니다. 어느 시각에 운동을 할지 알맞은 말을 선택하세 요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            423,
+                            715.5,
+                            457
+                        ]
+                    ],
+                    "text_description": "진우가 운동을 하려는 시각은 (1 시 30분, 4 시 30분)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216.5,
+                            146,
+                            461.5,
+                            406
+                        ]
+                    ],
+                    "text_description": "시계가 1시 30분을 가리키고 있습니다. 1 시 30분"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            504.5,
+                            145,
+                            747.5,
+                            409
+                        ]
+                    ],
+                    "text_description": "시계가 4시 30분을 가리키고 있습니다. 4 시 30분"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            632,
+                            127.5,
+                            664
+                        ]
+                    ],
+                    "text_description": "② 4 시 30분"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            468,
+                            929.5,
+                            608
+                        ]
+                    ],
+                    "text_description": "1 시 30분은 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 $90^{\\circ}$보다 크고 $180^{\\circ}$보다 작으므로 둔각이고, 4 시 30분은 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 $0^{\\circ}$보다 크고 $90^{\\circ}$보다 작으므로 예각입니다. 따라서 진우가 운동을 하려는 시각은 4 시 30분 입니다."
+                }
+            ]
+        }
+    ]
+}

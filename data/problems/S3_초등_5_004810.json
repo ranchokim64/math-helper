@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0e4805c3-07bb-4e7c-ae7b-350dbc7b4daf",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004810",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.39,
+                            11.32,
+                            611.91,
+                            132.15
+                        ]
+                    ],
+                    "text_description": "어느 직육면체의 세 면의 본을 뜬 모양입니다. 이 직육면체의 모든 모서리의 길이의 합은 몇 cm 인 가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.71,
+                            149.6,
+                            601.14,
+                            332.59
+                        ]
+                    ],
+                    "text_description": "직육면체의 단면도이다. 한면의 가로는 6cm, 높이는 10cm 한면의 가로는 6cm, 높이는 15cm 한면의 가로는 15cm, 높이는 10cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            421.47,
+                            354.59,
+                            513.38,
+                            389.37
+                        ]
+                    ],
+                    "text_description": "124cm"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.42,
+                            465.03,
+                            379.38,
+                            492.04
+                        ]
+                    ],
+                    "text_description": "$(6+10+15) \\times 4=124(\\mathrm{~cm})$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97.72,
+                            406.76,
+                            606.94,
+                            435.74
+                        ]
+                    ],
+                    "text_description": "직육면체는 길이가 같은 모서리가 4 개씩 3 쌍 있으므로 6cm,"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195.08,
+                            437.22,
+                            568.85,
+                            462.23
+                        ]
+                    ],
+                    "text_description": "$10 \\mathrm{~cm}, 15 \\mathrm{~cm}$ 인 모서리가 4 개씩 있습니다."
+                }
+            ]
+        }
+    ]
+}

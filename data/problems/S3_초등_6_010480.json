@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cf1751f4-5fac-4ac0-a932-ed2a7e3e0155",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010480",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.9,
+                            5.24,
+                            784.7,
+                            36.44
+                        ]
+                    ],
+                    "text_description": "어림셈하여 몫의 소수점 위치가 옳은 식을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            345.5,
+                            46.04,
+                            647.9,
+                            249.24
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}15. 52 \\div 8=194 \\\\ 15. 52 \\div 8=19. 4 \\\\ 15. 52 \\div 8=1. 94 \\\\ 15. 52 \\div 8=0. 194\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.7,
+                            264.9,
+                            233.5,
+                            292.1
+                        ]
+                    ],
+                    "text_description": "$15. 52 \\div 8=1. 94$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.9,
+                            311.3,
+                            799.1,
+                            337.7
+                        ]
+                    ],
+                    "text_description": "$15. 52 \\div 8$에서 15. 52를 반올림하여 일의 자리까지 나타내면 16 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.1,
+                            344.9,
+                            699.9,
+                            411.3
+                        ]
+                    ],
+                    "text_description": "$16 \\div 8$의 몫은 2이므로 $15. 52 \\div 8$의 몫도 2와 비슷할 것입니다. $\\Rightarrow 15. 52 \\div 8=1. 94$가 답이 됩니다."
+                }
+            ]
+        }
+    ]
+}

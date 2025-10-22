@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "039a5f4f-f9d4-4c31-8818-4f24ed373356",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005355",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.62,
+                            17.57,
+                            584.74,
+                            151.97
+                        ]
+                    ],
+                    "text_description": "바깥쪽 반지름이 50cm 인 훌라후프를 한 방향으로 5 바퀴 굴렸습니다. 훌라후프가 굴러간 거리는 몇 m인가요? (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            397.74,
+                            173.45,
+                            484.82,
+                            201.09
+                        ]
+                    ],
+                    "text_description": "15.7m"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.58,
+                            243.16,
+                            584.4,
+                            299.23
+                        ]
+                    ],
+                    "text_description": "$100 \\mathrm{~cm}=1 \\mathrm{~m}$ 이므로 훌라후프가 굴러간 거리는 15.7m 입 니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.44,
+                            212.17,
+                            450.7,
+                            241.23
+                        ]
+                    ],
+                    "text_description": "$(50 \\times 2 \\times 3. 14) \\times 5=314 \\times 5=1570(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

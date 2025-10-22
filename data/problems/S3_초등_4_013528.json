@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cbb71fe0-7ad8-4875-9ff9-0cfca9afe914",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-05-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_013528",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            19.42,
+                            556,
+                            87.42
+                        ]
+                    ],
+                    "text_description": "다음 삼각형에 대한 설명으로 잘못된 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            212,
+                            97.42,
+                            413,
+                            269.42
+                        ]
+                    ],
+                    "text_description": "각 변의 길이가 6cm, 위 꼭짓점의 각이 60도로 되어있는 삼각형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            405,
+                            421,
+                            434
+                        ]
+                    ],
+                    "text_description": "④ 정삼각형이라고 할 수 없습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            296,
+                            422,
+                            399
+                        ]
+                    ],
+                    "text_description": "① 이등변삼각형입니다. ② 세 변의 길이가 모두 같습니다. ③ 세 각의 크기가 모두 $60^{\\circ}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            442,
+                            452,
+                            472
+                        ]
+                    ],
+                    "text_description": "⑤ 세 변의 길이의 합은 18cm 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71,
+                            510,
+                            607,
+                            661
+                        ]
+                    ],
+                    "text_description": "두 변의 길이가 같으모로 이등변삼각형입니다. 나머지 두 각의 크기의 합은 $180^{\\circ}-60^{\\circ}=120^{\\circ}$ 이므로 나머지 한 각의 크기는 $120^{\\circ} \\div 2=60^{\\circ}$ 입니다. 따라서 세 각이 모두 $60^{\\circ}$ 이므로 정삼각형입니다."
+                }
+            ]
+        }
+    ]
+}

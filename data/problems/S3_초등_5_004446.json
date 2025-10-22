@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "84b829e9-c39a-46b0-9ab3-f512a9ef9a3d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004446",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.4,
+                            12.74,
+                            398.6,
+                            42.34
+                        ]
+                    ],
+                    "text_description": "색칠한 부분이 더 넓은 것의 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.8,
+                            51.14,
+                            245,
+                            185.54
+                        ]
+                    ],
+                    "text_description": "가. 이 그림은 정사각형 모양의 도형과 그 안에 다이아몬드 모양이 그려져 있습니다. 정사각형의 각 변 길이는 16cm입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            266.6,
+                            50,
+                            435.4,
+                            176.4
+                        ]
+                    ],
+                    "text_description": "나. 이 이미지에는 다이아몬드 모양의 도형이 그려져 있으며, 가로 길이는 20cm, 세로 길이는 12cm로 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            322.6,
+                            194.0,
+                            356.2,
+                            222.0
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.8,
+                            228.4,
+                            366.6,
+                            265.0
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 가의 넓이) })=16 \\times 16-(16 \\times 16 \\div 2)=128\\left(\\mathrm{~cm}^{2}\\right) \\\\ (\\text { 나의 넓이) })=20 \\times 12 \\div 2=120\\left(\\mathrm{~cm}^{2}\\right)\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.2,
+                            267.6,
+                            165.8,
+                            289.2
+                        ]
+                    ],
+                    "text_description": "$128>120$"
+                }
+            ]
+        }
+    ]
+}

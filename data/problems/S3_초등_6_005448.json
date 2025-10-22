@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bf11ea00-2e9d-44b8-8e8b-5d2373af8d84",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005448",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.77,
+                            6.17,
+                            458.53,
+                            55.45
+                        ]
+                    ],
+                    "text_description": "한 변을 기준으로 직각삼각형 모양의 종이를 돌려 만든 입체도 형입니다. 돌리기 전 직각삼각형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            164.13,
+                            64.41,
+                            292.37,
+                            187.41
+                        ]
+                    ],
+                    "text_description": "이 이미지는 원뿔 도형을 보여주고 있으며, 주요 치수는 다음과 같습니다: 높이: 13cm (원뿔의 수직 높이) 밑원의 반지름: 12cm 빗변(모선): 10cm 특징: 입체도형인 원뿔이 3D로 표현되어 있음 점선으로 높이가 표시되어 있음 밑면은 원형이며 옅은 노란색으로 채워져 있음 곡선 화살표로 치수들이 표시되어 있음"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            432.29,
+                            482.08,
+                            501.41,
+                            509.6
+                        ]
+                    ],
+                    "text_description": "$30 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.85,
+                            265.76,
+                            561.57,
+                            402.08
+                        ]
+                    ],
+                    "text_description": "에 돌리기 전 직각삼각형의 밑변의 길이는 원뿔의 밑면의 반지름과 같으므로 5cm 입니다. 돌리기 전 직각삼각형의 높이는 원뿔의 높이와 같으므로 12cm 입니다. 돌리기 전 직각삼각형의 넓이는 $5 \\times 12 \\div 2=30\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

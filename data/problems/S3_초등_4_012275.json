@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "723f0a3b-ed61-4ae3-a56d-1e154cda7e20",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012275",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.25,
+                            -0.9,
+                            792.87,
+                            127.22
+                        ]
+                    ],
+                    "text_description": "솟 1 4, 주어진 도형을 어떤 방향으로 돌린 도형인지 보기에서 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.81,
+                            136.6,
+                            792.87,
+                            452.22
+                        ]
+                    ],
+                    "text_description": "이 이미지는 격자 위에 그려진 삼각형과 원이 여러 개 있는 도형의 배열을 보여줍니다. 오른쪽에는 원의 각도 표시가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.75,
+                            468.77,
+                            305.37,
+                            714.09
+                        ]
+                    ],
+                    "text_description": "이 이미지에는 그리드가 있는 평면에 그려진 직각삼각형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            619.43,
+                            732.84,
+                            664.75,
+                            776.59
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108.5,
+                            795.34,
+                            806.93,
+                            876.59
+                        ]
+                    ],
+                    "text_description": "삼각형의 직각 부분이 오른쪽 아래에 있으므로 시계 방향으로 90안큼 돌린 것입니다."
+                }
+            ]
+        }
+    ]
+}

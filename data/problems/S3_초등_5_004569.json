@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "81e3e540-245e-49f7-a7f6-1ee8ecfc42ba",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004569",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.27,
+                            32.24,
+                            705.27,
+                            174.24
+                        ]
+                    ],
+                    "text_description": "명석이는 체육 시간에 제자리멀리뛰기를 하였습니다. 명석이의 기록을 반올림하여 일의 자리까지 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            197.27,
+                            195.78,
+                            604.27,
+                            548.78
+                        ]
+                    ],
+                    "text_description": "명석: 제자리멀리뛰기를 세 번 했는데 가장 좋은 기록이 209.6cm였어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            493.27,
+                            566.78,
+                            600.27,
+                            596.78
+                        ]
+                    ],
+                    "text_description": "210cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.27,
+                            573.78,
+                            283.27,
+                            603.78
+                        ]
+                    ],
+                    "text_description": "$209. 6 \\rightarrow 210$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            205.27,
+                            605.78,
+                            428.27,
+                            633.78
+                        ]
+                    ],
+                    "text_description": "5보다 크므로 올립니다."
+                }
+            ]
+        }
+    ]
+}

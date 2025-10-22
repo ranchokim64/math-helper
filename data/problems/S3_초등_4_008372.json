@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "598c551a-b810-4a2d-a451-4469e73abf8a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008372",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-05] 평면도형의 이동을 이용하여 규칙적인 무늬를 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.6,
+                            5.14,
+                            606.4,
+                            53.14
+                        ]
+                    ],
+                    "text_description": "사각형 안에 흰삼각형과 보라색 사다리꼴이 있는 모양으로 만들 수 없는 무늬를 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            329.6,
+                            55.54,
+                            438.4,
+                            141.14
+                        ]
+                    ],
+                    "text_description": "② 주어진 모양과 주어지지 않은 모양으로 만든 무늬이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.4,
+                            286.6,
+                            810.2,
+                            462.2
+                        ]
+                    ],
+                    "text_description": "① 오른쪽으로 뒤집기 하여 만든 무늬입니다. ② 주어진 모양과 주어진 모양의 반대로 만든 무늬입니다. ③ 밀기를 하여 만든 무늬입니다. ④ 시게 빈대 빙향으로 $90^{\\circ}$ 민큼 돌리기 하어 민든 무늬입니다. ⑤ 오른쪽으로 밀기를 한 것을 아래쪽으로 뒤집기 하여 만든 무늬입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.8,
+                            55.2,
+                            142.4,
+                            228
+                        ]
+                    ],
+                    "text_description": "① ④"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            624.8,
+                            54.8,
+                            733.6,
+                            140
+                        ]
+                    ],
+                    "text_description": "$\\sqrt{75}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            329.6,
+                            141.6,
+                            436.8,
+                            228
+                        ]
+                    ],
+                    "text_description": "⑤"
+                }
+            ]
+        }
+    ]
+}

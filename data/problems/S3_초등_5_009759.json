@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d1e73ef0-b1e3-49c2-8d00-abf72c0b1ff4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009759",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.96,
+                            5.62,
+                            634.9,
+                            27.46
+                        ]
+                    ],
+                    "text_description": "다음 중 점선을 따라 접었을 때 완전히 겹치는 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.22,
+                            228.84,
+                            570.09,
+                            251.41
+                        ]
+                    ],
+                    "text_description": "점선으로 나누어진 부분이 서로 같으면 접었을 때 완전히 겹쳐집니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.01,
+                            28.61,
+                            358.94,
+                            189.62
+                        ]
+                    ],
+                    "text_description": "①직사각형에 사선으로 점선이 있따. ② 네 변의 길이가 모두 다른 사각형의 중심에 점선이 있다. ④ 삼각형에 사선으로 점선이 있다. ⑤ 두각이 직각인 삭가형의 가운데에 점선이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            483.0,
+                            37.0,
+                            556.0,
+                            104.0
+                        ]
+                    ],
+                    "text_description": "점선을 기준으로 대칭되는 도형"
+                }
+            ]
+        }
+    ]
+}

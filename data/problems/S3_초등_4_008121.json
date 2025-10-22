@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a86cf3b0-73fd-40cc-a243-9eedc1b6235b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008121",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.22,
+                            4.39,
+                            719.22,
+                            36.39
+                        ]
+                    ],
+                    "text_description": "어림한 나눗셈의 몫으로 가장 적절한 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            155.67,
+                            43.96,
+                            343.67,
+                            126.36
+                        ]
+                    ],
+                    "text_description": "$121 \\div 18$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            422.07,
+                            42.36,
+                            806.07,
+                            127.96
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{llll}5 & 6 & 50 & 60\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.22,
+                            186,
+                            929.22,
+                            251
+                        ]
+                    ],
+                    "text_description": "$18$을 약 $20$으로 생각하면 $20 \\times 6=120$ 이므로 $121 \\div 18$의 몫을 $6$으로 어림할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.47,
+                            141.56,
+                            69.27,
+                            168.76
+                        ]
+                    ],
+                    "text_description": "$6$"
+                }
+            ]
+        }
+    ]
+}

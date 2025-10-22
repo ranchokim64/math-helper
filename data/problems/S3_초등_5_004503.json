@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e7540e57-a844-4a68-a748-3394c54ca16f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004503",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            7.92,
+                            302.5,
+                            37.92
+                        ]
+                    ],
+                    "text_description": "평행사변형의 둘레를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.5,
+                            44.92,
+                            362.5,
+                            174.92
+                        ]
+                    ],
+                    "text_description": "두 변의 길이가 각각 5cm, 8cm인 평행사변형 평면도형."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296.5,
+                            193.5,
+                            351.5,
+                            218.5
+                        ]
+                    ],
+                    "text_description": "26cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            224.5,
+                            326.5,
+                            268.5
+                        ]
+                    ],
+                    "text_description": "평행사변형은 마주 보는 변의 길이가 같습니다. (평행사변형의 둘레)= $8+5+8+5=26$ (cm)"
+                }
+            ]
+        }
+    ]
+}

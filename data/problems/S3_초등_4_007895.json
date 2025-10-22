@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f08b987f-2175-4a6c-a6cf-2d0429075a18",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007895",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채울 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채우고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.23,
+                            3.84,
+                            850.44,
+                            71.28
+                        ]
+                    ],
+                    "text_description": "3 가지 모양 조각을 모두 사용하여 배 모양을 채운 것으로 알맞은 것을 선 택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.51,
+                            456.67,
+                            552.79,
+                            475.55
+                        ]
+                    ],
+                    "text_description": "사다리꼴 1 개, 정삼각형 1 개, 평행사변형 1 개를 사용하여 배 모양을 채웁니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            356.0,
+                            235.0,
+                            528.0,
+                            335.0
+                        ]
+                    ],
+                    "text_description": "배모양의 도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.0,
+                            105.0,
+                            798.0,
+                            201.0
+                        ]
+                    ],
+                    "text_description": "사다리꼴, 삼각형, 평행사변형을 이용하여 배모형을 만든다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133.0,
+                            232.0,
+                            307.0,
+                            336.0
+                        ]
+                    ],
+                    "text_description": "배모양의 도형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            578.0,
+                            236.0,
+                            751.0,
+                            334.0
+                        ]
+                    ],
+                    "text_description": "배모양의 도형"
+                }
+            ]
+        }
+    ]
+}

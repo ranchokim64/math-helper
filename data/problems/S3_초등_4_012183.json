@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9c020e9f-b4ff-4950-93a5-4c72e3a62a71",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012183",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.99,
+                            3.12,
+                            771.99,
+                            111.87
+                        ]
+                    ],
+                    "text_description": "4 8 정호네 고장에 있는 도서관의 책의 수를 조사한 것입니 다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.49,
+                            525.12,
+                            514.49,
+                            566.37
+                        ]
+                    ],
+                    "text_description": "책이 많은 도서관부터 차례로 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.24,
+                            119.37,
+                            749.49,
+                            505.62
+                        ]
+                    ],
+                    "text_description": "도서관별 책의 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            408.24,
+                            586.37,
+                            719.49,
+                            625.12
+                        ]
+                    ],
+                    "text_description": "빨강, 초록, 노랑, 파랑 도서관"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.24,
+                            633.87,
+                            623.24,
+                            723.87
+                        ]
+                    ],
+                    "text_description": "큰 그림의 수를 먼저 비교한 후 작은 그림의 수를 비교합니다. 빨강도서관: 4300권, 초록도서관:3800권 파랑도서관:1500권, 노랑도서관: 3400권"
+                }
+            ]
+        }
+    ]
+}

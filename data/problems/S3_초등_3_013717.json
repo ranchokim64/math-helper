@@ -1,0 +1,135 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1aa813d6-b514-4c74-b1ac-f72689f94594",
+        "date": "2024-11-04",
+        "publisher": "교학사",
+        "publication_year": "2023-05-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013717",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-05] 들이를 나타내는 표준 단위의 필요성을 인식하여 1L와 1mL의 단위를 알고, 이를 이용하여 들이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-17] 들이 단위 1L와 1mL를 알고, 이를 이용하여 들이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            70,
+                            19
+                        ],
+                        [
+                            562,
+                            17
+                        ],
+                        [
+                            563,
+                            81
+                        ],
+                        [
+                            563,
+                            88
+                        ],
+                        [
+                            284,
+                            86
+                        ],
+                        [
+                            283,
+                            126
+                        ],
+                        [
+                            70,
+                            126
+                        ]
+                    ],
+                    "text_description": "$2L 400mL$의 물을 다음과 같은 그릇으로 덜어 내려고 합니다. 덜어 내는 횟수가 가장 적은 그릇은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            310,
+                            198.92,
+                            478,
+                            300.92
+                        ]
+                    ],
+                    "text_description": "④"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75,
+                            402.5,
+                            640,
+                            481.5
+                        ]
+                    ],
+                    "text_description": "덜어 내는 그릇의 들이가 많을수록 횟수는 줄어 듭니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66,
+                            141.5,
+                            200,
+                            365.5
+                        ]
+                    ],
+                    "text_description": "① ③ ⑤"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309,
+                            139.5,
+                            408,
+                            185.5
+                        ]
+                    ],
+                    "text_description": "②"
+                }
+            ]
+        }
+    ]
+}

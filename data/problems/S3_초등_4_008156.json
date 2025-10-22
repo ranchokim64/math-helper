@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e30fcdbe-69bf-4d4e-b8f0-af7d2aa46f16",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008156",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            7.42,
+                            928.5,
+                            76.42
+                        ]
+                    ],
+                    "text_description": "가게에서 사탕을 한 봉지에 1475원에 사 와서 1900원에 팔고 있습니다. 이 사탕을 35봉지 팔았다면 이익금은 모두 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            623.7,
+                            93.44,
+                            739.7,
+                            119.04
+                        ]
+                    ],
+                    "text_description": "③ 14875 원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.1,
+                            93.1,
+                            443.7,
+                            164.3
+                        ]
+                    ],
+                    "text_description": "① 11375 원 ② 14000 원 ④ 17500 원 ⑤ 18375 원"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.54,
+                            228.38,
+                            451.86,
+                            293.02
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text {(사탕 한 봉지를 팔았을 때의 이익금) } \\\\ \\text { = (판 가격) - (산 가격) }\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.38,
+                            339.74,
+                            584.98,
+                            403.74
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (사탕 } 35 \\text { 봉지를 팔았을 때의 이익금) } \\\\ =\\text { (사탕 한 봉지를 팔았을 때의 이익금 }) \\times \\text { (봉지 수 }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.14,
+                            301.7,
+                            292.5,
+                            329.5
+                        ]
+                    ],
+                    "text_description": "$=1900-1475=425$ (원)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.86,
+                            411.42,
+                            286.1,
+                            438.94
+                        ]
+                    ],
+                    "text_description": "$=425 \\times 35=14875$ (원)"
+                }
+            ]
+        }
+    ]
+}

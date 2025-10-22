@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "13d56731-db1e-44cc-a675-f33fad66d8aa",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004514",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.58,
+                            8.82,
+                            433.9,
+                            57.96
+                        ]
+                    ],
+                    "text_description": "두 수의 최대공약수와 최소공배수의 합을 구해 보 세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            193.69,
+                            85.24,
+                            289.66,
+                            107.12
+                        ]
+                    ],
+                    "text_description": "$24 \\quad 18$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            323.34,
+                            136.87,
+                            348.03,
+                            158.2
+                        ]
+                    ],
+                    "text_description": "$78$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.46,
+                            171.1,
+                            306.5,
+                            188.5
+                        ]
+                    ],
+                    "text_description": "이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.35,
+                            190.75,
+                            431.09,
+                            207.02
+                        ]
+                    ],
+                    "text_description": "최대공약수는 $2 \\times 3=6$. 최소공배수는 $2 \\times 3 \\times 2 \\times 2 \\times 3=72$ 입"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.35,
+                            208.14,
+                            116.8,
+                            227.79
+                        ]
+                    ],
+                    "text_description": "니다. $\\rightarrow$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.22,
+                            171.66,
+                            270.02,
+                            187.38
+                        ]
+                    ],
+                    "text_description": "$24=2 \\times 2 \\times 2 \\times 3, 18=2 \\times 3 \\times 3$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.05,
+                            209.27,
+                            193.69,
+                            228.35
+                        ]
+                    ],
+                    "text_description": "$6+72=78$"
+                }
+            ]
+        }
+    ]
+}

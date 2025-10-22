@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "25f155eb-2f24-4687-8697-21e22a6235d0",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004256",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.5,
+                            191.42,
+                            494.5,
+                            219.42
+                        ]
+                    ],
+                    "text_description": "가장 먼저 계산해야 하는 부분은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            186.5,
+                            280.42,
+                            394.5,
+                            376.42
+                        ]
+                    ],
+                    "text_description": "$12+15 \\div(6-3) \\times 2-4$ 수식의 앞부분부터 더하기가 ①, 나누기가 ②, 뺄셈이 ③, 곱하기가 ④, 빼기가 ⑤이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            465.5,
+                            227,
+                            492.5,
+                            251
+                        ]
+                    ],
+                    "text_description": "③"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.5,
+                            7,
+                            261.5,
+                            187
+                        ]
+                    ],
+                    "text_description": "$12+15 \\div(6-3) \\times 2-4$의 수식에서, 괄호안의 빼기가 1번, 나누기가 2번, 곱셈이 3번, 더하기가 4번, 빼기가 5번 순서이다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a38b3973-9865-4dc1-bdb6-9bef7eaa18ae",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012258",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83,
+                            19.92,
+                            798,
+                            127.91999999999999
+                        ]
+                    ],
+                    "text_description": "가장 큰 수와 가장 작은 수의 곱을 구하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            248,
+                            196.92,
+                            619,
+                            309.92
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{ccc}425 & 36 & 411 \\\\ 48 & 52 & 67\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122,
+                            445.5,
+                            220,
+                            480.5
+                        ]
+                    ],
+                    "text_description": "$15300$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            351.5,
+                            557,
+                            383.5
+                        ]
+                    ],
+                    "text_description": "가장 큰 수는 425, 가장 작은 수는 36입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            393.5,
+                            257,
+                            421.5
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow 425 \\times 36=15300$"
+                }
+            ]
+        }
+    ]
+}

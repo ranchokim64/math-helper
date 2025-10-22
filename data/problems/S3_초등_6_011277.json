@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6ce9ee10-dd8e-4440-a678-619bd2179d35",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011277",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.53,
+                            8.28,
+                            864.5,
+                            114.43
+                        ]
+                    ],
+                    "text_description": "정육각형의 넓이를 이용하여 다음 원의 넓이를 어림하려고 합니다. 삼각형 ㄱㅇㄷ의 넓이는 $12 \\mathrm{~cm}^{2}$ 이고 삼각형 ㄹㅇㅂ의 넓이는 $9 \\mathrm{~cm}^{2}$ 일 때, 원의 넓이를 어림하여 알맞은 수를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.36,
+                            293.35,
+                            694.67,
+                            324.69
+                        ]
+                    ],
+                    "text_description": "원의 넓이는 $(63, 78) \\mathrm{cm}^{2}$ 쯤 될 것 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            352.0,
+                            123.0,
+                            540.0,
+                            286.0
+                        ]
+                    ],
+                    "text_description": "정육각형의 도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.33,
+                            389.01,
+                            864.5,
+                            576.02
+                        ]
+                    ],
+                    "text_description": "(원 안에 있는 정육각형의 넓이) $=($ 삼각형 ㄹㅇㅂ의 넓이 $) \\times 6=9 \\times 6=54\\left(\\mathrm{~cm}^{2}\\right)$ (원 밖에 있는 정육각형의 넓이) $=$ (삼각형 ㄱㅇㄷ의 넓이) $\\times 6=12 \\times 6=72\\left(\\mathrm{~cm}^{2}\\right)$ 원의 넓이는 원 안에 있는 정육각형의 넓이인 $54 \\mathrm{~cm}^{2}$보다 넓고, 원 밖에 있는 정육각형의 넓이인 $72 \\mathrm{~cm}^{2}$보다 좁습니다. 따라서 원의 넓이는 $(54+72) \\div 2=63\\left(\\mathrm{~cm}^{2}\\right)$ 쯤으로 어림할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.77,
+                            341.5,
+                            78.03,
+                            364.75
+                        ]
+                    ],
+                    "text_description": "$63$"
+                }
+            ]
+        }
+    ]
+}

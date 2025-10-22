@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e3d8ff37-3319-4b31-9d8e-f2be0b1d34e3",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004860",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            7.92,
+                            381,
+                            98.92
+                        ]
+                    ],
+                    "text_description": "진수의 시험 성적입니다. 진수가 다음 시험에서 평균 2점을 더 올리려면 다음 시험에서 총 몇 점을 받아야 하나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            108.92,
+                            385,
+                            223.92
+                        ]
+                    ],
+                    "text_description": "진수의 시험 성적 \\begin{tabular}{|c|c|c|c|c|} \\hline과목 & 국어 & 수학 & 사회 & 과학 \\\\ \\hline점수(점) & 85 & 92 & 81 & 90 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            256,
+                            234.5,
+                            314,
+                            259.5
+                        ]
+                    ],
+                    "text_description": "356점"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            261.5,
+                            362,
+                            308.5
+                        ]
+                    ],
+                    "text_description": "\\[ (\\text { 평균 })=(85+92+81+90) \\div 4=348 \\div 4=87 \\text { (점) } \\] (다음 시험에서 받아야 하는 총점) $=(87+2) \\times 4=356$ (점)"
+                }
+            ]
+        }
+    ]
+}

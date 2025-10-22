@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "99e2c96f-e12a-4994-be58-3168df1a8ec0",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012153",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.09,
+                            11.42,
+                            450.59,
+                            160.17
+                        ]
+                    ],
+                    "text_description": "어느 텔레비전 프로그램은 6시 15분 15초에 시작하여 7시 20분 20초에 끝납니다. 이 프로그램은 몇 시간 몇 분 몇 초 동안 방송될까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            198.09,
+                            180.84,
+                            449.34,
+                            210.84
+                        ]
+                    ],
+                    "text_description": "(l 시간 5분 5초)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.34,
+                            212.84,
+                            268.09,
+                            259.59
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 7시 20분 20초-6시 l5분 l5초 } \\\\ =\\text { l 시간 5분 5초 }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

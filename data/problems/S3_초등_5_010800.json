@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1abf2eaa-3143-4c89-8d0b-3868ed10d32e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010800",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.27,
+                            3.24,
+                            873.27,
+                            71.24
+                        ]
+                    ],
+                    "text_description": "두 분모의 최소공배수를 공통분모로 하여 통분할 때 공통분모가 더 작은 것을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            384.27,
+                            186.78,
+                            517.27,
+                            220.78
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181.27,
+                            74.78,
+                            717.27,
+                            184.78
+                        ]
+                    ],
+                    "text_description": "연두색 테두리의 상자에 다음과 같은 내용이 들어 있다.㉠ $\\left(\\frac{3}{4}, \\frac{1}{6}\\right)$ ㉡ $\\left(\\frac{1}{8}, \\frac{5}{12}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.27,
+                            236.78,
+                            76.27,
+                            265.78
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.27,
+                            278.78,
+                            734.27,
+                            403.78
+                        ]
+                    ],
+                    "text_description": "두 분모의 최소공배수를 공통분모로 하여 통분하면 다음과 같습니다. ㉠ $\\left(\\frac{3}{4}, \\frac{1}{6}\\right) \\Rightarrow\\left(\\frac{9}{12}, \\frac{2}{12}\\right)$ ㉡ $\\left(\\frac{1}{8}, \\frac{5}{12}\\right) \\Rightarrow\\left(\\frac{3}{24}, \\frac{10}{24}\\right)$ 따라서 공통분모가 더 작은 것은 ㉠입니다."
+                }
+            ]
+        }
+    ]
+}

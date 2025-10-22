@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "68d81903-3767-4be6-8b91-cbedf8f8d627",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004862",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.02,
+                            11.25,
+                            454.46,
+                            79.73
+                        ]
+                    ],
+                    "text_description": "지은이네 마을 학생 35 명이 한 달 동안 종류별 읽 \\은 책 수를 나타낸 표입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.22,
+                            286.18,
+                            494.14,
+                            350.82
+                        ]
+                    ],
+                    "text_description": "지은이가 읽은 책이 9권이라면, 지은이네 마을에 서 책을 많이 읽은 편인가요, 적게 읽은 편인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.26,
+                            129.21,
+                            454.82,
+                            261.49
+                        ]
+                    ],
+                    "text_description": "이 이미지는 다양한 종류의 책을 읽은 수치를 나타내는 표입니다. 종류별로 읽은 책 수는 다음과 같습니다: - 동화책: 50권 - 위인전: 58권 - 만화: 46권 - 잡지: 23권 - 기타: 33권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            226.78,
+                            371.46,
+                            393.02,
+                            394.98
+                        ]
+                    ],
+                    "text_description": "많이 읽은 편입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.34,
+                            405.22,
+                            496.06,
+                            453.86
+                        ]
+                    ],
+                    "text_description": "한 명이 읽은 책은 평균 6권이므로 9권을 읽은 지은이는 마을에서 많이 읽은 편입니다."
+                }
+            ]
+        }
+    ]
+}

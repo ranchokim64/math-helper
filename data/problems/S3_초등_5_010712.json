@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aaf8ec11-01c8-44b8-969f-868117f7ae32",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010712",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            2.95,
+                            790.62,
+                            65.82
+                        ]
+                    ],
+                    "text_description": "두 수가 약수와 배수의 관계이면 $\\bigcirc$, 약수와 배수의 관계가 아니면 $\\times$를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.62,
+                            90.14,
+                            131.49,
+                            117.77
+                        ]
+                    ],
+                    "text_description": "$14 \\quad 70$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.58,
+                            130.15,
+                            128.64,
+                            158.72
+                        ]
+                    ],
+                    "text_description": "$(O, \\times)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.9,
+                            210.16,
+                            24.81,
+                            234.92
+                        ]
+                    ],
+                    "text_description": "O"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            109.59,
+                            174.92,
+                            514.4,
+                            199.68
+                        ]
+                    ],
+                    "text_description": "이므로 14와 70은 약수와 배수의 관계입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.76,
+                            175.87,
+                            108.63,
+                            200.63
+                        ]
+                    ],
+                    "text_description": "$14 \\times 5=70$"
+                }
+            ]
+        }
+    ]
+}

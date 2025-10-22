@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f687c039-ec8a-4888-b89e-adab5b8cccc6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004577",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.78,
+                            93.74,
+                            715.78,
+                            231.74
+                        ]
+                    ],
+                    "text_description": "정원이 43명인 버스에 다음과 같이 사람들이 타고 있습니다. 정원을 초과한 버스의 기호를 모두 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.78,
+                            251.27,
+                            706.78,
+                            427.27
+                        ]
+                    ],
+                    "text_description": "버스가 ㉠, ㉡, ㉢, ㉣, ㉤ 순서대로 주차되어 있는 그림이다. ㉠은 46명이 타고 있고, ㉡은 39명이 타고 있고, ㉢은 43명이 타고 있고, ㉣은 29명이 타고 있고, ㉤은 44명이 타고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            520.78,
+                            457.27,
+                            594.78,
+                            491.27
+                        ]
+                    ],
+                    "text_description": "㉠, ㉤"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.78,
+                            506.27,
+                            717.78,
+                            567.27
+                        ]
+                    ],
+                    "text_description": "43명보다 많은 사람들이 타고 있는 버스는 ㉠ 46명, ㉤ 44명입니다."
+                }
+            ]
+        }
+    ]
+}

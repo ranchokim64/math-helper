@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c65b2099-20eb-42d2-bbf0-84f5e074114c",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002837",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            4.81,
+                            723.88,
+                            67.31
+                        ]
+                    ],
+                    "text_description": "다희네 학교 텃밭에서 기르는 농작물별 밭의 넓이를 조사하여 나타낸 그래프입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.13,
+                            252.59,
+                            480.13,
+                            279.15
+                        ]
+                    ],
+                    "text_description": "토마토를 기르는 밭의 넓이는 감자를 기르는 밭의 넓이의 몇 배인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.13,
+                            80.71,
+                            727,
+                            236.96
+                        ]
+                    ],
+                    "text_description": "농작물별 밭의 넓이이 이미지는 농작물별 발의 넓이를 나타내는 그래프입니다. 각 농작물의 비율은 다음과 같습니다: - 토마토: 30% - 상추: 24% - 당근: 21% - 감자: 15% - 가지: 10%"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.13,
+                            333.59,
+                            214.5,
+                            363.53
+                        ]
+                    ],
+                    "text_description": "②배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.49,
+                            280.88,
+                            609.49,
+                            327.13
+                        ]
+                    ],
+                    "text_description": "토마토를 기르는 밭의 넓이의 백분율 $30 \\%$는 감자를 기르는 밭의 넓이의 백분율 $15 \\%$의 2 배입니다."
+                }
+            ]
+        }
+    ]
+}

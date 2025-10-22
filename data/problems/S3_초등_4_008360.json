@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a592b187-f580-4e2b-8919-42a2da1ab762",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008360",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.5,
+                            2.42,
+                            926.5,
+                            31.42
+                        ]
+                    ],
+                    "text_description": "왼쪽이나 오른쪽으로 뒤집어도 처음과 모양이 같은 것을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            40.42,
+                            115.5,
+                            106.42
+                        ]
+                    ],
+                    "text_description": "① M 모양이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            620.5,
+                            43,
+                            698.5,
+                            107
+                        ]
+                    ],
+                    "text_description": "③H모양이다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            223,
+                            580.5,
+                            250
+                        ]
+                    ],
+                    "text_description": "왼쪽이나 오른쪽으로 뒤집으면 다음과 같습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            312,
+                            867.5,
+                            339
+                        ]
+                    ],
+                    "text_description": "따라서 왼쪽이나 오른쪽으로 뒤집어도 처음과 모양이 같은 것은 ①, ③입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            253,
+                            444.5,
+                            313
+                        ]
+                    ],
+                    "text_description": "M, F, H, B, K를 뒤집은 모습이 각각 표현되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324.5,
+                            42,
+                            402.5,
+                            170
+                        ]
+                    ],
+                    "text_description": "②F모양이다. ⑤K모양이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            106,
+                            103.5,
+                            167
+                        ]
+                    ],
+                    "text_description": "④ B모양이다."
+                }
+            ]
+        }
+    ]
+}

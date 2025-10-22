@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6d066b1a-f20f-4c2d-9210-aa3b07d58c96",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005324",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.54,
+                            13.9,
+                            530.48,
+                            91.15
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이를 구해 보세요. (원주율:3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            148.0,
+                            98.0,
+                            388.0,
+                            277.0
+                        ]
+                    ],
+                    "text_description": "원 두개가 겹쳐져있다, 작은 원의 반경은 2cm이고 큰 원의 반경은 작은 원보다 2cm 크다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.34,
+                            338.78,
+                            489.48,
+                            396.72
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 색칠한 부분의 넓이) } & =4 \\times 4 \\times 3. 14-2 \\times 2 \\times 3. 14 \\\\ & =50. 24-12. 56=37. 68\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            340.71,
+                            295.54,
+                            460.87,
+                            329.06
+                        ]
+                    ],
+                    "text_description": "$37. 68 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        }
+    ]
+}

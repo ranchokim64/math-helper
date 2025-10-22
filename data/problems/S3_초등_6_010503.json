@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f8345e8c-dab1-4c85-b2d8-2f88a574406d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010503",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.01,
+                            9.9,
+                            960.51,
+                            79.9
+                        ]
+                    ],
+                    "text_description": "수연이네 학교 도서관에 있는 책 수를 조사하여 나타낸 띠그래프입니다. 띠그래프를 보면 종류별 책 수의 많고 적음을 한눈에 알 수 있나요, 없나요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.26,
+                            249.37,
+                            327.51,
+                            284.37
+                        ]
+                    ],
+                    "text_description": "(있습니다, 없습니다)."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            158.01,
+                            83.15,
+                            832.51,
+                            248.15
+                        ]
+                    ],
+                    "text_description": "종류별 책 인 띠그래프가있다. 0부터 100(%)까지 줄선이 있다. 0부터 시작해서 20%는 위인전이, 15%는 과학책이, 30% 동화책이, 12%시집, 23%는 기타이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.76,
+                            299.37,
+                            158.01,
+                            326.87
+                        ]
+                    ],
+                    "text_description": "있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.76,
+                            344.37,
+                            560.51,
+                            364.37
+                        ]
+                    ],
+                    "text_description": "띠그래프는 전체에 대한 각 부분의 비율을 한눈에 알아보기 쉽습니다."
+                }
+            ]
+        }
+    ]
+}

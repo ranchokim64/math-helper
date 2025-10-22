@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9f8ff984-a9dd-492a-a6b2-f36744bc444b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008628",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.08,
+                            9.6,
+                            636.05,
+                            36.62
+                        ]
+                    ],
+                    "text_description": "나머지가 가장 큰 것을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.7,
+                            48.28,
+                            729.98,
+                            125.64
+                        ]
+                    ],
+                    "text_description": "㉠ $583 \\div 5$ ㉡ $584 \\div 6$ ㉢ $585 \\div 7$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            874.24,
+                            128.52,
+                            907.24,
+                            162.29
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            759.89,
+                            124.68,
+                            786.75,
+                            160.75
+                        ]
+                    ],
+                    "text_description": "㉠"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            809.01,
+                            122.38,
+                            849.68,
+                            169.19
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.76,
+                            335.73,
+                            459.06,
+                            364.89
+                        ]
+                    ],
+                    "text_description": "따라서 나머지가 가장 큰 것은 ㉢입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.85,
+                            224.45,
+                            272.57,
+                            255.91
+                        ]
+                    ],
+                    "text_description": "㉠ $583 \\div 5=116 \\cdots 3$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.06,
+                            262.82,
+                            242.64,
+                            333.43
+                        ]
+                    ],
+                    "text_description": "㉡ $584 \\div 6=97 \\cdots 2$ ㉢ $585 \\div 7=83 \\cdots 4$"
+                }
+            ]
+        }
+    ]
+}

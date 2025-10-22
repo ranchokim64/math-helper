@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eba403fa-d11e-4e18-83e2-08cf61503cca",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008090",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.5,
+                            6.42,
+                            437.5,
+                            32.42
+                        ]
+                    ],
+                    "text_description": "각도가 가장 큰 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            481.5,
+                            97.42,
+                            654.5,
+                            122.42
+                        ]
+                    ],
+                    "text_description": "④ $270^{\\circ}-140^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            53,
+                            194.5,
+                            167
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}①60^{\\circ}+35^{\\circ} \\\\ \\text { ③ } 180^{\\circ}-95^{\\circ} \\\\ \\text { ⑤ } 210^{\\circ}-90^{\\circ}\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            480.5,
+                            54,
+                            635.5,
+                            79
+                        ]
+                    ],
+                    "text_description": "② $45^{\\circ}+80^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.92,
+                            237.32,
+                            250.52,
+                            259.72
+                        ]
+                    ],
+                    "text_description": "$60^{\\circ}+35^{\\circ}=95^{\\circ}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            272,
+                            256.5,
+                            408
+                        ]
+                    ],
+                    "text_description": "$45^{\\circ}+80^{\\circ}=125^{\\circ}$ $180^{\\circ}-95^{\\circ}=85^{\\circ}$ $270^{\\circ}-140^{\\circ}=130^{\\circ}$ $210^{\\circ}-90^{\\circ}=120^{\\circ}$"
+                }
+            ]
+        }
+    ]
+}

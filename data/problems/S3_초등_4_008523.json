@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1ab2fe32-241a-439c-960c-ecc61c58503f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008523",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            1.4,
+                            932.5,
+                            69.4
+                        ]
+                    ],
+                    "text_description": "두 계산식을 보고 다음에 올 계산식이 $827-320=507$ 인 것의 기호를 선 택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            150.5,
+                            82.5,
+                            446.5,
+                            301.5
+                        ]
+                    ],
+                    "text_description": "㉠ $\\begin{array}{l}427-320=107 \\\\ 527-320=207 \\\\ 627-320=307 \\\\ 727-320=407\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            525.5,
+                            77.5,
+                            818.5,
+                            297.5
+                        ]
+                    ],
+                    "text_description": "㉡ $\\begin{array}{l}468-220=248 \\\\ 568-320=248 \\\\ 668-420=248 \\\\ 768-520=248\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.5,
+                            311.5,
+                            87.5,
+                            339.5
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.5,
+                            356.5,
+                            889.5,
+                            390.5
+                        ]
+                    ],
+                    "text_description": "㉠의 규칙: $100$씩 커지는 수에서 같은 수를 빼면 계산 결과는 $100$씩 커집니다."
+                }
+            ]
+        }
+    ]
+}

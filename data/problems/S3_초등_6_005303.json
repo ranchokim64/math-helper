@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "deb312d6-6b36-4f12-8580-3eeacf6c12c9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005303",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.22,
+                            24.09,
+                            447.02,
+                            68.89
+                        ]
+                    ],
+                    "text_description": "㉠과 ㉡의 합을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188.62,
+                            101.32,
+                            606.22,
+                            150.12
+                        ]
+                    ],
+                    "text_description": "$3:$ ㉠ $=2: 8, \\quad|5: 2|= ㉡: 7$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            526.22,
+                            192.52,
+                            572.62,
+                            232.52
+                        ]
+                    ],
+                    "text_description": "$17$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.97,
+                            245.03,
+                            699.74,
+                            378.24
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}3:(ㄱ)=2: 8, 3 \\times 8=(\\neg) \\times 2, 24=(\\neg) \\times 2, (\\neg)=24 \\div 2=12 \\\\ 15: 21=(\\llcorner): 7, 15 \\times 7=21 \\times(\\llcorner), 105=21 \\times(\\llcorner), \\\\ ()=105 \\div 21=5 \\\\ \\rightarrow(\\neg)+(\\llcorner)=12+5=17\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

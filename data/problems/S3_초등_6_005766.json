@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1a1a6e69-f4b7-4f38-a168-80776e5cd4d4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005766",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.8,
+                            14.44,
+                            297.4,
+                            42.44
+                        ]
+                    ],
+                    "text_description": "직육면체의 겉넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.2,
+                            55.24,
+                            370.2,
+                            281.64
+                        ]
+                    ],
+                    "text_description": "이 이미지는 다양한 크기의 직사각형을 보여주고 있으며, 길이와 너비가 주어져 있습니다. 위쪽에는 6cm와 3cm, 그리고 아래쪽에는 10cm의 길이가 표시되어 있습니다. 이 도형은 여러 개의 직사각형으로 구성된 복합 도형처럼 보입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            281.4,
+                            293.3,
+                            371,
+                            319.7
+                        ]
+                    ],
+                    "text_description": "$216 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.6,
+                            329.3,
+                            288.6,
+                            374.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(6 \\times 3) \\times 2+(6 \\times 10) \\times 2+(10 \\times 3) \\times 2 \\\\ =36+120+60=216\\left(\\mathrm{~cm}^{2}\\right)\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9fb123fe-e08e-4c5c-814f-c4b9904e0594",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008572",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            2.5,
+                            774,
+                            42.5
+                        ]
+                    ],
+                    "text_description": "계산에서 $\\square$ 안의 두 수의 곱은 실제로 얼마를 나타낼까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            266.99,
+                            102.75,
+                            298.24
+                        ]
+                    ],
+                    "text_description": "④ 120"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            223.24,
+                            696.5,
+                            255.74
+                        ]
+                    ],
+                    "text_description": "① 10 ② 12 ③ 100"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            330.25,
+                            265.74,
+                            411.5,
+                            298.24
+                        ]
+                    ],
+                    "text_description": "⑤ 1000"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14,
+                            360.74,
+                            771.5,
+                            428.24
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l} 3 \\text { 은 } 30, 4 \\text { 는 } 4 \\text { 를 나타내므로 두 수의 곱이 실제로 나타내는 값은 } 30 \\times 4=120 \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dcde79d0-864a-4811-b9a6-a3b40d37e07b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012205",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            9.91,
+                            592.5,
+                            49.91
+                        ]
+                    ],
+                    "text_description": "삼각형에서 각 ㉠의 크기는 몇 도일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            225.5,
+                            68.91,
+                            519.5,
+                            202.91
+                        ]
+                    ],
+                    "text_description": "이 이미지는 삼각형과 각도를 나타냅니다. 삼각형의 두 각은 각각 30도와 65도이며, 나머지 하나의 각은 직각입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            539.5,
+                            222.5,
+                            584.5,
+                            253.5
+                        ]
+                    ],
+                    "text_description": "$35^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            256.42,
+                            250.08,
+                            534.18,
+                            303.84
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 각 (ㄴ) })=180^{\\circ}-65^{\\circ}=115^{\\circ} \\\\ (\\text { 각 (ㄱ) })=180^{\\circ}-115^{\\circ}-30^{\\circ}=35^{\\circ}\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.3,
+                            253.92,
+                            234.66,
+                            324.96
+                        ]
+                    ],
+                    "text_description": "이 이미지는 삼각형의 각도를 나타내고 있습니다. 삼각형의 한 각은 30도, 다른 각은 65도입니다."
+                }
+            ]
+        }
+    ]
+}

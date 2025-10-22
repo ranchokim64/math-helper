@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2c9cf906-eee2-4a59-9a59-33e8ec36d8b2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010281",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-10] ‘(자연수)÷(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-10] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.77,
+                            9.24,
+                            950.02,
+                            119.24
+                        ]
+                    ],
+                    "text_description": "물 $1L$는 컵 $4$개에, 물 $3L$는 컵 $7$개에 남김없이 똑같이 나누어 담으려고 합니다. 나누어 담는 컵의 모양과 크기가 같다면 가와 나 중 어느 컵에 물이 더 적을까요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            416.27,
+                            287.51,
+                            567.52,
+                            321.26
+                        ]
+                    ],
+                    "text_description": "(가, 나) 컵"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.02,
+                            129.24,
+                            855.77,
+                            285.49
+                        ]
+                    ],
+                    "text_description": "물 $1L$가 담겨있는 통과 컵 $4$개, 물 $3L$가 담겨있는 통 $3$개와 컵 $7$개가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.02,
+                            337.51,
+                            87.52,
+                            367.51
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.02,
+                            387.26,
+                            675.02,
+                            512.51
+                        ]
+                    ],
+                    "text_description": "가: $1 \\div 4=\\frac{1}{4}(\\mathrm{~L})$, 나: $3 \\div 7=\\frac{3}{7}(\\mathrm{~L})$ $\\frac{1}{4}\\left(=\\frac{7}{28}\\right)<\\frac{3}{7}\\left(=\\frac{12}{28}\\right)$ 이므로가 컵에 물이 더 적습니다."
+                }
+            ]
+        }
+    ]
+}

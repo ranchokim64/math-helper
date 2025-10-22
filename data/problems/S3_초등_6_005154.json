@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d5db5863-4d3f-49cc-be2c-9ab5fd8ca2f3",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005154",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            101.9,
+                            45.14,
+                            830.5,
+                            148.94
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫을 반올림하여 소수 둘째 자리까지 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            328.9,
+                            205.94,
+                            599.5,
+                            243.74
+                        ]
+                    ],
+                    "text_description": "$7 \\div 9=0. 777 \\cdots \\cdots$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            603.3,
+                            306.2,
+                            685.7,
+                            345.4
+                        ]
+                    ],
+                    "text_description": "$0. 78$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            134.5,
+                            367.8,
+                            832.1,
+                            436.6
+                        ]
+                    ],
+                    "text_description": "$0. 777\\cdots\\cdots$을 반올림하여 소수 둘째 자리까지 나타내면 소수 셋째 자리 숫자가 $7$이므로 올림하여 $0. 78$이 됩니다."
+                }
+            ]
+        }
+    ]
+}

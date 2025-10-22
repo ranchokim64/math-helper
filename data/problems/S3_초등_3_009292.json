@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0b993a1d-cad5-4988-8f4a-5223b87575f9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009292",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-04] 1cm와 1mm, 1km와 1m의 관계를 이해하고, 길이를 단명수와 복명수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-16] 1cm와 1mm, 1km와 1m의 관계를 이해하고, 길이를 ‘몇 cm 몇 mm’와 ‘몇 mm’, ‘몇 km 몇 m’와 ‘몇 m’로 다양하게 표현할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.28,
+                            6.74,
+                            319.28,
+                            32.74
+                        ]
+                    ],
+                    "text_description": "다음 중 틀린 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            219.42,
+                            35.82,
+                            486.62,
+                            183.02
+                        ]
+                    ],
+                    "text_description": "3개의 분홍색 상자에 다음과 같은 내용이 들어 있다 $2 \\mathrm{~cm} 8 \\mathrm{~mm}=2. 8 \\mathrm{~cm}$ $5 \\mathrm{~cm} 1 \\mathrm{~mm}=51 \\mathrm{~cm}$ $47 \\mathrm{~mm}=4. 7 \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.02,
+                            195.02,
+                            200.22,
+                            216.62
+                        ]
+                    ],
+                    "text_description": "$5 \\mathrm{~cm} 1 \\mathrm{~mm}=51 \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.82,
+                            227.82,
+                            513.02,
+                            251.02
+                        ]
+                    ],
+                    "text_description": "5cm 1mm는 51mm이므로 0.1cm가 51개인 5.1cm 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e3bcf44c-c788-4203-a6dc-774f6f8afe72",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005288",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.3,
+                            10,
+                            529.3,
+                            198
+                        ]
+                    ],
+                    "text_description": "맞물려 돌아가는 두 톱니바퀴가 있습니다. 톱니바퀴 ㉮의 톱니 수는 30개이고, 톱니바퀴 ㉯의 톱니 수는 20개입니다. 1분 동안 톱니바퀴 ㉮가 60번을 돌았다면 톱니바퀴 ㉯는 몇 번 돌게 되나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            164.3,
+                            206,
+                            424.3,
+                            437
+                        ]
+                    ],
+                    "text_description": "맞물려 돌아가는 두 톱니바퀴가 있습니다. 톱니바퀴 ㉮의 톱니 수는 30개이고, 톱니바퀴 ㉯의 톱니 수는 20개입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            382.3,
+                            457,
+                            436.3,
+                            482
+                        ]
+                    ],
+                    "text_description": "90번"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.3,
+                            498,
+                            455.3,
+                            618
+                        ]
+                    ],
+                    "text_description": "\\[ \\text { (회전수의 비)=㉮: ㉯ }=\\frac{1}{30}: \\frac{1}{20}=2: 3 \\] 톱니바퀴 ㉯가 도는 횟수를 $\\square$라고 하면 \\[ \\begin{aligned} \\Rightarrow 2: 3=60: \\square, 2 \\times \\square=3 \\times 60, 2 \\times \\square=180, \\\\ \\square=180 \\div 2=90 \\text { (번) } \\end{aligned} \\]"
+                }
+            ]
+        }
+    ]
+}

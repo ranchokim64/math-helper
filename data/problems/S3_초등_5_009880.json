@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "45c37122-143d-4466-b6c4-aa2481a78e13",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009880",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.27,
+                            3.61,
+                            349.87,
+                            26.01
+                        ]
+                    ],
+                    "text_description": "정육면체의 전개도를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            160.43,
+                            45.21,
+                            339.63,
+                            141.85
+                        ]
+                    ],
+                    "text_description": "정육면체 전개도가 아니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            397.87,
+                            26.01,
+                            580.27,
+                            161.69
+                        ]
+                    ],
+                    "text_description": "정육면체 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.87,
+                            158.06,
+                            207.79,
+                            290.74
+                        ]
+                    ],
+                    "text_description": "정육면체 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.83,
+                            286.9,
+                            730.67,
+                            324.66
+                        ]
+                    ],
+                    "text_description": "왼쪽 전개도는 접었을 때 서로 겹치는 면이 있으므로 정육면체의 전개도가 아닙니다."
+                }
+            ]
+        }
+    ]
+}

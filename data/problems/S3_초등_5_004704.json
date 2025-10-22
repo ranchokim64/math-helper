@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "56c31266-a766-4eb1-8059-3ee54865da38",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004704",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-02] 합동인 두 도형에서 대응점, 대응변, 대응각을 각각 찾고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            11.42,
+                            446,
+                            48.42
+                        ]
+                    ],
+                    "text_description": "서로 합동이 아닌 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            139.42,
+                            305,
+                            167.42
+                        ]
+                    ],
+                    "text_description": "② 넓이가 같은 두 마름모"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            106,
+                            261,
+                            134
+                        ]
+                    ],
+                    "text_description": "① 크기가 같은 두 원"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            174,
+                            398,
+                            276
+                        ]
+                    ],
+                    "text_description": "③ 크기가 같은 두 정삼각형 ④ 밑변의 길이가 같은 두 정삼각형 ⑤ 한 변의 길이가 같은 두 정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            295,
+                            282,
+                            518,
+                            353
+                        ]
+                    ],
+                    "text_description": "왼쪽 그림의 두 마름모는 넓이가 서로 같지만 모양은 다르므로 합동이 아닙니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83,
+                            278,
+                            276,
+                            353
+                        ]
+                    ],
+                    "text_description": "② 모눈종이위에 정마름모꼴과 가로로긴 마름모꼴이 그려져있다."
+                }
+            ]
+        }
+    ]
+}

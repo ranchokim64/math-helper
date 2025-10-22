@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "acb25d0f-bad3-49ce-a7ad-9b5f2e6d5378",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005316",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.43,
+                            17.05,
+                            493.46,
+                            87.25
+                        ]
+                    ],
+                    "text_description": "지름이 20cm 인 프라이팬이 있습니다. 이 프라이팬 원의 원주를 구해 보세요. (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.7,
+                            98.36,
+                            399.61,
+                            298.68
+                        ]
+                    ],
+                    "text_description": "후라이팬 이미지입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            327.31,
+                            325.21,
+                            416.85,
+                            350.42
+                        ]
+                    ],
+                    "text_description": "62.8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            363.17,
+                            414.17,
+                            389.33
+                        ]
+                    ],
+                    "text_description": "$($ 원주 $)=($ 지름 $) \\times($ 원주율 $)=20 \\times 3. 14=62. 8(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

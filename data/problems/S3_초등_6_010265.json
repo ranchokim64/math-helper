@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2c0eee51-d25c-42fc-bf89-7fedc605bed5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010265",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.33,
+                            1.79,
+                            549.55,
+                            36.77
+                        ]
+                    ],
+                    "text_description": "계산을 잘못한 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            245.52,
+                            41.22,
+                            735.28,
+                            155.08
+                        ]
+                    ],
+                    "text_description": "$\\frac{12}{5} \\div 3=\\frac{3}{5} \\quad \\frac{9}{2} \\div 4=1 \\frac{1}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.24,
+                            171.98,
+                            185.09,
+                            227.32
+                        ]
+                    ],
+                    "text_description": "$\\frac{12}{5} \\div 3=\\frac{3}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.7,
+                            247.04,
+                            290.04,
+                            301.74
+                        ]
+                    ],
+                    "text_description": "$\\frac{12}{5} \\div 3=\\frac{12 \\div 3}{5}=\\frac{4}{5}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.89,
+                            312.55,
+                            535.56,
+                            435.95
+                        ]
+                    ],
+                    "text_description": "\\[ \\frac{9}{2} \\div 4=\\frac{9}{2} \\times \\frac{1}{4}=1 \\frac{1}{8}\\left(=\\frac{9}{8}\\right) \\] 따라서 계산을 잘못한 것은 $\\frac{12}{5} \\div 3=\\frac{3}{5}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

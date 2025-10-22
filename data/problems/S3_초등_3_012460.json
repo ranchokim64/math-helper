@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f941d9ab-cb7c-4ecd-b2b0-e00f88276c31",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012460",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            10.92,
+                            418,
+                            71.92
+                        ]
+                    ],
+                    "text_description": "그림에서 선분 ㄱㄴ의 길이는 몇 $cm$ 일까요? $?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            121,
+                            85.92,
+                            342,
+                            279.92
+                        ]
+                    ],
+                    "text_description": "선분 ㄱㄴ을 지름선으로 하는 원 안에 반지름이 $7cm$, 지름이 $6cm$, 지름이 $4cm$인 각각의 원 $3$개가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307,
+                            293.5,
+                            359,
+                            316.5
+                        ]
+                    ],
+                    "text_description": "$24cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            323.5,
+                            418,
+                            364.5
+                        ]
+                    ],
+                    "text_description": "선분 ㄱㄴ의 길이는 큰 원 안에 있는 작은 원 3개의 지름을 합한 것과 같습니다. $\\rightarrow 14+6+4=24(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

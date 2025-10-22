@@ -1,0 +1,179 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dd2271b4-7f72-4817-a84b-7cd9c2a0e262",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012199",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.25,
+                            3,
+                            471,
+                            90.5
+                        ]
+                    ],
+                    "text_description": "9~12 마을별 자동차 수를 조사하여 그래프로 나타내었습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.75,
+                            432.75,
+                            494.75,
+                            508
+                        ]
+                    ],
+                    "text_description": "10 자동차 수가 가장 적은 마을은 어느 마을 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.25,
+                            109.25,
+                            462.25,
+                            420.5
+                        ]
+                    ],
+                    "text_description": "마을별 자동차 수의 그림그래프이다. 마을/자동차 수가/220대(큰 자동차 2개, 작은 자동차 2개) 나/224대(큰 자동차 2개, 작은 자동차 4개) 다/320대(큰 자동차 3개, 작은 자동차 2개) 라/300대(큰 자동차 3개) 큰 자동차는 100대 작은 자동차는 10대이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            354.75,
+                            519.25,
+                            427.25,
+                            546.75
+                        ]
+                    ],
+                    "text_description": "가 마을"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            163.5,
+                            559.25,
+                            489.75,
+                            588
+                        ]
+                    ],
+                    "text_description": "의 수가 적을수록 자동차 수가 적은 것입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.5,
+                            590.5,
+                            168.5,
+                            612.5
+                        ]
+                    ],
+                    "text_description": "따라서"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216.75,
+                            589.25,
+                            487.75,
+                            611.75
+                        ]
+                    ],
+                    "text_description": "의 수가 가장 적은가 마을의 자동차 수"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            114.75,
+                            615.25,
+                            249.75,
+                            638
+                        ]
+                    ],
+                    "text_description": "가 가장 적습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.5,
+                            561.75,
+                            164.75,
+                            591.75
+                        ]
+                    ],
+                    "text_description": "큰 자동차"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            169.75,
+                            588,
+                            219.75,
+                            615.5
+                        ]
+                    ],
+                    "text_description": "큰 자동차"
+                }
+            ]
+        }
+    ]
+}

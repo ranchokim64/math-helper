@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "552de515-ec2f-4379-b510-5cf34aabb15f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007462",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            235.73,
+                            38.53,
+                            477.9,
+                            154.11
+                        ]
+                    ],
+                    "text_description": "<보기> - 변이 3 개입니다. - 두 변의 길이가 같습니다. - 모든 각이 예각입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.9,
+                            675.14,
+                            742.08,
+                            817.32
+                        ]
+                    ],
+                    "text_description": "변이 3 개이면 삼각형입니다. 두 변의 길이가 같으면 이등변삼각형이고, 모든 각이 예각이면 예각삼각형입니다. 따라서 이등변삼각형이면서 예각삼각형인 삼각형을 찾습니다. 첫번째 그림은 예각삼각형이지만 이등변삼각형이 아니고, 세 번째 그림은 이등변삼 각형이지만 직각삼각형이므로 답이 아닙니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            152.0,
+                            178.0,
+                            611.0,
+                            486.0
+                        ]
+                    ],
+                    "text_description": "4개의 삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.0,
+                            517.0,
+                            473.0,
+                            657.0
+                        ]
+                    ],
+                    "text_description": "2개의 이등변 삼각형"
+                }
+            ]
+        }
+    ]
+}

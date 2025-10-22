@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "94a938e5-b48a-42fb-901a-96000fae5067",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004429",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            12.92,
+                            386.5,
+                            34.92
+                        ]
+                    ],
+                    "text_description": "다음을 만족하는 도형의 넓이를 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            164.5,
+                            60.92,
+                            325.5,
+                            109.92
+                        ]
+                    ],
+                    "text_description": "- 정사각형입니다. - 둘레가 84cm 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.5,
+                            140.5,
+                            377.5,
+                            162.5
+                        ]
+                    ],
+                    "text_description": "$441 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.5,
+                            171.5,
+                            307.5,
+                            191.5
+                        ]
+                    ],
+                    "text_description": "정사각형의 한 변의 길이를 $\\square \\mathrm{cm}$ 라 하면"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.5,
+                            213.5,
+                            388.5,
+                            230.5
+                        ]
+                    ],
+                    "text_description": "따라서 정사각형의 넓이는 $21 \\times 2 1=441\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.5,
+                            192.5,
+                            279.5,
+                            211.5
+                        ]
+                    ],
+                    "text_description": "$\\square \\times 4=84, \\square=84 \\div 4=21(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

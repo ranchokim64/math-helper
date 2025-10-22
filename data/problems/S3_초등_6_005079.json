@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9e77f3fa-1876-4559-b68e-761fcd28cb59",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005079",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.6,
+                            222.74,
+                            699.4,
+                            314.74
+                        ]
+                    ],
+                    "text_description": "계산 결과를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞 게 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.99,
+                            348.88,
+                            569.24,
+                            422.88
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{2}{5} \\div \\frac{4}{7} \\bigcirc \\frac{3}{4} \\div \\frac{2}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.51,
+                            2.38,
+                            34.49,
+                            44.88
+                        ]
+                    ],
+                    "text_description": "$>$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            115.99,
+                            76.63,
+                            597.49,
+                            213.63
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}1 \\frac{2}{5} \\div \\frac{4}{7}=\\frac{7}{5} \\div \\frac{4}{7}=\\frac{7}{5} \\times \\frac{7}{4}=\\frac{49}{20}=2 \\frac{9}{20} \\\\ \\frac{3}{4} \\div \\frac{2}{5}=\\frac{3}{4} \\times \\frac{5}{2}=\\frac{15}{8}=1 \\frac{7}{8}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

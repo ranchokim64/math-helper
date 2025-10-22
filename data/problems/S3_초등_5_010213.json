@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4a18e947-0274-47ed-abf9-3aafd3ab7f5b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010213",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.39,
+                            8.9,
+                            665.67,
+                            79.94
+                        ]
+                    ],
+                    "text_description": "다음과 같이 주머니 속에 빨간색 구슬 1개와 파란색 구슬 1개가 들어 있습니다. 주머니에서 구슬 1개를 꺼낼 때 꺼낸 구슬이 빨간색일 가능성을 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289.87,
+                            83.21,
+                            402.06,
+                            193.5
+                        ]
+                    ],
+                    "text_description": "복주머니 안에 빨간색 구슬과 파란색 구슬이 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180.9,
+                            196.91,
+                            510.6,
+                            347.33
+                        ]
+                    ],
+                    "text_description": "$0$과 $\\frac{1}{2}$과 $1$이 수직선 위에 그려져 있다 $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.11,
+                            357.9,
+                            371.9,
+                            429.63
+                        ]
+                    ],
+                    "text_description": "$0$과 $\\frac{1}{2}$과 $1$이 수직선 위에 그려져 있고 화살표가 $\\frac{1}{2}$에 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.67,
+                            438.14,
+                            665.67,
+                            501.7
+                        ]
+                    ],
+                    "text_description": "구글 한 개를 꺼낼 때 빨간색이 나올 가능성은 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

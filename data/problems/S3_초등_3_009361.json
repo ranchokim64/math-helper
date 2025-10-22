@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5c89074c-1aab-45e6-a888-b59f65f3abd9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009361",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.94,
+                            6.24,
+                            822.18,
+                            58.92
+                        ]
+                    ],
+                    "text_description": "분모가 12 인 분수 중에서 $\\frac{7}{12}$보다 크고 $\\frac{11}{12}$보다 작은 분수를 모두 찾아"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.1,
+                            67.88,
+                            152.74,
+                            94.12
+                        ]
+                    ],
+                    "text_description": "선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            173.5,
+                            101.92,
+                            675.5,
+                            205.92
+                        ]
+                    ],
+                    "text_description": "오렌지색 상자에 다음과 같은 내용이 들어 있다. $\\begin{array}{ccccc}\\frac{7}{12} & \\frac{8}{12} & \\frac{9}{12} & \\frac{10}{12} & \\frac{11}{12}\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            216.5,
+                            173.5,
+                            270.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{12}, \\frac{9}{12}, \\frac{10}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.18,
+                            282.28,
+                            662.18,
+                            400.68
+                        ]
+                    ],
+                    "text_description": "분모가 모두 12로 같으므로 분자를 비교합니다. $7<8<9<10<11$이므로 7보다 크고 11보다 작은 수는 $8, 9, 10$ 입니다. 따라서 $\\frac{7}{12}$보다 크고 $\\frac{11}{12}$보다 작은 분수는 $\\frac{8}{12}, \\frac{9}{12}, \\frac{10}{12}$입니다."
+                }
+            ]
+        }
+    ]
+}

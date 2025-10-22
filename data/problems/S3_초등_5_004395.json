@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eb0ca322-5231-400f-8630-70d73732e410",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004395",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.22,
+                            5.02,
+                            394.54,
+                            27.14
+                        ]
+                    ],
+                    "text_description": "가장 큰 수와 가장 작은 수의 차를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.26,
+                            37.66,
+                            384.3,
+                            114.46
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{5}{6} \\quad 1 \\frac{11}{12} \\quad 2 \\frac{7}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307.22,
+                            116.12,
+                            341.42,
+                            162.84
+                        ]
+                    ],
+                    "text_description": "$\\frac{23}{24}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.58,
+                            163.48,
+                            423.34,
+                            244.76
+                        ]
+                    ],
+                    "text_description": "가장 큰 수는 $2 \\frac{7}{8}$, 가장 작은 수는 $1 \\frac{11}{12}$ 이므로 그 차는 \\[ 2 \\frac{7}{8}-1 \\frac{11}{12}=2 \\frac{21}{24}-1 \\frac{22}{24}=1 \\frac{45}{24}-1 \\frac{22}{24}=\\frac{23}{24} \\text { 입니다. } \\]"
+                }
+            ]
+        }
+    ]
+}

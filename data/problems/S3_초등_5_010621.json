@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7c375191-0bcc-4ba0-a2f1-c4102b5d498e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010621",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.9,
+                            3.94,
+                            877.1,
+                            71.14
+                        ]
+                    ],
+                    "text_description": "남학생 15명은 3명씩 한 모둠을 만들고, 여학생 12명은 4명씩 한 모둠을 만들었습니다. 만든 모둠은 모두 몇 모둠인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            451.5,
+                            120.92,
+                            538.5,
+                            151.92
+                        ]
+                    ],
+                    "text_description": "④ 8 모둠"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            83.5,
+                            126.5,
+                            192.5
+                        ]
+                    ],
+                    "text_description": "① 5 모둠 ③ 7 모둠 ⑤ 9 모둠"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            449.5,
+                            82.5,
+                            543.5,
+                            113.5
+                        ]
+                    ],
+                    "text_description": "② 6 모둠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            245.5,
+                            549.5,
+                            281.5
+                        ]
+                    ],
+                    "text_description": "(만든 모둠 수) $=15 \\div 3+12 \\div 4=5+3=8$ (모둠)"
+                }
+            ]
+        }
+    ]
+}

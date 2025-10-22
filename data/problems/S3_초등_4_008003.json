@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bc6b2bf4-3b32-4f44-b867-df17c70f46d7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008003",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-13] 주어진 각도와 크기가 같은 각을 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            1,
+                            632.5,
+                            34
+                        ]
+                    ],
+                    "text_description": "각도기 위에 $105^{\\circ}$의 각을 그린 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            247.5,
+                            41,
+                            710.5,
+                            314
+                        ]
+                    ],
+                    "text_description": "각도기의 각이 105도이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            246.5,
+                            359,
+                            710.5,
+                            631
+                        ]
+                    ],
+                    "text_description": "각도기의 각이 125도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            642,
+                            413.5,
+                            859
+                        ]
+                    ],
+                    "text_description": "각도기의 각이 105도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            871,
+                            603.5,
+                            903
+                        ]
+                    ],
+                    "text_description": "위의 각은 $105^{\\circ}$, 아래의 각은 $125^{\\circ}$를 그린 것입니다."
+                }
+            ]
+        }
+    ]
+}

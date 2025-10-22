@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "49f0d449-ce82-483f-8852-841bee64b826",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005506",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.9,
+                            13.34,
+                            609.5,
+                            262.14
+                        ]
+                    ],
+                    "text_description": "그림과 같이 원 ㉮와 원 ㉯가 겹쳐져 있습니다. 겹쳐진 부분의 넓이는 원 ㉮의 $\\frac{1}{5}$ 이고, 원 ㉯의 $\\frac{3}{7}$ 입니다. 원 ㉮와 원㉯의 넓이의 비를 간단한 자연수의 비로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            217.5,
+                            275.4,
+                            467.9,
+                            433
+                        ]
+                    ],
+                    "text_description": "㉮놔 ㉯ 원 두개가 교집합 되어있는 그림입니다. 교접합 되어이쓴 ㄴ부분은 옆은 색으로 칠해져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            450.3,
+                            457.8,
+                            526.3,
+                            489.8
+                        ]
+                    ],
+                    "text_description": "I5:7"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.23,
+                            315.8,
+                            218.83,
+                            427
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (원 (가)의 넓이) } \\times \\frac{1}{5} \\\\ =(\\text { 원 (나의 넓이 }) \\times \\frac{3}{7}\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.03,
+                            429,
+                            284.43,
+                            509.4
+                        ]
+                    ],
+                    "text_description": "(원 ㉮의 넓이) : (원 ㉯의 넓이) \\[ =\\frac{3}{7}: \\frac{1}{5} \\]"
+                }
+            ]
+        }
+    ]
+}

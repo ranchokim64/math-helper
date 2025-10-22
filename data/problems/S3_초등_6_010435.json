@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "518dbd0b-4461-4dae-bf8a-698f47f26f54",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010435",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.78,
+                            7.9,
+                            672.97,
+                            37.56
+                        ]
+                    ],
+                    "text_description": "몫을 어림해 보고 알맞은 식을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            358.62,
+                            47.94,
+                            622.56,
+                            279.25
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{l} $60. 4 \\div 2=302$ \\\\ \\hline $60. 4 \\div 2=30. 2$ \\\\ $60. 4 \\div 2=3. 02$ \\\\ \\hline $60. 4 \\div 2=0. 302$ \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.43,
+                            299.7,
+                            214.05,
+                            324.9
+                        ]
+                    ],
+                    "text_description": "$60. 4 \\div 2=30. 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.43,
+                            345.66,
+                            718.94,
+                            369.39
+                        ]
+                    ],
+                    "text_description": "$60. 4 \\div 2$에서 60. 4를 소수 첫째 자리에서 반올림하면 60 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            380.51,
+                            615.89,
+                            404.97
+                        ]
+                    ],
+                    "text_description": "$60 \\div 2$의 몫은 30 이므로 $60. 4 \\div 2=30. 2$가 답이 됩니다."
+                }
+            ]
+        }
+    ]
+}

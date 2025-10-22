@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "27c22c91-fbfa-466e-86f1-d47e9969f205",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010260",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.39,
+                            15.67,
+                            614.8,
+                            70.26
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 $\\frac{3}{28}$ 인 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            189,
+                            79,
+                            772,
+                            199
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{7} \\div 9 \\quad \\frac{9}{14} \\div 6 \\quad \\frac{21}{25} \\div 7$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.86,
+                            215.16,
+                            122.71,
+                            265.07
+                        ]
+                    ],
+                    "text_description": "$\\frac{9}{14} \\div 6$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.64,
+                            290.25,
+                            363.01,
+                            472.61
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { } \\frac{3}{7} \\div 9 & =\\frac{3}{7} \\times \\frac{1}{9}=\\frac{1}{21}\\left(=\\frac{3}{63}\\right) \\\\ \\frac{9}{14} \\div 6 & =\\frac{9}{14} \\times \\frac{1}{6}=\\frac{3}{28}\\left(=\\frac{9}{84}\\right) \\\\ \\frac{21}{25} \\div 7 & =\\frac{21 \\div 7}{25}=\\frac{3}{25}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

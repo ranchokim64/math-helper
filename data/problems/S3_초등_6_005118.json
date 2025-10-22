@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2b0325aa-c1be-4f73-9f30-6eb0f93f5701",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005118",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            165.42,
+                            271.5,
+                            203.42
+                        ]
+                    ],
+                    "text_description": "㉡을 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            15.42,
+                            548.5,
+                            149.42
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{3}{4} \\div \\frac{5}{8}$ ㉡ $\\frac{4}{7} \\div \\frac{7}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.5,
+                            312,
+                            195.5,
+                            386
+                        ]
+                    ],
+                    "text_description": "$\\frac{36}{49}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.5,
+                            220,
+                            295.5,
+                            284
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{7} \\div \\frac{7}{9}=\\frac{4}{7} \\times \\frac{9}{7}=\\frac{36}{49}$"
+                }
+            ]
+        }
+    ]
+}

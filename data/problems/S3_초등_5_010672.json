@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2b832b3a-e071-4289-ab46-80867f2d3a1e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010672",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            3.91,
+                            721.5,
+                            30.91
+                        ]
+                    ],
+                    "text_description": "두 수의 최소공배수가 더 작은 것을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            376.5,
+                            115.5,
+                            513.5,
+                            152.5
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            343.0,
+                            53.0,
+                            423.0,
+                            93.0
+                        ]
+                    ],
+                    "text_description": "(16,20)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            499.0,
+                            63.0,
+                            587.0,
+                            93.0
+                        ]
+                    ],
+                    "text_description": "(21,35)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            401.5,
+                            225.5,
+                            636.5,
+                            349.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l} 7 \\lcm{2135} \\\\ 35 \\\\ \\Rightarrow 21 \\text { 과 } 35 \\text { 의 최소공배수 } \\\\ 7 \\times 3 \\times 5=105\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.5,
+                            224.5,
+                            297.5,
+                            378.5
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text { } \\begin{array}{r} 2 \\lcm{16 \\quad 20} \\\\ 2 \\lcm{8 \\quad 10} \\\\ \\hline 445 \\end{array} \\\\ \\Rightarrow 16 \\text { 과 } 20 \\text { 의 최소공배수 } \\\\ 2 \\times 2 \\times 4 \\times 5=80 \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

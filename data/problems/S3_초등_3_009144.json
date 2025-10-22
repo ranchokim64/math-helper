@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a9c03b86-b5b9-4af2-9a43-9806b2a6bcc0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009144",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.82,
+                            9.49,
+                            642.02,
+                            35.09
+                        ]
+                    ],
+                    "text_description": "$35 \\div 7$의 몫을 구할 때 필요한 곱셈식은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.620000000000005,
+                            87.32,
+                            161.62,
+                            113.52
+                        ]
+                    ],
+                    "text_description": "$7 \\times 5=35$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.620000000000005,
+                            50.52,
+                            159.42,
+                            76.12
+                        ]
+                    ],
+                    "text_description": "① $7 \\times 3=21$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            429.82,
+                            52.12,
+                            558.02,
+                            113.12
+                        ]
+                    ],
+                    "text_description": "② $7 \\times 4=28$ ④ $7 \\times 6=42$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.42,
+                            126.92,
+                            159.82,
+                            151.72
+                        ]
+                    ],
+                    "text_description": "⑤ $7 \\times 7=49$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.82,
+                            210.12,
+                            533.62,
+                            234.12
+                        ]
+                    ],
+                    "text_description": "7단 곱셈구구에서 곱이 35인 곱셈식이 필요합니다."
+                }
+            ]
+        }
+    ]
+}

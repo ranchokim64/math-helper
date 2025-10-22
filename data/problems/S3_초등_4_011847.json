@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b2bc7842-6176-4612-96bc-29c9d9c3570b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011847",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.27,
+                            19.23,
+                            464.27,
+                            51.23
+                        ]
+                    ],
+                    "text_description": "각 ㉠과 각 ㉡의 크기는 각각 몇 도일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            168.27,
+                            62.77,
+                            374.27,
+                            177.77
+                        ]
+                    ],
+                    "text_description": "두 변의 길이가 12cm인 이등변삼각형으로 아래 왼쪽 각은 50$^{\\circ}$이고 위 각은 ㉠, 아래 오른쪽 각은 ㉡이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188.27,
+                            186.77,
+                            485.27,
+                            221.77
+                        ]
+                    ],
+                    "text_description": "㉠ $80^{\\circ}$, ㉡ $50^{\\circ} \\quad$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.27,
+                            225.77,
+                            417.27,
+                            272.77
+                        ]
+                    ],
+                    "text_description": "두 변의 길이가 12cm이므로 $($각㉡$)=50^{\\circ}, ($각㉠$)=180^{\\circ}-50^{\\circ}-50^{\\circ}=80^{\\circ}$"
+                }
+            ]
+        }
+    ]
+}

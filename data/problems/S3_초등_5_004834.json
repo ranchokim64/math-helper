@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7af7d358-0dc4-45c6-a63e-9bb9b54e6552",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004834",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.02,
+                            10.79,
+                            491.42,
+                            81.99
+                        ]
+                    ],
+                    "text_description": "종호네 모둠 학생 8명의 몸무게를 조사한 것입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.02,
+                            252.82,
+                            469.82,
+                            318.42
+                        ]
+                    ],
+                    "text_description": "종호네 모둠 학생들의 몸무게는 평균 몇 kg인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.02,
+                            100.82,
+                            490.62,
+                            236.82
+                        ]
+                    ],
+                    "text_description": "학생들의 몸무게 \\[ \\begin{array}{llll} 38 \\mathrm{~kg} & 40 \\mathrm{~kg} & 46 \\mathrm{~kg} & 41 \\mathrm{~kg} \\\\ 45 \\mathrm{~kg} & 43 \\mathrm{~kg} & 47 \\mathrm{~kg} & 44 \\mathrm{~kg} \\end{array} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.22,
+                            342.42,
+                            384.22,
+                            371.22
+                        ]
+                    ],
+                    "text_description": "43kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.82,
+                            380.02,
+                            172.22,
+                            404.82
+                        ]
+                    ],
+                    "text_description": "$344 \\div 8=43(\\mathrm{~kg})$"
+                }
+            ]
+        }
+    ]
+}

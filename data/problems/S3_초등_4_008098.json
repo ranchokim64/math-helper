@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "334aae5d-ea4c-4928-a463-0882651f850e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008098",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.120000000000005,
+                            7.49,
+                            929.16,
+                            80.45
+                        ]
+                    ],
+                    "text_description": "희수와 준호는 각자 그린 삼각형의 세 각의 크기를 각각 재었습니다. 각 도를 잘못 잰 사람의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            258.16,
+                            115.65,
+                            412.4,
+                            221.89
+                        ]
+                    ],
+                    "text_description": "\\[75^{\\circ}, 65^{\\circ}, 50^{\\circ}\\] 희수"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            545.52,
+                            117.3,
+                            698.48,
+                            220.98
+                        ]
+                    ],
+                    "text_description": "\\[35^{\\circ}, 80^{\\circ}, 65^{\\circ}\\] 준호"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.84,
+                            249.78,
+                            105.2,
+                            276.66
+                        ]
+                    ],
+                    "text_description": "희수"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.84,
+                            297.22,
+                            514.16,
+                            324.02
+                        ]
+                    ],
+                    "text_description": "삼각형의 세 각의 크기의 합은 $180^{\\circ}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.88,
+                            368.82,
+                            487.28,
+                            395.7
+                        ]
+                    ],
+                    "text_description": "따라서 각도를 잘못 잰 사람은 희수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.44,
+                            335.26,
+                            648.56,
+                            363.7
+                        ]
+                    ],
+                    "text_description": "희수: $75^{\\circ}+65^{\\circ}+50^{\\circ}=190^{\\circ}$, 준호: $35^{\\circ}+80^{\\circ}+65^{\\circ}=180^{\\circ}$"
+                }
+            ]
+        }
+    ]
+}

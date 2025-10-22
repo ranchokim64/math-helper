@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e37bff4b-a6da-4b02-9b56-83e0d1fc3ce1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012507",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            12.33,
+                            491.1,
+                            68.33
+                        ]
+                    ],
+                    "text_description": "지름이 3cm인 원 3개를 그림과 같이 나란히 놓았을 때, 선분 ㄱㄹ의 길이는 몇 cm일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.5,
+                            87.53,
+                            427.1,
+                            198.73
+                        ]
+                    ],
+                    "text_description": "이미지는 가로로 배치된 세 개의 원과 그 주변의 직사각형을 보여줍니다. 각 원의 반지름은 3cm이며, 원의 중심이 일직선으로 배열되어 있습니다. 원들은 서로 접하고 있습니다. 직사각형의 상단과 하단에는 평행한 선이 그려져 있습니다. 바깥의 직사각형의 꼭지점은 ㄱ, ㄴ, ㄷ, ㄹ로 표시됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            387.9,
+                            206.4,
+                            429.5,
+                            226.4
+                        ]
+                    ],
+                    "text_description": "9cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.3,
+                            234.4,
+                            363.9,
+                            255.2
+                        ]
+                    ],
+                    "text_description": "(선분 ㄱㄹ의 길이) $=($ 원의 지름 $) \\times 3=3 \\times 3=9(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

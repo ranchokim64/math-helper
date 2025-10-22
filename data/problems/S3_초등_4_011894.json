@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dab8237a-1a8f-4c73-95e7-5e7ff8bb947d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011894",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.06,
+                            12.97,
+                            390.86,
+                            62.57
+                        ]
+                    ],
+                    "text_description": "대각선의 수가 많은 순서대로 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.26,
+                            75.37,
+                            391.66,
+                            176.17
+                        ]
+                    ],
+                    "text_description": "가: 육각형 나: 삼각형 다: 오각형 라: 정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            265.26,
+                            189.37,
+                            357.26,
+                            209.77
+                        ]
+                    ],
+                    "text_description": "가, 다, 라, 나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.86,
+                            215.06,
+                            330.06,
+                            235.06
+                        ]
+                    ],
+                    "text_description": "대각선의 수: 가-9개, 나-0개, 다-5개, 라-2개"
+                }
+            ]
+        }
+    ]
+}

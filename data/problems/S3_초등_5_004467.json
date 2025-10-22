@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3d0a4288-b633-4165-a903-e4d08fa6e4ca",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004467",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.36,
+                            2.41,
+                            432.92,
+                            55.53
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이가 $96 \\mathrm{~cm}^{2}$ 일 때, 색칠한 평행사변 형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.8,
+                            66.41,
+                            308.12,
+                            204.01
+                        ]
+                    ],
+                    "text_description": "이 이미지는 한 변의 길이가 12cm인 직사각형과 한 변의 길이가 4cm인 직사각형이 포함된 그림입니다. 직사각형 내부에는 대각선으로 된 보라색 영역이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303,
+                            219.74,
+                            365.72,
+                            245.98
+                        ]
+                    ],
+                    "text_description": "$32 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.48,
+                            256.22,
+                            283.16,
+                            274.78
+                        ]
+                    ],
+                    "text_description": "$($ 직사각형의 세로 $)=96 \\div 12=8(\\mathrm{~cm})$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            125.08,
+                            274.14,
+                            348.44,
+                            295.26
+                        ]
+                    ],
+                    "text_description": "(평행사변형의 넓이) $=4 \\times 8=32\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

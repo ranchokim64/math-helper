@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "917414a8-7cd0-4674-818b-177114d7e658",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002878",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.1,
+                            13.04,
+                            412.1,
+                            50.64
+                        ]
+                    ],
+                    "text_description": "○ 안에 $>, =, <$를 알맞게 써넣으세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.5,
+                            64,
+                            360.5,
+                            162
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{4} \\times 28 \\bigcirc 6 \\frac{3}{4}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.5,
+                            174,
+                            333.5,
+                            326
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\frac{1}{4} \\times 28=7 \\text { 이므로 } \\\\ \\frac{1}{4} \\times 28>6 \\frac{3}{4}\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.5,
+                            344.0,
+                            491.5,
+                            468.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{4} \\times 28 \\quad>\\quad 6 \\frac{3}{4}$"
+                }
+            ]
+        }
+    ]
+}

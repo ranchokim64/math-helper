@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "799c7c9a-d61c-4f3c-9420-6467adf0b872",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017757",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.71,
+                            9.22,
+                            314.91,
+                            32.26
+                        ]
+                    ],
+                    "text_description": "다음 분수 나누기를 계산하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            441.38,
+                            58.86,
+                            532.51,
+                            115.2
+                        ]
+                    ],
+                    "text_description": "$\\frac{12}{25} \\div \\frac{6}{25}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.71,
+                            182.27,
+                            47.14,
+                            204.29
+                        ]
+                    ],
+                    "text_description": "② $2$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.18,
+                            144.9,
+                            59.94,
+                            165.89
+                        ]
+                    ],
+                    "text_description": "① $48$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.2,
+                            220.67,
+                            60.45,
+                            316.9
+                        ]
+                    ],
+                    "text_description": "③ $5$ ④ $3$ ⑤ $12$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.22,
+                            346.11,
+                            189.47,
+                            448
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\frac{12}{25} \\div & \\frac{6}{25}=\\frac{12}{6} \\\\ & =2\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

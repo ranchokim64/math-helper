@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5b403972-9846-41e2-a9a7-173896a77336",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008195",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.4,
+                            0,
+                            572,
+                            28.8
+                        ]
+                    ],
+                    "text_description": "도형을 밀었을 때 옳은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106,
+                            38.8,
+                            855.2,
+                            394.4
+                        ]
+                    ],
+                    "text_description": "이미지는 두 개의 좌표 평면을 포함하고 있으며, 각 평면은 1cm 간격으로 격자무늬가 그려져 있습니다. 왼쪽 그림에서는 두 개의 대각선이 있는 삼각형이 그려져 있으며, 한쪽 삼각형의 아래쪽에 \"아랫쪽으로 4cm 밀기\"라는 문구가 보입니다. 두 삼각형 모두 검은색 선으로 표시되어 있으며, 서로 다른 크기입니다. 오른쪽 그림은 왼쪽 그림과 거의 동일하나, 위쪽에 있는 삼각형의 위치가 아래쪽으로 4cm이동된 상태를 보여줍니다. 각 삼각형의 위치가 서로 다르게 그려져 있습니다. 이 두 이미지 모두 특정 도형의 이동을 시각적으로 표현하고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            406.84,
+                            400,
+                            760.44
+                        ]
+                    ],
+                    "text_description": "위쪽에 있는 삼각형의 위치가 아래쪽으로 4cm이동된 상태를 보여줍니다. 각 삼각형의 위치가 서로 다르게 그려져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.6,
+                            773.24,
+                            588,
+                            798.04
+                        ]
+                    ],
+                    "text_description": "왼쪽 그림은 도형을 아래쪽으로 3cm 민 것입니다."
+                }
+            ]
+        }
+    ]
+}

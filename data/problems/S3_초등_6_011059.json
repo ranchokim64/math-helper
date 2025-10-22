@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e91b0434-77ce-4536-8a60-458ebb763c03",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011059",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.8,
+                            6.84,
+                            858.8,
+                            66.44
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 쌓은 모양을 보고 위에서 본 모양이 될 수 있는 것을 모두 선택 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            396,
+                            74.44,
+                            494,
+                            162.44
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 쌓은 모양이 있습니다. 1층에는 5개, 2층에는 4개의 쌓기나무가 쌓여있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            190,
+                            162.1,
+                            702.8,
+                            288.5
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 위에서 본 모양을 표현하고 있습니다. ① 4x4의 모눈종이에 7칸이 칠해져 있습니다. ② 4x4의 모눈종이에 7칸이 칠해져 있습니다. 첫번째와 모양이 다릅니다. ③ 4x4의 모눈종이에 8칸이 칠해져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.8,
+                            299.7,
+                            108.4,
+                            326.1
+                        ]
+                    ],
+                    "text_description": "②, ③"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.2,
+                            452.7,
+                            418,
+                            474.9
+                        ]
+                    ],
+                    "text_description": "①은 $\\bigcirc$표 한 쌓기나무가 보여야 합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.8,
+                            338.9,
+                            162.8,
+                            450.9
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 위에서 본 모양을 표현하고 있습니다. 4x4의 모눈종이에 7칸이 칠해져 있고, $\\bigcirc$ 표시가 있습니다."
+                }
+            ]
+        }
+    ]
+}

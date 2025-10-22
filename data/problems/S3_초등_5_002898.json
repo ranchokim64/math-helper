@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f578273b-48d2-433e-828a-841e74df9e62",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002898",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            6.4,
+                            466,
+                            34.4
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 1보다 큰 것을 찾아 $\\bigcirc$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17,
+                            59.4,
+                            739,
+                            138.4
+                        ]
+                    ],
+                    "text_description": "$0. 19 \\times 4$ $0. 43 \\times 2$ $0. 51 \\times 3$ $0. 27 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            154.4,
+                            805,
+                            239.4
+                        ]
+                    ],
+                    "text_description": "$0. 19 \\times 4$ $0. 43 \\times 2$ $0. 51 \\times 3$ $\\bigcirc$ $0. 27 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            250.4,
+                            506,
+                            388.4
+                        ]
+                    ],
+                    "text_description": "$0. 19 \\times 4$는 0. 2와 4의 곱인 0. 8보다 작습니다. $0. 43 \\times 2$는 0. 5와 2의 곱인 1보다 작습니다. $0. 51 \\times 3$은 0. 5와 3의 곱인 1. 5보다 큽니다. $0. 27 \\times 3$은 0. 3과 3의 곱인 0. 9보다 작습니다. 따라서 계산 결과가 1보다 큰 것은 $0. 51 \\times 3$입니다."
+                }
+            ]
+        }
+    ]
+}

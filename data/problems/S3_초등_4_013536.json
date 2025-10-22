@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d66d5eb8-f40a-4e87-8999-287b245c9f92",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-05-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_013536",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.5,
+                            14.92,
+                            747.5,
+                            105.92
+                        ]
+                    ],
+                    "text_description": "다음 막대로 만들 수 있는 사각형을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.5,
+                            160.5,
+                            408.5,
+                            326.5
+                        ]
+                    ],
+                    "text_description": "나무 막대가 4개 있습니다. 2개의 긴 나무와 2개의 짧은 나무가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            460.5,
+                            172.92,
+                            621.5,
+                            210.92
+                        ]
+                    ],
+                    "text_description": "② 사다리꼴"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            459.5,
+                            271.5,
+                            648.5,
+                            356.5
+                        ]
+                    ],
+                    "text_description": "④ 직사각형 ⑤ 평행사변형"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            458.5,
+                            221.5,
+                            618.5,
+                            259.5
+                        ]
+                    ],
+                    "text_description": "③ 정사각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            459.5,
+                            126.5,
+                            590.5,
+                            161.5
+                        ]
+                    ],
+                    "text_description": "① 마름모"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.5,
+                            410.5,
+                            595.5,
+                            560.5
+                        ]
+                    ],
+                    "text_description": "길이가 같은 막대가 2개씩 2쌍 있으므로 사각형은 사다리꼴, 직사각형, 평행사변형을 만들 수 있습니다. 마름모와 정사각형은 네 변의 길이가 같아야 하므로 만들 수 없습니다."
+                }
+            ]
+        }
+    ]
+}

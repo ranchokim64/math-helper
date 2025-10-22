@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "491fc4a5-cffa-45b0-8392-9faf29495d13",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007589",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.64,
+                            4.79,
+                            844.94,
+                            71.33
+                        ]
+                    ],
+                    "text_description": "점 종이에 주어진 선분을 사용하여 마름모를 바르게 만든 것을 선택하세 요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.02,
+                            597.01,
+                            563.48,
+                            621.29
+                        ]
+                    ],
+                    "text_description": "네 변의 길이가 모두 같은 사각형이 되도록 그립니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            276.0,
+                            250.0,
+                            595.0,
+                            411.0
+                        ]
+                    ],
+                    "text_description": "점 종이에 네변의 길이가 같은 사각형을 그린 이미"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            279.0,
+                            84.0,
+                            596.0,
+                            239.0
+                        ]
+                    ],
+                    "text_description": "점 종이에 네변의 길이가 다른 사각형을 그린 이미지"
+                }
+            ]
+        }
+    ]
+}

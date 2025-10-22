@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c7b39f7-a9e7-41e2-946c-7d8863a19959",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002944",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.6,
+                            10.54,
+                            730.2,
+                            94.54
+                        ]
+                    ],
+                    "text_description": "다음과 같은 카드 6장이 들어 있는 주머니에서 카드 1장을 꺼낼 때 하트 카드가 나올 가능성을 말과 수로 표현해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.8,
+                            110.54,
+                            670.2,
+                            211.34
+                        ]
+                    ],
+                    "text_description": "원 카드와 하트 카드가 섞여서 정렬되어 있는 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.8,
+                            416.8,
+                            482,
+                            473.4
+                        ]
+                    ],
+                    "text_description": "말 반반이다 수 $\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            307.4,
+                            732.6,
+                            407
+                        ]
+                    ],
+                    "text_description": "전체 카드는 6장이고 그중 하트 카드는 3장이므로 하트 카드가 나올 가능성을 말로 표현 하면 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$입니다."
+                }
+            ]
+        }
+    ]
+}

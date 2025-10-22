@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "aa869974-e2ec-40e4-abc7-09406e8b51a1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008157",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.76,
+                            9.3,
+                            596.63,
+                            36.49
+                        ]
+                    ],
+                    "text_description": "몫이 한 자리 수인 나눗셈은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.94,
+                            141.82,
+                            158.48,
+                            166.27
+                        ]
+                    ],
+                    "text_description": "$295 \\div 51$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.94,
+                            55.84,
+                            609.73,
+                            125.85
+                        ]
+                    ],
+                    "text_description": "① $196 \\div 14$ ② $356 \\div 32$ ③ $542 \\div 37$ ④ $748 \\div 69$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.130000000000003,
+                            233.56,
+                            931.35,
+                            516.64
+                        ]
+                    ],
+                    "text_description": "(세 자리 수) $\\div$ (두 자리 수)의 몫이 한 자리 수가 되려면 나누어지는 수의 왼쪽 두 자리 수가 나누는 수보다 작아야 합니다. ① $196 \\div 14 \\rightarrow 19>14$ ② $356 \\div 32 \\rightarrow 35>32$ ③ $542 \\div 37 \\rightarrow 54>37$ ④ $748 \\div 69 \\rightarrow 74>69$ ⑤ $295 \\div 51 \\rightarrow 29<51$ 따라서 몫이 한 자리 수인 나눗셈은 ⑤입니다."
+                }
+            ]
+        }
+    ]
+}

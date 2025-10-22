@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "512e9753-9c01-4757-9be3-a3c3417587fd",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002859",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.2,
+                            11.35,
+                            310.6,
+                            32.15
+                        ]
+                    ],
+                    "text_description": "무게가 500g 초과인 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            49.38,
+                            542,
+                            214.18
+                        ]
+                    ],
+                    "text_description": "저울 위에 보따리가 있는 그림이 3개로 각각가, 나, 다로 나뉜다. 가는 500g, 나는 497g, 다는 501g이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.6,
+                            274.98,
+                            137.2,
+                            305.38
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            232.38,
+                            622.8,
+                            254.18
+                        ]
+                    ],
+                    "text_description": "500초과인 수는 500보다 큰 수이므로 무게가 500g 초과인 것은 다입니다."
+                }
+            ]
+        }
+    ]
+}

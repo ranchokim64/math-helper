@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2a93c393-84b2-4541-8a63-e986bced37d6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005769",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-10] 부피를 이해하고, 1cm³, 1m³의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-18] 부피 단위 1cm³, 1m³를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            4.52,
+                            437.6,
+                            94.12
+                        ]
+                    ],
+                    "text_description": "두 상자에 크기가 같은 쌓기나무를 담아 부피를 비교하려고 합니다. 부피가 더 큰 상자는 어느 것인지 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            102.12,
+                            420,
+                            254.92
+                        ]
+                    ],
+                    "text_description": "가는 쌓기 나무를 가로 3개, 세로 3개, 높이 3개로 넣을 수 있는 상자이다. 나는 쌓기 나무를 가로 4개, 세로 4개, 높이 2개로 넣을 수 있는 상자이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316,
+                            270.12,
+                            340,
+                            294.92
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.2,
+                            306.12,
+                            436,
+                            350.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 가에 $3 \\times 3 \\times 3=27$(개), 나에 $4 \\times 4 \\times 2=32$(개) 담을 수 있으므로 부피가 더 큰 상자는 나입니다."
+                }
+            ]
+        }
+    ]
+}

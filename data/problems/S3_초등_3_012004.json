@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "84e13567-e970-4fa7-bd0d-bf758bf7e2a1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012004",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.6,
+                            0.88,
+                            525.6,
+                            128.88
+                        ]
+                    ],
+                    "text_description": "우리집에서 약 $600m$ 떨어진 곳과 $1km$ 떨어진 곳에 있는 장소를 적어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.6,
+                            149.88,
+                            523.6,
+                            664.88
+                        ]
+                    ],
+                    "text_description": "지도가 있고 오른쪽 위에 우리 집이 있다. 아래로 $400m$ 떨어진 곳에 병원이 위치해 있고, 아래 쪽으로 도서관, 학교, 우체국이 위치해 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.6,
+                            744.5,
+                            520.6,
+                            830.5
+                        ]
+                    ],
+                    "text_description": "약 $600m$ : 도서관 약 $1km$ : 학교, 우체국"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.6,
+                            673.5,
+                            525.6,
+                            725.5
+                        ]
+                    ],
+                    "text_description": "우리집에서 병원까지의 거리가 $400m$ 인 것과 비교하여 약 $600m$ 떨어진 곳과 $1km$ 떨어진 곳의 장소를 찾습니다."
+                }
+            ]
+        }
+    ]
+}

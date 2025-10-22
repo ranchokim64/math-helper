@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1f8f5e40-1785-4c52-ac1c-0bc3c43f3c3e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004495",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.5,
+                            0.92,
+                            287.5,
+                            25.92
+                        ]
+                    ],
+                    "text_description": "삼각형의 넓이는 몇 $\\mathrm{m}^{2}$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138.5,
+                            38.92,
+                            345.5,
+                            165.92
+                        ]
+                    ],
+                    "text_description": "삼각형의 가로 13m 세로 8m 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.5,
+                            232.5,
+                            131.5,
+                            254.5
+                        ]
+                    ],
+                    "text_description": "$52 \\mathrm{~m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.5,
+                            171.5,
+                            265.5,
+                            219.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { (삼각형의 넓이) } & =(\\text { 밀변의 길이) } \\times(\\text { 높이) } \\div 2 \\\\ & =13 \\times 8 \\div 2=52\\left(\\mathrm{~m}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

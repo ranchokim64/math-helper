@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5ac8be24-ea36-4bb1-acf4-9381f74b3202",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007998",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-13] 주어진 각도와 크기가 같은 각을 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            13.42,
+                            925.5,
+                            80.42
+                        ]
+                    ],
+                    "text_description": "선분 ㄱㄴ을 한 변으로 하여 각도가 $120^{\\circ}$ 인 각 ㄱㄴㄷ을 그리려고 합니다. 점 ㄷ은 어디에 찍어야 할까요? 알맞은 번호를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            242.5,
+                            106.42,
+                            672.5,
+                            268.42
+                        ]
+                    ],
+                    "text_description": "왼쪽 녹색 박스에는 $120^{\\circ}$라고 적혀있습니다. 오른쪽에는 180도를 측정할 수 있는 각도기가 있습니다. 각도기 위에 선분 ㄱㄴ이 그어져 있으며, 각도기의 30도, 60도, 120도 부분에 빨간 점이 있습니다. 각각 ①, ②, ③으로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            288,
+                            80.5,
+                            314
+                        ]
+                    ],
+                    "text_description": "③"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            334,
+                            875.5,
+                            362
+                        ]
+                    ],
+                    "text_description": "각도기의 바깥쪽 눈금이 120이 되는 곳에 점을 찍고 각의 꼭짓점과 잇습니다."
+                }
+            ]
+        }
+    ]
+}

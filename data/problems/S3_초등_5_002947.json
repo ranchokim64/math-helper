@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "93f7474f-8d05-4b36-9107-252572908fdf",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002947",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0,
+                            7.04,
+                            368,
+                            35.04
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 큰 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            71.84,
+                            594.4,
+                            107.04
+                        ]
+                    ],
+                    "text_description": "㉠ $32+9-6$ ㉡ $75-(25+18)$ ㉢ $17+20-4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120,
+                            293.1,
+                            160,
+                            328.3
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.2,
+                            177.9,
+                            754.4,
+                            237.9
+                        ]
+                    ],
+                    "text_description": "㉠ $32+9-6=41-6=35$ ㉡ $75-(25+18)=75-43=32$ ㉢ $17+20-4=37-4=33$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.8,
+                            237.1,
+                            722.4,
+                            273.1
+                        ]
+                    ],
+                    "text_description": "㉠은 35, ㉡은 32, ㉢은 33이므로 계산 결과가 가장 큰 것은 ㉠입니다."
+                }
+            ]
+        }
+    ]
+}

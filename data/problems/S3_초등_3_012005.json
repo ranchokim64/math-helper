@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "db506c9d-6373-47f5-b55f-806cd91d7ffe",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012005",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            12.42,
+                            701.5,
+                            242.42
+                        ]
+                    ],
+                    "text_description": "수지네 집에서 민경이네 집까지는 걸어 서 25분이 걸립니다. 수지가 민경이네 집에 가려고 3시 20분에 나왔다면 민경이네 집에는 몇 시 몇 분에 도착할까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            480.5,
+                            281,
+                            615.5,
+                            315
+                        ]
+                    ],
+                    "text_description": "3시 45분"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            333,
+                            355.5,
+                            372
+                        ]
+                    ],
+                    "text_description": "3 시 20분+25분 $=3$ 시 45분"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "18fb99f7-1d11-4de9-89c9-f36d4129a620",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009784",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.1,
+                            5.24,
+                            557.5,
+                            26.84
+                        ]
+                    ],
+                    "text_description": "$0. 65 \\times 0. 46$의 값이 얼마인지 바르게 어림한 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            132.5,
+                            675.9,
+                            180.1
+                        ]
+                    ],
+                    "text_description": "$0. 65 \\times 0. 46$을 0. 65의 0. 5로 어림하면 0. 6의 반은 0. 3 이므로 답은 0. 3에 가까운 0. 299 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            153.0,
+                            31.0,
+                            551.0,
+                            89.0
+                        ]
+                    ],
+                    "text_description": "노란색 네모 상자에 다음과 같은 내용이 들어 있다. ㉠0.299 ㉡0.0299"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.0,
+                            100.0,
+                            65.0,
+                            118.0
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        }
+    ]
+}

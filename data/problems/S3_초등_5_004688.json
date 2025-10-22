@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9f55d712-b154-443e-9cca-164a67d2a6d2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004688",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-02] 합동인 두 도형에서 대응점, 대응변, 대응각을 각각 찾고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            19.42,
+                            455.5,
+                            51.42
+                        ]
+                    ],
+                    "text_description": "두 삼각형은 서로 합동입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            266,
+                            289.5,
+                            297
+                        ]
+                    ],
+                    "text_description": "각 ㅂ ㄹㅁㅁ은 몇 도인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            90.42,
+                            464.5,
+                            240.42
+                        ]
+                    ],
+                    "text_description": "두개의 삼각형 ㄱㄴㄷ, ㅁㅂㄹ이 있다. 각 ㄱ은 $130^{\\circ}$, ㄴ은 $35^{\\circ}$, ㄴㄱ의 길이는 $4cm$, ㄱㄷ의 길이는 $10cm$, ㅁㄹ의 길이는 $12cm$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            347.5,
+                            313,
+                            387.5,
+                            342
+                        ]
+                    ],
+                    "text_description": "$15^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.5,
+                            346,
+                            467.5,
+                            390
+                        ]
+                    ],
+                    "text_description": "합동인 도형에서 대응각의 크기는 같으므로 $\\left(\\right. $ 변 ㅂㄹㅁ) $=\\left(\\right. $ 변 ㄱㄷ ㄴ) $=180^{\\circ}-130^{\\circ}-35^{\\circ}=15^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

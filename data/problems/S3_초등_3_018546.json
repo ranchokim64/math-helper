@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a42058b1-89f8-4e2e-81f4-85ad4fdd3c29",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018546",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.48,
+                            7.14,
+                            315.52,
+                            53.22
+                        ]
+                    ],
+                    "text_description": "다음을 나눗셈식으로 나타내세요. 110을 9로 나누면 몫이 12 이고, 나머지는 2가 됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.4,
+                            61.54,
+                            123.52,
+                            81.38
+                        ]
+                    ],
+                    "text_description": "① $110 \\div 9=12 \\cdots-2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.68,
+                            84.44,
+                            126.08,
+                            149.72
+                        ]
+                    ],
+                    "text_description": "② $110 \\div 9=13-2$ ③ $110 \\div 9=12 \\cdots 3$ ④ $110 \\div 9=13-3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            153,
+                            552.5,
+                            195
+                        ]
+                    ],
+                    "text_description": "110을 9로 나누면, 묷은 12 이고 나머지는 2 입니다. 이를 나늣셈식으로 나타내면 $110 \\div 9$ = 12-2입니다."
+                }
+            ]
+        }
+    ]
+}

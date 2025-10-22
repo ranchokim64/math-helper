@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "28b10042-7c65-4c0c-9383-cbc6126a1840",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010450",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.2,
+                            1.5099999999999998,
+                            954.07,
+                            70.74
+                        ]
+                    ],
+                    "text_description": "$4. 1 \\div 2$를 분수의 나눗셈으로 바꾸어 계산하려고 합니다. 알맞은 식을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.8,
+                            105.6,
+                            889,
+                            168
+                        ]
+                    ],
+                    "text_description": "$4. 1 \\div 2$는 $\\left(\\frac{41}{10} \\div 2, \\frac{410}{100} \\div 2\\right)$를 이용하여 계산하면 편리합니다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.78,
+                            77.47,
+                            910.86,
+                            198.47
+                        ]
+                    ],
+                    "text_description": "$4.1 \\div 2$ 는 $\\left(\\frac{41}{10} \\div 2, \\frac{410}{100} \\div 2\\right)$ 를 이용하여 계산하면 편리합니다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.03,
+                            209.82,
+                            145.1,
+                            265.41
+                        ]
+                    ],
+                    "text_description": "$\\frac{410}{100} \\div 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.09,
+                            286.33,
+                            956.8,
+                            378.95
+                        ]
+                    ],
+                    "text_description": "$\\frac{41}{10} \\div 2=\\frac{41 \\div 2}{10}$에서 $41 \\div 2$가 나누어떨어지지 않으므로 $\\frac{410}{100} \\div 2$를 이용하여 계산하면 편리합니다."
+                }
+            ]
+        }
+    ]
+}

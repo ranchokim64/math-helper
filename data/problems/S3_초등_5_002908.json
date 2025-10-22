@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "baad3f31-8d31-456b-9c25-bc098bf2c266",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002908",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.25,
+                            19.39,
+                            551.25,
+                            85.64
+                        ]
+                    ],
+                    "text_description": "다희네 집에는 위인전이 30 권 있고, 동화책은 위인전의 1. 4 배만큼 있습니다. 다희네 집에 있는 동화책은 모두 몇 권일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            566.25,
+                            23.87,
+                            781.25,
+                            183.12
+                        ]
+                    ],
+                    "text_description": "다희가 책읽는 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.75,
+                            225.37,
+                            231.25,
+                            257.62
+                        ]
+                    ],
+                    "text_description": "42권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            182.3,
+                            526.1,
+                            209.5
+                        ]
+                    ],
+                    "text_description": "$($ 동화책의 수 $)=($ 위인전의 수 $) \\times 1. 4=30 \\times 1. 4=42$ (권)"
+                }
+            ]
+        }
+    ]
+}

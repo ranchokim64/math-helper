@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "500de357-b5e8-4e62-ae80-636e8a9aa7bc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010551",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.5,
+                            5.92,
+                            957.5,
+                            112.92
+                        ]
+                    ],
+                    "text_description": "크기가 같은 블록을 사용하여 두 직육면체의 부피를 비교하려고 합니다. 상자 안에 담을 수 있는 블록의 수가 다음과 같을 때, 알맞은 말에 $\\bigcirc$ 표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            158.5,
+                            333.5,
+                            833.5,
+                            364.5
+                        ]
+                    ],
+                    "text_description": "부피가 더 큰 것은 블록의 수가 더 많은 (가, 나)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.5,
+                            124.66,
+                            707.5,
+                            296.66
+                        ]
+                    ],
+                    "text_description": "두 개의 직육면체가 그려져 있습니다. 가 직육면체는 블록: 36개라고 적혀있습니다. 나 직육면체는 블록: 24개라고 적혀있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            404.5,
+                            85.5,
+                            430.5
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            450.5,
+                            857.5,
+                            476.5
+                        ]
+                    ],
+                    "text_description": "블록의 수를 세어 보면 가는 36 개, 나는 24 개이므로 가의 부피가 더 큽니다."
+                }
+            ]
+        }
+    ]
+}

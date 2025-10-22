@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8cee76d3-d9fe-44c8-b4d5-0b7fb1fd6d4a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011028",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.94,
+                            4.77,
+                            858.74,
+                            29.17
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 1층 위에 서로 다른 모양으로 2층과 3층을 쌓으려고 합니다. 1층 모양"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.74,
+                            40.05,
+                            856.82,
+                            99.57
+                        ]
+                    ],
+                    "text_description": "을 보고 2층과 3층으로 쌓을 수 있는 알맞은 모양을 각각 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            344.82,
+                            290.1,
+                            857.46,
+                            319.46
+                        ]
+                    ],
+                    "text_description": "2층 (가, 나, 다, 라), 3 층 (가, 나, 다, 라)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.5,
+                            112.26,
+                            185.38,
+                            281.06
+                        ]
+                    ],
+                    "text_description": "1층에 놓여진 걸 앞에서 보면 7 모양이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            208.5,
+                            108.9,
+                            806.9,
+                            285.54
+                        ]
+                    ],
+                    "text_description": "앞에서 보면 가는 2층에 1개 3층에 2개 나는 3층에 3개 다는 1층에 2개 2층에 1개 라는 3층에 2개로 보인다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.78,
+                            334.82,
+                            108.02,
+                            361.7
+                        ]
+                    ],
+                    "text_description": "나, 라"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.14,
+                            375.78,
+                            669.3,
+                            400.1
+                        ]
+                    ],
+                    "text_description": "2층에가 또는 라를 놓으면 3 층에 놓을 수 있는 모양이 없습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.9,
+                            409.22,
+                            525.94,
+                            434.94
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow 2$ 층에 나를 놓으면 3 층에 라를 놓을 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

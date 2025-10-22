@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "820c4b4a-facf-41b0-a2d9-a3fb922b3ab0",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002971",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.8,
+                            13.31,
+                            321.44,
+                            37.03
+                        ]
+                    ],
+                    "text_description": "두 수의 최대공약수를 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.85,
+                            77.85,
+                            134.92,
+                            102.43
+                        ]
+                    ],
+                    "text_description": "$30 \\quad 84$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            241.96,
+                            146.84,
+                            270.52
+                        ]
+                    ],
+                    "text_description": "최대공약수: 6"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.18,
+                            190.04,
+                            194.95,
+                            212.2
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow$ 최대공약수: 6"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.23,
+                            133.56,
+                            160.32,
+                            184.35
+                        ]
+                    ],
+                    "text_description": "$ \\begin{array}{c|cc} 6) & 30 & 84 \\\\ \\hline &5 & 14 & & \\end{array} $"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9a70c857-393c-42bd-ad32-4435a9cbcece",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002778",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            18.41,
+                            771.5,
+                            83.41
+                        ]
+                    ],
+                    "text_description": "길이가 같은 끈으로 정삼각형과 정사각형을 각각 만들었습니다. 정사각형의 한 변의 길이는 몇 m인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.5,
+                            105,
+                            378.5,
+                            240
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 $\\frac{2}{7} \\mathrm{~m}$인 정삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            450.5,
+                            114,
+                            587.5,
+                            246
+                        ]
+                    ],
+                    "text_description": "정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.5,
+                            435,
+                            114.5,
+                            482
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{14}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            311,
+                            490.5,
+                            430
+                        ]
+                    ],
+                    "text_description": "$($ 정삼각형의 둘레 $)=\\frac{2}{7} \\times 3=\\frac{6}{7}(\\mathrm{~m})$ 따라서 정사각형의 둘레가 $\\frac{6}{7} \\mathrm{~m}$ 이므로 정사각형의 한 변의 길이는 $\\frac{6}{7} \\div 4=\\frac{12}{14} \\div 4=\\frac{12 \\div 4}{14}=\\frac{3}{14}(\\mathrm{~m})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

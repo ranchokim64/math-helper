@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "33a9623a-c4f0-4399-a006-9cb8ab533c81",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007540",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            7.4,
+                            708,
+                            41.4
+                        ]
+                    ],
+                    "text_description": "준서가 쓴 알파벳에서 평행선이 없는 것을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106,
+                            49.4,
+                            772,
+                            289.4
+                        ]
+                    ],
+                    "text_description": "남자아이가 칠판에 알파벳을 적었다. E () H () K () Z ()"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            292.4,
+                            110,
+                            362.4
+                        ]
+                    ],
+                    "text_description": "K"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            381.4,
+                            225,
+                            408.4
+                        ]
+                    ],
+                    "text_description": "평행선이 있는 것:"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24,
+                            429.4,
+                            516,
+                            460.4
+                        ]
+                    ],
+                    "text_description": "K는 세 선분이 모두 만나므로 평행선이 없습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            230,
+                            364.4,
+                            374,
+                            422.4
+                        ]
+                    ],
+                    "text_description": "E는 가로 선분 3개가 평행하고, H는 세로 선분 2개가 평행하고, Z는 가로 선분 2개가 평행하다."
+                }
+            ]
+        }
+    ]
+}

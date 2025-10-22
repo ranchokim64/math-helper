@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c6ef181b-f903-45e6-a2ea-b8c58f99836a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004759",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.77,
+                            133.24,
+                            610.77,
+                            256.24
+                        ]
+                    ],
+                    "text_description": "3장의 수 카드를 모두 한번씩 사용하여 곱이가 장 큰 (소수 한 자리 수) $\\times$ (한 자리 수)를 만들려고 합니다. 이때의 곱을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            189.77,
+                            272.78,
+                            490.77,
+                            336.78
+                        ]
+                    ],
+                    "text_description": "2, 3, 4 숫자 카드가 일렬로 정렬된 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            441.77,
+                            360.78,
+                            500.77,
+                            387.78
+                        ]
+                    ],
+                    "text_description": "$33. 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95.77,
+                            5.78,
+                            611.77,
+                            116.78
+                        ]
+                    ],
+                    "text_description": "곱이 가장 큰 $\\square. \\square \\times \\square$를 만들어야 하므로 자연수 부분에 큰 수를 놓아 만듭니다. $8>4>2$ 이므로 $4. 2 \\times 8=33. 6$ 입니다. 따라서 가장 큰 곱은 33. 6입니다."
+                }
+            ]
+        }
+    ]
+}

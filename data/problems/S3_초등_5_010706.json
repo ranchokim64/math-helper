@@ -1,0 +1,179 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2d8ac196-322d-4b45-957e-55072a8f7a88",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010706",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            2.41,
+                            652,
+                            27.41
+                        ]
+                    ],
+                    "text_description": "최소공배수가 더 작은 두 수를 말한 사람의 이름을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            348,
+                            168,
+                            477,
+                            194
+                        ]
+                    ],
+                    "text_description": "(인성, 주영)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            142.72,
+                            50.34,
+                            681.6,
+                            142.82
+                        ]
+                    ],
+                    "text_description": "인성 : 28, 70 주영 : 40, 60"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.28,
+                            280.42,
+                            97.28,
+                            303.46
+                        ]
+                    ],
+                    "text_description": "인성:"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.72,
+                            390.5,
+                            78.72,
+                            415.46
+                        ]
+                    ],
+                    "text_description": "주영:"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            241.28,
+                            309.86,
+                            617.6,
+                            336.74
+                        ]
+                    ],
+                    "text_description": "28과 70의 최소공배수: $2 \\times 7 \\times 2 \\times 5=140$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            223.36,
+                            435.94,
+                            630.4,
+                            459.62
+                        ]
+                    ],
+                    "text_description": "40과 60의 최소공배수: $2 \\times 2 \\times 5 \\times 2 \\times 3=120$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.0,
+                            204.0,
+                            87.0,
+                            231.0
+                        ]
+                    ],
+                    "text_description": "주영"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.0,
+                            246.0,
+                            199.0,
+                            333.0
+                        ]
+                    ],
+                    "text_description": "\\[\n\\begin{array}{r|cc}\n2 & 28 & 70 \\\\\n\\hline\n7 & 14 & 35 \\\\\n\\hline\n  & 2 & 5\n\\end{array}\n\\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.0,
+                            342.0,
+                            188.0,
+                            465.0
+                        ]
+                    ],
+                    "text_description": "\\[\n\\begin{array}{r|cc}\n2 & 40 & 60 \\\\\n\\hline\n2 & 20 & 30 \\\\\n\\hline\n5 & 10 & 15 \\\\\n\\hline\n  & 2 & 3\n\\end{array}\n\\]"
+                }
+            ]
+        }
+    ]
+}

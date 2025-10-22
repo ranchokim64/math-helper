@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "87d771f9-dd5d-40f8-8c0a-6c191c07d6d8",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005385",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.75,
+                            8.61,
+                            445.89,
+                            81.66
+                        ]
+                    ],
+                    "text_description": "원기둥과 원기둥의 전개도를 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.09,
+                            378.87,
+                            435.96,
+                            481.69
+                        ]
+                    ],
+                    "text_description": "옆면의 가로가 27cm, 세로가 6cm 일 때 원기둥의 밑면의 반지름은 몇 cm 인지 구해 보세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.22,
+                            87.56,
+                            349.99,
+                            266.27
+                        ]
+                    ],
+                    "text_description": "원기둥의 겨냥도이다 $\\rightarrow$ 원기둥의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            294.36,
+                            495.22,
+                            363.81,
+                            522.28
+                        ]
+                    ],
+                    "text_description": "4.5cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.22,
+                            285.98,
+                            327.74,
+                            377.07
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 밑면의 반지름 }) & =(\\text { 밑면의 둘레 }) \\div(\\text { 원주율 }) \\div 2 \\\\ & =(\\text { 옆면의 가로 }) \\div(\\text { 원주율 }) \\div 2 \\\\ & =27 \\div 3 \\div 2 \\\\ & =4. 5(\\mathrm{~cm})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

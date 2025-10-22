@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7289a70b-029b-49de-8c7d-457260e9751d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010613",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            5.41,
+                            585.5,
+                            29.409999999999997
+                        ]
+                    ],
+                    "text_description": "재석이와 명수 중 틀리게 계산한 사람을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            655.5,
+                            186,
+                            798.5,
+                            214
+                        ]
+                    ],
+                    "text_description": "(재석, 명수)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            217.5,
+                            42.41,
+                            404.5,
+                            173.41
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { 재석 } \\\\ 56 \\div 4 \\times 2=7 \\\\ \\frac{8}{7}\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            427.5,
+                            42,
+                            612.5,
+                            169
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { 명수 } \\\\ 14 \\times 10 \\div 5=28 \\\\ \\underbrace{140}_{28}\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            227,
+                            90.5,
+                            251
+                        ]
+                    ],
+                    "text_description": "재석"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            263,
+                            244.5,
+                            367
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c} \\underset{14}{\\underbrace{56 \\div 4}} \\times 2 = 28 \\end{array}$"
+                }
+            ]
+        }
+    ]
+}

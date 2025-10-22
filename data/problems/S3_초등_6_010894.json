@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2027fddf-135d-4f55-8f25-5b1be0dfbe50",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010894",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.11,
+                            8.89,
+                            859.11,
+                            69.89
+                        ]
+                    ],
+                    "text_description": "몫을 소수 첫째 자리까지 구한 값과 몫을 반올림하여 소수 첫째 자리까지 구한 값이 같은 것을 찾아 기호를 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            753.11,
+                            127.17,
+                            859.11,
+                            160.17
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            253.11,
+                            75.89,
+                            634.11,
+                            128.89
+                        ]
+                    ],
+                    "text_description": "㉠ $1. 85 \\div 0. 7$ ㉡ $33. 4 \\div 2. 7$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.11,
+                            173.5,
+                            72.11,
+                            196.5
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.11,
+                            215.5,
+                            352.11,
+                            242.5
+                        ]
+                    ],
+                    "text_description": "㉠ $1. 85 \\div 0. 7=2. 64 \\cdots \\cdots \\Rightarrow 2. 6$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.11,
+                            248.5,
+                            352.11,
+                            276.5
+                        ]
+                    ],
+                    "text_description": "㉡ $33. 4 \\div 2. 7=12. 37 \\cdots \\cdots \\Rightarrow 12. 4$"
+                }
+            ]
+        }
+    ]
+}

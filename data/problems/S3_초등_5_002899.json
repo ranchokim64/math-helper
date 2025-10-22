@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d1850fd5-4b8e-4134-abf8-477cc2c1b2e7",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002899",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            12.9,
+                            573.5,
+                            118.9
+                        ]
+                    ],
+                    "text_description": "한 시간에 물을 0. 3L씩 일정하게 사용하는 가습기가 있습니다. 이 가습기를 6시간 동안 작동했다면 가습기가 사용한 물의 양은 모두 몇 L일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            593.5,
+                            14.9,
+                            795.5,
+                            174.9
+                        ]
+                    ],
+                    "text_description": "물이 나오고 있는 가습기 삽화."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.5,
+                            273.9,
+                            224.5,
+                            306.9
+                        ]
+                    ],
+                    "text_description": "$1. 8 \\mathrm{~L}$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            186.9,
+                            677.5,
+                            247.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\text { (가습기가 6시간 동안 사용한 물의 양) } & =(\\text { 한 시간에 사용하는 물의 양) } \\times 6 \\\\ & =0.3 \\times 6=1.8(\\mathrm{~L})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

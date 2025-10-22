@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1602ee8e-5d58-422a-be7b-a66b6bcde004",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012012",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            1.92,
+                            671.5,
+                            193.92
+                        ]
+                    ],
+                    "text_description": "가장 빠른 교통 수단으로 비행기가 있습니다. 비행기를 이용 하면 우리나라뿐만 아니라 세계 여러 나라를 빠른 시간내에 이동할 수 있습니다. 아래 그림은 우리나라에서 세계 주요 도 시를 비행기로 이동할 때 걸리는 시간을 나타낸 것입니다. 그 림을 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            606.5,
+                            661.5,
+                            679.5
+                        ]
+                    ],
+                    "text_description": "우리나라에서 오전 9시 30분에 출발하여 영국 런던을 가려고 합니다. 예상 도착 시각은 오후 몇 시 몇 분일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.5,
+                            210.5,
+                            655.5,
+                            586.5
+                        ]
+                    ],
+                    "text_description": "이 이미지는 세계 지도에 여러 도시의 현재 시각을 표시한 시차 지도입니다. 지도에는 다양한 지역의 도시들과 각각의 시간이 표시되어 있습니다. 예를 들어: - 유럽 지역: 영국, 프랑스, 독일 등 - 아시아 지역: 홍콩, 일본, 한국 등 - 북미 지역: 로스앤젤레스 등 - 오세아니아 지역: 시드니 등 각 도시 이름 옆에는 해당 도시의 현재 시각이 24시간제로 표시되어 있으며, 작은 시계 아이콘(⊕)이 함께 표시되어 있습니다. 이 지도는 전 세계 주요 도시들의 시차를 한눈에 파악할 수 있게 해주는 유용한 참고 자료로 보입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            745.5,
+                            250.5,
+                            796.5
+                        ]
+                    ],
+                    "text_description": "오후 8 시 50분"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            688.5,
+                            468.5,
+                            736.5
+                        ]
+                    ],
+                    "text_description": "런던까지 가는 데 걸리는 시간은 II 시간 20분입니다. 9시 30분+1। 시간 20분=20시 50분, 즉 오후 8시 50분입니다."
+                }
+            ]
+        }
+    ]
+}

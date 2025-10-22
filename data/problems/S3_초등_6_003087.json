@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c244827f-e942-4000-b04b-d65634cc331a",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003087",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            20.92,
+                            730,
+                            56.92
+                        ]
+                    ],
+                    "text_description": "원기둥의 전개도가 다음과 같을 때 $\\square$ 안에 알맞은 수를 써넣으세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99,
+                            73.5,
+                            724,
+                            340.5
+                        ]
+                    ],
+                    "text_description": "이 이미지는 원통과 원의 도면을 보여주고 있습니다. 원통의 높이는 6cm이고, 반지름은 4cm입니다. 오른쪽에는 두 개의 원과 하나의 직사각형이 있습니다. 각 도형의 크기를 나타내는 빈 사각형 안에 치수를 넣도록 되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            455.5,
+                            349,
+                            679.5
+                        ]
+                    ],
+                    "text_description": "이 이미지에는 두 개의 원과 하나의 직사각형이 있습니다. 왼쪽 위에는 반지름이 4cm인 원이 있고, 그 아래에는 반지름이 같은 오른쪽 원이 있습니다. 중앙에는 길이가 24cm이고 높이가 6cm인 직사각형이 위치해 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            364.5,
+                            742,
+                            447.5
+                        ]
+                    ],
+                    "text_description": "밑면의 반지름은 4cm이고, 옆면의 가로의 길이는 밑면의 둘레와 같으므로 (밑면의 반지름)$ \\times 2 \\times$ (원주율)$=4 \\times 2 \\times 3=24(\\mathrm{~cm})$ 입니다. 옆면의 세로의 길이는 원기둥의 높이와 같으므로 6cm 입니다."
+                }
+            ]
+        }
+    ]
+}

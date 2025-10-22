@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "de824add-2713-4281-9f8a-9390d5f98494",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009828",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            -0.06,
+                            652.25,
+                            25.44
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 9보다 작은 것을 찾아 기호를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3,
+                            111.37,
+                            477.5,
+                            188.62
+                        ]
+                    ],
+                    "text_description": "㉠ $3. 3 \\times 3$은 3과 3의 곱인 9보다 큽니다. ㉡ $3. 9 \\times 2$는 4와 2의 곱인 8보다 작습니다. 따라서 어림하여 계산 결과가 9보다 작은 것은 ㉡입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            413.0,
+                            38.0,
+                            483.0,
+                            73.0
+                        ]
+                    ],
+                    "text_description": "$3. 9 \\times 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            280.0,
+                            50.0,
+                            353.0,
+                            72.0
+                        ]
+                    ],
+                    "text_description": "$3. 3 \\times 3$"
+                }
+            ]
+        }
+    ]
+}

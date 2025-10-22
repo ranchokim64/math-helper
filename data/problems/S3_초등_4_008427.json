@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ed81607c-12d1-496f-829c-fe3eeff10209",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008427",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.62,
+                            1.75,
+                            937.37,
+                            113
+                        ]
+                    ],
+                    "text_description": "다음은 민국이네 학교 학생들이 좋아하는 간식을 조사하여 나타낸 막대 그래프입니다. 학생 수가 어묵보다 많고 김밥보다 적은 간식을 모두 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            309.87,
+                            418,
+                            661.12,
+                            450.5
+                        ]
+                    ],
+                    "text_description": "(떡볶이, 김밥, 어묵, 튀김)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            263.62,
+                            119.25,
+                            707.37,
+                            416.75
+                        ]
+                    ],
+                    "text_description": "좋아하는 간식별 학생 수의 막대그래프이다. 가로는 간식 세로는 학생수(명)이다. 떡봈이는 16, 김밥은 20, 어묵은 12, 튀김은 14에 표시되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.62,
+                            461.75,
+                            198.62,
+                            503
+                        ]
+                    ],
+                    "text_description": "떡볶이, 튀김"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.870000000000005,
+                            511.75,
+                            687.37,
+                            545.5
+                        ]
+                    ],
+                    "text_description": "막대의 길이를 비교하면 어묵<튀김<떡볶이<김밥입니다."
+                }
+            ]
+        }
+    ]
+}

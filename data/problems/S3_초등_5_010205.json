@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8b0315dd-4d67-4756-b2be-a00476d39f48",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010205",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20,
+                            1.44,
+                            664,
+                            56.64
+                        ]
+                    ],
+                    "text_description": "500 원짜리 동전 두 개들 동시에 던질 때 한 동전만 숫자 면이 나올 가능성을 $\\downarrow$로 바르게 나타낸 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123.2,
+                            63.04,
+                            556.0,
+                            301.44
+                        ]
+                    ],
+                    "text_description": "㉠ 수직선 양 끝단에 0과 1이 있다. 0 위에는 0을 가르키는 $\\downarrow$이 있다. 수직선 정중앙에는 $\\frac{1}{2}$이 있다. ㉡ 수직선 양 끝단에 0과 1이 있다. 수직선 정중앙에는 $\\frac{1}{2}$이 적혀 있으며 $\\frac{1}{2}$를 가르키는 $\\downarrow$가 위에 표시되어 있다. ㉢ 수직선 양 끝단에 0과 1이 있다. 1 위에는 1을 가르키는 $\\downarrow$이 있다. 수직선 정중앙에는 $\\frac{1}{2}$이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.6,
+                            316.3,
+                            59.2,
+                            341.1
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3,
+                            347.5,
+                            661.6,
+                            445.1
+                        ]
+                    ],
+                    "text_description": "두 동전을 던졌을 때 나오는 경우는 (그림 면, 그림 면), (그림 면, 숫자 면), (숫자 면, 그림 면), (숫자 면, 숫자 면)이므로 한 동전만 숫자 면이 나올 가능성은 '반반이다'이고, 이들 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

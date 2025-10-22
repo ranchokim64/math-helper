@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "108c500e-def7-4e4b-97a4-e048bd8c39df",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010754",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-05] 분수의 성질을 이용하여 크기가 같은 분수를 만들 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.17,
+                            4.23,
+                            614,
+                            34.71
+                        ]
+                    ],
+                    "text_description": "그림을 보고 크기가 같은 두 분수를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195.66,
+                            41.21,
+                            703.91,
+                            203.56
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{4}$은 직사각형을 4개로 나누고 1개가 색칠되어 설명하고 있다. $\\frac{4}{8}$은 직사각형을 8개로 나누고 4개가 색칠되어 설명하고 있다. $\\frac{8}{16}$은 직사각형을 16개로 나누고 8개가 색칠되어 설명하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.83,
+                            221.8,
+                            124.03,
+                            275.14
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{8}, \\frac{8}{16}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.64,
+                            291.91,
+                            729.06,
+                            343.72
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{8}$와 $\\frac{8}{16}$은 색칠 한 부분의 크기가 같으므로 크기가 같은 분수입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ae6363f0-979d-4ac8-a484-f0d7c3a1b793",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009346",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.05,
+                            5.21,
+                            353.12,
+                            28.98
+                        ]
+                    ],
+                    "text_description": "전체에 알맞은 도형은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            134.55,
+                            31.98,
+                            512.26,
+                            153.48
+                        ]
+                    ],
+                    "text_description": "어떤 도형을 9분할 한 조각 중에 4조각이 있는 모양으로 'ㅏ'모양의 도형이다. 전체를 똑같이 9로 나눈 것 중의 4입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            221.06,
+                            235.05,
+                            316.14,
+                            302.71
+                        ]
+                    ],
+                    "text_description": "⑤ 사각형을 가로 3, 세로 3의 모양으로 9분할 한 도형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.65,
+                            353.59,
+                            622.57,
+                            397.34
+                        ]
+                    ],
+                    "text_description": "전체들 똑같이 9로 나눈 것 중의 4이므로 전체를 똑같이 9로 나눈 것을 찾으면 ⑤입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.3,
+                            154.8,
+                            100.22,
+                            220.83
+                        ]
+                    ],
+                    "text_description": "① 직사각형을 가로 2, 세로 3으로 6분할 한 도형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            219.74,
+                            154.14,
+                            316.8,
+                            220.17
+                        ]
+                    ],
+                    "text_description": "② 사각형을 가로 3, 세로 3의 모양으로 9분할 한 도형에서 세로 첫 번째 줄에 세 번째 조각과 세 번째 줄에 세 번째 조각을 뺀 모양이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            415.85,
+                            154.14,
+                            510.28,
+                            220.17
+                        ]
+                    ],
+                    "text_description": "③ 사각형을 가로 3, 세로 3의 모양으로 9분할 한 도형에서 세로 세 번째 줄에 첫 번째 조각을 뺀 모양이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.96,
+                            234.04,
+                            117.39,
+                            285.54
+                        ]
+                    ],
+                    "text_description": "④ 직사각형을 가로 3, 세로 2으로 6분할 한 도형에서 가로 두 번째 줄에 세 번째 조각을 뺀 모양이다."
+                }
+            ]
+        }
+    ]
+}

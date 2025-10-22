@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f0877477-e4c8-429c-906a-ec94f2ca54f1",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003038",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.12,
+                            10.57,
+                            652.16,
+                            91.85
+                        ]
+                    ],
+                    "text_description": "넓이가 $\\frac{20}{21} \\mathrm{~m}^{2}$ 인 직사각형이 있습니다. 이 직사각형의 가로가 $\\frac{17}{21} \\mathrm{~m}$ 일 때 세로는 몇 인지 구해보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.28,
+                            110.14,
+                            114.56,
+                            275.9
+                        ]
+                    ],
+                    "text_description": "직사각형의 윗면에$\\begin{array}{l}\\frac{17}{21} \\mathrm{~m} \\\\표시되어있고, 안 쪽 면적은 \\frac{20}{21} \\mathrm{~m}^{2}\\end{array}$로 표시되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.92,
+                            384.06,
+                            181.76,
+                            433.34
+                        ]
+                    ],
+                    "text_description": "\\[ 1 \\frac{3}{17}m \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.2,
+                            292.54,
+                            520.32,
+                            378.94
+                        ]
+                    ],
+                    "text_description": "(직사각형의 넓이) $=($ 가로 $) \\times($ 세로 $)$ 이므로 세로는 $\\frac{20}{21} \\div \\frac{17}{21}=20 \\div 17=\\frac{20}{17}=1 \\frac{3}{17}(\\mathrm{~m})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

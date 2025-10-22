@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "445bab9a-c8ca-46b5-a70c-32f0e2f7c71f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008552",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70,
+                            0.92,
+                            639,
+                            29.92
+                        ]
+                    ],
+                    "text_description": "곱이 큰 것부터 차례대로 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100,
+                            36.92,
+                            861,
+                            123.92
+                        ]
+                    ],
+                    "text_description": "㉠ $7 \\times 56$ ㉡ $8 \\times 18$ ㉢ $9 \\times 73$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            480,
+                            174.5,
+                            602,
+                            204.5
+                        ]
+                    ],
+                    "text_description": "④ ㉢ ㉢ ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            130.5,
+                            153,
+                            203.5
+                        ]
+                    ],
+                    "text_description": "① ㉠ ㉡ ㉢ ③ ㉢ ㉡ ㉠"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            479,
+                            131.5,
+                            601,
+                            161.5
+                        ]
+                    ],
+                    "text_description": "② ㉡ ㉠ ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            270.5,
+                            582,
+                            336.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{ll}\\text{㉠ } 7 \\times 56=392 \\quad \\text { ㉡ } 8 \\times 18=144 \\quad \\text { ㉢ } 9 \\times 73=657 \\\\ \\quad \\Rightarrow 657>392>144 & \\end{array}$"
+                }
+            ]
+        }
+    ]
+}

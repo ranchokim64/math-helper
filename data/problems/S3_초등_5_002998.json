@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b330bd7b-b9bf-4560-a659-0a5b91b0440d",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002998",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.42,
+                            10.09,
+                            440.82,
+                            41.29
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 차례대로 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.02000000000001,
+                            62.31999999999999,
+                            694.42,
+                            164.92
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{2}{5}+\\frac{3}{4}$ ㉡ $\\frac{3}{4}+\\frac{7}{10}$ ㉢ $\\frac{5}{8}+\\frac{8}{20}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            533.42,
+                            251.72,
+                            788.02,
+                            280.72
+                        ]
+                    ],
+                    "text_description": "(㉡, ㉠, ㉢)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.6,
+                            243.38,
+                            405,
+                            289.98
+                        ]
+                    ],
+                    "text_description": "㉠ $ \\frac{2}{5}+\\frac{3}{4}=\\frac{8}{20}+\\frac{15}{20}=\\frac{23}{20}=1 \\frac{3}{20} $ $, $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            292.58,
+                            781,
+                            439.58
+                        ]
+                    ],
+                    "text_description": "㉡ $\\frac{3}{4}+\\frac{7}{10}=\\frac{15}{20}+\\frac{14}{20}=\\frac{29}{20}=1 \\frac{9}{20}$, ㉢ $\\frac{5}{8}+\\frac{8}{20}=\\frac{25}{40}+\\frac{16}{40}=\\frac{41}{40}=1 \\frac{1}{40}$ $1 \\frac{3}{20}<1 \\frac{9}{20}$ 이고 $1 \\frac{3}{20}$과 $1 \\frac{1}{40}$을 공통분모인 $40$으로 통분하여 비교하면 $1 \\frac{6}{40}>1 \\frac{1}{40}$ 이므로 $1 \\frac{3}{20}>1 \\frac{1}{40}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

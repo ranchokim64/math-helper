@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1a6dfdec-a7c2-4633-baf1-219573d21025",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011193",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            0.92,
+                            617,
+                            23.92
+                        ]
+                    ],
+                    "text_description": "옳은 비례식이면 $\\bigcirc$ 표, 옳은 비례식이 아니면 $\\times$ 표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283,
+                            28.5,
+                            595,
+                            107.5
+                        ]
+                    ],
+                    "text_description": "$2: 3=10: 15$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.87,
+                            167.36,
+                            69.67,
+                            188.96
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.07,
+                            207.36,
+                            551.27,
+                            296.96
+                        ]
+                    ],
+                    "text_description": "외항의 곱과 내항의 곱이 같아야 옳은 비례식입니다. 외항의 곱: $2 \\times 15=30$, 내항의 곱: $3 \\times 10=30$ 따라서 옳은 비례식입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "27dabe25-5ac3-4763-8d9b-401d77d76d82",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017920",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.28,
+                            8.23,
+                            307.28,
+                            34.23
+                        ]
+                    ],
+                    "text_description": "다음의 계산 결과를 구하시오."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.28,
+                            45.77,
+                            110.28,
+                            70.77
+                        ]
+                    ],
+                    "text_description": "$0. 48 \\div 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.28,
+                            134.77,
+                            89.28,
+                            157.77
+                        ]
+                    ],
+                    "text_description": "② 0. 12"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.28,
+                            466.77,
+                            80.28,
+                            490.77
+                        ]
+                    ],
+                    "text_description": "② 0.12"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.28,
+                            96.77,
+                            90.28,
+                            119.77
+                        ]
+                    ],
+                    "text_description": "① 0. 11"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.28,
+                            171.77,
+                            90.28,
+                            271.77
+                        ]
+                    ],
+                    "text_description": "③ 0. 13 ④ 0. 14 ⑤ 0. 15"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.28,
+                            305.77,
+                            461.28,
+                            438.77
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}0. 48 \\div 4=\\frac{48}{100} \\div 4=\\frac{48}{100} \\times \\frac{1}{4}=\\frac{48}{400} \\\\ \\frac{48}{400}=0. 12\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

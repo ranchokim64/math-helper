@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "800b4927-3783-42df-bc7a-f7c3e01d3ed6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007960",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.5,
+                            12.42,
+                            590.5,
+                            39.42
+                        ]
+                    ],
+                    "text_description": "1조에 대해 바르게 말한 사람을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            395.5,
+                            269,
+                            566.5,
+                            300
+                        ]
+                    ],
+                    "text_description": "(영지, 철호)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            261.5,
+                            46.42,
+                            703.5,
+                            265.42
+                        ]
+                    ],
+                    "text_description": "영지 : 9900억보다 1000억 큰 수 철호 : 1000억이 10개인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            318,
+                            106.5,
+                            344
+                        ]
+                    ],
+                    "text_description": "철호"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            365,
+                            529.5,
+                            425
+                        ]
+                    ],
+                    "text_description": "영지: 9900 억보다 1000 억 큰 수 $\\quad 1$ 조 900 억 철호: 1000 억이 10 개인 수 $\\quad 1$ 조"
+                }
+            ]
+        }
+    ]
+}

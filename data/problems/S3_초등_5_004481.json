@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3015fdc8-308e-41bd-9e3f-8e30622a3afd",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004481",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.22,
+                            6.37,
+                            377.1,
+                            37.65
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 몇 $\\mathrm{m}^{2}$ 인지 구해보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.86,
+                            248.66,
+                            423.78,
+                            274.26
+                        ]
+                    ],
+                    "text_description": "사다리꼴 ㄱㄴㄷㄹ의 넓이는 몇 $\\mathrm{m}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.8600000000000003,
+                            55.57,
+                            346.34,
+                            234.85
+                        ]
+                    ],
+                    "text_description": "이미지는 두 개의 직사각형과 두 개의 삼각형으로 구성된 도형의 도면입니다. 도형의 길이와 높이, 각 꼭지점의 거리 등이 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            286.82,
+                            287.7,
+                            359.78,
+                            310.74
+                        ]
+                    ],
+                    "text_description": "110m²"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.78,
+                            320.34,
+                            428.9,
+                            341.46
+                        ]
+                    ],
+                    "text_description": "$\\left(\\right. $ 사다리꼴 ㄱㄴㄷㄹㅇㅢ 넓이) $=(8+14) \\times 10 \\div 2=110\\left(\\mathrm{~m}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

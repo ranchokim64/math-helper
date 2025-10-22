@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "84eeed14-ca66-4080-8205-c9481db2b9df",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009234",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.54,
+                            5.18,
+                            589.38,
+                            29.35
+                        ]
+                    ],
+                    "text_description": "학교에서 약 1km 떨어진 곳에는 어떤 장소가 있는지 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            442.55,
+                            220.59,
+                            664.59,
+                            250.13
+                        ]
+                    ],
+                    "text_description": "(소방서, 우체국, 병원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            214.24,
+                            34.72,
+                            487.31,
+                            220.06
+                        ]
+                    ],
+                    "text_description": "학교, 병원, 우체국, 소방서가 표시된 지도이다. 학교에서 병원까지의 거리는 약 500m로 나타난다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.65,
+                            257.3,
+                            96.05,
+                            279.68
+                        ]
+                    ],
+                    "text_description": "우체국"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.54,
+                            291.32,
+                            527.6,
+                            313.7
+                        ]
+                    ],
+                    "text_description": "학교에서 약 500m의 2배 떨어진 곳을 찾아보면 우체국입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "794aa7fd-2344-4f3f-8c64-fe4be80d304d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009277",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.52,
+                            2.49,
+                            682.92,
+                            55.69
+                        ]
+                    ],
+                    "text_description": "다희와 현수 중 누구의 말이 맞는지 알아보려고 합니다. 각각 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120.52,
+                            145.72,
+                            583.72,
+                            292.12
+                        ]
+                    ],
+                    "text_description": "나누어진 조각의 모양과 크기가 (같으므로, 다르므로) 똑같이 (나누어졌습니다, 나누어지지 않았습니다). 따라서 (다희, 현수)의 말이 맞습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            126.52,
+                            58.32,
+                            574.92,
+                            136.92
+                        ]
+                    ],
+                    "text_description": "다희와 현수 사이에 오각형이 불균형하게 점선으로 나눠진 도형이 있다. 다희: 똑같이 셋으로 나누었어. 현수: 똑같이 나누어진 것은 아니야"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.72,
+                            313.72,
+                            352.52,
+                            337.72
+                        ]
+                    ],
+                    "text_description": "다르므로, 나누어지지 않았습니다, 현수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.92,
+                            344.12,
+                            424.52,
+                            383.32
+                        ]
+                    ],
+                    "text_description": "나누어진 조각의 모양과 크기가 다르므로 똑같이 나누어지지 않았습니다. 따라서 현수의 말이 맞습니다."
+                }
+            ]
+        }
+    ]
+}

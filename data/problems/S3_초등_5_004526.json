@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0af46c4a-4412-47cb-b1f7-50baa6353a02",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004526",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.2,
+                            4.640000000000001,
+                            302,
+                            30.439999999999998
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            115.6,
+                            40.3,
+                            364.6,
+                            129.5
+                        ]
+                    ],
+                    "text_description": "이 이미지는 삼각형의 도형과 그 치수를 보여줍니다. 삼각형의 한 변은 5cm, 다른 변은 12cm, 그리고 가장 긴 변은 15cm입니다. 삼각형의 한 각은 직각으로 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            326.4,
+                            151.7,
+                            340.6,
+                            170.3
+                        ]
+                    ],
+                    "text_description": "$4$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.18,
+                            143.44,
+                            229.98,
+                            179.08
+                        ]
+                    ],
+                    "text_description": "밑변의 길이를 12cm, 높이를 5cm로 하였을 때의"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69,
+                            180.31,
+                            430.27,
+                            254.85
+                        ]
+                    ],
+                    "text_description": "삼각형의 넓이와 밑변의 길이를 15cm, 높이를 $\\square \\mathrm{~cm}$로 하였을 때의 삼각형의 넓이는 같습니다. \\[ \\begin{array}{l} 15 \\times \\square \\div 2=12 \\times 5 \\div 2, 15 \\times \\square \\div 2=30, \\\\ 15 \\times \\square=60, \\square=60 \\div 15=4(\\mathrm{cm}) \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

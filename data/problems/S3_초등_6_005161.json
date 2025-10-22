@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "09b923bf-5a5a-49ce-816f-6c6159d81cae",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005161",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.02,
+                            45.22,
+                            752.82,
+                            88.42
+                        ]
+                    ],
+                    "text_description": "다음 중 나눗셈의 몫이 다른 하나는 어느 것인가"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.22,
+                            111.22,
+                            78.42,
+                            150.62
+                        ]
+                    ],
+                    "text_description": "요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            370.92,
+                            245,
+                            408.92
+                        ]
+                    ],
+                    "text_description": "$0. 96 \\div 1. 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            200.5,
+                            244,
+                            351.5
+                        ]
+                    ],
+                    "text_description": "① $96 \\div 16$ ② $9. 6 \\div 1. 6$ ③ $960 \\div 160$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            428.5,
+                            268,
+                            463.5
+                        ]
+                    ],
+                    "text_description": "⑤ $0. 96 \\div 0. 16$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            485.5,
+                            750,
+                            551.5
+                        ]
+                    ],
+                    "text_description": "나누어지는 수와 나누는 수에 0이 아닌 같은 수를 곱하거나 나누어도 몫은 같습니다."
+                }
+            ]
+        }
+    ]
+}

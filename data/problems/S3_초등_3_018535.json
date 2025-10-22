@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "886fc58c-e062-4273-8f1d-292cee8b0f91",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018535",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.61,
+                            3.65,
+                            649.49,
+                            46.66
+                        ]
+                    ],
+                    "text_description": "사람들이 84명 있습니다. 한 명에게 12명씩 나누어 주려고 합니다. 모두 몇 팀으로 나누어 줄 수 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.61,
+                            87.64,
+                            57.13,
+                            104.51
+                        ]
+                    ],
+                    "text_description": "② 7팀"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.12,
+                            61.32,
+                            57.13,
+                            79.75
+                        ]
+                    ],
+                    "text_description": "① 6팀"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.1,
+                            112.03,
+                            57.13,
+                            155.02
+                        ]
+                    ],
+                    "text_description": "③ 8팀 ④ 9팀"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.37,
+                            187.78,
+                            435.5,
+                            205.7
+                        ]
+                    ],
+                    "text_description": "따라서 84명의 사람을 12명씩 나누면 7팀으로 나눠줄 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.86,
+                            164.72,
+                            86.82,
+                            178.62
+                        ]
+                    ],
+                    "text_description": "$84 \\div 12=7$"
+                }
+            ]
+        }
+    ]
+}

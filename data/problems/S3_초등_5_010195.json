@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "67526347-2088-4327-9d8c-488b3f8e0c30",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010195",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.03,
+                            -0.61,
+                            663.5,
+                            51.04
+                        ]
+                    ],
+                    "text_description": "다음과 같은 회전판을 한 번 돌렸습니다. ㉠에 맞힐 가능성을 나타낸 수를 고르세요. (단, 경계선이나 회전판 밖을 맞힐 가능성은 없습니다.)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            557.06,
+                            178.15,
+                            664.28,
+                            225.94
+                        ]
+                    ],
+                    "text_description": "$\\left(0, \\frac{1}{2}, 1\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            286,
+                            54,
+                            404,
+                            172
+                        ]
+                    ],
+                    "text_description": "원이 파란색 빨간색으로 4등분 되어있다. 각각 ㉠, ㉡, ㉢, ㉣ 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.73,
+                            291.9,
+                            486.8399999999999,
+                            329.12
+                        ]
+                    ],
+                    "text_description": "㉠에 맞히는 것은 4 칸 중에서 2 칸이므로 가능성은 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.0,
+                            235.0,
+                            53.0,
+                            278.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{2}$"
+                }
+            ]
+        }
+    ]
+}

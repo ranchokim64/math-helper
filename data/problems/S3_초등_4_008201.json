@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2b35cabd-da50-425f-88f7-56847c5298e3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008201",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.62,
+                            1.25,
+                            825.12,
+                            33.75
+                        ]
+                    ],
+                    "text_description": "아래 도형을 화살표 방향으로 밀었을 때의 알맞은 도형을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.87,
+                            38.75,
+                            633.12,
+                            330.75
+                        ]
+                    ],
+                    "text_description": "세 개의 모눈종이 위에 다각형 도형이 있다. 아래에 있는 도형과 위 오른쪽은 같은 방향으로 배치돼 있고, 위 왼쪽에는 같은 도형이지만 뒤집힌 방향으로 배치돼 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.62,
+                            339.24,
+                            160.62,
+                            441.74
+                        ]
+                    ],
+                    "text_description": "모눈종이 위에 다각형 도형이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.12,
+                            452.99,
+                            782.62,
+                            478.99
+                        ]
+                    ],
+                    "text_description": "도형을 위쪽으로 밀면 도형의 모양은 변하지 않고 위치만 바뀝니다."
+                }
+            ]
+        }
+    ]
+}

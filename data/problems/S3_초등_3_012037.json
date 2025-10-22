@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "219b2f20-382c-4d9d-beb8-2e0862cb6c52",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012037",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.68,
+                            7.61,
+                            435.84,
+                            168.25
+                        ]
+                    ],
+                    "text_description": "은성이가 아침 식사를 시작한 시각과 끝낸 시각을 나타낸 것입니다. 은 성이가 아침 식사를 하는 데 걸린 시간은 몇 분 몇 초일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.4,
+                            191.29,
+                            401.92,
+                            375.61
+                        ]
+                    ],
+                    "text_description": "이 이미지는 두 개의 아날로그 시계를 보여주고 있습니다. 각 시계 아래에는 한글로 설명이 있습니다: 왼쪽 시계 아래에는 \"시작한 시각\"이라고 쓰여 있고, 오른쪽 시계 아래에는 \"끝낸 시각\"이라고 쓰여 있습니다. 각 시계에는: - 1부터 12까지의 숫자가 표시되어 있습니다 - 테두리에는 분홍색으로 분을 나타내는 눈금이 있습니다 - 녹색 시침과 분홍색 분침이 시간을 가리키고 있습니다 이것은 어떤 활동의 시작 시간과 종료 시간을 나타내는 것으로 보입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289.92,
+                            397.1,
+                            382.08,
+                            420.14
+                        ]
+                    ],
+                    "text_description": "25분 25초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.44,
+                            428.46,
+                            376.32,
+                            496.94
+                        ]
+                    ],
+                    "text_description": "아침 식사를 시작한 시각은 7시 25분 20초이고, 끝낸 시각은 7시 50분 45초입니다. $\\rightarrow 7$ 시 50분 45초-7시 25분 20초=25분 25초"
+                }
+            ]
+        }
+    ]
+}

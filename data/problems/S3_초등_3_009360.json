@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cbdbc1c3-dc1d-44df-b9ab-37d4eb755dcd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009360",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.27,
+                            -0.76,
+                            510.27,
+                            27.24
+                        ]
+                    ],
+                    "text_description": "전체에 알맞은 도형을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.27,
+                            53.77,
+                            280.27,
+                            200.77
+                        ]
+                    ],
+                    "text_description": "팔각형에서 전체를 똑같이 8분할로 나눈 것 중의 3조각 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            314.27,
+                            46.77,
+                            803.27,
+                            182.77
+                        ]
+                    ],
+                    "text_description": "가: 팔각형에서 전체를 똑같이 8분할로 나눈 것 중의 7조각 입니다. 나: 팔각형에서 전체를 똑같이 8분할로 나눈 것 중의 6조각 입니다. 다: 팔각형에서 전체를 똑같이 8분할로 나눈 것 중의 8조각 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.27,
+                            231.77,
+                            72.27,
+                            255.77
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.27,
+                            271.77,
+                            821.27,
+                            328.77
+                        ]
+                    ],
+                    "text_description": "전체들 똑같이 8로 나눈 것 중 3이 주어졌으므로 전체를 똑같이 8로 나눈 것을 찾으면 다입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9fd913a-dd48-41ad-8af0-f9023d99ceb6",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003069",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.1,
+                            8.1,
+                            650.3,
+                            96.1
+                        ]
+                    ],
+                    "text_description": "다희네 집에서는 하루에 한 번 청소를 합니다. 다희와 재희는 일주일 동안 청소를 한 횟수의 비로 용돈 3500원을 나누어 가지려고 합니다. 다희와 재희가 청소를 한 요일이 다음과 같다면 각각 얼마씩 나누어 가져야 하는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.3,
+                            108.1,
+                            641.1,
+                            335.3
+                        ]
+                    ],
+                    "text_description": "다희와 재희가 일주일 동안 번갈아 가며 청소를 하는 삽화 월: 다희 화: 재희 수: 다희 목: 다희 금: 재희 토: 다희 일: 재희"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.7,
+                            426.03,
+                            507.1,
+                            457.23
+                        ]
+                    ],
+                    "text_description": "다희 ($2000$)원, 재희 ($1500$)원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.9,
+                            342.03,
+                            251.9,
+                            418.03
+                        ]
+                    ],
+                    "text_description": "다희: $3500 \\times \\frac{4}{7}=2000$ (원), 재희: $3500 \\times \\frac{3}{7}=1500$ (원)"
+                }
+            ]
+        }
+    ]
+}

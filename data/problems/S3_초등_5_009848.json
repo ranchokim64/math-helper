@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3156a192-b67f-4d90-aa20-a4b3ccfb7a12",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009848",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            4.84,
+                            730.1,
+                            44.84
+                        ]
+                    ],
+                    "text_description": "광수는 $2500$원으로 사탕을 사려고 합니다. 사려는 사탕의 가격표가 찢어져 있을 때 광수가 가진 돈으로 어떤 사탕을 살 수 있을지 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            158.1,
+                            302.5,
+                            577.9,
+                            322.5
+                        ]
+                    ],
+                    "text_description": "광수는 (레몬 맛, 포도 맛) 사탕을 살 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.9,
+                            47.24,
+                            702.1,
+                            301.84
+                        ]
+                    ],
+                    "text_description": "레몬맛 사탕과 포도맛 사탕이 진열되어 있는 진열장과 찢어진 가격표가 표시되어 있습니다. 왼쪽에는 $1g$당 $9. 1$원 레몬맛 사탕 $300g$, 오른쪽에는 $1g$당 $9. 8$원 포도맛 사탕 $250g$이라고 적혀 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            316.5,
+                            94.1,
+                            336.5
+                        ]
+                    ],
+                    "text_description": "포도 맛"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            342.9,
+                            730.9,
+                            449.3
+                        ]
+                    ],
+                    "text_description": "레몬 맛 사탕: $1g$ 당 $9$ 원인 사탕이 $300g$ 있다고 어림하면 사탕의 가격이 $2700$ 원입니다. $1g$ 당 가격이 $9$ 원보다 높으므로 가진 돈으로 사탕을 살 수 없습니다. 포도 맛 사탕: $1g$ 당 $10$ 원인 사탕이 $250g$ 있다고 어림하면 사탕의 가격이 $2500$ 원입니다. $1g$ 당 가격이 $10$ 원보다 낮으므로 가진 돈으로 사탕을 살 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ce7f1d0a-1729-48b1-b646-374897bfd4e6",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017003",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.94,
+                            4.64,
+                            509.78,
+                            46.24
+                        ]
+                    ],
+                    "text_description": "다음에서 1에서 9 까지의 수 중 $\\square$ 안에 들어갈 수 있는 수의 개수를 구하세요. \\[ 18 \\times 5>20 \\times \\square \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.58,
+                            138.4,
+                            52.82,
+                            157.6
+                        ]
+                    ],
+                    "text_description": "④ 4 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.58,
+                            61.96,
+                            52.82,
+                            132
+                        ]
+                    ],
+                    "text_description": "① 1 개 ② 2 개 ③ 3 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.58,
+                            245.42,
+                            408.02,
+                            262.98
+                        ]
+                    ],
+                    "text_description": "따라서 $\\square$에 들어갈 수 있는 수는 $1, 2, 3, 4$로 모두4 개입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.94,
+                            172.1,
+                            649.3,
+                            239.3
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}18 \\times 5=90 \\text { 이므로 } 90>20 \\times \\square \\text { 입니다. } \\\\ 20 \\times 1=20, 20 \\times 2=40, 20 \\times 3=60, 20 \\times 4=80, 20 \\times 5=100, 20 \\times 6=120, 20 \\times 7=140, \\\\ 20 \\times 8=160, 20 \\times 9=180\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

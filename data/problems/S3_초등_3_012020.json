@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5a06b5f3-927d-4655-8a81-e662d3564fc2",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012020",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.2,
+                            10.74,
+                            527.6,
+                            100.34
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 수지가 설명하는 수보다 231 큰 수 } \\\\ \\text { 는 얼마일까요? }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.6,
+                            123.54,
+                            434.8,
+                            434.74
+                        ]
+                    ],
+                    "text_description": "100이 4개, 10이 5개, 1이 7개인 수야 수지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            384.4,
+                            460,
+                            436.4,
+                            487.2
+                        ]
+                    ],
+                    "text_description": "$688$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.6,
+                            495.2,
+                            375.6,
+                            576
+                        ]
+                    ],
+                    "text_description": "100이 4개, 10이 5개, 1이 7개인 수는 $400+50+7=457$ 입니다. $\\rightarrow 457+231=688$"
+                }
+            ]
+        }
+    ]
+}

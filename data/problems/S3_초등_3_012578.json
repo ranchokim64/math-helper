@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c77ea30-6000-49f3-9bb1-09cbe7e05ff9",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012578",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.97,
+                            14.92,
+                            444.5,
+                            121.68
+                        ]
+                    ],
+                    "text_description": "사탕이 한 봉지에 146개씩 들어 있습니 다. 8 봉지에는 모두 몇 개의 사탕이 들어 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            311.62,
+                            140.99,
+                            380.9,
+                            170.52
+                        ]
+                    ],
+                    "text_description": "1168개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.96,
+                            171.2,
+                            163.97,
+                            197.32
+                        ]
+                    ],
+                    "text_description": "$146 \\times 8=1168$ (개)"
+                }
+            ]
+        }
+    ]
+}

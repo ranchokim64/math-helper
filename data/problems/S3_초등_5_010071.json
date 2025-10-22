@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1a35df2b-d39c-4168-b4f1-9a5038b469a3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010071",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.74,
+                            0.28,
+                            664.07,
+                            78.55
+                        ]
+                    ],
+                    "text_description": "소혜는 화살이 초록색에 멈출 가능성이 가장 높고, 빨간색에 멈출 가능성이 노란 색에 멈출 가능성의 3 배인 회전판을 만들었습니다. 소혜가 만든 회전판을 찾아 선택 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.44,
+                            199.53,
+                            664.07,
+                            298.92
+                        ]
+                    ],
+                    "text_description": "①은 빨간색과 노란색이 차지하는 부분이 같고, ②는 빨간색이 차지하는 부분이 노란색이 차지하는 부분의 2 배입니다. ④는 빨간색이 차지하는 부분이 노란색이 차지하는 부분의 3 배입니다. 따라서 소혜가 만든 회전판은 ④입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            120.14,
+                            79.35,
+                            222.66,
+                            162.74
+                        ]
+                    ],
+                    "text_description": "① 원 모양의 회전판이 있다. 원의 수직을 중심으로 오른쪽은 시계 방향 기준으로 빨간색과 노랑색이 같은 크기로 있고, 왼쪽은 전부 녹색이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            229.71,
+                            79.43,
+                            331.45,
+                            162.74
+                        ]
+                    ],
+                    "text_description": "② 원 모양의 회전판이 있다. 원의 수직을 중심으로 오른쪽은 전부 녹색이며 왼쪽은 시계방향 기준으로 노랑색과 빨간색이 있다. 빨간색이 노랑색보다 반 이상을 차지한다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            340.71,
+                            79,
+                            444.93,
+                            161.96
+                        ]
+                    ],
+                    "text_description": "③ 원 모양의 회전판이 있다. 원의 수평을 중심으로 위쪽은 전부 빨간색이며 아래는 시계방향 기준으로 노란색과 녹색이이며 같은 크기이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            478.0,
+                            79.0,
+                            553.0,
+                            162.0
+                        ]
+                    ],
+                    "text_description": "빨간색이 차지하는 부분이 노란색이 차지하는 부분의 3 배입니다"
+                }
+            ]
+        }
+    ]
+}

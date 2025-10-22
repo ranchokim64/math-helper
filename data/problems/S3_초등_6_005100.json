@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5f00ba05-2f7f-4352-87d1-933bb7c8c37c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005100",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            25.42,
+                            375,
+                            74.42
+                        ]
+                    ],
+                    "text_description": "보기와 같이 계산해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            286,
+                            122,
+                            359
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{1}{2} \\div \\frac{5}{6}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.39,
+                            94.68,
+                            585.69,
+                            255.33
+                        ]
+                    ],
+                    "text_description": "$4 \\frac{4}{5} \\div \\frac{3}{4}=\\frac{24}{5} \\div \\frac{3}{4}=\\frac{24}{5} \\times \\frac{4}{3}=\\frac{32}{5}=6 \\frac{2}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -1.6600000000000001,
+                            442.67,
+                            240.04,
+                            610.73
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}=\\frac{7}{2} \\div \\frac{5}{6}=\\frac{7}{2} \\times \\frac{6}{5} \\\\ =\\frac{21}{5}=4 \\frac{1}{5}\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            371,
+                            591,
+                            436
+                        ]
+                    ],
+                    "text_description": "대분수를 가분수로 바꾼 후 분수의 곱셈으로 나타내어 계산합니다."
+                }
+            ]
+        }
+    ]
+}

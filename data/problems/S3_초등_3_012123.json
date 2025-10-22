@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6f1f92d0-72ac-43da-8278-601350bff7a4",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012123",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.22,
+                            12.79,
+                            704.7,
+                            188.15
+                        ]
+                    ],
+                    "text_description": "연희는 초콜릿을 42개 가지고 있습니다. 친구들에게 초콜릿을 6개씩 나누어 주면 모두 몇 명에게 나누어 줄 수 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            524.22,
+                            223.99,
+                            576.06,
+                            259.83
+                        ]
+                    ],
+                    "text_description": "7명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.14,
+                            273,
+                            515.26,
+                            305
+                        ]
+                    ],
+                    "text_description": "초콜릿을 6개씩 7번 덜어내면 0이 됩니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.66,
+                            346.6,
+                            227.9,
+                            380.52
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow 42 \\div 6=7$ (명)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.94,
+                            310.76,
+                            377.02,
+                            340.84
+                        ]
+                    ],
+                    "text_description": "$42-6-6-6-6-6-6-6=0$"
+                }
+            ]
+        }
+    ]
+}

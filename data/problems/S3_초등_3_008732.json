@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fc3bc902-2eff-495a-a702-f2f629229ce8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008732",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-11] 단위분수, 진분수, 가분수, 대분수를 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-10] 단위분수, 진분수, 가분수, 대분수를 알고, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.11,
+                            4.88,
+                            908.11,
+                            36.88
+                        ]
+                    ],
+                    "text_description": "사다리를 타고 내려가 도착한 곳이 참이면 $\\bigcirc$ 표, 거짓이면 $\\times$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            264.11,
+                            48.88,
+                            696.11,
+                            347.88
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{8}$, $\\frac{9}{10}$, $\\frac{4}{4}$가 표기된 박스가 있고 가분수, 가분수, 진분수로 되어있는 박스가 아래 배치되어 있다. 각 박스들은 사다리로 이어져 있다. 가분수, 진분수 박스 아래에는 $\\bigcirc, \\times$가 표기되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.11,
+                            367.88,
+                            156.11,
+                            398.88
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc, \\times, \\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.11,
+                            418.51,
+                            520.11,
+                            476.51
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{8}\\ 진분수, \\frac{9}{10}\\ 진분수, \\frac{4}{4}가분수$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.11,
+                            478.51,
+                            689.11,
+                            740.51
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{8}$, $\\frac{9}{10}$, $\\frac{4}{4}$가 표기된 박스가 있고 가분수, 가분수, 진분수로 되어있는 박스가 아래 배치되어 있다. 각 박스들은 사다리로 이어져 있다."
+                }
+            ]
+        }
+    ]
+}

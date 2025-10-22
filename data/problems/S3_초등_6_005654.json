@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0d9ff759-eee5-4272-942d-7a4718df6abe",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005654",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.34,
+                            12.33,
+                            701.38,
+                            98.73
+                        ]
+                    ],
+                    "text_description": "수직선에서 작은 눈금 한 칸의 크기는 얼마인지 소 수로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.82,
+                            116.65,
+                            655.3,
+                            188.97
+                        ]
+                    ],
+                    "text_description": "이 이미지는 눈금이 있는 직선이다. 눈금의 왼쪽 끝에는 \"1. 5\"가, 오른쪽 끝에는 \"5. 75\"가 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            486.34,
+                            219.42,
+                            568.9,
+                            253.98
+                        ]
+                    ],
+                    "text_description": "$0. 85$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.46,
+                            276.38,
+                            700.74,
+                            374.3
+                        ]
+                    ],
+                    "text_description": "I. 5와 5. 75 사이의 크기는 $5. 75-1. 5=4. 25$ 이고 4. 25를 5 등분하였으므로 작은 눈금 한 칸의 크기는 $4. 25 \\div 5=0. 85$ 입 니다."
+                }
+            ]
+        }
+    ]
+}

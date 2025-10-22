@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ee68a5cd-3b7a-4b6a-8c45-3fbc2abc4560",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011087",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            5.92,
+                            863.5,
+                            65.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무 9개로 쌓은 모양입니다. 이 모양을 옆에서 본 모양은 어느 것일까 요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            373.5,
+                            79.92,
+                            520.5,
+                            206.92
+                        ]
+                    ],
+                    "text_description": "이미지는 쌓기나무가 쌓여 있는 구조를 보여줍니다. 9개의 쌓기나무가 사용되었고 3개 씩 3층으로 구성되어 있습니다. 각 블록은 주황색 나무 계열로 되어 있습니다. '옆'이라는 화살표가 있는 원이 그림의 왼쪽 부분에 위치해 있습니다. 이 화살표는 블록 구조의 옆면을 가리키고 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            212.5,
+                            691.5,
+                            474.5
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 옆에서 본 모양을 3x3 박스에 그려넣은 이미지 입니다. - ① 2행 좌측부터 2개, 3행 좌측 1개에 주황 블록이 채워져 있습니다. - ② 2행 좌측부터 2개, 3행 중앙 1개에 주황 블록이 채워져 있습니다. - ③ 1행 3개, 2행 우측 1개, 3행 우측 1개에 주황 블록이 채워져 있습니다. - ④ 1행 좌측부터 2개, 2행 중앙 1개, 3행 중앙 1개에 주황 블록이 채워져 있습니다. - ⑤ 1행 좌측부터 2개, 2행 좌측부터 2개, 3행 좌측부터 2개에 주황 블록이 채워져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            487.5,
+                            75.5,
+                            510.5
+                        ]
+                    ],
+                    "text_description": "⑤"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            528.5,
+                            863.5,
+                            553.5
+                        ]
+                    ],
+                    "text_description": "옆에서 본 모양은 먼저 가로로 쌓기나무가 몇 개 놓여 있는지들 알아본 후 각 줄별로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            561.5,
+                            862.5,
+                            617.5
+                        ]
+                    ],
+                    "text_description": "몇 층인지를 알아봅니다. 따라서 옆에서 보면 가로로 2개가 놓여 있고 모두 3 층이므로 옆에서 본 모양은 ⑤입니다."
+                }
+            ]
+        }
+    ]
+}

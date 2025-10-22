@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "193e38e6-006b-455a-974b-5b867d83d377",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011927",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73,
+                            11.42,
+                            482,
+                            41.42
+                        ]
+                    ],
+                    "text_description": "사각형 안에 있는 수의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            59.42,
+                            451,
+                            268.42
+                        ]
+                    ],
+                    "text_description": "587: 가로로긴 타원형 438: 평행사변형 396: 정삼각형 754: 삼각형 829: 사선으로 긴 타원형 625: 사다리꼴 각 모형에 해당 숫자가 써져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            368,
+                            283,
+                            410,
+                            307
+                        ]
+                    ],
+                    "text_description": "$277$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            317,
+                            339,
+                            361
+                        ]
+                    ],
+                    "text_description": "사각형 안에 있는 수는 348과 625입니다. \\[ \\rightarrow 625-348=277 \\]"
+                }
+            ]
+        }
+    ]
+}

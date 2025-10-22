@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "25137564-8d07-4992-97ae-0db3350cb1de",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005223",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.96,
+                            24.46,
+                            559.46,
+                            93.86
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양과 1층 모양을 보고 2층과 3층 모양을 각각 그려 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            221.54,
+                            111.98,
+                            411.49,
+                            291.84
+                        ]
+                    ],
+                    "text_description": "1층에 8개, 2층에 4개, 3층에 1개로 쌓아진 쌓기 나무가 있다. 앞에서 본 모양이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.54,
+                            300.55,
+                            137.06,
+                            517.29
+                        ]
+                    ],
+                    "text_description": "9개로 이루어진 칸에 가로 첫번째줄에는 2개, 2번째 줄에는 3개, 세번째 줄에는 가운데가 비어있는 2개의 모양이 있다. 위쪽에는 '1층'이라는 텍스트가 있고, 아래쪽에는 '앞'이라는 텍스트가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.67,
+                            552.76,
+                            129.47,
+                            771.56
+                        ]
+                    ],
+                    "text_description": "9개로 이루어진 칸에 가로 첫번째줄에는 1개, 2번째 줄에는 가운데가 비어있는 2개의 모양, 세번째 줄에는 1개의 모양이 있다. 위쪽에는 '2층'이라는 텍스트가 있고, 아래쪽에는 '앞'이라는 텍스트가 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162.87,
+                            551.96,
+                            284.87,
+                            772.36
+                        ]
+                    ],
+                    "text_description": "9개로 이루어진 칸에 가로 첫번째줄에는 1개의 모양이 있다. 위쪽에는 '3층'이라는 텍스트가 있고, 아래쪽에는 '앞'이라는 텍스트가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "2",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.0600000000000005,
+                            551.14,
+                            131.89,
+                            771.81
+                        ]
+                    ],
+                    "text_description": "이 이미지는 2층 평면도의 일부를 나타내며, 청색으로 채워진 사각형들이 있고, 아래쪽에는 \"앞\"이라는 표시가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            159,
+                            550.58,
+                            284.98,
+                            771.3
+                        ]
+                    ],
+                    "text_description": "이 이미지는 3층 건물의 평면도를 보여주고 있습니다. 왼쪽 아래 칸이 파란색으로 표시되어 있으며, \"앞\"이라는 표시가 있습니다."
+                }
+            ]
+        }
+    ]
+}

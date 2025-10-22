@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "20d53530-4716-4a75-bcbc-bc800edc4f18",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010905",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.8,
+                            4.74,
+                            525.6,
+                            34.34
+                        ]
+                    ],
+                    "text_description": "계산이 잘못된 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            372,
+                            182.8,
+                            515.2,
+                            210
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            305.6,
+                            36.74,
+                            582.4,
+                            180.74
+                        ]
+                    ],
+                    "text_description": "㉠ $186 \\div 0. 62=300$ ㉡ $126 \\div 0. 63=20$ ㉢ $7 \\div 0. 14=50$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.2,
+                            222.8,
+                            78.4,
+                            251.2
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.4,
+                            268.4,
+                            539.2,
+                            471.6
+                        ]
+                    ],
+                    "text_description": "㉠ $186 \\div 0. 62=\\frac{18600}{100} \\div \\frac{62}{100}=18600 \\div 62=300$ ㉡ $126 \\div 0. 63=\\frac{12600}{100} \\div \\frac{63}{100}=12600 \\div 63=200$ ㉢ $7 \\div 0. 14=\\frac{700}{100} \\div \\frac{14}{100}=700 \\div 14=50$ 따라서 계산이 잘못된 것은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

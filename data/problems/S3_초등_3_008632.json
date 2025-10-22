@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d9614c12-907a-434a-9fde-20f7a672f34b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008632",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            11.42,
+                            620.5,
+                            45.42
+                        ]
+                    ],
+                    "text_description": "나눗셈 중에서 나머지가 다른 하나를 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            60.42,
+                            132.5,
+                            86.42
+                        ]
+                    ],
+                    "text_description": "① $39 \\div 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            328.5,
+                            60,
+                            723.5,
+                            84
+                        ]
+                    ],
+                    "text_description": "② $17 \\div 4$ ③ $16 \\div 5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            100,
+                            428.5,
+                            129
+                        ]
+                    ],
+                    "text_description": "④ $31 \\div 6$ ⑤ $27 \\div 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            192,
+                            489.5,
+                            221
+                        ]
+                    ],
+                    "text_description": "① $39 \\div 3=13$ 이므로 나머지가 $0$입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            226,
+                            533.5,
+                            402
+                        ]
+                    ],
+                    "text_description": "② $17 \\div 4 = 4 \\cdots 1$ 이므로 나머지가 $1$ 입니다. ③ $16 \\div 5 = 3 \\cdots 1$ 이므로 나머지가 $1$ 입니다. ④ $31 \\div 6 = 5 \\cdots 1$ 이므로 나머지가 $1$ 입니다. ⑤ $27 \\div 2 = 13 \\cdots 1$ 이므로 나머지가 $1$ 입니다. 따라서 나머지가 다른 하나는 ① $39 \\div 3$ 입니다."
+                }
+            ]
+        }
+    ]
+}

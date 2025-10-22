@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "238341f4-8a33-4e4c-89fe-960c4dc93191",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010608",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            4.41,
+                            796,
+                            96.41
+                        ]
+                    ],
+                    "text_description": "주원이는 초콜릿을 75개 가지고 있었습니다. 그중에서 39개는 동생에게 주고 남은 것을 형과 똑같이 나누어 가졌습니다. 그리고 친구에게서 8개를 더 받았다면 주원이가 가지고 있는 초콜릿은 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.4,
+                            145.62,
+                            90,
+                            169.42
+                        ]
+                    ],
+                    "text_description": "④ 26개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            108,
+                            599,
+                            138
+                        ]
+                    ],
+                    "text_description": "① 14개 ② 18개 ③ 22개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            278,
+                            145,
+                            345,
+                            169
+                        ]
+                    ],
+                    "text_description": "⑤ 30개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            220,
+                            625,
+                            398
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text {(주원이가 가지고 있는 초콜릿 수) } \\\\ \\quad=(75-(\\text { 동생에게 준 초콜릿 수) }) \\div 2+(\\text { 친구에게 받은 초콜릿 수 }) \\\\ =(75-39) \\div 2+8 \\\\ =36 \\div 2+8 \\\\ =18+8 \\\\ =26 \\text { (개) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

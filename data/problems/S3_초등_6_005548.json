@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2297d076-4792-4de7-8071-a677e4049b7c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005548",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-10] ‘(자연수)÷(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-10] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.32,
+                            7.66,
+                            705.44,
+                            93.47
+                        ]
+                    ],
+                    "text_description": "25를 4등분하여 수직선 위에 나타낸 것입니다. ㉠에 알맞은 분수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.66,
+                            109.24,
+                            699.72,
+                            239.04
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{llllll} 1 & 1 & 10 & 15 & 20 & 25 \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            448.78,
+                            248.81,
+                            630.12,
+                            327.39
+                        ]
+                    ],
+                    "text_description": "$\\frac{25}{4}\\left(=6 \\frac{1}{4}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.5,
+                            329.71,
+                            425.13,
+                            395.27
+                        ]
+                    ],
+                    "text_description": "$25 \\div 4=25 \\times \\frac{1}{4}=\\frac{25}{4}\\left(=6 \\frac{1}{4}\\right)$"
+                }
+            ]
+        }
+    ]
+}

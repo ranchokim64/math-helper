@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "113f3ce1-b32e-4ece-99f1-7ae0f20423b6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010083",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.25,
+                            5.6899999999999995,
+                            664.5,
+                            98.44
+                        ]
+                    ],
+                    "text_description": "승주네 모둠이 회전판 돌리기를하고 있습니다. 일이 일어날 가능성이 '불가능하다'이면 0, '반반이다'이면 $\\frac{1}{2}$, '확실하다'이면 1로 표현할 때 회전판 나에서 화살이 주황색에 멈출 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            168.2,
+                            101.82,
+                            518.8,
+                            185.02
+                        ]
+                    ],
+                    "text_description": "- 가: 초록색 원, 위쪽 화살표 - 나: 초록색과 주황색 반원, 2시 쪽 화살표 - 다: 초록색과 주황색 4분의 1, 2시 쪽 화살표"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.6,
+                            187.42,
+                            508.4,
+                            337.82
+                        ]
+                    ],
+                    "text_description": "수직선 두 개 있습니다. 각 선 위에는 $0$, $\\frac{1}{2}$, $1$이 표기되어 있습니다. 분홍색 화살표가 각 선분 위에 $1$, $\\frac{1}{2}$ 위에 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.4,
+                            348.22,
+                            304.4,
+                            406.82
+                        ]
+                    ],
+                    "text_description": "수직선이 있습니다. 선 위에는 $0$, $\\frac{1}{2}$, $1$이 표기되어 있습니다. 분홍색 화살표가 선 위 $\\frac{1}{2}$지점에 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41,
+                            415.12,
+                            602,
+                            455.87
+                        ]
+                    ],
+                    "text_description": "화살이 주황색에 멈출 가능성은 '반반이다'이므로 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

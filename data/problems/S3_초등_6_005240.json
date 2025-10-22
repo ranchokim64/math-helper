@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bd2bb043-c0d9-4ed0-bd1c-1e7bdd9a13a4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005240",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.54,
+                            20.76,
+                            559.78,
+                            97.05
+                        ]
+                    ],
+                    "text_description": "쌓기나무 7개로 쌓은 모양입니다. 위와 앞에서 본 모양이 같은 것을 찾아 $\\bigcirc$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.0,
+                            109.0,
+                            545.0,
+                            331.0
+                        ]
+                    ],
+                    "text_description": "3개의 서로 다른 쌓기나무 7개로 쌓은 모양"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.1,
+                            381.32,
+                            554.4,
+                            498.45
+                        ]
+                    ],
+                    "text_description": "위 앞 위 앞 위 앞 $\\qquad$ $\\qquad$ $\\qquad$ $\\qquad$ $\\qquad$ $\\qquad$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.13,
+                            337.26,
+                            552.25,
+                            379.17
+                        ]
+                    ],
+                    "text_description": "$(\\quad)(\\quad)(\\bigcirc)$"
+                }
+            ]
+        }
+    ]
+}

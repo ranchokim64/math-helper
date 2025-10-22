@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0728b50a-c8f0-4304-a52a-a0874e86b90f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010275",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-10] ‘(자연수)÷(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-10] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 분수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.11,
+                            6.38,
+                            923.11,
+                            36.38
+                        ]
+                    ],
+                    "text_description": "다음 중 몫이 작은 것부터 순서대로 바르게 나열한 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            226.11,
+                            42.38,
+                            759.11,
+                            106.38
+                        ]
+                    ],
+                    "text_description": "㉠ $12 \\div 5$ ㉡ $24 \\div 7$ ㉢ $30 \\div 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.11,
+                            114.99,
+                            172.11,
+                            146.99
+                        ]
+                    ],
+                    "text_description": "① ㉠, ㉡, ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            336.11,
+                            114.99,
+                            775.11,
+                            190.99
+                        ]
+                    ],
+                    "text_description": "② ㉠, ㉢, ㉡ ③ ㉡, ㉠, ㉢ ⑤ ㉢, ㉡, ㉠"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.11,
+                            155.99,
+                            172.11,
+                            190.99
+                        ]
+                    ],
+                    "text_description": "④ ㉡, ㉢, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.11,
+                            255.99,
+                            746.11,
+                            308.99
+                        ]
+                    ],
+                    "text_description": "㉠ $12 \\div 5=\\frac{12}{5}=2 \\frac{2}{5}$ ㉡ $24 \\div 7=\\frac{24}{7}=3 \\frac{3}{7}$ ㉢ $30 \\div 6=\\frac{30}{6}=5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.11,
+                            315.99,
+                            696.11,
+                            348.99
+                        ]
+                    ],
+                    "text_description": "따라서 몫이 작은 것부터 순서대로 나열하면 ㉠, ㉡, ㉢입니다."
+                }
+            ]
+        }
+    ]
+}

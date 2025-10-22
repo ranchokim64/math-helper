@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d7f92f45-20b9-47cb-91b1-a03289f39d27",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011985",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.64,
+                            4.21,
+                            429.2,
+                            34.93
+                        ]
+                    ],
+                    "text_description": "곱이 가장 큰 것을 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            141.2,
+                            76.5,
+                            221.2,
+                            145.3
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}30 \\times 4 \\\\ 62 \\times 3\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.8,
+                            76.5,
+                            341.2,
+                            147.7
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}25 \\times 3 \\\\ 17 \\times 5\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            337.68,
+                            189.54,
+                            360.08,
+                            210.02
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.04,
+                            221.54,
+                            371.6,
+                            243.3
+                        ]
+                    ],
+                    "text_description": "㉠ 120 ㉡ 75 ㉢ 186 ㉣85 $ \\rightarrow$ ㉢ > ㉠ > ㉣>㉡"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2636cdfe-9d7d-47f2-a448-52e243d67fb9",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011793",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.11,
+                            11.89,
+                            431.11,
+                            56.89
+                        ]
+                    ],
+                    "text_description": "두 수의 덧셈을 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119,
+                            122,
+                            602,
+                            216
+                        ]
+                    ],
+                    "text_description": "- 0. 1이 7개, 0. 01이 4개인 수 - 0. 1이 5개, 0. 01이 8개인 수"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.11,
+                            85.89,
+                            758.11,
+                            250.89
+                        ]
+                    ],
+                    "text_description": "- 0.1 이 7개, 0.01 이 4개인 수\n- 0.1 이 5개, 0.01 이 8개인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            566.11,
+                            280.89,
+                            639.11,
+                            319.89
+                        ]
+                    ],
+                    "text_description": "$1. 32$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.11,
+                            336.5,
+                            523.11,
+                            404.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}0.7+0.04=0.74,0.5+0.08=0.58 \\\\ 0.74+0.58=1.32\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

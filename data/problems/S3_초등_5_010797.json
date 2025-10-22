@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2491fd6e-ee4f-4abb-b469-13d5e74e1de0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010797",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.5,
+                            8.42,
+                            735.5,
+                            60.42
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{7}$과 $\\frac{2}{3}$를 통분할 때 공통분모가 될 수 있는 수를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            149,
+                            70.5,
+                            169
+                        ]
+                    ],
+                    "text_description": "$21$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            187,
+                            575.5,
+                            214
+                        ]
+                    ],
+                    "text_description": "공통분모가 될 수 있는 수는 두 분모의 공배수입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            219,
+                            514.5,
+                            246
+                        ]
+                    ],
+                    "text_description": "7과 3의 최소공배수는 21 이므로 7과 3의 공배수는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            518.5,
+                            219.0,
+                            724.5,
+                            248.0
+                        ]
+                    ],
+                    "text_description": "$21, 42, 63 \\cdots \\cdots$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            270.5,
+                            70.42,
+                            624.5,
+                            133.42
+                        ]
+                    ],
+                    "text_description": "3개의 주황색 작은 박스에 각각 14 21 28 숫자가 들어 있다."
+                }
+            ]
+        }
+    ]
+}

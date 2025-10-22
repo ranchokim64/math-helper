@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "34bc802d-3f73-4d3e-a1bd-58711c1cdaa8",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016831",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.28,
+                            5.24,
+                            456.28,
+                            27.24
+                        ]
+                    ],
+                    "text_description": "다음 중에서 $36 \\div 4$의 몫을 구할 때 필요한 곱셈식은 어떤 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.53,
+                            39.19,
+                            105.97,
+                            58.39
+                        ]
+                    ],
+                    "text_description": "① $4 \\times 9=36$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.33,
+                            39.34,
+                            106.06,
+                            57.01
+                        ]
+                    ],
+                    "text_description": "$4 \\times 9=36$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.89,
+                            65.43,
+                            105.97,
+                            134.55
+                        ]
+                    ],
+                    "text_description": "② $4 \\times 7=28$\n③ $4 \\times 8=32$\n④ $4 \\times 6=24$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.28,
+                            149.77,
+                            349.28,
+                            167.77
+                        ]
+                    ],
+                    "text_description": "이므로 $4 \\times 9=36$이 맞는 곱셈식입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.28,
+                            149.77,
+                            83.28,
+                            167.77
+                        ]
+                    ],
+                    "text_description": "$36 \\div 4=9$"
+                }
+            ]
+        }
+    ]
+}

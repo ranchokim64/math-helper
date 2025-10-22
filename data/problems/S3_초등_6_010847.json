@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b703d017-3f3c-4273-b54c-b607c14cd702",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010847",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.73,
+                            10.41,
+                            420.73,
+                            31.409999999999997
+                        ]
+                    ],
+                    "text_description": "계산을 바르게 한 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            207.73,
+                            40.41,
+                            584.73,
+                            126.41
+                        ]
+                    ],
+                    "text_description": "$8 \\div \\frac{3}{5}=4 \\frac{4}{5} \\quad 6 \\div \\frac{5}{7}=8 \\frac{2}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.73,
+                            140,
+                            147.73,
+                            181
+                        ]
+                    ],
+                    "text_description": "$6 \\div \\frac{5}{7}=8 \\frac{2}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.73,
+                            200,
+                            517.73,
+                            245
+                        ]
+                    ],
+                    "text_description": "$8 \\div \\frac{3}{5}=8 \\times \\frac{5}{3}=\\frac{40}{3}=13 \\frac{1}{3}, 6 \\div \\frac{5}{7}=6 \\times \\frac{7}{5}=\\frac{42}{5}=8 \\frac{2}{5}$"
+                }
+            ]
+        }
+    ]
+}

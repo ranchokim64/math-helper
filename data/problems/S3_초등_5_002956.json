@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c411aa1f-4a03-4d6a-9b3f-9ae99bb91c02",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002956",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.51,
+                            9.07,
+                            667.34,
+                            84.84
+                        ]
+                    ],
+                    "text_description": "수 카드 1, 4, 5를 한 번씩 사용하여 아래와 같이 식을 만들려고 합니다. 계산 결과가 가장 큰 식을 만들고 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            237,
+                            122.4,
+                            444,
+                            159.4
+                        ]
+                    ],
+                    "text_description": "$96 \\div(\\square-\\square)+\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            140.49,
+                            344.74,
+                            366.79,
+                            373.41
+                        ]
+                    ],
+                    "text_description": "$96 \\div(5-4)+1=97$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            358.6,
+                            394.92,
+                            395.47,
+                            423.08
+                        ]
+                    ],
+                    "text_description": "$97$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.33,
+                            276.64,
+                            627.4,
+                            329.38
+                        ]
+                    ],
+                    "text_description": "계산 결과를 가장 크게 만들려면 나누는 수를 가장 작게 만들어야 합니다. \\[96 \\div(5-4)+1=96 \\div 1+1=96+1=97\\]"
+                }
+            ]
+        }
+    ]
+}

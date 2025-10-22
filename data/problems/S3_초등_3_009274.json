@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8899ffaf-02bc-458e-89dc-c86ea9c1a0b5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009274",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.52,
+                            -0.93,
+                            440.46,
+                            23
+                        ]
+                    ],
+                    "text_description": "똑같이 나누어진 케이크를 모두 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.63,
+                            25.92,
+                            634.43,
+                            129.1
+                        ]
+                    ],
+                    "text_description": "케이크 조각을 점선으로 각기 다르게 나눈 4개의 조각들이 있다. 첫 번째 조각은 직사각형 모양의 케익을 가로로 똑같이 2분할 한 모양이다. 두 번째 조각은 직사각형 모양의 케익을 불균형하게 2분할 한 모양이다. 세 번째 조각은 직사각형 모양의 케익을 불균형하게 3분할 한 모양이다. 네 번째 조각은 직사각형 모양의 케익을 세로로 똑같이 4분할 한 모양이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.97,
+                            134.05,
+                            182.94,
+                            212.46
+                        ]
+                    ],
+                    "text_description": "직사각형 모양의 케익을 가로로 똑같이 2분할 한 모양, 직사각형 모양의 케익을 세로로 똑같이 4분할 한 모양"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116.9,
+                            233.92,
+                            332.33,
+                            261.16
+                        ]
+                    ],
+                    "text_description": "똑같이 둘로 나누었습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.57,
+                            304.91,
+                            330.68,
+                            329.67
+                        ]
+                    ],
+                    "text_description": "똑같이 넷으로 나누었습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.62,
+                            214.11,
+                            109.48,
+                            286.57
+                        ]
+                    ],
+                    "text_description": "직사각형 모양의 케익을 가로로 똑같이 2분할 한 모양"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.46,
+                            286.1,
+                            91.32,
+                            358.56
+                        ]
+                    ],
+                    "text_description": "직사각형 모양의 케익을 세로로 똑같이 4분할 한 모양"
+                }
+            ]
+        }
+    ]
+}

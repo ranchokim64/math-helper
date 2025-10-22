@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4a0ee6f0-39a7-48c7-b185-f4dd70c53651",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012235",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.9,
+                            15.54,
+                            594.9,
+                            144.34
+                        ]
+                    ],
+                    "text_description": "사각형을 그림과 같이 잘라서 네 각을 맞춘 것입니다. 사각형의 네 각의 크기의 합은 몇 도일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            148.3,
+                            168.54,
+                            514.1,
+                            302.74
+                        ]
+                    ],
+                    "text_description": "이미지는 두 개의 구역으로 나뉘어 있는 도형을 보여줍니다. 왼쪽 부분은 사다리꼴 모양 사각형이 4개의 사각형 모양의 블록으로 점선으로 나누어져 있으며, 각 구역에는 다양한 기호가 포함되어 있습니다. 1. 왼쪽 구역: - 상단 왼쪽: 원 Ⓞ 기호가 있는 분홍색 배경 - 상단 오른쪽: X 모양 기호가 있는 연두색 배경 - 하단 왼쪽: 별 기호가 있는 파란색 배경 - 하단 오른쪽: 삼각형 기호가 있는 보라색 배경 2. 오른쪽 구역: - 상단 왼쪽: 원 Ⓞ 기호가 있는 분홍색 배경 - 상단 오른쪽: X 모양 기호가 있는 연두색 배경 - 하단 왼쪽: 별 기호가 있는 파란색 배경 - 하단 오른쪽: 삼각형 기호가 있는 보라색 배경 이미지는 왼쪽 구역에서 오른쪽 구역으로의 변화를 나타내며, 기호 배치가 재조정되거나 교차하는 모습을 강조하고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            449.3,
+                            325.6,
+                            505.3,
+                            352
+                        ]
+                    ],
+                    "text_description": "$360^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94.9,
+                            368.8,
+                            424.5,
+                            393.6
+                        ]
+                    ],
+                    "text_description": "네 각이 원을 이루었으므로 $360^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8a5f56f0-4d4e-4f02-8adb-923bacdaca3b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010700",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.8,
+                            2.54,
+                            790.4,
+                            61.74
+                        ]
+                    ],
+                    "text_description": "두 수가 약수와 배수의 관계이면 $\\bigcirc$, 약수와 배수의 관계가 아니면 $\\times$를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.6,
+                            79.34,
+                            135.2,
+                            104.54
+                        ]
+                    ],
+                    "text_description": "7 47"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.8,
+                            116.6,
+                            137.2,
+                            143.8
+                        ]
+                    ],
+                    "text_description": "$(\\bigcirc, \\times)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.4,
+                            197.4,
+                            26.4,
+                            217.4
+                        ]
+                    ],
+                    "text_description": "$\\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.2,
+                            157.4,
+                            172,
+                            185.4
+                        ]
+                    ],
+                    "text_description": "$47 \\div 7=6 \\cdots 5(\\times)$"
+                }
+            ]
+        }
+    ]
+}

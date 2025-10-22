@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "abec35f8-8c02-4463-8ce1-79ffe2fac890",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009409",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.32,
+                            4.09,
+                            724.72,
+                            59.29
+                        ]
+                    ],
+                    "text_description": "성주의 말을 읽고 올림, 버림, 반올림 중에서 어떤 방법으로 어림해야 하는지 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.52,
+                            177.32,
+                            478.32,
+                            201.32
+                        ]
+                    ],
+                    "text_description": "(올림, 버림, 반올림)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            131.12,
+                            61.32,
+                            610.32,
+                            176.52
+                        ]
+                    ],
+                    "text_description": "성주: 탁구공 3261개를 한 상자에 100개씩 담아서 팔 때, 팔 수 있는 탁구공은 최대 몇 개일까?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.52,
+                            214.12,
+                            83.12,
+                            234.92
+                        ]
+                    ],
+                    "text_description": "버림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.32,
+                            248.52,
+                            657.52,
+                            270.92
+                        ]
+                    ],
+                    "text_description": "100개가 안 되는 탁구공은 팔 수 없으므로 버림의 방법으로 어림해야 합니다."
+                }
+            ]
+        }
+    ]
+}

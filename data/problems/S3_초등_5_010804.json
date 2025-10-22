@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4109e1c7-99f4-4975-b814-5730f8b50320",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010804",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            1.91,
+                            313,
+                            28.91
+                        ]
+                    ],
+                    "text_description": "더 큰 분수를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            310.0,
+                            53.0,
+                            346.0,
+                            107.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{24}{40}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            540.0,
+                            51.0,
+                            573.0,
+                            107.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{21}{30}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.0,
+                            206.5,
+                            474.0,
+                            260.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{24}{40}=\\frac{6}{10}, \\frac{21}{30}=\\frac{7}{10} \\Rightarrow \\frac{6}{10}<\\frac{7}{10} \\Rightarrow \\frac{24}{40}<\\frac{21}{30}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.0,
+                            140.5,
+                            80.0,
+                            188.5
+                        ]
+                    ],
+                    "text_description": "$\\frac{21}{30}$"
+                }
+            ]
+        }
+    ]
+}

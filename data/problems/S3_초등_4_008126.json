@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5e4309a2-77f4-4948-85a8-c9eb687c6a38",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008126",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            7.92,
+                            931,
+                            75.92
+                        ]
+                    ],
+                    "text_description": "병에 담긴 주스 960mL를 컵 12 개에 똑같이 나누어 담으려고 합니다. 한 컵에 담을 주스의 양을 알아보는 식으로 옳은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            228,
+                            79.92,
+                            733,
+                            265.92
+                        ]
+                    ],
+                    "text_description": "병에 담긴 주스의 이미지와 빈 컵 12개의 이미지가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188.6,
+                            287.6,
+                            394.2,
+                            315.6
+                        ]
+                    ],
+                    "text_description": "$960 \\times 12=11520$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            588.6,
+                            286.8,
+                            751,
+                            316.4
+                        ]
+                    ],
+                    "text_description": "$960 \\div 12=80$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            354.5,
+                            203,
+                            377.5
+                        ]
+                    ],
+                    "text_description": "$960 \\div 12=80$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            397.5,
+                            869,
+                            425.5
+                        ]
+                    ],
+                    "text_description": "(한 컵에 담을 주스의 양) $=$(전체 주스의 양) $\\div$ (컵 수) $=960 \\div 12=80(\\mathrm{mL})$"
+                }
+            ]
+        }
+    ]
+}

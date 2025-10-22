@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6a3c5e73-220d-45e3-a9e8-7f148640e1c6",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012097",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.16,
+                            11.05,
+                            640.04,
+                            79.73
+                        ]
+                    ],
+                    "text_description": "어떤 수에 285를 더해야 할 것을 잘못하여 258를 더했더 니 726이 되었습니다. 바르게 계산하면 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            522.92,
+                            100.21,
+                            564.52,
+                            125.17
+                        ]
+                    ],
+                    "text_description": "$753$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.72,
+                            154.98,
+                            365.48,
+                            176.74
+                        ]
+                    ],
+                    "text_description": "따라서 바르게 계산하면 $468+285=753$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.08,
+                            130.02,
+                            292.52,
+                            153.06
+                        ]
+                    ],
+                    "text_description": "$\\square+258=726, \\square=726-258=468$"
+                }
+            ]
+        }
+    ]
+}

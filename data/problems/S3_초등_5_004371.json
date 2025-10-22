@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b316faa0-da27-4c76-918e-4762135c393c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004371",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.68,
+                            79.49,
+                            365.6,
+                            143.77
+                        ]
+                    ],
+                    "text_description": "분모가 분자의 4 배이고, 분모와 분자의 합이 30 인 분수가 있습니다. 이 분수를 기약분수로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.6,
+                            149.26,
+                            292,
+                            184.46
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{4}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.68,
+                            7.18,
+                            366.24,
+                            40.46
+                        ]
+                    ],
+                    "text_description": "분자를 $\\square$라고 하면 분모는 $\\square \\times 4$ 이고, 분모와 분자의 합이 30 이므로 $\\square+\\square \\times 4=30, \\square \\times 5=30, \\square=6$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.599999999999994,
+                            41.1,
+                            184.48,
+                            72.46
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{24}=\\frac{6 \\div 6}{24 \\div 6}=\\frac{1}{4}$"
+                }
+            ]
+        }
+    ]
+}

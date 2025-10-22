@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b9ad4da6-5bbd-4ee2-a624-9031eb87ee32",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002903",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            7.9,
+                            519.5,
+                            33.9
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 3보다 작은 것을 찾아 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132.5,
+                            82.9,
+                            433.5,
+                            109.9
+                        ]
+                    ],
+                    "text_description": "㉠ 7의 0. 6배 ㉡ 8의 0. 25"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            503.5,
+                            82.9,
+                            613.5,
+                            109.9
+                        ]
+                    ],
+                    "text_description": "㉢ $6 \\times 0. 52$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.5,
+                            283.9,
+                            140.5,
+                            309.9
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.5,
+                            151.9,
+                            418.5,
+                            254.9
+                        ]
+                    ],
+                    "text_description": "㉠ 7의 0. 6배는 7의 반인 3. 5보다 큽니다. ㉡ 8의 0. 25는 8의 0. 3인 2. 4보다 작습니다. ㉢ $6 \\times 0. 52$는 6의 반인 3보다 큽니다. 따라서 계산 결과가 3보다 작은 것은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

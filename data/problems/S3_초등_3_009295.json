@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c8117701-6879-4c8c-a52c-93e3fb2e2544",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009295",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-15] 소수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-14] 소수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.6,
+                            9.71,
+                            486.9,
+                            30.880000000000003
+                        ]
+                    ],
+                    "text_description": "은찬이네 집에서 가장 가까운 곳을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.89,
+                            36.58,
+                            529.05,
+                            226.72
+                        ]
+                    ],
+                    "text_description": "이미지는 병원, 서점, 주민센터의 위치와 각각의 거리 정보를 나타내고 있습니다. 은찬이네 집을 중심으로 병원까지의 거리는 $3. 6\\, km$, 서점까지는 $5. 1\\, km$, 주민센터까지는 $6. 4\\, km$입니다. 이들 위치는 서로 연결되어 있으며, 은찬이네 집을 기준으로 거리가 표시되어 있습니다. (병원, 서점, 주민센터)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.26,
+                            239.72,
+                            76.93,
+                            259.25
+                        ]
+                    ],
+                    "text_description": "병원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.41,
+                            273.83,
+                            566.42,
+                            294.06
+                        ]
+                    ],
+                    "text_description": "$3. 6<5. 1<6. 4$ 이므로 은찬이네 집에서 가장 가까운 곳은 병원입니다."
+                }
+            ]
+        }
+    ]
+}

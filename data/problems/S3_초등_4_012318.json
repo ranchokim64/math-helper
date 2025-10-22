@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a7ae440b-66f3-45a2-9347-5463ee29569a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012318",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            15.41,
+                            677.5,
+                            47.41
+                        ]
+                    ],
+                    "text_description": "큰 수를 여러 가지 방법으로 세고 있습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.5,
+                            175,
+                            403.5,
+                            211
+                        ]
+                    ],
+                    "text_description": "㉮는 얼마씩 뛰어서 세었을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.5,
+                            61.41,
+                            777.5,
+                            166.41
+                        ]
+                    ],
+                    "text_description": "이 문제는 수열의 규칙을 찾아 빈칸을 채우는 문제입니다. ㉮의 수열을 보면: 18000, 28000, 38000, 48000 - 각 수는 10000씩 증가하고 있습니다 ㉯의 수열을 보면: 350000, 450000, 550000, 650000 - 각 수는 100000씩 증가하고 있습니다 문제에서 \"① 란의 자리 숫자가 1씩 커지므로 10000씩 뛰어서 세고 있습니다\"라고 설명하고 있습니다. 따라서 ㉮는 일만씩 뛰어서 세었으므로, 답은 10000씩 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.5,
+                            261,
+                            213.5,
+                            302
+                        ]
+                    ],
+                    "text_description": "10000"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.5,
+                            216,
+                            692.5,
+                            247
+                        ]
+                    ],
+                    "text_description": "만의 자리 숫자가 I씩 커지므로 10000 씩 뛰어서 세고 있습니다."
+                }
+            ]
+        }
+    ]
+}

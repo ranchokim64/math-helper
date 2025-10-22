@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "05553616-fead-4a6d-9bc1-0d55d0f360bf",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007955",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.83,
+                            2.33,
+                            770.83,
+                            33.33
+                        ]
+                    ],
+                    "text_description": "뛰어 세기를 하였습니다. ㉠에 알맞은 수는 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127.83,
+                            40.33,
+                            832.83,
+                            95.33
+                        ]
+                    ],
+                    "text_description": "5개의 박스가 있습니다. 좌측부터 주황색으로 채워진 4302980이 적힌 박스, 4602980이 적힌 박스, 4902980이 적힌 박스, 빈 박스, ㉠이 적힌 박스가 있습니다. 이 박스는 줄로 이어져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            326.83,
+                            148.94,
+                            446.83,
+                            175.94
+                        ]
+                    ],
+                    "text_description": "⑤ 5502980"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.83,
+                            105.94,
+                            151.83,
+                            175.94
+                        ]
+                    ],
+                    "text_description": "① 4102980 ④ 5302980"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            326.83,
+                            104.94,
+                            742.83,
+                            133.94
+                        ]
+                    ],
+                    "text_description": "② 4302980 ③ 5102980"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.83,
+                            243.94,
+                            926.83,
+                            338.94
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}4302980-4602980-4902980 \\text { 에서 십만의 자리 수가 } 3 \\text { 씩 커졌으므로 } 30 \\text { 만씩 뛰어 세었습니다. } \\\\ 4302980-4602980-4902980-5202980-5502980\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

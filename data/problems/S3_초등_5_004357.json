@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2eb000a0-d478-4d43-9c20-386dc2d914da",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004357",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.66,
+                            8.76,
+                            356,
+                            32.31
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 자연수를 모두 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.53,
+                            38.97,
+                            289.95,
+                            100.41
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{5}>\\frac{\\square}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.47,
+                            111.98,
+                            300.19,
+                            131.43
+                        ]
+                    ],
+                    "text_description": "1, 2"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.62,
+                            139.11,
+                            310.94,
+                            192.87
+                        ]
+                    ],
+                    "text_description": "\\[ \\frac{1}{5}=\\frac{3}{15}, \\frac{3}{15}>\\frac{\\square}{15} \\rightarrow 3>\\square \\] 따라서 $\\square$ 안에 들어갈 수 있는 자연수는 1, 2입니다."
+                }
+            ]
+        }
+    ]
+}

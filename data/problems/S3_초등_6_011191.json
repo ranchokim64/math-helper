@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b472c6d4-bdf1-4d55-b43c-cc72cbd7950c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011191",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.26,
+                            4.65,
+                            397.5,
+                            25.53
+                        ]
+                    ],
+                    "text_description": "비율이 같은 두 비를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            250.22,
+                            58.65,
+                            539.1,
+                            103.45
+                        ]
+                    ],
+                    "text_description": "$2: 7 \\quad \\frac{1}{2}: \\frac{1}{7} \\quad 6: 21 \\quad 1. 4: 6. 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.66,
+                            141.7,
+                            119.82,
+                            161.1
+                        ]
+                    ],
+                    "text_description": "$2: 7, 6: 21$"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.7,
+                            179.26,
+                            257.7,
+                            219.34
+                        ]
+                    ],
+                    "text_description": "- $2: 7$의 비율은 $\\frac{2}{7}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.619999999999997,
+                            232.74,
+                            764.3,
+                            324.42
+                        ]
+                    ],
+                    "text_description": "- 분수로 나타낸 비 $\\frac{1}{2}: \\frac{1}{7}$의 전항과 후항에 14를 곱하면 $7: 2$로 나타낼 수 있으므로 비율은 $\\frac{7}{2}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.42,
+                            337.26,
+                            321.34,
+                            381.9
+                        ]
+                    ],
+                    "text_description": "- $6: 21$의 비율은 $\\frac{6}{21}\\left(=\\frac{2}{7}\\right)$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.259999999999998,
+                            383.18,
+                            762.94,
+                            459.34
+                        ]
+                    ],
+                    "text_description": "-소수로 나타낸 비 1. 4:6. 3의 전항과 후항에 10을 곱한 후 7로 나누면 간단한 자연수의 비인 $2: 9$로 나타낼 수 있으므로 비율은 $\\frac{2}{9}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

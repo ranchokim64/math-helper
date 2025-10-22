@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "86a639ba-e911-46e0-86ca-34338b3b491d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005222",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.62,
+                            19.99,
+                            564.42,
+                            146.39
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 쓴 것입니다. 사용된 쌓기나무의 수가 다른 하나는 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.42,
+                            249.22,
+                            234.02,
+                            346.82
+                        ]
+                    ],
+                    "text_description": "③ 3 2 1 2 $\\square$ 1"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.82,
+                            152.42,
+                            478.82,
+                            245.82
+                        ]
+                    ],
+                    "text_description": "① 3 1 2 1 1 $\\square$ ② 1 $\\square$ 1 2 2 2"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            311.62,
+                            250.02,
+                            476.42,
+                            341.22
+                        ]
+                    ],
+                    "text_description": "④ 4 $\\square$ $\\square$ 2 1 1"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.22,
+                            349.22,
+                            232.42,
+                            438.02
+                        ]
+                    ],
+                    "text_description": "⑤ 2 2 $\\square$ 3 1 $\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94.02,
+                            442.82,
+                            307.62,
+                            473.22
+                        ]
+                    ],
+                    "text_description": "①, ②, ④, ⑤: 8개 ③: 9 개"
+                }
+            ]
+        }
+    ]
+}

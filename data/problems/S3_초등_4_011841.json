@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d543af6c-19be-4393-ba00-fb75420b2a5e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011841",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.06,
+                            1.99,
+                            442.26,
+                            62.15
+                        ]
+                    ],
+                    "text_description": "이등변삼각형의 세 변의 길이의 합은 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.62,
+                            73.95,
+                            380.82,
+                            207.43
+                        ]
+                    ],
+                    "text_description": "밑면이 14cm, 옆 모선이 8cm인 이등변 삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            310.42,
+                            225.72,
+                            373.78,
+                            249.4
+                        ]
+                    ],
+                    "text_description": "30cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.98,
+                            259.64,
+                            305.3,
+                            302.52
+                        ]
+                    ],
+                    "text_description": "이등변삼각형은 두 변의 길이가 같으므로 \\[ 8+8+14=30(\\mathrm{~cm}) \\text { 입니다. } \\]"
+                }
+            ]
+        }
+    ]
+}

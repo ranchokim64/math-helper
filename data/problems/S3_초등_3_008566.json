@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "49fa13f5-a304-4df6-a8ff-16aab5bb3c8c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008566",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.44,
+                            7.43,
+                            708.8,
+                            34.03
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 큰 것을 찾아 기호를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138.56,
+                            42.63,
+                            819.52,
+                            140.55
+                        ]
+                    ],
+                    "text_description": "보라색 테두리의 네모 상자에 다음과 같은 계산식이 들어 있다.㉠ $23 \\times 59$ ㉡ $61 \\times 34$ ㉢ $82 \\times 18$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.36,
+                            155,
+                            79.68,
+                            179.32
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.2,
+                            201.08,
+                            238.52,
+                            340.6
+                        ]
+                    ],
+                    "text_description": "㉠ $23 \\times 59=1357$ ㉡ $61 \\times 34=2074$ ㉢ $82 \\times 18=1476$ $\\\\ ㉡ $>$ ㉢ $>$ ㉠$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bd21430e-6b57-4629-afad-f34b6b65611d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009285",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.24,
+                            4.05,
+                            675.24,
+                            73.53
+                        ]
+                    ],
+                    "text_description": "분모가 8 인 분수 중에서 $\\frac{4}{8}$보다 크고 $\\frac{7}{8}$보다 작은 분수를 모두 찾아 선택 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            139.56,
+                            81.21,
+                            557.48,
+                            167.61
+                        ]
+                    ],
+                    "text_description": "오렌지색 상자에 다음과 같은 텍스트가 쓰여져 있다. $\\begin{array}{lllll}\\frac{3}{8} & \\frac{4}{8} & \\frac{5}{8} & \\frac{6}{8} & \\frac{7}{8}\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.72,
+                            177.58,
+                            84.52,
+                            216.62
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{8}, \\frac{6}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.8,
+                            231.06,
+                            489.64,
+                            326.06
+                        ]
+                    ],
+                    "text_description": "분모가 모두 8로 같으므로 분자를 비교합니다. $3<4<5<6<7$ 이므로 4보다 크고 7보다 작은 수는 5, 6 입니다. 따라서 $\\frac{4}{8}$보다 크고 $\\frac{7}{8}$보다 작은 분수는 $\\frac{5}{8}, \\frac{6}{8}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

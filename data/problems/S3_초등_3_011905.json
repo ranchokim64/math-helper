@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0a8d27e3-b9bf-4024-9cee-e87ae75e95ed",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011905",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            2.92,
+                            497.5,
+                            34.92
+                        ]
+                    ],
+                    "text_description": "도형에서 직각삼각형은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            218.5,
+                            64.92,
+                            349.5,
+                            178.92
+                        ]
+                    ],
+                    "text_description": "② 직각삼각형인 도형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            63.5,
+                            176.5,
+                            281.5
+                        ]
+                    ],
+                    "text_description": "① 삼각형인 도형이다. ④ 직각사각형인 도형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            219.5,
+                            193.5,
+                            432.5,
+                            264.5
+                        ]
+                    ],
+                    "text_description": "⑤ 둔각 삼각형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            431.5,
+                            63.5,
+                            581.5,
+                            180.5
+                        ]
+                    ],
+                    "text_description": "③ 둔각 삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.0,
+                            293.0,
+                            341.0,
+                            320.0
+                        ]
+                    ],
+                    "text_description": "한 각이 직각인 삼각형을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

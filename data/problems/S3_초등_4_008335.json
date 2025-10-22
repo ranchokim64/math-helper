@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "17bacfe3-c2b1-4179-a214-b818bf523e03",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008335",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-05] 평면도형의 이동을 이용하여 규칙적인 무늬를 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.7,
+                            5.24,
+                            930.5,
+                            89.04
+                        ]
+                    ],
+                    "text_description": "중점과 윗변을 기준으로 만들어지는 삼각형 모양으로 다음 규칙에 따라 무늬를 만들 때 ㉠에 알맞은 모양을 그리려고 합니다. 알맞은 것을 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.1,
+                            197.9,
+                            931.5,
+                            385.1
+                        ]
+                    ],
+                    "text_description": "① 모양을 시계 방향으로 $90^{\\circ}$만큼 돌리는 것을 반복해서 모양을 만들고, 오른쪽으로 (뒤집어서, 밀어서) 무늬를 만들었습니다. ② 따라서 ㉠에 알맞은 모양은 (중점과 윗변을 기준으로 만들어지는 삼각형, 중점과 윗변을 기준으로 만들어지는 삼각형을 밑으로 뒤집은 모양) 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            244.9,
+                            98.3,
+                            720.1,
+                            195.9
+                        ]
+                    ],
+                    "text_description": "주어진 모양을 시계 방향으로 $90^{\\circ}$만큼 돌리는 것을 반복해서 모양을 만들었다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            392.7,
+                            256.1,
+                            445.5
+                        ]
+                    ],
+                    "text_description": "① 밀어서 ② 중점과 윗변을 기준으로 만들어지는 삼각형을 밑으로 뒤집은 모양"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.7,
+                            458.3,
+                            929.7,
+                            520.7
+                        ]
+                    ],
+                    "text_description": "주어진 모양을 시계 방향으로 $90^{\\circ}$만큼 돌리는 것을 반복해서 모양을 만들고, 그 모양을 오른쪽으로 밀어서 무늬를 만들었습니다."
+                }
+            ]
+        }
+    ]
+}

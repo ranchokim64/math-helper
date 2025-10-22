@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2e5517c0-d61d-48f3-8ece-8f560b89833e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010129",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.32,
+                            4.49,
+                            667.88,
+                            56.33
+                        ]
+                    ],
+                    "text_description": "회전판 돌리기를하고 있습니다. 회전판 나에서 화살이 초록색에 멈출 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.67,
+                            365.6,
+                            665.75,
+                            431.6
+                        ]
+                    ],
+                    "text_description": "초록색과 분홍색이 회전판의 반씩 색칠된 회전판 나에서 초록색에 멈출 가능성은 '반반이다’이므로 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196.0,
+                            152.0,
+                            510.0,
+                            294.0
+                        ]
+                    ],
+                    "text_description": "선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이다. 화살표가 1을 가리키고 있다. 선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이다. 화살표가 $\\frac{1}{2}$을 가리키고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            222.0,
+                            62.0,
+                            473.0,
+                            141.0
+                        ]
+                    ],
+                    "text_description": "가: 원이 초록색으로 색칠 되어 있고 12시를 가리키고 있다. 나: 초록색 1/2, 분홍색 1/2 색칠되어 있고 초록색을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.0,
+                            311.0,
+                            286.0,
+                            358.0
+                        ]
+                    ],
+                    "text_description": "선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이다. 화살표가 \\$\\frac{1}{2}$을 가리키고 있다."
+                }
+            ]
+        }
+    ]
+}

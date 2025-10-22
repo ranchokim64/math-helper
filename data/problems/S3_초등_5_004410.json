@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "842e312d-742a-47eb-943e-23970f288ac5",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004410",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.2,
+                            -1.87,
+                            784.2,
+                            76.93
+                        ]
+                    ],
+                    "text_description": "수 카드 중 2장을 사용하여 만들 수 있는 가장 큰 진분수보다 $\\frac{3}{4}$만큼 더 작은 수는 얼마인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299,
+                            83.5,
+                            493,
+                            135.5
+                        ]
+                    ],
+                    "text_description": "5, 6, 7의 카드가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            659.4,
+                            176.6,
+                            681.8,
+                            223
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.2,
+                            177.4,
+                            557.8,
+                            222.2
+                        ]
+                    ],
+                    "text_description": "$\\left(\\frac{5}{6}, \\frac{5}{7}, \\frac{6}{7}\\right)$을 통분하면 $\\left(\\frac{35}{42}, \\frac{30}{42}, \\frac{36}{42}\\right)$ 이므로 가장 큰 진분수는 $\\frac{6}{7}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.8,
+                            147.8,
+                            483.4,
+                            171.8
+                        ]
+                    ],
+                    "text_description": "2단계 만들 수 있는 진분수 중 가장 큰 진분수를 써 보세요."
+                }
+            ]
+        }
+    ]
+}

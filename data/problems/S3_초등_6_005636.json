@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7ba5bfb5-0ce8-4bcc-adc1-a0ef8c0ffe34",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005636",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.5,
+                            10.92,
+                            408.5,
+                            45.92
+                        ]
+                    ],
+                    "text_description": "어떤 색 구슬이 더 무거운지 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.5,
+                            55.92,
+                            534.5,
+                            365.92
+                        ]
+                    ],
+                    "text_description": "민지: 노란색 구슬 6개는 1.5g이야. 재회: 파란색 구슬 8개는 3.6g이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            341.5,
+                            377.5,
+                            461.5,
+                            408.5
+                        ]
+                    ],
+                    "text_description": "파란색 구슬"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.02,
+                            427.52,
+                            299.14,
+                            583.04
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\begin{array}{r} 0. 25 \\\\ 6 \\longdiv { 1. 5 0 } \\end{array} \\\\ \\begin{array}{r} 0. 45 \\\\ \\hline \\longdiv { 3. 6 0 } \\end{array} \\\\ \\begin{array}{rr} 12 \\\\ \\hline 30 \\\\ 30 \\\\ \\hline & 0 \\end{array} \\quad \\begin{array}{rr} 32 \\\\ 40 \\\\ 40 \\end{array} \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

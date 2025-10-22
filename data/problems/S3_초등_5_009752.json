@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1325d1e7-6a82-40a9-89c0-c3c82eb2aa7f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009752",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-02] 합동인 두 도형에서 대응점, 대응변, 대응각을 각각 찾고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.31,
+                            3.07,
+                            550.97,
+                            25.83
+                        ]
+                    ],
+                    "text_description": "두 삼각형은 합동입니다. 각 ㅂㄹㅁ의 크기는 몇 도인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            149.41,
+                            30.92,
+                            343.64,
+                            167.26
+                        ]
+                    ],
+                    "text_description": "삼각형 $ㄱㄴㄷ$이 있습니다. $ㄱ$은 $75$도, $ㄴ$은 $38$도입니다. $ㄱㄷ$의 길이는 $6cm$, $ㄴㄷ$의 길이는 $10cm$입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            360.48,
+                            31.89,
+                            551.89,
+                            144.03
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄹㅁㅂ입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            238.16,
+                            171.96,
+                            290.41,
+                            192.53
+                        ]
+                    ],
+                    "text_description": "② $75^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            453.85,
+                            172.5,
+                            506.28999999999996,
+                            192.98
+                        ]
+                    ],
+                    "text_description": "③ $67^{\\circ}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.64,
+                            172.41,
+                            75.71,
+                            221.48
+                        ]
+                    ],
+                    "text_description": "① $38^{\\circ}$ ④ $77^{\\circ}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            237.89,
+                            203.72,
+                            291.76,
+                            223.29
+                        ]
+                    ],
+                    "text_description": "⑤ $90^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.53,
+                            267.7,
+                            678.39,
+                            341.33
+                        ]
+                    ],
+                    "text_description": "두 삼각형을 포개었을 때 각ㅂㄹㅁ과 겨쳐지는 각은 각 ㄷㄱㄴ이므로 각 ㅂㄹㅁ의 대응각은 각 ㄷㄱㄴ입니다. 따라서 각 ㄷㄱㄴ의 크기가 $75^{\\circ}$이므로 대응각인 각 ㅂㄹㅁ의 크기도 $75^{\\circ}$입니다."
+                }
+            ]
+        }
+    ]
+}

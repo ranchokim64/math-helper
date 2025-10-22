@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "21e6a1ea-9d20-445c-ab19-927607dd2183",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012481",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-11] 실생활 문제 상황을 통하여 무게의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-23] 실생활 문제 상황과 연결하여 무게의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.57,
+                            11.22,
+                            408.54,
+                            105.98
+                        ]
+                    ],
+                    "text_description": "꽃이 꽂혀 있는 꽃병의 무게가 $100g$ 입니다. 꽃병만의 무게가 $550g$ 이면 꽃의 무게는 몇 $g$일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            159.5,
+                            125,
+                            269.5,
+                            291
+                        ]
+                    ],
+                    "text_description": "꽃병 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            304.5,
+                            311,
+                            348.5,
+                            331
+                        ]
+                    ],
+                    "text_description": "$550g$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.5,
+                            341,
+                            253.5,
+                            378
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\mid \\mathrm{kg} 100 \\mathrm{~g}-550 \\mathrm{~g} & =1100 \\mathrm{~g}-550 \\mathrm{~g} \\\\ & =550 \\mathrm{~g}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

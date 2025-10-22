@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "338fd884-fecf-4a65-b87d-3ff8a67c2f0e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010830",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.12,
+                            8.89,
+                            385.12,
+                            37.89
+                        ]
+                    ],
+                    "text_description": "바르게 계산한 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            238.12,
+                            40.89,
+                            559.12,
+                            223.89
+                        ]
+                    ],
+                    "text_description": "연두색 배경의 네모박스 두개에 계산식이 각각 들어 있다.$\\begin{array}{c}15 \\div \\frac{3}{5}=(15 \\div 5) \\times 3=9 \\\\ 4 \\div \\frac{2}{7}=(4 \\div 2) \\times 7=14\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.12,
+                            234.57,
+                            255.12,
+                            279.57
+                        ]
+                    ],
+                    "text_description": "$4 \\div \\frac{2}{7}=(4 \\div 2) \\times 7=14$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.12,
+                            295.5,
+                            277.12,
+                            339.5
+                        ]
+                    ],
+                    "text_description": "$15 \\div \\frac{3}{5}=(15 \\div 3) \\times 5=25$"
+                }
+            ]
+        }
+    ]
+}

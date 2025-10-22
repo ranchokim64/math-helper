@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c1d4c103-d7a6-4d92-a514-07b284e24867",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012265",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.16,
+                            28.67,
+                            778.36,
+                            197.47
+                        ]
+                    ],
+                    "text_description": "케이크 한 개를 만드는 데 딸기가 12개 필요합니다. 딸기가 320개 있다면 케이크를 몇 개까지 만들 수 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            588.76,
+                            233.47,
+                            660.76,
+                            274.27
+                        ]
+                    ],
+                    "text_description": "26개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            124.76,
+                            329.16,
+                            529.56,
+                            359.56
+                        ]
+                    ],
+                    "text_description": "케이크를 26개까지 만들 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.36,
+                            294.07,
+                            325.76,
+                            320.67
+                        ]
+                    ],
+                    "text_description": "$320 \\div 12=26 \\cdots 8$"
+                }
+            ]
+        }
+    ]
+}

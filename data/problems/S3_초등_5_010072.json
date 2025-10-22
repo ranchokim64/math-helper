@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6bed2654-9add-4115-a31c-0e690bb1c86e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010072",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.5,
+                            1.84,
+                            668.1,
+                            85.84
+                        ]
+                    ],
+                    "text_description": "지훈이는 화살이 빨간색에 멈출 가능성이 가장 낮고, 초록색에 멈출 가능 성이 노란색에 멈출 가능성과 같은 회전판을 만들었습니다. 지훈이가 만든 회전판을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            144.9,
+                            87.44,
+                            231.3,
+                            172.24
+                        ]
+                    ],
+                    "text_description": "원 모양의 회전판이 있다. 12시 방향을 가르키는 화살표가 있다. 원의 수평을 기준으로 위쪽은 노랑색 아래쪽은 시게방향기준으로 녹색과 빨간색이다. 녹색이 반 이상을 차지하고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            245.7,
+                            87.9,
+                            332.1,
+                            171.9
+                        ]
+                    ],
+                    "text_description": "원 모양의 회전판이 있다. 12시 방향을 가르키는 화살표가 있다. 시계방향 기준으로 빨강, 노랑, 녹색이 있고, 빨간색은 전체의 $\\frac{3}{4}$을 차지하고 나머지는 같은 크기로 노랑색과 녹색이 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            345.7,
+                            87.9,
+                            431.3,
+                            174.3
+                        ]
+                    ],
+                    "text_description": "원 모양의 회전판이 있다. 12시 방향을 가르키는 화살표가 있다 3등분을 했을 경우 시계방향 순으로 녹색, 노랑, 빨강색이 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            444.1,
+                            87.1,
+                            532.9,
+                            173.5
+                        ]
+                    ],
+                    "text_description": "원 모양의 회전판이 있다. 12시 방향을 가르키는 화살표가 있다, 시계방향을 기준응로 녹색, 노랑, 빨강색이며 녹색과 노랑색이 같은 크기로 차지하는 면이 빨간색보다 많다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            172.7,
+                            119.3,
+                            255.1
+                        ]
+                    ],
+                    "text_description": "원 모양의 회전판이 있다. 12시 방향을 가르키는 화살표가 있다, 시계방향을 기준응로 녹색, 노랑, 빨강색이며 녹색과 노랑색이 같은 크기로 차지하는 면이 빨간색보다 많다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.1,
+                            259.1,
+                            666.5,
+                            358.3
+                        ]
+                    ],
+                    "text_description": "화살이 빨간색에 멈출 가능성이 가장 낮은 회전판을 찾으면 첫 번째와 네 번째입니다. 이 중 첫 번째는 노란색이 초록색보다 차지하는 부분이 넓고, 네 번째는 초록색과 노란색이 차지하는 부분이 같습니다. 따라서 지훈이가 만든 회전판은 네 번째입니다."
+                }
+            ]
+        }
+    ]
+}

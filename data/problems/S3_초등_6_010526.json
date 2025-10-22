@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "84f5c96f-cf2c-434e-bb39-74badfa30cc0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010526",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.01,
+                            -0.1,
+                            964.26,
+                            76.15
+                        ]
+                    ],
+                    "text_description": "다음은 승재네 집의 한 달 생활비의 쓰임새를 나타낸 띠그래프입니다. 가장 많이 쓰이는 생할비를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            239.26,
+                            283.15,
+                            754.76,
+                            316.15
+                        ]
+                    ],
+                    "text_description": "(식품비, 주거비, 교육비, 의복비, 기타)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            246.01,
+                            90.62,
+                            757.76,
+                            277.62
+                        ]
+                    ],
+                    "text_description": "생활비 쓰임새별 금액의 띠그래프가 있다. 0부터 100(%) 눈금선이 있으며 왼쪽부터 식품비 30%, 주거비 25%, 교육비 20%, 의복비 15%, 기타 10%가 그려진 띠그래프가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.26,
+                            325.62,
+                            139.26,
+                            363.12
+                        ]
+                    ],
+                    "text_description": "식품비"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.26,
+                            371.87,
+                            961.76,
+                            440.62
+                        ]
+                    ],
+                    "text_description": "(해설)각 생할비의 백분율의 크기를 비교하면 $30>25>20>15>10$ 이므로 가장 많이 쓰이는 생활비는 식품비입니다."
+                }
+            ]
+        }
+    ]
+}

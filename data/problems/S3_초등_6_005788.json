@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "01b2725a-c410-492c-b938-444b851f70b2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005788",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.4,
+                            7.16,
+                            382.09,
+                            30.97
+                        ]
+                    ],
+                    "text_description": "부피가 큰 것부터 순서대로 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.77,
+                            59.77,
+                            416.77,
+                            176.77
+                        ]
+                    ],
+                    "text_description": "㉠ 한 모서리의 길이가 3cm인 정육면체 ㉡ 가로가 2cm, 세로가 4cm, 높이가 9cm인 직육면체 ㉢ 한 면의 넓이가 $16 \\mathrm{~cm}^{2}$인 정육면체"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            255.91,
+                            211.35,
+                            404.9,
+                            236.69
+                        ]
+                    ],
+                    "text_description": "㉡, ㉢, ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.45,
+                            268.58,
+                            430.74,
+                            329.14
+                        ]
+                    ],
+                    "text_description": "㉢ $16=4 \\times 4$ 이므로 한 모서리의 길이는 $4cm$ 이고, 정육면체의 부피는 $4 \\times 4 \\times 4=64\\left(\\mathrm{~cm}^{3}\\right)$ 입니다. $\\rightarrow$ ㉡ $>$ ㉢ $>$ ㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.44,
+                            246.71,
+                            339.61,
+                            266.24
+                        ]
+                    ],
+                    "text_description": "㉠ $3 \\times 3 \\times 3=27\\left(\\mathrm{~cm}^{3}\\right)$㉡ $ 2 \\times 4 \\times 9=72\\left(\\mathrm{~cm}^{3}\\right)$."
+                }
+            ]
+        }
+    ]
+}

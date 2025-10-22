@@ -1,0 +1,132 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a81b7979-e03f-4778-8a35-0cee4f231169",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010484",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.61,
+                            5.39,
+                            620.61,
+                            38.39
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 자연수는 모두 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            336.61,
+                            40.39,
+                            551.61,
+                            108.39
+                        ]
+                    ],
+                    "text_description": "$45 \\div 12>$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            573.61,
+                            116.39,
+                            631.61,
+                            142.39
+                        ]
+                    ],
+                    "text_description": "③ 3 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.61,
+                            118,
+                            359.61,
+                            180
+                        ]
+                    ],
+                    "text_description": "① 1 개 ② 2 개 ④ 4 개 ⑤ 5 개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.61,
+                            238,
+                            345.61,
+                            268
+                        ]
+                    ],
+                    "text_description": "$45 \\div 12=3. 75, 3. 75>\\square$ 이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.61,
+                            272,
+                            527.61,
+                            297
+                        ]
+                    ],
+                    "text_description": "3. 75보다 작은 자연수는 $1, 2, 3$으로 모두 3 개입니다."
+                }
+            ]
+        }
+    ]
+}

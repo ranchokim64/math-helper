@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7cc88d52-f320-4a79-9944-c07abe41dae6",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017842",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.34,
+                            4.27,
+                            423.87,
+                            46.97
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{7}: \\frac{3}{4}$을 간단한 자연수의 비로 나타내세요."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.06,
+                            136.97,
+                            90.8,
+                            159.96
+                        ]
+                    ],
+                    "text_description": "③ 20:21"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.37,
+                            254.99,
+                            629.49,
+                            282.58
+                        ]
+                    ],
+                    "text_description": "두 분수를 비율로 나타내기 위해 나누기를 곱셈으로 변환합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.6,
+                            374.6,
+                            337,
+                            413.8
+                        ]
+                    ],
+                    "text_description": "$\\frac{20}{21}$은 20:21로 나타낼 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": "2",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.37,
+                            176.39,
+                            94.75,
+                            236.82
+                        ]
+                    ],
+                    "text_description": "④ 21:20\n⑤ $15: 12$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.69,
+                            60.11,
+                            69.12,
+                            124.49
+                        ]
+                    ],
+                    "text_description": "① $5: 7$\n② 7:5"
+                }
+            ]
+        }
+    ]
+}

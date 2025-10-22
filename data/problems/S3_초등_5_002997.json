@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dc342c2a-ce14-4fed-9d82-20370131c192",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002997",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.64,
+                            13.15,
+                            294.51,
+                            45.4
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.23,
+                            66.4,
+                            277.1,
+                            213.34
+                        ]
+                    ],
+                    "text_description": "이 이미지는 두 개의 풍선과 수식이 포함되어 있습니다. 왼쪽 풍선에는 \\(\\frac{8}{21} \\)이, 중앙에는 \\(+ \\) 기호와 \\(\\frac{3}{14} \\)가, 오른쪽 풍선에는 빈 사각형이 있습니다. 전체적으로 분수의 덧셈 문제를 나타내고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.79,
+                            286.36,
+                            274.54,
+                            430.23
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{21}$ $\\frac{25}{42}$ $+\\frac{3}{14}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.18,
+                            222.87,
+                            278.12,
+                            273.56
+                        ]
+                    ],
+                    "text_description": "이 이미지는 두 개의 풍선과 중앙에 더하기 기호가 있는 그림입니다. 왼쪽 풍선에는 분수 \\(\\frac{8}{21} \\)이, 중앙에는 \\(\\frac{3}{14} \\)가, 오른쪽 풍선에는 분수 \\(\\frac{25}{42} \\)가 적혀 있습니다."
+                }
+            ]
+        }
+    ]
+}

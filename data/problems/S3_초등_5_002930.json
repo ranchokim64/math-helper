@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "05a0c17a-5457-4e53-bb4f-2bc047dfb3e2",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002930",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.78,
+                            11.28,
+                            734.78,
+                            74.28
+                        ]
+                    ],
+                    "text_description": "직육면체의 모서리를 잘라서 직육면체의 전개도를 만들었습니다. $\\square$ 안에 알맞은 기호를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.78,
+                            92.28,
+                            711.78,
+                            287.28
+                        ]
+                    ],
+                    "text_description": "오른쪽엔 직육면체가 있고 각 꼭지점마자 ㄱ부터 ㅇ까지 표시되어있다. 왼쪽 이미지는 정사각형과 직사각형이 결합된 도형의 도식적인 표현입니다. 해당 도형에는 여러 개의 변과 점들이 표시되어 있다. 그리고 네 군데의 지점이 빈박스 처리 되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.78,
+                            299.28,
+                            590.78,
+                            462.28
+                        ]
+                    ],
+                    "text_description": "ㄹ, ㄱ, ㅇ, ㅁ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.78,
+                            457.28,
+                            402.78,
+                            492.28
+                        ]
+                    ],
+                    "text_description": "전개도를 접었을 때 만나는 점은 기호가 서로 같습니다."
+                }
+            ]
+        }
+    ]
+}

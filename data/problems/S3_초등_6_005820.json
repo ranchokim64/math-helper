@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c3c95e6c-d4cb-4b4d-8a28-a58f0f5fb59c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005820",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.01,
+                            68.92,
+                            346.94,
+                            189.22
+                        ]
+                    ],
+                    "text_description": "두부를 똑같이 2조각으로 자를 때 두부 2조각의 겉 넓이의 합은 처음 두부의 겉넓이보다 $80 \\mathrm{~cm}^{2}$ 늘어 납니다. 두부를 똑같이 4조각으로 자를 때 두부 4 조각의 겉넓이의 합은 처음 두부의 겉넓이보다 몇 $\\mathrm{cm}^{2}$ 늘어나는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.19,
+                            195.24,
+                            345.78,
+                            424.19
+                        ]
+                    ],
+                    "text_description": "가로cm, 세로10cm, 높이:4cm의 처음 두부 그림이다$\\rightarrow$ 가로 10cm, 세로5cm, 높이 4cm의 똑같이 2조각으로 자른 두부 그림 이다 $\\rightarrow$ 가로5cm, 세로5cm, 높이4cm인 똑같이 4조각으로 지른 두부 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            229.64,
+                            442.29,
+                            292.74,
+                            462.05
+                        ]
+                    ],
+                    "text_description": "$160 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.3,
+                            6.65,
+                            347.55,
+                            62.27
+                        ]
+                    ],
+                    "text_description": "늘어난 면의 넓이는 잘랐을 때 생기는 면의 넓이와 같습니다. 따라서 두부 4조각의 겉넓이의 합은 처음 두부의 겉넓이보다 $80 \\times 2=160\\left(\\mathrm{~cm}^{2}\\right)$ 늘어납니다."
+                }
+            ]
+        }
+    ]
+}

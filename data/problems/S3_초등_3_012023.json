@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9aee4441-dbe1-41e5-bd0b-32435c12fac5",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012023",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            8.92,
+                            434.5,
+                            83.92
+                        ]
+                    ],
+                    "text_description": "다음 뺄셈에서 $\\square$ 안의 수는 실제로 얼마를 나타낼까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138.5,
+                            102.92,
+                            306.5,
+                            288.92
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}2 11 10 \\\\ 325 \\\\ -167 \\\\ \\hline 158\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            321.5,
+                            312.5,
+                            356.5,
+                            332.5
+                        ]
+                    ],
+                    "text_description": "$110$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            341.5,
+                            437.5,
+                            411.5
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안의 수 11은 일의 자리를 받아내림하고 남은 수 10과 백의 자리에서 받아내림한 100을 더한 수이므로 110을 나타냅니다."
+                }
+            ]
+        }
+    ]
+}

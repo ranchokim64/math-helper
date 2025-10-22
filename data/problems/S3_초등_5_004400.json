@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0b8f6e56-d1c2-4d38-845c-96e469c092ad",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004400",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.97,
+                            9.06,
+                            313.14,
+                            37.22
+                        ]
+                    ],
+                    "text_description": "안에 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95.02,
+                            43.88,
+                            394.03,
+                            123.24
+                        ]
+                    ],
+                    "text_description": "$\\square -2 \\frac{1}{2}=1 \\frac{1}{6}+1 \\frac{11}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            318.77,
+                            127.63,
+                            367.92,
+                            172.18
+                        ]
+                    ],
+                    "text_description": "$5 \\frac{7}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.54,
+                            133.26,
+                            158,
+                            171.66
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{1}{6}+1 \\frac{11}{12}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.03,
+                            175.25,
+                            405.81,
+                            294.54
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}=1 \\frac{2}{12}+1 \\frac{11}{12}=2+\\frac{13}{12}=2+1 \\frac{1}{12}=3 \\frac{1}{12} \\text { 이므로 } \\\\ \\square-2 \\frac{1}{2}=3 \\frac{1}{12}. \\\\ \\square=3 \\frac{1}{12}+2 \\frac{1}{2}=3 \\frac{1}{12}+2 \\frac{6}{12}=5 \\frac{7}{12} \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

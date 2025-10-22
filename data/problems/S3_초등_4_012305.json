@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c564c253-c721-4294-9fed-dc911dbf171c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012305",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.57,
+                            8.03,
+                            590.94,
+                            92.41
+                        ]
+                    ],
+                    "text_description": "1-1 규칙적인 수의 배열에서 $ᄎ, \\vee$에 알 맞은 수를 구해 보세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.57,
+                            106.47,
+                            592.5,
+                            181.47
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|l|l|l|l|l|} \\hline 7835 & $\\star$ & 7635 & 7535 & $\\vee$ & 7335 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.88,
+                            188.65,
+                            592.5,
+                            276.15
+                        ]
+                    ],
+                    "text_description": "$\\left. \\begin{array}{lll}\\boldsymbol{\\star}(& 7735 \\\\ \\boldsymbol{\\bullet}(& 7435\\end{array}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.32,
+                            280.83,
+                            501.88,
+                            340.21
+                        ]
+                    ],
+                    "text_description": "7835부터 오른쪽으로 100씩 작아지는 규칙입니다. \\[ \\rightarrow \\star=7835-100=7735, \\boldsymbol{\\nabla}=7535-100=7435 \\]"
+                }
+            ]
+        }
+    ]
+}

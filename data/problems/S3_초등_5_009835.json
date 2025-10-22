@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3ee75b49-263f-4f2a-ad18-150d950d94db",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009835",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.94,
+                            1.75,
+                            424.82,
+                            27.35
+                        ]
+                    ],
+                    "text_description": "다음 중 곱이 가장 큰 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.98,
+                            73.23,
+                            156.02,
+                            99.03
+                        ]
+                    ],
+                    "text_description": "2. ②② $1.48 \\times 21$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.14,
+                            40.16,
+                            150.26,
+                            67.4
+                        ]
+                    ],
+                    "text_description": "1. ①① $3. 52 \\times 7$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.62,
+                            105,
+                            159.58,
+                            192.76
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 3. ③③ } 4. 2 \\times 5 \\\\ \\text { 4. ④④ } 2. 71 \\times 11 \\\\ \\text { 5. ⑤⑤ } 2. 19 \\times 12\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.14,
+                            225.48,
+                            516.98,
+                            297.16
+                        ]
+                    ],
+                    "text_description": "① $3.52 \\times 7=24.64$ ② $1.48 \\times 21=31.08$ ③ $4.2 \\times 5=21$\n④ $2.71 \\times 11=29.81$ ⑤ $2.19 \\times 12=26.28$ 따라서 가장 큰 곱은 ②입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "63696efb-b5a8-4738-8856-968cc847009d",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017006",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            2.72,
+                            511.5,
+                            27.72
+                        ]
+                    ],
+                    "text_description": "다음에서 1에서 9 까지의 수 중 ㅁ 안에 들어갈 수 있는 수의 개수를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            30.72,
+                            129.5,
+                            52.72
+                        ]
+                    ],
+                    "text_description": "$40 \\times 4>50 \\times \\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            112.5,
+                            56.5,
+                            136.5
+                        ]
+                    ],
+                    "text_description": "③ 3 개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            61.5,
+                            56.5,
+                            109.5
+                        ]
+                    ],
+                    "text_description": "① 1 개 ② 2 개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            138.5,
+                            53.5,
+                            159.5
+                        ]
+                    ],
+                    "text_description": "④ 4 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            168.5,
+                            642.5,
+                            267.5
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} 40 \\times 4=160 \\text { 이므로 } 160>50 \\times \\square \\text { 입니다. } \\\\ 50 \\times 1=50, 50 \\times 2=100, 50 \\times 3=150, 50 \\times 4=200, 50 \\times 5=250, 50 \\times 6=300, 50 \\times 7= \\\\ 350, 50 \\times 8=400, 50 \\times 9=450 \\end{array} \\] 따라서 $\\square$에 들어갈 수 있는 수는 $1, 2, 3$으로 모두 3 개입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9b70b29d-83cb-48f7-b781-0c4959f4f43d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005669",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.8,
+                            9.23,
+                            456.08,
+                            78.99
+                        ]
+                    ],
+                    "text_description": "수 카드 중 4장을 한 번씩만 사용하여 다음과 같은 나눗셈식을 만들려고 합니다. 몫이 가장 클 때와 몫이 가장 작을 때의 몫의 합을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.96,
+                            86.96,
+                            425.92,
+                            136.96
+                        ]
+                    ],
+                    "text_description": "2, 5, 6, 8 카드와 빈칸 수식."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.16,
+                            277.12,
+                            61.2,
+                            297.6
+                        ]
+                    ],
+                    "text_description": "$46. 45$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.04,
+                            155.88,
+                            436.24,
+                            262.4
+                        ]
+                    ],
+                    "text_description": "몫이 가장 큰 경우의 나눗셈식을 쓰고 몫을 구하면 $86. 5 \\div 2=43. 25$ 이고 몫이 가장 작은 경우의 나눗셈식을 쓰고 몫을 구하면 $25. 6 \\div 8=3. 2$ 입니다. 따라서 몫이 가장 클 때와 몫이 가장 작을 때의 몫의 합은 $43. 25+3. 2=46. 45$ 입니다."
+                }
+            ]
+        }
+    ]
+}

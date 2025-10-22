@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e7d9aab0-d7bb-4ed1-a83e-e79ea3576721",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002811",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            4.92,
+                            483.5,
+                            102.92
+                        ]
+                    ],
+                    "text_description": "은색 철사 4m의 무게는 0.1kg이고 금색 철사 5m의 무게는 0.12kg 입니다. 두 철사 1m의 무게를 비교하여 어느 철사가 얼마나 더 무거운지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180.5,
+                            199.5,
+                            713.5,
+                            233.5
+                        ]
+                    ],
+                    "text_description": "()색 철사가 () kg 더 무겁습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            494.5,
+                            9.5,
+                            713.5,
+                            182.5
+                        ]
+                    ],
+                    "text_description": "저울에 0. 1kg의 철사의 무게를 잰 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            337.5,
+                            450.5,
+                            368.5
+                        ]
+                    ],
+                    "text_description": "(은)색 철사가 $\\left(\\begin{array}{lll}0. 001\\end{array}\\right) \\mathrm{kg}$ 더 무겁습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            263.5,
+                            471.5,
+                            329.5
+                        ]
+                    ],
+                    "text_description": "은색 철사 1m의 무게는 $0. 1 \\div 4=0. 025(\\mathrm{~kg})$ 입니다. 금색 철사 1m의 무게는 $0. 12 \\div 5=0. 024(\\mathrm{~kg})$ 입니다. 따라서 은색 철사가 $0. 025-0. 024=0. 001(\\mathrm{~kg})$ 더 무겁습니다."
+                }
+            ]
+        }
+    ]
+}

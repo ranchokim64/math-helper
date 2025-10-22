@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dfd3b14e-9501-4838-997f-d598401f5565",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004258",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65,
+                            84.4,
+                            408,
+                            110.4
+                        ]
+                    ],
+                    "text_description": "두 식의 계산 결과의 차를 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132.9,
+                            143.62,
+                            449.83,
+                            170.29
+                        ]
+                    ],
+                    "text_description": "㉠ $42 \\div 3 \\times 2$ ㉡ $42 \\div(3 \\times 2)$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            125.4,
+                            520,
+                            187.4
+                        ]
+                    ],
+                    "text_description": "㉠ $42 \\div 3 \\times 2$\n㉡ $42 \\div(3 \\times 2)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            386,
+                            204.4,
+                            416,
+                            233.4
+                        ]
+                    ],
+                    "text_description": "$21$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.29,
+                            5.94,
+                            287.02,
+                            49.97
+                        ]
+                    ],
+                    "text_description": "㉠ $42 \\div 3 \\times 2=14 \\times 2=28$ ㉡ $42 \\div(3 \\times 2)=42 \\div 6=7$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108.28,
+                            52.02,
+                            166.72,
+                            70.42
+                        ]
+                    ],
+                    "text_description": "㉠ - ㉡="
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a27e51b5-4262-4166-91e1-993b265e5ad8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009677",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.75,
+                            2.91,
+                            570.82,
+                            23.66
+                        ]
+                    ],
+                    "text_description": "선대칭도형도 되고 점대칭도형도 되는 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.46,
+                            79.87,
+                            89.97,
+                            127.51
+                        ]
+                    ],
+                    "text_description": "④ 정사각형 안 마름모"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.53,
+                            167.03,
+                            226.57,
+                            286.27
+                        ]
+                    ],
+                    "text_description": "① 선대칭도형 ② 점대칭도형 ③ 선대칭도형 ④ 선대칭도형, 점대칭도형 ⑤ 선대칭도형"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.41,
+                            28.67,
+                            523.12,
+                            79.41
+                        ]
+                    ],
+                    "text_description": "① 다각형 ② $N$ ③ 두개의 원"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            241.01,
+                            79.9,
+                            312.71,
+                            124.46
+                        ]
+                    ],
+                    "text_description": "⑤ $W$"
+                }
+            ]
+        }
+    ]
+}

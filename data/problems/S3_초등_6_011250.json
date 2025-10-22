@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "64570b53-7895-4de7-9f86-e19c8427c01d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011250",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.6,
+                            5.640000000000001,
+                            712,
+                            30.04
+                        ]
+                    ],
+                    "text_description": "과녁판에 있는 원들을 보고 바르게 설명한 것을 찾아 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            366.8,
+                            37.64,
+                            526.4,
+                            195.64
+                        ]
+                    ],
+                    "text_description": "과녁판이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.6,
+                            239.3,
+                            863.2,
+                            302.1
+                        ]
+                    ],
+                    "text_description": "② 과녁판의 둘레를 과녁의 중심을 지나는 빨간색 선분의 길이로 나누면 약 3. 14 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.6,
+                            314.5,
+                            508,
+                            340.1
+                        ]
+                    ],
+                    "text_description": "③ 원주율이 가장 작은 것은 노란색 원입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            200.7,
+                            556,
+                            225.7
+                        ]
+                    ],
+                    "text_description": "① 원주가 길어져도 원의 지름은 변하지 않습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.6,
+                            400.1,
+                            485.6,
+                            424.1
+                        ]
+                    ],
+                    "text_description": "① 원주가 길어지면 원의 지름은 길어집니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.2,
+                            432.1,
+                            860.8,
+                            520.9
+                        ]
+                    ],
+                    "text_description": "② 과녁판의 둘레들 과녁의 중심을 지나는 빨간색 선분의 길이로 나눈 값이 원주율이 므로 약 3. 14 입니다. ③ 원주율은 항상 일정합니다."
+                }
+            ]
+        }
+    ]
+}

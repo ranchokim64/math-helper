@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1c599b2f-7f69-48cd-a570-782068363d7c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010334",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75,
+                            4.44,
+                            699,
+                            30.04
+                        ]
+                    ],
+                    "text_description": "전개도를 접었을 때 각기둥이 되는 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.6,
+                            40.44,
+                            898.2,
+                            254.04
+                        ]
+                    ],
+                    "text_description": "가: 두 면이 서로 겹쳐지는 전개도이다. 나: 밑명이 사각형이고 옆면이 3개 만 있는 전개도 이다. 다. 오각기둥 전개도 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            268.9,
+                            88.6,
+                            292.9
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.8,
+                            315.3,
+                            944.6,
+                            340.1
+                        ]
+                    ],
+                    "text_description": "가: 전개도를 접었을 때 두 면이 서로 겹쳐지기 때문에 각기둥을 만들 수 없습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39,
+                            349.3,
+                            955,
+                            412.1
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 나: 밑면이 사각형이므로 옆면이 } 4 \\text { 개 있어야 하는데 } 3 \\text { 개만 있기 때문에 각기둥을 만들 } \\\\ \\text { 수 없습니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

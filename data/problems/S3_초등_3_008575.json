@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eec594bc-a371-466e-8e7c-f04cf591f1bb",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008575",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.5,
+                            3.92,
+                            675.5,
+                            36.92
+                        ]
+                    ],
+                    "text_description": "색칠된 부분은 실제 어떤 수의 곱인지를 찾아 선택하세요"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            285.5,
+                            39.92,
+                            443.5,
+                            302.92
+                        ]
+                    ],
+                    "text_description": "$ \\begin{aligned} & 4 \\quad 7 \\quad 3 \\\\ \\times & \\quad \\quad \\quad 3 \\\\ \\hline & \\quad\\quad\\quad 9 \\\\ & 2 \\quad 1 \\quad 0 \\\\ & 1 \\quad 2 \\quad 0 \\quad 0 \\\\ \\hline & 1 \\quad 4 \\quad 1 \\quad 9 \\\\ \\end{aligned} $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            531.5,
+                            88.5,
+                            628.5,
+                            240.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 7 & \\times 3 \\\\ 73 & \\times 3 \\\\ 70 & \\times 3 \\\\ 700 & \\times 3\\end{aligned}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            348.5,
+                            645.5,
+                            376.5
+                        ]
+                    ],
+                    "text_description": "473에서 7은 십의 자리 숫자이므로 $70 \\times 3=210$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            302.5,
+                            123.5,
+                            330.5
+                        ]
+                    ],
+                    "text_description": "$70 \\times 3$"
+                }
+            ]
+        }
+    ]
+}

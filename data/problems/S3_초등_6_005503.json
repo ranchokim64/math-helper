@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a54aba95-a21b-4629-845b-c355a234b2d6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005503",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.27,
+                            20.240000000000002,
+                            543.27,
+                            140.24
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 층별로 나타낸 모양을 보고 똑같은 모양으로 쌓는 데 필요한 쌓기나무의 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.22,
+                            160.23,
+                            479.9,
+                            398.63
+                        ]
+                    ],
+                    "text_description": "1층 : 총 6칸으로 이루어진 빈칸에 5칸이 색칠되어 있다. 2층 : 총 6칸으로 이루어진 빈칸에 3칸이 색칠되어 있다. 3층 : 총 6칸으로 이루어진 빈칸에 2칸이 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.27,
+                            459.78,
+                            203.27,
+                            489.78
+                        ]
+                    ],
+                    "text_description": "$5+3+2=10$ (개)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            386.0,
+                            416.0,
+                            435.0,
+                            455.0
+                        ]
+                    ],
+                    "text_description": "10개"
+                }
+            ]
+        }
+    ]
+}

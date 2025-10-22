@@ -1,0 +1,139 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "574538a7-2c29-482e-86a8-7150a5200583",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010165",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            45.67,
+                            3.91
+                        ],
+                        [
+                            46.32,
+                            30.66
+                        ],
+                        [
+                            19.57,
+                            30.66
+                        ],
+                        [
+                            18.92,
+                            82.2
+                        ],
+                        [
+                            130.47,
+                            84.16
+                        ],
+                        [
+                            131.78,
+                            55.45
+                        ],
+                        [
+                            662.81,
+                            54.8
+                        ],
+                        [
+                            660.85,
+                            6.52
+                        ]
+                    ],
+                    "text_description": "$1$부터 $6$까지의 눈이 그려진 주사위를 한 번 굴릴 때, 주사위 눈의 수가 $7$ 이상일 가능성은 없습니다. 주사위의 최대 눈은 $6$이므로, 눈의 수가 $7$ 이상일 가능성은 $0$%입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.74,
+                            84.45,
+                            503.97,
+                            130.77
+                        ]
+                    ],
+                    "text_description": "$1$부터 $6$까지의 눈이 그려진 주사위들이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.52,
+                            139.27,
+                            631.76,
+                            195.86
+                        ]
+                    ],
+                    "text_description": "수평선이 두 개가 있으며 $0$, $\\frac{1}{2}$, $1$이 표시되어 있고 하나는 $\\frac{1}{2}$에 화살표가 있고 다른 하나는 $0$에 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.23,
+                            209.29,
+                            300.49,
+                            265.26
+                        ]
+                    ],
+                    "text_description": "수평선에 $0$, $\\frac{1}{2}$, $1$이 표시되어 있고 화살표가 있고 $0$에 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.8,
+                            273.85,
+                            660.74,
+                            316.64
+                        ]
+                    ],
+                    "text_description": "주사위 눈의 수는 $1$부터 $6$까지의 수이므로 $7$ 이상일 가능성은 '불가능하다'이고, 수로 표현하면 $0$입니다."
+                }
+            ]
+        }
+    ]
+}

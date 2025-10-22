@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eab65fbf-1b6d-441c-a27d-b10543e70760",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004930",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.23,
+                            13.88,
+                            384.41,
+                            65.08
+                        ]
+                    ],
+                    "text_description": "15와 17을 동시에 포함하는 수의 범위를 모두 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.18,
+                            73.27,
+                            384.92,
+                            156.22
+                        ]
+                    ],
+                    "text_description": "검정색 테두리의 네모 상자에 다음과 같은 내용이 들어 있다. ㉠ 14초과 17 이하 ㉡ 13 이상 16 미만 ㉢ 16초과 20 미만 ㉣ 15 이상 18 이하"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.04,
+                            173.92,
+                            305.05,
+                            192.35
+                        ]
+                    ],
+                    "text_description": "㉠, ㉣"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.54,
+                            201.06,
+                            385.94,
+                            347.49
+                        ]
+                    ],
+                    "text_description": "㉠ 14초과 17 이하인 수는 $15, 16, 17$ 이므로 15와 17을 동시에 포함합니다. ㉡ 13 이상 16 미만인 수는 $13, 14, 15$ 이므로 15는 포함하지 만 17은 포함하지 않습니다. ㉢ 16초과 20 미만인 수는 17, 18, 19이므로 17은 포함하지 만 15는 포함하지 않습니다. ㉣ 15 이상 18 이하인 수는 $15, 16, 17, 18$ 이므로 15와 17을 동시에 포함합니다."
+                }
+            ]
+        }
+    ]
+}

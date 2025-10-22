@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "88fc2d09-7bce-491c-a949-2e4d705a894e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012422",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.58,
+                            5.66,
+                            597.83,
+                            263.16
+                        ]
+                    ],
+                    "text_description": "우리나라는 옛날부터 다른 나라의 침략을 많이 받았습니다. 그중에서 조선 시대에 벌어진 임진왜란(I592년)이 대표적인 침략입니다. 옛날에는 일본을 '왜' 또는 '왜구' 라고 불렀는데, 임진년에 '왜' 가 쳐들어와 난을 일으킨 것을 '임진왜란'이라 고 말합니다. 일본(왜)은 중국의 명나라를 쳐들어가겠다는 핑계로 우리나라를 쳐들어왔습니다. 바다를 건너오기 위해 여러 척의 배에 군사를 싣고 우리나라의 부산으로 쳐들어왔습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.08,
+                            578.84,
+                            599.08,
+                            641.34
+                        ]
+                    ],
+                    "text_description": "왜구가 24척의 배를 이끌고 쳐들어왔습니다. 배 한 척에 14명씩 타고 있다면 모두 몇 명의 왜구가 쳐들어왔을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.58,
+                            272.59,
+                            601.58,
+                            561.34
+                        ]
+                    ],
+                    "text_description": "군사들이 배를 타고 바다를 건너는 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            430.33,
+                            655.09,
+                            597.83,
+                            682.59
+                        ]
+                    ],
+                    "text_description": "$($ 336명 $)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.08,
+                            687.59,
+                            456.58,
+                            728.84
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l} \\text { (처들어온 왜구의 수)=(배의 수)}\\times \\text{(배 한 척에 타고 있는 왜구의 수) } \\\\ =24 \\times 14=336 \\text {(명)}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

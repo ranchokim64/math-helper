@@ -1,0 +1,144 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8a46591e-4f24-4bc8-a199-939e4f6a9b84",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011433",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.33,
+                            2.82,
+                            960.33,
+                            71.82
+                        ]
+                    ],
+                    "text_description": "소현이와 윤지가 설명하는 입체도형의 이름과 한 밑면의 넓이가 알맞게 짝 지어진 것을 고르세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            190.33,
+                            97.82,
+                            810.33,
+                            172.82
+                        ]
+                    ],
+                    "text_description": "$\\bullet$ 소현: 위에서 본 모양은 지름이 4cm 인 원입니다. $\\bullet$ 윤지: 앞에서 본 모양은 정사각형입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.33,
+                            209.45,
+                            241.33,
+                            244.45
+                        ]
+                    ],
+                    "text_description": "① 원기둥, $12 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            338.33,
+                            208.45,
+                            519.33,
+                            294.45
+                        ]
+                    ],
+                    "text_description": "② 원뿔, $12 \\mathrm{~cm}^{2}$ 원뿔, $48 \\mathrm{~cm}^{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            643.33,
+                            209.45,
+                            796.33,
+                            243.45
+                        ]
+                    ],
+                    "text_description": "③ 구, $12 \\mathrm{~cm}^{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.33,
+                            262.45,
+                            236.33,
+                            293.45
+                        ]
+                    ],
+                    "text_description": "④ 원기둥, $48 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.329999999999998,
+                            359.45,
+                            942.33,
+                            432.45
+                        ]
+                    ],
+                    "text_description": "위에서 본 모양이 원이고, 앞에서 본 모양이 정사각형인 입체도형은 원기둥입니다. 한 밑면의 넓이는 위에서 본 모양인 원의 넓이이므로 $2 \\times 2 \\times 3=12\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

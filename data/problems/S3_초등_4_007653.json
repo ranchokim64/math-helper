@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e50c8141-5ae6-419c-9abf-fe67665f74ba",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007653",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.87,
+                            -0.98,
+                            846.37,
+                            61.52
+                        ]
+                    ],
+                    "text_description": "주어진 선분을 두 변으로 하는 평행사변형을 바르게 그린 것을 선택 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            335.12,
+                            64.02,
+                            540.12,
+                            205.27
+                        ]
+                    ],
+                    "text_description": "그리드 배경 위에 특정한 모양의 선이 그려져 있습니다. 이 선은 직각으로 꺾인 형태를하고 있으며, 전체적으로 'L'자 형태를 나타냅니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181.37,
+                            221.25,
+                            388.87,
+                            365
+                        ]
+                    ],
+                    "text_description": "그리드 배경 위에 특정한 모양의 선이 그려져 있습니다. 왼쪽 꺾인 'L'자 형태의 선은 검은색으로 그어져 있고 두 선과 만나는 두 선은 푸른색으로 직각을 이루고 있습니다. 전체 모양은 한쪽이 기울어진 사각형 모양입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            491.37,
+                            222.5,
+                            696.37,
+                            363.75
+                        ]
+                    ],
+                    "text_description": "그리드 배경 위에 특정한 모양의 선이 그려져 있습니다. 한 방향으로 일정하게 기울어진 사각형 모양인 평행사변형이 그려져 있습니다. 두 선은 검은색, 다른 두 선은 푸른색으로 그려져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.37,
+                            370,
+                            252.62,
+                            507.5
+                        ]
+                    ],
+                    "text_description": "그리드 배경 위에 특정한 모양의 선이 그려져 있습니다. 한 방향으로 일정하게 기울어진 사각형 모양인 평행사변형이 그려져 있습니다. 두 선은 검은색, 다른 두 선은 푸른색으로 그려져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.37,
+                            546.25,
+                            762.62,
+                            671.25
+                        ]
+                    ],
+                    "text_description": "- 마주 보는 두 쌍의 변이 서로 평행한 사각형을 평행사변형이라고 합니다. - 평행사변형은 마주 보는 두 변의 길이가 같습니다. - 펑행사번형은 마주 노는 두 각의 크기가 같습니다. - 평행사변형은 이웃한 두 각의 크기의 합이 $180^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

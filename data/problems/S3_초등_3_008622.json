@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "103d442f-f7c0-49c2-8ce5-22aa5a00d55f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008622",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.5,
+                            3.91,
+                            726.5,
+                            32.91
+                        ]
+                    ],
+                    "text_description": "나눗셈의 나머지가 될 수 있는 수에 모두 선택해보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            373.5,
+                            127.5,
+                            902.5,
+                            161.5
+                        ]
+                    ],
+                    "text_description": "$(1, 2, 3, 4, 5, 6)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            436.5,
+                            67.91,
+                            518.5,
+                            99.91
+                        ]
+                    ],
+                    "text_description": "$\\square \\div 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            183.5,
+                            148.5,
+                            209.5
+                        ]
+                    ],
+                    "text_description": "$1, 2, 3, 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            225.5,
+                            918.5,
+                            254.5
+                        ]
+                    ],
+                    "text_description": "나누는 수가 $5$일 때, 주어진 수 중에서 나머지가 될 수 있는 수는 $1, 2, 3, 4$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "031de629-cea2-433a-ade8-28bc08bdc514",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004842",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            16.24,
+                            414.3,
+                            84.24
+                        ]
+                    ],
+                    "text_description": "어느 농구 팀의 경기별 득점을 나타낸 표입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.7,
+                            232.7,
+                            291.1,
+                            265.5
+                        ]
+                    ],
+                    "text_description": "경기별 득점은 평균 몇 점인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.1,
+                            95.44,
+                            416.7,
+                            215.44
+                        ]
+                    ],
+                    "text_description": "어느 농구 팀의 경기별 득점을 나타낸 표이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            288.24,
+                            273.87,
+                            333.24,
+                            303.87
+                        ]
+                    ],
+                    "text_description": "76점"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.1,
+                            308.7,
+                            351.9,
+                            335.1
+                        ]
+                    ],
+                    "text_description": "$(78+82+59+68+93) \\div 5=380 \\div 5=76$ (점)"
+                }
+            ]
+        }
+    ]
+}

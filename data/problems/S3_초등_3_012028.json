@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ed450961-a73b-44a3-986c-89e520c51820",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012028",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.36,
+                            15.75,
+                            520.24,
+                            106.63
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 작은 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.72,
+                            132.87,
+                            197.04,
+                            173.83
+                        ]
+                    ],
+                    "text_description": "① 70의 3 배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.72,
+                            183.16,
+                            319.28,
+                            371.32
+                        ]
+                    ],
+                    "text_description": "② $60 \\times 5$ ③ 30과 8의 곱 ④ 40씩 8 묶음 ⑤ $90+90+90+90$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.04,
+                            384.12,
+                            372.4,
+                            466.04
+                        ]
+                    ],
+                    "text_description": "① $70 \\times 3=210$ ② $60 \\times 5=300$ ③ $30 \\times 8=240$ ④ $40 \\times 8=320$ ⑤ $90 \\times 4=360$"
+                }
+            ]
+        }
+    ]
+}

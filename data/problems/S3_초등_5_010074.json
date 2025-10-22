@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "355912f3-6e1a-45e0-9924-2a37bda2387d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010074",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.87,
+                            6.6,
+                            663.43,
+                            57.74
+                        ]
+                    ],
+                    "text_description": "회전판에서 화살이 파란색에 멈출 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.7,
+                            60.3,
+                            383.3,
+                            139.7
+                        ]
+                    ],
+                    "text_description": "원이 있고 12시를 가리키고 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176.7,
+                            141.7,
+                            507.1,
+                            293.9
+                        ]
+                    ],
+                    "text_description": "선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이 있다. 화살표가 0을 가리키고 있다. 선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이 있다. 화살표가 $\\frac{1}{2}$을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.9,
+                            301.9,
+                            369.5,
+                            376.3
+                        ]
+                    ],
+                    "text_description": "선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이 있다. 화살표가 0을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.09,
+                            380.85,
+                            513.72,
+                            396.86
+                        ]
+                    ],
+                    "text_description": "회전판은 모두 빨간색이므로 파란색에 멈출 가능성은 '불가능하다'이고, 수로 표현하면 0입니다."
+                }
+            ]
+        }
+    ]
+}

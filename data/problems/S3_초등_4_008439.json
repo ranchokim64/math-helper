@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f83b6959-6445-418e-b255-9ec396c558fa",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008439",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.25,
+                            -0.43,
+                            939.06,
+                            73.01
+                        ]
+                    ],
+                    "text_description": "다음은 신혜네 반 학생들이 소풍 때 가고 싶어하는 장소를 조사한 것입니다. 가고 싶어하는 학생 수가 놀이공원의 2배인 장소를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            232.81,
+                            354.26,
+                            742.19,
+                            388.63
+                        ]
+                    ],
+                    "text_description": "(놀이공원, 영화관, 박물관, 야구장)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            318.75,
+                            83.95,
+                            664.06,
+                            349.57
+                        ]
+                    ],
+                    "text_description": "가고 싶어하는 장소의 막대그래프이다. 가로는 학생 수(명), 세로는 장소이다 놀이공원은 3, 영화관은 6, 박물관은 1, 야구장은 2를 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.06,
+                            405.82,
+                            140.62,
+                            437.07
+                        ]
+                    ],
+                    "text_description": "영화관"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.19,
+                            452.7,
+                            693.75,
+                            519.88
+                        ]
+                    ],
+                    "text_description": "(해설)놀이공원에 가고 싶어하는 학생 수는 3 명입니다. 따라서 $3 \\times 2=6$ (명)이 가고 싶어하는 장소는 영화관입니다."
+                }
+            ]
+        }
+    ]
+}

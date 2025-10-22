@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cad1864f-9711-4b6e-b1a5-23dfdd9ab937",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005089",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.7,
+                            11.94,
+                            608.9,
+                            151.14
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{4} \\mathrm{~L}$의 주스를 세 사람이 하루에 각각 $\\frac{1}{8} \\mathrm{~L}$ 씩 마신다면 며칠 동안 마실 수 있나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            426.5,
+                            187.6,
+                            478.5,
+                            221.2
+                        ]
+                    ],
+                    "text_description": "2일"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.1,
+                            239,
+                            548.5,
+                            386.6
+                        ]
+                    ],
+                    "text_description": "$\\left(\\right. $ 세 사람이 하루에 마시는 주스의 양) $=\\frac{1}{8} \\times 3=\\frac{3}{8}(\\mathrm{~L})$ $\\Rightarrow \\frac{3}{4} \\div \\frac{3}{8}=\\frac{3}{4} \\times \\frac{8}{3}=2$ (일)"
+                }
+            ]
+        }
+    ]
+}

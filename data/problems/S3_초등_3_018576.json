@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c2b8b1fd-dfc4-45a8-af49-a7074435c394",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018576",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.09,
+                            4.91,
+                            552.58,
+                            44.45
+                        ]
+                    ],
+                    "text_description": "탁구공 $72$개를 바구니 $4$개에 똑같이 나누어 담았습니다. 바구니 한 개에 담은 탁구공은 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.37,
+                            51.3,
+                            49.62,
+                            68.43
+                        ]
+                    ],
+                    "text_description": "① $18$개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.52,
+                            74.13,
+                            54.19,
+                            135.79
+                        ]
+                    ],
+                    "text_description": "② $19$개 ③ $20$개 ④ $21$개"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.81,
+                            146.43,
+                            97.58,
+                            164.12
+                        ]
+                    ],
+                    "text_description": "$72+4=18$(개)"
+                }
+            ]
+        }
+    ]
+}

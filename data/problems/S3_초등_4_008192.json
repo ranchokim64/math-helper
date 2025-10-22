@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "70a7aed2-2853-40b2-990c-4699f5e3d7ad",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008192",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.25,
+                            2.73,
+                            503.77,
+                            31.53
+                        ]
+                    ],
+                    "text_description": "그림을 보고 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146.65,
+                            334.64,
+                            811.61,
+                            408.24
+                        ]
+                    ],
+                    "text_description": "자석을 아래쪽으로 밀면 모양은 (변하고, 변하지 않고) 위치는 (바뀝니다, 바뀌지 않습니다)."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.73,
+                            41.57,
+                            923.61,
+                            310.57
+                        ]
+                    ],
+                    "text_description": "이미지에는 두 어린이가 보이고, 그들 뒤에는 격자 무늬의 큰 보드가 있습니다. 보드에는 \"N\" (북쪽)과 \"S\" (남쪽) 문자로 표시된 빨간색과 파란색의 블록이 있습니다. 왼쪽에 있는 어린이는 녹색과 검은색 줄무늬의 티셔츠를 입고 있으며, 오른쪽 어린이는 분홍색 상의를 입고 있습니다. 분홍색 상의를 입은 어린이는 \"이번엔 자석을 아래쪽으로 3칸만큼 밀어 봐\"라고 말하고 있습니다. 오른쪽에는 어린이가 자석을 밀어낸 위치 변화가 나타나 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.69,
+                            449.2,
+                            296.41,
+                            477.36
+                        ]
+                    ],
+                    "text_description": "변하지 않고, 바뀝니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.41,
+                            494,
+                            718.81,
+                            520.24
+                        ]
+                    ],
+                    "text_description": "자석을 아래쪽으로 밀면 모양은 변하지 않고 위치는 바뀝니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bbb69fee-0fc3-4916-8df9-1353da220cb8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011226",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.38,
+                            8.97,
+                            652.46,
+                            37.13
+                        ]
+                    ],
+                    "text_description": "과녁판에 있는 원들을 보고 알맞은 말을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            420.14,
+                            72.33,
+                            788.78,
+                            176.01
+                        ]
+                    ],
+                    "text_description": "원의 지름이 길어지면 원주는 (길어집니다, 짧아집니다)."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.46,
+                            44.3,
+                            343.98,
+                            209.02
+                        ]
+                    ],
+                    "text_description": "과녁판이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.94,
+                            220.54,
+                            158.38,
+                            243.58
+                        ]
+                    ],
+                    "text_description": "길어집니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.94,
+                            262.14,
+                            496.94,
+                            288.38
+                        ]
+                    ],
+                    "text_description": "원의 지름이 길어지면 원주는 길어집니다."
+                }
+            ]
+        }
+    ]
+}

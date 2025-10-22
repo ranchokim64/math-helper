@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c26b4ac3-1698-4896-88e9-87dcd6667743",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011253",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65,
+                            7.14,
+                            844.4,
+                            30.94
+                        ]
+                    ],
+                    "text_description": "지름이 4cm 인 원의 원주와 가장 비숫한 길이를 찾아 기호를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            198.6,
+                            37.54,
+                            697.8,
+                            323.54
+                        ]
+                    ],
+                    "text_description": "지름이 4cm로 표기되어있는 원이 있습니다. 가운데 점이 찍혀있습니다. ㉠은 칸당 1cm로 표기되어있는 직선이 5칸이 있습니다. ㉡은 15칸 있습니다. ㉢은 10칸 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.8,
+                            334.4,
+                            76.2,
+                            356.8
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.2,
+                            376,
+                            864.2,
+                            400
+                        ]
+                    ],
+                    "text_description": "지름이 4cm 인 원의 원주는 지름의 3 배인 12cm보다 길고, 지름의 4 배인 16cm보다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33,
+                            408,
+                            486.6,
+                            431.2
+                        ]
+                    ],
+                    "text_description": "짧으므로 원주와 가장 비슷한 길이는 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

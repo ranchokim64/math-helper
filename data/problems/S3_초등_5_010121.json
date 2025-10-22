@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6c3f585d-6e95-4570-9c3a-d380531a6a75",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010121",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.15,
+                            3.38,
+                            571.01,
+                            47.2
+                        ]
+                    ],
+                    "text_description": "미호가 $\\bigcirc \\times$ 문제를 풀고 있습니다. $\\times$라고 답했을 때, 정답을 맞혔을 가능성을 수로 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.63,
+                            51.19,
+                            387.08,
+                            107.74
+                        ]
+                    ],
+                    "text_description": "노란색 배경의 사각형 박스가 3개의 칸으로 나누어져 있고 안에 각각 0,$\\frac{1}{2}$,1이라는 숫자가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.3,
+                            115.19,
+                            50.08,
+                            147.74
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.01,
+                            154.56,
+                            431.77,
+                            217.18
+                        ]
+                    ],
+                    "text_description": "미호가 푼 $\\bigcirc \\times$ 문제의 정답이 $\\times$ 일 가능성은 '반반이다'이며, 이를 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

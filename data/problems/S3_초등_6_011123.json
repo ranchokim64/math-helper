@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d9753e12-1c5e-4db6-a845-6583088e5acd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011123",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            5.42,
+                            868.5,
+                            145.42
+                        ]
+                    ],
+                    "text_description": "가는 지호가 쌓기나무로 쌓은 모양을 층별로 나타낸 모양이고, 나는 민지가 쌓기나무로 쌓은 모양을 위에서 본 모양에 수를 쓴 방법으로 나타낸 것 입니다. 똑같은 모양으로 쌓는 데 필요한 쌓기나무의 개수가 더 많은 것은 가와 나 중 어느 것인지 기호를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            139.5,
+                            149,
+                            533.5,
+                            322
+                        ]
+                    ],
+                    "text_description": "가 1층 모눈종이 3X3으로 되어있다. 첫 번째 줄에는 1칸에 두 번째 줄에는 1칸에 세 번쨰 줄에는 1, 2, 3칸에 있다. 2층 모눈종이 3X3으로 되어있다. 첫 번째 줄에는 1칸에 두 번째 줄에는 1칸에 세 번쨰 줄에는 1, 2칸에 있다. 2층 모눈종이 3X3으로 되어있다. 첫 번째 줄에는 1칸에 두 번째 줄에는 1칸에 세 번쨰 줄에는 2칸에 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            590.5,
+                            149,
+                            732.5,
+                            339
+                        ]
+                    ],
+                    "text_description": "나 모눈종이 3X3으로 되어있다. 첫 번째 줄에는 3칸에 3 두 번째 줄에는 1칸에 2, 2칸에 1, 3칸에 1 세 번쨰 줄에는 1칸에 1, 2칸에 2, 3칸에 1 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            392.5,
+                            330,
+                            505.5,
+                            358
+                        ]
+                    ],
+                    "text_description": "(가, 나)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            372,
+                            82.5,
+                            400
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            415,
+                            834.5,
+                            540
+                        ]
+                    ],
+                    "text_description": "가: 쌓기나무가 $1$ 층에 $5$ 개, $2$ 층에 $4$ 개, $3$ 층에 $3$ 개이므로 필요한 쌓기나무는 $5+4+3=12$ (개)입니다. $\\\\$ 나: 필요한 쌓기나무는 $3+2+1+1+1+2+1=11$개 $\\\\$ 따라서 똑같은 모양으로 쌓는 데 필요한 쌓기나무의 개수가 더 많은 것은 가입니다."
+                }
+            ]
+        }
+    ]
+}

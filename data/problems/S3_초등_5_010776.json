@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "962286c9-a30f-4f40-821f-a536eb7b3c92",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010776",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.77000000000001,
+                            2.59,
+                            712.97,
+                            53.02
+                        ]
+                    ],
+                    "text_description": "$\\left(\\frac{2}{9}, \\frac{1}{6}\\right)$을 통분한 것입니다. 통분이 잘못된 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            577.46,
+                            68.32,
+                            725.37,
+                            139.16
+                        ]
+                    ],
+                    "text_description": "③ $\\left(\\frac{18}{72}, \\frac{12}{72}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            308.01,
+                            73.22,
+                            439.85,
+                            125.22
+                        ]
+                    ],
+                    "text_description": "② $\\left(\\frac{8}{36}, \\frac{6}{36}\\right)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.67,
+                            73.92,
+                            161.57,
+                            125.52000000000001
+                        ]
+                    ],
+                    "text_description": "① $\\left(\\frac{4}{18}, \\frac{3}{18}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.57,
+                            184.82,
+                            495.86,
+                            246.59
+                        ]
+                    ],
+                    "text_description": "(3) $\\left(\\frac{2}{9}, \\frac{1}{6}\\right) \\Rightarrow\\left(\\frac{2 \\times 8}{9 \\times 8}, \\frac{1 \\times 12}{6 \\times 12}\\right) \\Rightarrow\\left(\\frac{16}{72}, \\frac{12}{72}\\right)$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0c41fec0-7429-4ba6-8c1a-ff816e03e26a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009161",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.94,
+                            4.36,
+                            723.53,
+                            34.18
+                        ]
+                    ],
+                    "text_description": "계산에서 $\\square$ 안의 숫자 2가 실제로 나타내는 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            345.51,
+                            38.769999999999996,
+                            500.11,
+                            235.42
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}2\\ \\\\ 18 \\\\ \\times \\quad 3 \\\\ \\hline 54\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            285.78,
+                            240.81,
+                            335.79,
+                            269.76
+                        ]
+                    ],
+                    "text_description": "② 20"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.61,
+                            239.93,
+                            76.12,
+                            305.72
+                        ]
+                    ],
+                    "text_description": "① 2 ④ 24"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            287.54,
+                            278.53,
+                            347.19,
+                            305.72
+                        ]
+                    ],
+                    "text_description": "⑤ 200"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            548.96,
+                            241.68,
+                            600.72,
+                            268.88
+                        ]
+                    ],
+                    "text_description": "③ 22"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.68,
+                            364.13,
+                            822.72,
+                            422.25
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 일의 자리 계산 } 8 \\times 3=24 \\text { 에서 } 2 \\text { 를 십의 자리로 올림한 것이므로 실제로 나타내는 수는 20입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3a9b7718-fa6c-4573-976c-81bb822d76f9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010136",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.37,
+                            5.32,
+                            661.36,
+                            56.97
+                        ]
+                    ],
+                    "text_description": "검은색 바둑돌이 들어 있는 통에서 바둑돌 1 개를 꺼낼 때 검은색일 가능성을 어떤 수로 표현할 수 있는지 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            246.56,
+                            154.39,
+                            431.04,
+                            193.61
+                        ]
+                    ],
+                    "text_description": "$\\left(0, \\frac{1}{2}, 1\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289.0,
+                            61.0,
+                            387.0,
+                            147.0
+                        ]
+                    ],
+                    "text_description": "검은색 바둑돌만 들어 있는 통"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            239.78,
+                            661.36,
+                            287.52
+                        ]
+                    ],
+                    "text_description": "검은색 바둑돌이 들어 있는 통에서 바둑돌 1개를 꺼낼 때 검정색일 가능성은 '확실하다'이고 수로 표현하면 1입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.03,
+                            207.69,
+                            50.9,
+                            229.04
+                        ]
+                    ],
+                    "text_description": "$1$"
+                }
+            ]
+        }
+    ]
+}

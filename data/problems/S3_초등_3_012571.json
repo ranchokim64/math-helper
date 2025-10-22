@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5118107a-eba4-478d-81e1-c5f28c69e163",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012571",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            -1.25,
+                            485.5,
+                            113.75
+                        ]
+                    ],
+                    "text_description": "어느 음식점에서 일주일 동안 팔린 음 식의 수를 그림그래프로 나타내었습니다. 물음에 답하세요. (18~20)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.25,
+                            518.75,
+                            489.25,
+                            587.5
+                        ]
+                    ],
+                    "text_description": "19 팔린 삼계탕과 떡국은 몇 그릇 차이인가 요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.75,
+                            131.25,
+                            488,
+                            500
+                        ]
+                    ],
+                    "text_description": "〈일주일 동안 팔린 음식의 수〉의 그림그래프이다. 큰 그릇은 100그릇 작은 그릇은 10그릇이다. 비빔밥 210(큰 그릇 3, 작은 그릇 1) 떡국 140(큰 그릇 1, 작은 그릇 4) 된장찌개 220(큰 그릇 2, 작은 그릇 2) 삼계탕 230(큰 그릇 2, 작은 그릇 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            354.25,
+                            606,
+                            428,
+                            637.25
+                        ]
+                    ],
+                    "text_description": "90그릇"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.5,
+                            638.75,
+                            326.75,
+                            688.75
+                        ]
+                    ],
+                    "text_description": "삼계탕 : 230그릇, 떡국 : 140그릇 \\[ \\rightarrow 230-140=90 \\text { (그릇) } \\]"
+                }
+            ]
+        }
+    ]
+}

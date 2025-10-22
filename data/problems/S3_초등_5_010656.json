@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "744423fc-1887-4d4e-bea5-4b6b7b671cfe",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010656",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            -0.1,
+                            710,
+                            30.9
+                        ]
+                    ],
+                    "text_description": "두 수의 최대공약수가 더 큰 것을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315,
+                            56.9,
+                            587,
+                            91.9
+                        ]
+                    ],
+                    "text_description": "㉠ $(8, 48)$ ㉡ $(72, 90)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            378,
+                            113.9,
+                            513,
+                            151.9
+                        ]
+                    ],
+                    "text_description": "$(㉠, ㉡)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            167.9,
+                            75,
+                            194.9
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            355.9,
+                            295,
+                            418.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\Rightarrow 8 \\text { 과 } 48 \\text { 의 최대공약수 } \\\\ 2 \\times 2 \\times 2=8\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            405,
+                            357.9,
+                            651,
+                            416.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\Rightarrow 72 \\text { 와 } 90 \\text { 의 최대공약수 } \\\\ \\quad 2 \\times 3 \\times 3=18\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            227.9,
+                            179,
+                            349.9
+                        ]
+                    ],
+                    "text_description": "㉠ 이는 8과 48의 최대공약수를 구하는 풀이과정이다. 8과 48을 2로 3번 인수분해해서 1과 6으로 나눠 떨어졌다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            369,
+                            226.9,
+                            523,
+                            348.9
+                        ]
+                    ],
+                    "text_description": "㉡ 이는 72과 90의 최대공약수를 구하는 풀이과정이다. 72과 90을 2로 1번, 3으로 2번 인수분해해서 4와 5로 나눠 떨어졌다."
+                }
+            ]
+        }
+    ]
+}

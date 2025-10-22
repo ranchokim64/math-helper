@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "edb2919e-04ad-4162-be9c-3acb67661e1c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010527",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            9.42,
+                            957.5,
+                            77.42
+                        ]
+                    ],
+                    "text_description": "다음은 민석이네 학교 학생들이 휴일에하고 싶은 일을 조사하여 나타낸 원그래프입니다. 둘째로 많은 학생이 휴일에하고 싶은 일은 무엇인가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196.5,
+                            371.42,
+                            797.5,
+                            402.42
+                        ]
+                    ],
+                    "text_description": "(가족여행, 게임, 영화관람, 친구와 놀기, 기타)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324.5,
+                            87,
+                            663.5,
+                            367
+                        ]
+                    ],
+                    "text_description": "휴일에하고 싶은 일별 학생 수의 원그래프이다 가족여행이 36%, 게임이 24%, 영화 관람이 20%, 친구와 놀기가 12%, 기타가 8% 차지하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            417,
+                            108.5,
+                            446
+                        ]
+                    ],
+                    "text_description": "게임"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            462,
+                            958.5,
+                            530
+                        ]
+                    ],
+                    "text_description": "(해설)백분율의 크기를 비교하면 $36>24>20>12>8$ 이므로 둘째로 많은 학생이 휴일에하고 싶은 일은 게임입니다."
+                }
+            ]
+        }
+    ]
+}

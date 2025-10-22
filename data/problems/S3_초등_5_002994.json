@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b69b6921-0580-4974-848d-4dbeae67ca2e",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002994",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-12] 분수와 소수의 관계를 이해하고 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-12] 분수와 소수의 관계를 이해하고 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.77,
+                            1.74,
+                            757.77,
+                            83.74
+                        ]
+                    ],
+                    "text_description": "시우네 집에서 학교까지의 거리는 $\\frac{34}{40} \\mathrm{~km}$ 이고, 다희네 집에서 학교까지의 거리는 0. 8km입니다. 누가 학교에서부터 더 가까운 곳에 살고 있는지 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.769999999999996,
+                            99.27,
+                            718.77,
+                            279.27
+                        ]
+                    ],
+                    "text_description": "시우네 집에서 학교까지의 거리는 $\\frac{34}{40} \\mathrm{~km}$ 이고, 다희네 집에서 학교까지의 거리는 0. 8km인 그림이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.77,
+                            396.27,
+                            162.77,
+                            437.27
+                        ]
+                    ],
+                    "text_description": "다희"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.77,
+                            300.27,
+                            557.77,
+                            380.27
+                        ]
+                    ],
+                    "text_description": "\\[0. 8=\\frac{8}{10}=\\frac{32}{40} \\text { 이므로 } \\frac{34}{40}>0. 8 \\text { 입니다. }\\] 따라서 학교에서부터 더 가까운 곳에 살고 있는 친구는 다희입니다."
+                }
+            ]
+        }
+    ]
+}

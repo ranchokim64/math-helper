@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3ca7473c-8a81-4226-9425-4862c5e7b599",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016913",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            1.22,
+                            332,
+                            25.22
+                        ]
+                    ],
+                    "text_description": "동전이 25원씩 3 묶음 있습니다. 모두 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            54.22,
+                            61,
+                            74.22
+                        ]
+                    ],
+                    "text_description": "② 75 원"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.62,
+                            28.57,
+                            60.87,
+                            47
+                        ]
+                    ],
+                    "text_description": "① 70 원"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.65,
+                            79.26,
+                            61.38,
+                            123.8
+                        ]
+                    ],
+                    "text_description": "③ 80원 ④ 85원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.14,
+                            161.69,
+                            243.14,
+                            179.61
+                        ]
+                    ],
+                    "text_description": "따라서 25원씩 3묶음은 75원입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.6,
+                            137.11,
+                            93.13,
+                            156.06
+                        ]
+                    ],
+                    "text_description": "$25 \\times 3=75$"
+                }
+            ]
+        }
+    ]
+}

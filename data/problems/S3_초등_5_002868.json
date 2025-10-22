@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f2aa02a9-8b0f-4153-b6b5-ae347d89d3f7",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002868",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.68,
+                            9.04,
+                            584.19,
+                            65.78
+                        ]
+                    ],
+                    "text_description": "다희는 저금통에 모은 동전 7500원을 1000원짜리 지폐로 바꾸려고 합니다. 최대 얼마까지 바꿀 수 있는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            608.7,
+                            11.68,
+                            675.33,
+                            129.05
+                        ]
+                    ],
+                    "text_description": "돼지 저금통을 들고 있는 다희 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.629999999999999,
+                            262.02,
+                            259.31,
+                            294.42
+                        ]
+                    ],
+                    "text_description": "($\\quad 7000 \\quad$)원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.72,
+                            198.1,
+                            769.88,
+                            249.94
+                        ]
+                    ],
+                    "text_description": "7500을 버림하여 천의 자리까지 나타내면 7000이므로 최대 7000원까지 바꿀 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

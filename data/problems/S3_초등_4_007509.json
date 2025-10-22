@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "27747249-72d9-4e12-9ba5-1dfcdfe22a93",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007509",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-14] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-13] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.6,
+                            2.94,
+                            847.4,
+                            65.34
+                        ]
+                    ],
+                    "text_description": "$1, 0. 1, 0. 01, 0. 001$ 사이의 관계를 알아보려고 합니다. 알맞은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167.4,
+                            68.54,
+                            697,
+                            252.54
+                        ]
+                    ],
+                    "text_description": "$1 \\xrightarrow{\\frac{1}{10}} 0. 1 \\xrightarrow{\\frac{1}{10}} 0. 01 \\xrightarrow{\\frac{1}{10}} 0. 001$에 대한 설명으로 정사각형을 조각으로 나눠 1은 1개, 0. . 1은 10개 중 1개, 0. 01은 100개 중 1개, 0. 001은 1000개 중 1개로 표현하고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324.2,
+                            253,
+                            495.4,
+                            393
+                        ]
+                    ],
+                    "text_description": "$1 \\xrightarrow{\\frac{1}{10}} 0. 1 \\xrightarrow{\\frac{1}{10}} 0. 01 \\xrightarrow{\\frac{1}{10}} 0. 001$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.6,
+                            395.4,
+                            734.4,
+                            517.8
+                        ]
+                    ],
+                    "text_description": "소수의 $\\frac{1}{10}$을 구하면 수가 정정 작아져. 소수의 $\\frac{1}{10}$을 구하면 소수점을 기준으로 수가 오른쪽으로 (한, 두)자리씩 이동해."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            525,
+                            78.6,
+                            551.4
+                        ]
+                    ],
+                    "text_description": "한"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.4,
+                            567,
+                            569.8,
+                            602.6
+                        ]
+                    ],
+                    "text_description": "소수의 $\\frac{1}{10}$을 구하면 소수점을 기준으로 수가 오른쪽으로 한 자리씩 이동합니다."
+                }
+            ]
+        }
+    ]
+}

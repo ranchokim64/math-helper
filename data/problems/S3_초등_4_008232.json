@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1d0db565-2577-4fcb-8535-297af47b7050",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008232",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            6.92,
+                            933,
+                            108.92
+                        ]
+                    ],
+                    "text_description": "<보기>의 모양 조각을 오른쪽으로 뒤집고 시계 방향으로 $90^{\\circ}$만큼 돌렸을 때와 시계 방향으로 $90^{\\circ}$만큼 돌리고 오른쪽으로 뒤집었을 때의 모양을 비교하려고 합니다. 알맞은 말을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111,
+                            114.5,
+                            770,
+                            274.5
+                        ]
+                    ],
+                    "text_description": "<보기> ㄴ을 우측으로 뒤집은 형태의 모양 조각이 있습니다. 빨간색 가로로 긴 직사각형과 노란색 세로로 긴 직사각형이 붙어있는 형태입니다. 가 : 보기의 모양 조각을 오른쪽으로 뒤집고 시계 방향으로 90도만큼 돌렸을 때의 모양입니다. 나 : 모양 조각을 시계 방향으로 90도만큼 돌리고 오른쪽으로 뒤집었을 때의 모양입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            217,
+                            276.5,
+                            750,
+                            424.5
+                        ]
+                    ],
+                    "text_description": "학생 : 모양 조각을 움직이는 순서를 다르게 했더니 결과가 (같게, 다르게) 나왔습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            440.5,
+                            131,
+                            465.5
+                        ]
+                    ],
+                    "text_description": "다르게"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14,
+                            482.5,
+                            914,
+                            659.5
+                        ]
+                    ],
+                    "text_description": "모양 조각을 오른쪽으로 뒤집고 시계 방향으로 $90^{\\circ}$만큼 돌렸을 때의 모양: () 모양 조각을 시계 방향으로 $90^{\\circ}$만큼 돌리고 오른쪽으로 뒤집었을 때의 모양: () 따라서 모양 조각을 움직이는 순서를 다르게 하면 결과는 다르게 나옵니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0d9a3555-c1c3-4c44-a2dd-e9b280422032",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016985",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.77,
+                            0.73,
+                            361.77,
+                            18.73
+                        ]
+                    ],
+                    "text_description": "다음 수들 중 나타내는 수가 가장 작은 값을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.77,
+                            77.27,
+                            105.77,
+                            98.27
+                        ]
+                    ],
+                    "text_description": "㉢ 30씩 5묶음"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.77,
+                            254.27,
+                            142.77,
+                            275.27
+                        ]
+                    ],
+                    "text_description": "㉢ 30씩 5 묶음"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.77,
+                            27.27,
+                            109.77,
+                            71.27
+                        ]
+                    ],
+                    "text_description": "㉠ $50 \\times 6$ ㉡ 40과 6의 곱"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.77,
+                            102.27,
+                            122.77,
+                            121.27
+                        ]
+                    ],
+                    "text_description": "㉣ $70+70+70$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.77,
+                            125.27,
+                            199.77,
+                            244.27
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}50 \\times 6=300 \\\\ 40 \\text { 과 } 6 \\text { 의 곱 }=40 \\times 6=240 \\\\ 30 \\text { 씩 } 5 \\text { 묶음 }=30 \\times 5=150 \\\\ 70+70+70=210 \\\\ \\rightarrow 150<210<240<300\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

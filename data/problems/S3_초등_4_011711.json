@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0deeac66-8dfe-4496-9adb-7e8cf7178b45",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011711",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            19.42,
+                            489,
+                            85.42
+                        ]
+                    ],
+                    "text_description": "도형은 평행사변형입니다. 각 ㉠과 각 ㉡의 크기의 합은 몇 도일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            183,
+                            108.42,
+                            351,
+                            208.42
+                        ]
+                    ],
+                    "text_description": "평행사변형이 있으며 왼쪽 밑각의 값이 $70$이 주어졌다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370,
+                            227,
+                            410,
+                            253
+                        ]
+                    ],
+                    "text_description": "$180^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76,
+                            263,
+                            450,
+                            381
+                        ]
+                    ],
+                    "text_description": "평행사변형에서 마주 보는 두 각의 크기가 같으므로 (각 $㉡$ $=70^{\\circ}$ 입니다. 평행사변형은 이웃한 두 각의 크기의 합이 $180^{\\circ}$ 이므로 (각 $㉠$ $)=180^{\\circ}-70^{\\circ}=110^{\\circ}$ 입니다. $\\rightarrow($ 각 $㉠$ $)+($ 각 $㉡$ $)=110^{\\circ}+70^{\\circ}=180^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

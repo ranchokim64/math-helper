@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "da8b3cc5-b284-443b-a726-d13ec7b995c5",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011998",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            14.42,
+                            588,
+                            101.42
+                        ]
+                    ],
+                    "text_description": "1에서 9 까지의 수 중 $\\square$ 안에 들어갈 수 있는 수를 모두 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            121.42,
+                            589,
+                            209.42
+                        ]
+                    ],
+                    "text_description": "$16 \\times 5>23 \\times$$\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            435,
+                            229,
+                            511,
+                            259
+                        ]
+                    ],
+                    "text_description": "1, 2, 3"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88,
+                            269,
+                            513,
+                            354
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} 16 \\times 5=80 \\text { 이므로 } 80>23 \\times \\square \\text { 입니다. } \\\\ 23 \\times 1=23, 23 \\times 2=46, 23 \\times 3=69, 23 \\times 4=92 \\end{array} \\] 따라서 $\\square$ 안에 들어갈 수 있는 수는 I, 2, 3입니다."
+                }
+            ]
+        }
+    ]
+}

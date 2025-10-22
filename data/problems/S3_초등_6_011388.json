@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "21f1123e-53a3-42c7-8680-79a0b8966f92",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011388",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            0,
+                            767,
+                            58
+                        ]
+                    ],
+                    "text_description": "원기둥의 전개도를 그리고 밑면의 지름과 옆면의 가로, 세로의 길이를 바 르게 나타낸 것을 선택해 보세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            329,
+                            61,
+                            461,
+                            171
+                        ]
+                    ],
+                    "text_description": "지름 4cm, 옆면의 세로 3cm, 인 원기둥의 겨냥도이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            241,
+                            174,
+                            539,
+                            642
+                        ]
+                    ],
+                    "text_description": "1cm로 구성된 모눈종이 위에 지름이 4cm 원과, 가로8cm, 세로 3cm인 직사각형을 합친 원기둥의 전개도가 그려져있다. 1cm로 구성된 모눈종이 위에 지름이 4cm 원과, 가로12cm, 세로 3cm인 직사각형을 합친 원기둥의 전개도가 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            652.67,
+                            415,
+                            918.67
+                        ]
+                    ],
+                    "text_description": "1cm로 구성된 모눈종이 위에 지름이 4cm 원과, 가로12cm, 세로 3cm인 직사각형을 합친 원기둥의 전개도가 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            948.67,
+                            438,
+                            1108.67
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 옆면의 가로 }) & =(\\text { 밑면의 둘레 }) \\\\ & =4 \\times 3=12(\\mathrm{~cm}) \\\\ (\\text { 옆면의 세로 }) & =(\\text { 원기둥의 높이 }) \\\\ & =3 \\mathrm{~cm}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

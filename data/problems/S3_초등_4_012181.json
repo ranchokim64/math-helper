@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7850ff0a-8195-435d-95da-0584ac7e66e0",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012181",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            -0.09,
+                            772.5,
+                            106.91
+                        ]
+                    ],
+                    "text_description": "4 8 정호네 고장에 있는 도서관의 책의 수를 조사한 것입니 다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            520.5,
+                            579.5,
+                            560.5
+                        ]
+                    ],
+                    "text_description": "책이 가장 적게 있는 도서관은 어디인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.5,
+                            124.91,
+                            753.5,
+                            498.91
+                        ]
+                    ],
+                    "text_description": "도서관별 책의 수이며 도서관/ 책의수, 발강, 초록, 파랑, 노랑으로 나뉘어져 있다. 큰책그림은 1000권, 작은 책그림은 100권이라고 범례가 있다. 빨강도서관은 큰책그림 네 개, 작은 책그림 두 개, 초록도서관은 큰 책그림 세 개, 작은 책그림 여덟개, 파랑도서관은 큰 책그림 한 개, 작은 책그림 다섯새, 노랑 도서관은 큰 책그림 세 개, 작은 책그림 4개이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            594.5,
+                            583.5,
+                            720.5,
+                            614.5
+                        ]
+                    ],
+                    "text_description": "파랑 도서관"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.5,
+                            631.5,
+                            779.5,
+                            687.5
+                        ]
+                    ],
+                    "text_description": "1000 권을 나타내는 그림의 수가 가장 적은 곳이 책이 가장 적게 있는 곳이고 파 랑 도서관입니다."
+                }
+            ]
+        }
+    ]
+}

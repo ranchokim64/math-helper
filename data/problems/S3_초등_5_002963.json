@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "580bfe68-3a2d-45a7-8663-d241b15689a1",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002963",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            10.31,
+                            466.25,
+                            100.69
+                        ]
+                    ],
+                    "text_description": "학생 27명이 1부터 27까지의 수가 각각 적힌 종이를 한 장씩 뽑았습니다. 27명 중에서 9의 배수가 적힌 종이를 뽑는 사람이 술래입니다. 술래는 모두 몇 명인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            483.75,
+                            11.75,
+                            661.25,
+                            151.75
+                        ]
+                    ],
+                    "text_description": "1~27까지 적힌 종이를 한 장씩 뽑는 사진"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            246.75,
+                            207.5,
+                            280.5
+                        ]
+                    ],
+                    "text_description": "(3)명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.25,
+                            173.5,
+                            631.25,
+                            240.5
+                        ]
+                    ],
+                    "text_description": "9의 배수를 뽑는 사람이 술래이므로 $9 \\times 1=9, 9 \\times 2=18, 9 \\times 3=27$이 적힌 수를 뽑는 사람이 술래입니다. 따라서 술래는 모두 3명입니다."
+                }
+            ]
+        }
+    ]
+}

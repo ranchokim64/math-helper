@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d90c8a2a-be19-41e2-a31b-4f75ed23b6fc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004689",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            -0.08,
+                            410.5,
+                            30.92
+                        ]
+                    ],
+                    "text_description": "점대칭도형의 둘레는 몇 $cm$ 인가요$?$."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.5,
+                            42.92,
+                            403.5,
+                            200.92
+                        ]
+                    ],
+                    "text_description": "점대칭형 도형의 길이가 표시되어 있다. 왼쪽에 $4cm$ 아래 $7cm$ 오른쪽 $4cm$ 위쪽에 $2cm$ 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370.5,
+                            222.5,
+                            447.5,
+                            252.5
+                        ]
+                    ],
+                    "text_description": "$34cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.5,
+                            259.5,
+                            371.5,
+                            290.5
+                        ]
+                    ],
+                    "text_description": "$(4+7+4+2) \\times 2=17 \\times 2=34(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

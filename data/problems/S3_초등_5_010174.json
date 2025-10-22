@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6e655fa0-29b2-48d7-ab71-6bd22402c5a5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010174",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.75,
+                            3.19,
+                            665,
+                            82.69
+                        ]
+                    ],
+                    "text_description": "분홍색 공깃돌이 5 개 들어 있는 다음 상자에서 공깃돌 1 개를 꺼낼 때 꺼낸 공깃돌이 분홍색이 아닐 가능성을 말과 수로 표현하려고 합니다. 알맞은 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            197.12,
+                            383.75,
+                            228.62
+                        ]
+                    ],
+                    "text_description": "말 (불가능하다, 반반이다, 확실하다)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            450.5,
+                            187.37,
+                            594.5,
+                            240.62
+                        ]
+                    ],
+                    "text_description": "수 $\\left(0, \\frac{1}{2}, 1\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289.0,
+                            87.0,
+                            398.0,
+                            188.0
+                        ]
+                    ],
+                    "text_description": "분홍색 공깃돌이 5개 들어있는 상자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.25,
+                            280.37,
+                            662,
+                            329.12
+                        ]
+                    ],
+                    "text_description": "분홍색 공깃돌만 있으므로 꺼낸 공깃돌이 분홍색이 아닐 가능성은 '불가능하다'이고, 수로 표현하면 0 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.0,
+                            246.62,
+                            144.5,
+                            274.87
+                        ]
+                    ],
+                    "text_description": "불가능하다, 0"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0e6f1f74-7a07-4791-aa2b-14bdd71085df",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004869",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.66,
+                            11.52,
+                            392.06,
+                            99.2
+                        ]
+                    ],
+                    "text_description": "지호와 태인이가 주사위 놀이를하고 있습니다. 1부터 6까지의 눈이 그려진 주사위를 한 번 굴릴 때, 일이 일어날 가능성을 찾아 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.34,
+                            357.82,
+                            286.46,
+                            380.86
+                        ]
+                    ],
+                    "text_description": "6초과의 눈이 나올 가능성"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.14,
+                            225.41,
+                            336.4,
+                            300.65
+                        ]
+                    ],
+                    "text_description": "㉠ 불가능하다 ㉡ ~아닐 것 같다 ㉢ 반반이다 ㉣ ~일 것 같다 ㉤ 확실하다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.740000000000002,
+                            149.44,
+                            367.14,
+                            200.16
+                        ]
+                    ],
+                    "text_description": "1부터 6까지의 눈이 그려진 6개의 주사위 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            273.04,
+                            410.78,
+                            289.93,
+                            429.54
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": "2",
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            207.74,
+                            225.34,
+                            336.38,
+                            273.98
+                        ]
+                    ],
+                    "text_description": "㉡ 아닐 것 같다\n㉣ 일 것 같다"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.3,
+                            249.66,
+                            107.26,
+                            301.5
+                        ]
+                    ],
+                    "text_description": "㉢ 반반이다\n㉤ 확실하다"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.68,
+                            440.32,
+                            378.59,
+                            459.16
+                        ]
+                    ],
+                    "text_description": "주사위 눈의 수는 $1, 2, 3, 4, 5, 6$ 이므로 6초과의 눈이 나올"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.41,
+                            459.57,
+                            257.75,
+                            479.23
+                        ]
+                    ],
+                    "text_description": "가능성은 ' 불가능하다입니다."
+                }
+            ]
+        }
+    ]
+}

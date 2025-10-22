@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4d30d3fe-0cb5-480f-8cad-4756bf9c1ea2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004851",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            14.42,
+                            549.5,
+                            168.42
+                        ]
+                    ],
+                    "text_description": "준호의 수학 성적을 나타낸 표입니다. 준호가 5회째 시험에서 100점을 맞았다면, 5회까지의 평균은 4회까지의 평균보다 몇 점 더 높아 지나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            180,
+                            548.5,
+                            328
+                        ]
+                    ],
+                    "text_description": "회차에 따른 점수를 기록해 작성된 준호의 수학 성적표."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            403.5,
+                            348,
+                            442.5,
+                            375
+                        ]
+                    ],
+                    "text_description": "3점"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.5,
+                            384,
+                            525.5,
+                            459
+                        ]
+                    ],
+                    "text_description": "4 회까지의 평균: $(92+86+80+82) \\div 4=85$ (점) 5 회까지의 평균: $(92+86+80+82+100) \\div 5=88$ (점) $\\rightarrow 88-85=3$ (점) 더 높아집니다."
+                }
+            ]
+        }
+    ]
+}

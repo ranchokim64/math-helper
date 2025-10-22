@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0793d7bc-d342-4ea7-a88d-7b02404b085e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009145",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.13,
+                            6.59,
+                            355.96,
+                            35.46
+                        ]
+                    ],
+                    "text_description": "몫이 가장 큰 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            258,
+                            63.5,
+                            335,
+                            92.5
+                        ]
+                    ],
+                    "text_description": "$18 \\div 6$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            405,
+                            62.5,
+                            478,
+                            92.5
+                        ]
+                    ],
+                    "text_description": "$81 \\div 9$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            552,
+                            62.5,
+                            622,
+                            95.5
+                        ]
+                    ],
+                    "text_description": "$32 \\div 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.13,
+                            127.51,
+                            74.64,
+                            149.55
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.54,
+                            166.87,
+                            347.0,
+                            294.01
+                        ]
+                    ],
+                    "text_description": "㉠ $6 \\times 3=18$ 이므로 $18 \\div 6=3$ ㉡ $9 \\times 9=81$ 이므로 $81 \\div 9=9$ ㉢ $4 \\times 8=32$ 이므로 $32 \\div 4=8$ ㉠ $3$, ㉡ $9$, ㉢ $8 \\Rightarrow 9>8>3$"
+                }
+            ]
+        }
+    ]
+}

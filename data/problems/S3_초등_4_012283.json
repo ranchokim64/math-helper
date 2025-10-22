@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1874213a-5e19-4a43-b419-ed49d042d878",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012283",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3,
+                            9.41,
+                            523,
+                            88.41
+                        ]
+                    ],
+                    "text_description": "심1 4 겨울의 날씨를 조사하여 막대그래 프로 나타낸 것입니다. 물음에 답하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            99.41,
+                            502,
+                            463.41
+                        ]
+                    ],
+                    "text_description": "겨울의 날씨와 관련된 막대그래프이다. Y축은 날수를 표시하면 각각 0,5,10,15(일)이다. X축은 날씨를 보여주고 있다. 각각 맑음 흐림 비 눈 이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            478,
+                            492,
+                            556
+                        ]
+                    ],
+                    "text_description": "그래프의 가로와 세로는 각각 무엇을 나 타내고 있나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            206,
+                            571,
+                            493,
+                            650
+                        ]
+                    ],
+                    "text_description": "가로 (날씨 ） 세로 (날수)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            656,
+                            481,
+                            682
+                        ]
+                    ],
+                    "text_description": "가로에는 항목을, 세로에는 조사한 수를 나타내고 있습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "08689b03-825b-421f-9dff-aa717100adc4",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011811",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            8.71,
+                            476.88,
+                            70.15
+                        ]
+                    ],
+                    "text_description": "정육각형의 한 각의 크기는 $120^{\\circ}$ 입니다. 정 육각형의 모든 각의 크기의 합을 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            198.48,
+                            86.79,
+                            327.12,
+                            230.79
+                        ]
+                    ],
+                    "text_description": "정육각형 맨 상단에 한 각이 120도로 표현되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            354,
+                            245.24,
+                            402,
+                            270.2
+                        ]
+                    ],
+                    "text_description": "$720^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.96,
+                            278.52,
+                            186.32,
+                            301.56
+                        ]
+                    ],
+                    "text_description": "$120^{\\circ} \\times 6=720^{\\circ}$"
+                }
+            ]
+        }
+    ]
+}

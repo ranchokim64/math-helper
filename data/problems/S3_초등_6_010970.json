@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "36d21200-5b9e-46f0-901d-6e554ff9b1bc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010970",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.82,
+                            3.59,
+                            468.5,
+                            27.55
+                        ]
+                    ],
+                    "text_description": "<보기>와 같은 모양을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            187.46,
+                            35.15,
+                            362.26,
+                            189.19
+                        ]
+                    ],
+                    "text_description": "<보기> 1층에 3개 2층에 1개의 쌓기나무가 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            404.46,
+                            75.08,
+                            654.1,
+                            148.88
+                        ]
+                    ],
+                    "text_description": "1층에 3개 2층에 1개의 쌓기나무가 있다. 1층에 2개 2층에 2개의 쌓기나무가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.94,
+                            197.52,
+                            128.02,
+                            269.2
+                        ]
+                    ],
+                    "text_description": "1층에 2개 2층에 2개의 쌓기나무가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.58,
+                            281,
+                            581.78,
+                            304.4
+                        ]
+                    ],
+                    "text_description": "<보기> 모양을 뒤집거나 돌려서 같은 모양을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

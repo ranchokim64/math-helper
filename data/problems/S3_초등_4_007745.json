@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b649d96c-a594-4779-8978-892b890aa6d8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007745",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            -1.09,
+                            845.25,
+                            60.16
+                        ]
+                    ],
+                    "text_description": "현주가 감기에 걸린 동안 매일 낮 12시에 잰 체온을 꺾은선그래프로 나타냈습니다. 금요일 밤 12시에 현주의 체온은 몇 °C였을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            241.5,
+                            68.91,
+                            847.75,
+                            417.66
+                        ]
+                    ],
+                    "text_description": "현주의 체온 가로에는 요일, 세로에는 체온(°C)가 있다. 월요일에서 목요일까지는 온도가 체온이 증가하다가 일요일까지 체온이 내려가고있다. (37. 4°C, 37. 6°C, 37. 9°C, 38. 2°C)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.75,
+                            417.13,
+                            119,
+                            447.13
+                        ]
+                    ],
+                    "text_description": "37. 9°C"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            455.88,
+                            842.75,
+                            518.38
+                        ]
+                    ],
+                    "text_description": "(해설)금요일 밤 12시에 현주의 체온은 금요일 낮 12시 체온인 $38. 2°C와 토요일 낮 12시 체온인 37. 6°C의 중간인 37. 9°C였을 것입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            231.5,
+                            528.38,
+                            629,
+                            840.88
+                        ]
+                    ],
+                    "text_description": "현주의 체온 가로는 요일 세로는 체온(°C)가 있다. 월요일에서 목요일까지 체온이 오르다가 일요일까지 낮아지고 있는 그래프이다. 금요일과 토요일 사이에 화살표가 그어져 있는데 금요일 밤 12시라고 적혀있다."
+                }
+            ]
+        }
+    ]
+}

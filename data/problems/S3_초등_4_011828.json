@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5889625c-caa9-4751-bdc2-4f2819466483",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011828",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.38,
+                            10.76,
+                            491.88,
+                            77.01
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 자연수의 합을 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.63,
+                            92.01,
+                            474.38,
+                            208.26
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{10}+\\frac{4}{10}>\\frac{\\square}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            374.38,
+                            221.5,
+                            401.88,
+                            247.75
+                        ]
+                    ],
+                    "text_description": "$21$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.63,
+                            257.75,
+                            488.13,
+                            325.25
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{10}+\\frac{4}{10}=\\frac{7}{10}$ 이므로 $\\frac{7}{10}>\\frac{\\square}{10}$에서 $\\square$ 안에 알맞은 자연수는 1, 2, 3, 4, 5, 6입니다. $\\rightarrow$ $1+2+3+4+5+6=21$"
+                }
+            ]
+        }
+    ]
+}

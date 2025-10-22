@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a2ccfd97-a013-4171-9cab-16acfb8b1dfa",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005700",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 그 관계를 비로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 두 양의 관계를 비로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.08,
+                            14.31,
+                            573.39,
+                            59.23
+                        ]
+                    ],
+                    "text_description": "삼각형의 밑변과 높이의 비를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            198.39,
+                            78.77,
+                            487.46,
+                            317.05
+                        ]
+                    ],
+                    "text_description": "밑변 7cm, 높이 12cm인 노란색 삼각형이 점선으로 이루어진 직각삼각형과 접해있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            452.3,
+                            337.71,
+                            563.63,
+                            380.68
+                        ]
+                    ],
+                    "text_description": "$7: 12$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.33,
+                            394.35,
+                            456.21,
+                            468.57
+                        ]
+                    ],
+                    "text_description": "밑변은 7cm 오고, 높이는 12cm이므로 (밑변) : (높0|)=7 : 12 입니다."
+                }
+            ]
+        }
+    ]
+}

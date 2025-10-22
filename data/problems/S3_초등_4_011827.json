@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bf5a8136-23d1-4952-913e-e3309d36d953",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011827",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.96,
+                            19.47,
+                            473.36,
+                            49.67
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 작은 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.36,
+                            232.87,
+                            160.56,
+                            292.07
+                        ]
+                    ],
+                    "text_description": "⑤ $\\frac{1}{8}+\\frac{1}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.36,
+                            99.07,
+                            366.16,
+                            225.67
+                        ]
+                    ],
+                    "text_description": "① $\\frac{2}{8}+\\frac{1}{8}$ ② $\\frac{3}{8}+\\frac{2}{8}$ ③ $\\frac{2}{8}+\\frac{4}{8}$ ④ $\\frac{1}{8}+\\frac{5}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.76,
+                            303.96,
+                            485.76,
+                            408.36
+                        ]
+                    ],
+                    "text_description": "① $\\frac{3}{8}$ ② $\\frac{5}{8}$ ③ $\\frac{6}{8}$ ④ $\\frac{6}{8}$ ⑤ $\\frac{2}{8}$ 분모가 같은 진분수는 분자가 작은 분수가 더 작으므로 계산 결과가 가장 작은 것은 ⑤ $\\frac{2}{8}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

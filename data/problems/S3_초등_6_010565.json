@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "faf8a240-7f64-4d11-a46a-d15154d1bf36",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010565",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.8,
+                            8.14,
+                            710.4,
+                            36.94
+                        ]
+                    ],
+                    "text_description": "다음 중 겉넓이가 가장 큰 직육면체는 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            495.33,
+                            96.44,
+                            911.33,
+                            129.44
+                        ]
+                    ],
+                    "text_description": "④ 가로 6cm, 세로 6cm, 높이 6cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.6,
+                            54.4,
+                            910.2,
+                            83
+                        ]
+                    ],
+                    "text_description": "① 가로 7cm, 세로 4cm, 높이 6cm ② 가로 5cm, 세로 5cm, 높이 7cm"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.6,
+                            97.6,
+                            448,
+                            169.4
+                        ]
+                    ],
+                    "text_description": "③ 가로 8cm, 세로 4cm, 높이 5cm ⑤ 가로 7cm, 세로 5cm, 높이 2cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.33,
+                            245.44,
+                            860.33,
+                            515.44
+                        ]
+                    ],
+                    "text_description": "① $($ 직육면체의 겉넓이 $)=(7 \\times 4+4 \\times 6+7 \\times 6) \\times 2=188\\left(\\mathrm{~cm}^{2}\\right)$ ② $($ 직육면체의 겉넓이 $)=(5 \\times 5+5 \\times 7+5 \\times 7) \\times 2=190\\left(\\mathrm{~cm}^{2}\\right)$ ③ $($ 직육면체의 겉넓이 $)=(8 \\times 4+4 \\times 5+8 \\times 5) \\times 2=184\\left(\\mathrm{~cm}^{2}\\right)$ ④ $($ 정육면체의 겉넓이 $)=($ 한 면의 넓이 $) \\times 6=(6 \\times 6) \\times 6=216\\left(\\mathrm{~cm}^{2}\\right)$ ⑤ $($ 직육면체의 겉넓이 $)=(7 \\times 4+4 \\times 6+7 \\times 6) \\times 2=188\\left(\\mathrm{~cm}^{2}\\right)$0 따라서 겉넓이가 가장 큰 직육면체는 ④입니다."
+                }
+            ]
+        }
+    ]
+}

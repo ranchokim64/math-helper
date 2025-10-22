@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "90a3be32-2785-4e6f-b7e1-8dd505ae042f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005719",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            3.92,
+                            434,
+                            63.92
+                        ]
+                    ],
+                    "text_description": "민희네 반 학생들이 좋아하는 간식을 조사하여 나타낸 원그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            342.5,
+                            431,
+                            396.5
+                        ]
+                    ],
+                    "text_description": "피자를 좋아하는 학생은 튀김을 좋아하는 학생의 몇 배인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71,
+                            73.5,
+                            346,
+                            330.5
+                        ]
+                    ],
+                    "text_description": "좋아하는 간식별 학생 수가 원그래프로 나타나 있으면 피자(40%), 햄버거(25%), 치킨(15%), 튀김(10%), 기타(10%)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301,
+                            414.5,
+                            342,
+                            442.5
+                        ]
+                    ],
+                    "text_description": "4배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24,
+                            450.5,
+                            435,
+                            494.5
+                        ]
+                    ],
+                    "text_description": "피자를 좋아하는 학생은 전체의 $40 \\%$ 이고, 튀김을 좋아하는 학 생은 전체의 $10 \\%$ 이므로 4 배입니다."
+                }
+            ]
+        }
+    ]
+}

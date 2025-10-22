@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0a33ae95-0efd-4179-8084-d9154e40f267",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010571",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.08,
+                            8.98,
+                            957.83,
+                            119.8
+                        ]
+                    ],
+                    "text_description": "상자 가와 나에 한 모서리의 길이가 4cm 인 정육면체 모양의 블록을 빈틈 없이 가득 채웠습니다. 상자 가와 나 중에서 부피가 더 큰 것의 기호를 선택하 세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.88,
+                            135.95999999999998,
+                            861.35,
+                            332.08
+                        ]
+                    ],
+                    "text_description": "가 직육면체 가로 세로 20cm, 8cm, 높이 8cm 입니다. 중간간에 4cm 정도의 정사각형이 있습니다. 나 정육면체 길이는 12cm 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.21,
+                            358.98,
+                            81.28,
+                            386.52
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.77,
+                            403.31,
+                            955.09,
+                            504.75
+                        ]
+                    ],
+                    "text_description": "가: 가로에 $20 \\div 4=5$ (개)씩, 세로에 $8 \\div 4=2$ (개)씩 $8 \\div 4=2$ (층)으로 채울 수 있습 니다. $\\Rightarrow 10$ 개씩 2 층이므로 블록은 20 개입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.2,
+                            509.6,
+                            954.6,
+                            648
+                        ]
+                    ],
+                    "text_description": "나: 가로에 $12 \\div 4=3$ (개)씩, 세로에 $12 \\div 4=3$ (개)씩 $12 \\div 4=3$ (층)으로 채울 수 있습 니다. $\\Rightarrow 9$ 개씩 3 층이므로 블록은 27 개입니다. 따라서 20 개 $<27$ 개이므로 부피가 더 큰 것은 나입니다."
+                }
+            ]
+        }
+    ]
+}

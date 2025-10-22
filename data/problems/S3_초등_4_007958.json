@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "95c6ff76-24a1-4e1c-8984-f0e9a135062c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007958",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            11.92,
+                            929,
+                            116.92
+                        ]
+                    ],
+                    "text_description": "가와 나 상자에 들어 있는 수 카드를 한 번씩만 사용하여 가장 큰 다섯 자리 수를 각각 만들려고 합니다. 더 큰 수를 만들 수 있는 상자를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            376,
+                            281.5,
+                            591,
+                            319.5
+                        ]
+                    ],
+                    "text_description": "(가, 나) 상자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96,
+                            128.5,
+                            875,
+                            274.5
+                        ]
+                    ],
+                    "text_description": "'가' 상자와 '나' 상자가 있습니다. '가' 상자에는 0, 2, 4, 5, 6 숫자 카드가 들어있습니다. '나' 상자에는 0, 1, 2, 4, 7 숫자 카드가 들어있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            337.5,
+                            84,
+                            363.5
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            386.5,
+                            928,
+                            505.5
+                        ]
+                    ],
+                    "text_description": "만들 수 있는 가장 큰 다섯 자리 수는가 상자는 65420 이고, 나 상자는 74210 입니 다. 따라서 $\\frac{65420<74210}{6<7}$ 이므로 더 큰 수를 만들 수 있는 상자는 나 상자입니다."
+                }
+            ]
+        }
+    ]
+}

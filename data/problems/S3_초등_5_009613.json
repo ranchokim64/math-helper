@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f6c57f31-8828-4cf8-abb0-315770c9f68d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009613",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.85,
+                            2.69,
+                            382.28,
+                            21.7
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 큰 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            194.1,
+                            40.2,
+                            413.54,
+                            81.88
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{4} \\times 6 \\quad \\frac{5}{6} \\times 8 \\quad \\frac{2}{3} \\times 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.0,
+                            108.0,
+                            80.0,
+                            140.0
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{6} \\times 8 $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.19,
+                            152.62,
+                            334.13,
+                            240.67
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { } \\frac{3}{4} \\times 6=\\frac{9}{2}=4 \\frac{1}{2}, \\frac{5}{6} \\times 4=\\frac{20}{3}=6 \\frac{2}{3}, \\frac{2}{3} \\times 3=6 \\\\ \\quad \\Rightarrow 6 \\frac{2}{3}>6>4 \\frac{1}{2}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

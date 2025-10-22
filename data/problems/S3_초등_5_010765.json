@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e11c912c-2aa5-4ff8-94ab-fe8afc6444ca",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010765",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.64,
+                            5.62,
+                            530.96,
+                            33.62
+                        ]
+                    ],
+                    "text_description": "잘못 말한 사람을 찾아 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            363.08,
+                            157.76,
+                            532.8,
+                            187.76
+                        ]
+                    ],
+                    "text_description": "(승기, 지아)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.6,
+                            41.32,
+                            788.4,
+                            154.32
+                        ]
+                    ],
+                    "text_description": "승기 : 분모의 크기가 같을 때는 분자의 크기가 큰 분수가 더 큰 분수야. 지아 : $\\frac{11}{15}$과 $\\frac{10}{15}$ 중에서 $\\frac{11}{15}$이 더 작은 분수야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.2,
+                            205.52,
+                            95.6,
+                            228.72
+                        ]
+                    ],
+                    "text_description": "지아"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.6,
+                            250.32,
+                            458.0,
+                            298.32
+                        ]
+                    ],
+                    "text_description": "$\\left(\\frac{11}{15}, \\frac{2}{3}\\right) \\Rightarrow\\left(\\frac{11}{15}, \\frac{10}{15}\\right) \\Rightarrow \\frac{11}{15}>\\frac{2}{3}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "485cf50d-0f82-4f78-8f3b-868df1429c48",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011645",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.66,
+                            7.95,
+                            646.82,
+                            67.67
+                        ]
+                    ],
+                    "text_description": "여러 가지 삼각형 중에서 보기와 같은 삼각형들을 찾았습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.9,
+                            332.36,
+                            648.46,
+                            391.24
+                        ]
+                    ],
+                    "text_description": "보기의 삼각형 중에서 예각삼각형과 둔각삼각형을 찾아 기호를 쓰 세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.62,
+                            82.39,
+                            648.46,
+                            305.75
+                        ]
+                    ],
+                    "text_description": "보기가 둔각삼각형 나 예각삼각형 다 예각삼각형 마 직각삼각형 라 예각삼각형 바 둔각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            362.66,
+                            403.2,
+                            645.82,
+                            458.2
+                        ]
+                    ],
+                    "text_description": "예각삼각형 (나, 다, 라) 둔각삼각형 (가, 바)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.1,
+                            469.32,
+                            647.18,
+                            509
+                        ]
+                    ],
+                    "text_description": "세 각이 모두 예각인 예각삼각형은 나, 다, 라이고, 한 각이 둔각인 둔각삼각형은가, 바입니다."
+                }
+            ]
+        }
+    ]
+}

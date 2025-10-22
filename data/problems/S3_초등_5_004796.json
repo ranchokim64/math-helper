@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "546de61c-3ad0-4684-97cc-f768e21e2fe9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004796",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.67,
+                            16.64,
+                            431.7,
+                            50.94
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도를 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.6,
+                            266.49,
+                            408.15,
+                            295.17
+                        ]
+                    ],
+                    "text_description": "보이지 않는 모서리의 길이의 합을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132.43,
+                            100.85,
+                            354.39,
+                            241.19
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            281.69,
+                            310.34,
+                            333.91,
+                            338.5
+                        ]
+                    ],
+                    "text_description": "9cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.01,
+                            347.2,
+                            418.39,
+                            389.7
+                        ]
+                    ],
+                    "text_description": "보이지 않는 모서리 3개의 길이의 합은 $3+4+2=9(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

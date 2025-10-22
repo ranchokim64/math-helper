@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d2a88f05-9d89-483c-a80d-45bd72f100dd",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002848",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.88,
+                            3.25,
+                            734.57,
+                            67.31
+                        ]
+                    ],
+                    "text_description": "규민이네 학교 학생들의 한 달간 독서량과 즐겨 읽는 책의 종류를 조사하여 나타낸 원그래프입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.88,
+                            380.71,
+                            445.51,
+                            415.09
+                        ]
+                    ],
+                    "text_description": "그래프를 보고 잘못 말한 사람은 누구인지 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            454,
+                            716.5,
+                            583
+                        ]
+                    ],
+                    "text_description": "- 시우: 한 달 동안 책을 $16 \\sim 20$ 권 읽은 학생 수는 21 권 이상 읽은 학생 수의 2 배야. -태오: 역사책을 즐겨 읽는 학생이 120 명이면 학습 만화를 즐겨 읽는 학생은 360 명이겠구나."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.7,
+                            76.78,
+                            689.07,
+                            357.46
+                        ]
+                    ],
+                    "text_description": "왼쪽의이 이미지는 \"한 달간 독서량\"을 나타내는 원형 그래프입니다. 그래프는 다음과 같은 범주로 나눠져 있습니다: - 5권 이하 (10%) - 6~10권 (20%) - 11~15권 (25%) - 16~20권 (30%) - 21권 이상 (15%) 각 범주는 해당 독서량의 비율을 보여줍니다. 오른쪽의이 이미지는 학생들이 즐겨 읽는 책의 종류를 나타내는 원형 그래프입니다. 각 섹션은 다음과 같습니다: - 학습 만화: 40% - 위인전: 25% - 역사책: 20% - 동화책: 10% - 기타: 5%"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.95,
+                            768.21,
+                            154.88,
+                            804.15
+                        ]
+                    ],
+                    "text_description": "태오"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.76,
+                            669.78,
+                            664.26,
+                            760.4
+                        ]
+                    ],
+                    "text_description": "학습 만화를 즐겨 읽는 학생 수는 역사책을 즐겨 읽는 학생 수의 $40 \\div 20=2$ (배)이므로 역사책을 즐겨 읽는 학생이 120 명이면 학습 만화를 즐겨 읽는 학생은 $120 \\times 2=240$ (명)입니다."
+                }
+            ]
+        }
+    ]
+}

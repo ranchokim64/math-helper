@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "380e23b8-7020-43c6-906e-c1aba458704d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004660",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.03,
+                            28.979999999999997,
+                            368.11,
+                            96.32
+                        ]
+                    ],
+                    "text_description": "정사각형의 넓이가 $15 \\frac{3}{10} \\mathrm{~cm}^{2}$ 일 때 색칠한 부 분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            157.11,
+                            102.89,
+                            267.03,
+                            212.81
+                        ]
+                    ],
+                    "text_description": "가로세로가 3칸인 정사각형 정사각형의 색칠한 부분 : 5칸"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            256.37,
+                            213.63,
+                            316.25,
+                            252.19
+                        ]
+                    ],
+                    "text_description": "$8 \\frac{1}{2} \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.61,
+                            250.42,
+                            344.53,
+                            325.35
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 전체 정사각형의 넓이의 $\\frac{5}{9}$ 이므로 $15 \\frac{3}{10} \\times \\frac{5}{9}=\\frac{153}{10} \\times \\frac{1}{9}=\\frac{17}{2}=8 \\frac{1}{2}\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

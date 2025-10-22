@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2d6b4793-4e92-443f-9e06-44665ba22900",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011928",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70,
+                            4.92,
+                            435,
+                            38.92
+                        ]
+                    ],
+                    "text_description": "원 안에 있는 수의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            56.92,
+                            451,
+                            271.92
+                        ]
+                    ],
+                    "text_description": "594: 삼각형 438: 사각형 258: 원형 421: 사각형 732: 원형 863: 삼각형 각 숫자가 안에 적혀있는 여섯가지 평면도형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            359,
+                            293.5,
+                            407,
+                            315.5
+                        ]
+                    ],
+                    "text_description": "$447$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            324.5,
+                            304,
+                            370.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 원 안에 있는 수는 285와 732입니다. } \\\\ \\rightarrow 7 \\text { 732-285=447 }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

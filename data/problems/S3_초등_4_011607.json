@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8315ba47-3820-4ba8-a3df-f9ce6f96dba6",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011607",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.56,
+                            14.17,
+                            446.16,
+                            182.17
+                        ]
+                    ],
+                    "text_description": "길이가 $\\frac{9}{10} \\mathrm{m}$ 인 끈으로 선물 상자를 포장하는 데 $\\frac{6}{10} \\mathrm{m}$를 사용하였습니다. 남은 끈의 길이는 몇 m일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            321.36,
+                            186.17,
+                            376.56,
+                            227.77
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{10} \\mathrm{~m}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.96,
+                            227.77,
+                            167.76,
+                            266.97
+                        ]
+                    ],
+                    "text_description": "$\\frac{9}{10}-\\frac{6}{10}=\\frac{3}{10}(\\mathrm{~m})$"
+                }
+            ]
+        }
+    ]
+}

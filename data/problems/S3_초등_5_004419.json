@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "063ad6cb-67d6-4c78-83a8-73e6c9bdc0bb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004419",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.9,
+                            5.24,
+                            293.3,
+                            35.64
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.82,
+                            40.98,
+                            434.9,
+                            163.22
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|c|c|c|} \\hline가로 $(\\mathrm{cm})$ & 15 & 42 & 61 \\\\ \\hline 세로 $(\\mathrm{cm})$ & 16 & 23 & 56 \\\\ \\hline 넓이 $\\left(\\mathrm{cm}^{2}\\right)$ & ㉠ & ㉡ & ㉢ \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            209.89999999999998,
+                            178.5,
+                            432.9,
+                            204.5
+                        ]
+                    ],
+                    "text_description": "㉠: ($240$)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            210.7,
+                            212.1,
+                            433.1,
+                            235.9
+                        ]
+                    ],
+                    "text_description": "㉡: ($966$)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            209.3,
+                            243.3,
+                            433.7,
+                            266.3
+                        ]
+                    ],
+                    "text_description": "㉢: ($3416$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.3,
+                            274.5,
+                            295.7,
+                            352.9
+                        ]
+                    ],
+                    "text_description": "$($ 직사각형의 넓이 $)=($ 가로 $) \\times($ 세로 $)$ 이므로 ㉠ $15 \\times 16=240\\left(\\mathrm{~cm}^{2}\\right)$ ㉡ $42 \\times 23=966\\left(\\mathrm{~cm}^{2}\\right)$ ㉢ $61 \\times 56=3416\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

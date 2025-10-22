@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2bf0502a-d36f-4ef7-a325-f26192891c87",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009808",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            5.7,
+                            557.75,
+                            28.95
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 3보다 큰 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            144.0,
+                            33.0,
+                            594.0,
+                            88.0
+                        ]
+                    ],
+                    "text_description": "빨간색 네모 상자에 다음과 같은 내용이 들어 있다.㉠6의 0.49 ㉡20의 0.21배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.25,
+                            104.13,
+                            382.25,
+                            143.38
+                        ]
+                    ],
+                    "text_description": "㉠ 6의 0. 49는 6의 0. 5 배인 3 보나 작습니나. ㉡ 20의 0. 21 배는 20의 0. 2 배인 4보다 큽니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            85.63,
+                            162.5,
+                            105.88
+                        ]
+                    ],
+                    "text_description": "㉡ 20의 0. 21배"
+                }
+            ]
+        }
+    ]
+}

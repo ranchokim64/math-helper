@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eeb0f1f3-119d-4054-9e8c-5ee23d98282b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005502",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.47,
+                            14.92,
+                            544.03,
+                            140.33
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양과 위에서 본 모양입니다. 똑같은 모양으로 쌓는 데 필요한 쌓기나무는 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.9,
+                            162.26,
+                            501.18,
+                            398.38
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 앞에서 본 모양의 그림 위 \\begin{tabular}{|c|c|c|} \\hline & & \\\\ \\hline & & \\\\ \\hline & & \\\\ \\hline \\end{tabular} $\\uparrow$ 앞"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            372.8,
+                            413.28,
+                            443.87,
+                            446.52
+                        ]
+                    ],
+                    "text_description": "10 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.25,
+                            455.69,
+                            196.28,
+                            488.93
+                        ]
+                    ],
+                    "text_description": "$6+3+1=10$ (개)"
+                }
+            ]
+        }
+    ]
+}

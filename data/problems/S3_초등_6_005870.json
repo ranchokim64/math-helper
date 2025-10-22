@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "411fbc6f-126a-49ea-b292-292f5b61c547",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005870",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.7,
+                            2.62,
+                            431.7,
+                            63.42
+                        ]
+                    ],
+                    "text_description": "두 직육면체 중 부피가 더 큰 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.7,
+                            72.22,
+                            405.3,
+                            257.82
+                        ]
+                    ],
+                    "text_description": "두 직육면체 가와 나 가는 직육면체의 크기를 나타내고 있으며, 각 변의 길이는 다음과 같습니다: 높이 10cm, 세로 7cm, 가로 2cm입니다. 나는 직육면체의 모습이며, 변의 길이들이 다음과 같이 표시되어 있습니다: 가로는 3cm, 세로는 5cm, 높이는 9cm로 나타내어져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            310.1,
+                            271.42,
+                            338.9,
+                            297.02
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.3,
+                            305.82,
+                            384.5,
+                            353.02
+                        ]
+                    ],
+                    "text_description": "갸: $2 \\times 7 \\times 10=140\\left(\\mathrm{~cm}^{3}\\right)$, 나: $3 \\times 5 \\times 9=135\\left(\\mathrm{~cm}^{3}\\right)$ $\\rightarrow$ 가의 부피가 더 큽니다."
+                }
+            ]
+        }
+    ]
+}

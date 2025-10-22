@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bba17a37-0173-4f08-a6ae-434e7ade5063",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011151",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.3,
+                            7.56,
+                            608.55,
+                            43.49
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 알맞은 수가 더 큰 비례식을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180,
+                            42.88,
+                            700,
+                            150.88
+                        ]
+                    ],
+                    "text_description": "보라색테두리의 네모 박스 안에 다음과 같은 두개의 비례식이 있다.㉠ $\\square$ $: 8=15: 24$ ㉡ 21 : $\\square$ $=\\frac{1}{2}: \\frac{1}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            161.88,
+                            68,
+                            185.88
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            202.5,
+                            447,
+                            230.5
+                        ]
+                    ],
+                    "text_description": "㉠ $\\square \\times 24=8 \\times 15, \\square \\times 24=120, \\square=5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.4,
+                            239.3,
+                            503,
+                            322.5
+                        ]
+                    ],
+                    "text_description": "㉡ $21 \\times \\frac{1}{7}=\\square \\times \\frac{1}{2}, \\square \\times \\frac{1}{2}=3, \\square=6$ $\\square$ 안에 알맞은 수가 더 큰 비례식은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "afcc9d24-e8db-4dbd-aba2-26d1974fe8da",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010651",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.74,
+                            6.64,
+                            876.74,
+                            68.64
+                        ]
+                    ],
+                    "text_description": "샌드위치가 27 개 있습니다. 이 샌드위치를 남김없이 똑같이 나누어 가질 수 있는 사람 수를 모두 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            183.44,
+                            76.94,
+                            722.04,
+                            144.94
+                        ]
+                    ],
+                    "text_description": "연두색 테두리의 박스에 다음과 같은 텍스트가 들어 있다. 2명 3명 6명 8명 9명 12명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.99,
+                            156.12,
+                            133.49,
+                            183.12
+                        ]
+                    ],
+                    "text_description": "3명, 9명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.74,
+                            197.37,
+                            787.49,
+                            222.37
+                        ]
+                    ],
+                    "text_description": "27의 약수는 $1, 3, 9, 27$ 이므로 3 명, 9 명이 똑같이 나누어 가질 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

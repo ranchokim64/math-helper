@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "30716ed8-a4e8-4cf2-8cb8-1de71a76aba5",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005320",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.54,
+                            14.56,
+                            480.72,
+                            88.21
+                        ]
+                    ],
+                    "text_description": "반지름이 6cm 인 원의 넓이는 얼마인지 어림해보려고 합니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.33,
+                            282.03,
+                            452.16,
+                            314.84
+                        ]
+                    ],
+                    "text_description": "원 밖의 정사각형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.82,
+                            322.86,
+                            388.28,
+                            374.21
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 정사각형의 넓이 }) & =(\\text { 한 변의 길이 }) \\times(\\text { 한 변의 길이 }) \\\\ & =12 \\times 12=144\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.53,
+                            379.47,
+                            95.2,
+                            413.28
+                        ]
+                    ],
+                    "text_description": "$144 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            170.0,
+                            102.0,
+                            329.0,
+                            259.0
+                        ]
+                    ],
+                    "text_description": "반지름이 6cm인 원"
+                }
+            ]
+        }
+    ]
+}

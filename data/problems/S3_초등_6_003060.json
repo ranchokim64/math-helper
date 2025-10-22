@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f0754e75-e95b-4265-bcb5-24765279c480",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003060",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.64,
+                            15.13,
+                            671.8,
+                            65.69
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위. 앞. 옆에서 보고 그렸는데 표시를 하지 않아서 어느 것이 위, 앞, 옆에서 본 모양인지 알 수 없습니다. 위, 앞, 옆에서 본 모양을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.4,
+                            76.94,
+                            389.56,
+                            160.78
+                        ]
+                    ],
+                    "text_description": "쌓기나무의 위, 앞, 옆 모습인가, 나, 다 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.8,
+                            209.26,
+                            556,
+                            237.26
+                        ]
+                    ],
+                    "text_description": "위: 다 앞: 가 옆: 나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.4,
+                            165.9,
+                            670.52,
+                            208.14
+                        ]
+                    ],
+                    "text_description": "다는 앞, 옆에서 본 모양이 될 수 없으므로 위에서 본 모양입니다. 다가 위에서 본 모양이면 가는 앞에서 본 모양, 나는 옆에서 본 모양입니다."
+                }
+            ]
+        }
+    ]
+}

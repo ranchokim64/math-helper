@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b1a69ae0-db32-4e29-9275-3f2d343119b3",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003002",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.8,
+                            12.579999999999998,
+                            491.52,
+                            159.46
+                        ]
+                    ],
+                    "text_description": "예지는 지난 주말 여가 시간에 $1 \\frac{3}{5}$ 시간 동안 자전거를 타고, $1 \\frac{5}{6}$ 시간 동안 독서를 하였습니다. 예지가 지난 주말에 보낸 여가 시간은 모두 몇 시간일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            499.77,
+                            22.28,
+                            773.77,
+                            162.28
+                        ]
+                    ],
+                    "text_description": "주말 여가 시간을 즐기는 예지의 모습."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.77,
+                            234.28,
+                            233.77,
+                            288.28
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{13}{30}$ 시간"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.77,
+                            168.28,
+                            563.77,
+                            225.28
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{3}{5}+1 \\frac{5}{6}=\\frac{8}{5}+\\frac{11}{6}=\\frac{48}{30}+\\frac{55}{30}=\\frac{103}{30}=3 \\frac{13}{30}($ 시간 $)$"
+                }
+            ]
+        }
+    ]
+}

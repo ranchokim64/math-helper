@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "61dc9cef-6c18-405a-98f2-86e2a02b6222",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012534",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.62,
+                            14.49,
+                            474.07,
+                            114.98
+                        ]
+                    ],
+                    "text_description": "고속 철도의 객실 한 량에는 좌석이 4개씩 14줄이 있습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.01,
+                            132.24,
+                            435.23,
+                            200.05
+                        ]
+                    ],
+                    "text_description": "이 고속 철도의 객실이 12량이면 좌석이 모두 몇 개 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            314.39,
+                            220.75,
+                            366.8,
+                            242.95
+                        ]
+                    ],
+                    "text_description": "672개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.74,
+                            251.58,
+                            158.42,
+                            270.07
+                        ]
+                    ],
+                    "text_description": "$56 \\times 12=672$ (개)"
+                }
+            ]
+        }
+    ]
+}

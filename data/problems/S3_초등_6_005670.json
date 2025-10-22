@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "65ebad5e-dcf1-4e01-91f9-ae169fa72c8e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005670",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.7,
+                            10.09,
+                            689.14,
+                            57.45
+                        ]
+                    ],
+                    "text_description": "가로가 10. 5m, 세로가 4m인 직사각형 모양의 밭이 있습니다. 이 밭의 가로를 5. 5m 줄이고 넓이는 변하지 않게 하여 밭을 다시 만들려면 세로를 몇 m 늘려야 하는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            215.7,
+                            69.05,
+                            483.06,
+                            183.53
+                        ]
+                    ],
+                    "text_description": "세로가 4m가로가 10. 5m인 직사각형 모양이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.5,
+                            196.5,
+                            594.5,
+                            260.5
+                        ]
+                    ],
+                    "text_description": "밭의 넗이는 $10. 5 \\times 4=42\\left(\\mathrm{~m}^{2}\\right)$ 입니다. 다시 만들려는 밭의 세로를 $\\square \\mathrm{m}$ 라 하면 $(10. 5-5. 5) \\times \\square=42. 5 \\times \\square=42$. $\\square=42 \\div 5=8. 4(\\mathrm{~m})$ 입니다. 따라서 밭을 다시 만들려면 세로를 $8. 4-4=4. 4(\\mathrm{~m})$ 늘려야 합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.0,
+                            271.0,
+                            59.0,
+                            301.0
+                        ]
+                    ],
+                    "text_description": "4.4m"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7de9a81b-cf83-4dff-bd8d-d8de8a616f5f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009199",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.52,
+                            1.89,
+                            415.92,
+                            28.29
+                        ]
+                    ],
+                    "text_description": "시계를 보고 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.32,
+                            203.92,
+                            746.32,
+                            299.92
+                        ]
+                    ],
+                    "text_description": "시계의 초바늘은 (시, 분, 초)를 나타냅니다. 초바늘이 작은 눈금 한 칸을 가는 동안 걸리는 시간을 $(1, 10, 60)$ 초라고 합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            159.12,
+                            35.32,
+                            614.32,
+                            194.12
+                        ]
+                    ],
+                    "text_description": "9시 30분 00초를 가리키고 있는 시계에서 시침이 한 칸 움직인 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.52,
+                            322.32,
+                            91.12,
+                            349.52
+                        ]
+                    ],
+                    "text_description": "초, 1"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.72,
+                            360.72,
+                            631.12,
+                            415.92
+                        ]
+                    ],
+                    "text_description": "시계의 초바늘은 초들 나타냅니다. 초바늘이 작은 눈금 한 칸을 가는 동안 걸리는 시간을 1초라고 합니다."
+                }
+            ]
+        }
+    ]
+}

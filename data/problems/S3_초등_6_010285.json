@@ -1,0 +1,179 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7892875e-8357-4c56-a807-c9cd52b95304",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010285",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.9,
+                            3.1,
+                            947.7,
+                            61.5
+                        ]
+                    ],
+                    "text_description": "다음 그림과 같이 밑변의 길이가 5cm이고, 넓이가 $\\frac{45}{4} \\mathrm{~cm}^{2}$ 인 삼각형이 있"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.1,
+                            71.9,
+                            539.7,
+                            103.1
+                        ]
+                    ],
+                    "text_description": "습니다. 이 삼각형의 높이는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            408.98,
+                            119.26,
+                            571.48,
+                            293.04
+                        ]
+                    ],
+                    "text_description": "밑변의 길이가 $5cm$ 이고, 넓이가 $\\frac{45}{4} \\mathrm{~cm}^{2}$ 인 삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.78,
+                            384.29,
+                            137.29,
+                            445.58
+                        ]
+                    ],
+                    "text_description": "④ $4 \\frac{1}{2} \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.52,
+                            310.74,
+                            137.47,
+                            368.76
+                        ]
+                    ],
+                    "text_description": "① $1 \\frac{1}{2} \\mathrm{~cm}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            332.14,
+                            309.93,
+                            439.64,
+                            372.03
+                        ]
+                    ],
+                    "text_description": "② $2 \\frac{1}{2} \\mathrm{~cm}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            635.41,
+                            308.84,
+                            742.81,
+                            368.85
+                        ]
+                    ],
+                    "text_description": "③ $3 \\frac{1}{2} \\mathrm{~cm}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            334.14,
+                            385.2,
+                            439.73,
+                            444.03
+                        ]
+                    ],
+                    "text_description": "⑤ $5 \\frac{1}{2} \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.02,
+                            509.32,
+                            615.88,
+                            539.01
+                        ]
+                    ],
+                    "text_description": "$($ 삼각형의 넓이 $)=($ 밑변의 길이 $) \\times($ 높이 $) \\div 2$ 이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.05,
+                            543.64,
+                            612.7,
+                            640.52
+                        ]
+                    ],
+                    "text_description": "$ \\begin{array}{l}(\\text { 높이 })=(\\text { 삼각형의 넓이 }) \\times 2 \\div(\\text { 밑변의 길이 }) \\text { 입니다. } \\\\ (\\text { 높이 })=\\frac{45}{4} \\times 2 \\div 5=\\frac{45}{2} \\div 5=\\frac{45 \\div 5}{2}=\\frac{9}{2}=4 \\frac{1}{2}(\\mathrm{~cm})\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

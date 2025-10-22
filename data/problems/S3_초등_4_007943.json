@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1856bb22-e46d-4b71-9aa9-f706ef5444e0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007943",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.66,
+                            0.66,
+                            591.27,
+                            31.78
+                        ]
+                    ],
+                    "text_description": "선분으로만 둘러싸인 도형이 아닌 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.51,
+                            285.14,
+                            470.92,
+                            308.63
+                        ]
+                    ],
+                    "text_description": "선분으로만 둘러싸인 도형은 다각형입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.78,
+                            316.85,
+                            412.8,
+                            340.92
+                        ]
+                    ],
+                    "text_description": "따라서 다각형이 아닌 도형은 원입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.44,
+                            35.88,
+                            142.74,
+                            136.86
+                        ]
+                    ],
+                    "text_description": "① 원형"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.49,
+                            33.88,
+                            405.16,
+                            114.31
+                        ]
+                    ],
+                    "text_description": "② 삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            569.55,
+                            36.22,
+                            690.48,
+                            114.89
+                        ]
+                    ],
+                    "text_description": "③ 사각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            300.66,
+                            147.42,
+                            426.3,
+                            217.63
+                        ]
+                    ],
+                    "text_description": "⑤ 사각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.61,
+                            148.01,
+                            146.85,
+                            232.89
+                        ]
+                    ],
+                    "text_description": "④ 오각형"
+                }
+            ]
+        }
+    ]
+}

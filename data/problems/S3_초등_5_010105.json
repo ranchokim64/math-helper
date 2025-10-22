@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5e78fa90-f884-454d-8015-efaa04cedc80",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010105",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.12,
+                            7.07,
+                            663.83,
+                            55.35
+                        ]
+                    ],
+                    "text_description": "1부터 6 까지의 눈이 그려진 주사위를 한 번 굴릴 때 일이 일어날 가능성이 더 낮은 것을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176.0,
+                            62.0,
+                            509.0,
+                            108.0
+                        ]
+                    ],
+                    "text_description": "1부터 6까지의 눈이 그려진 주사위"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.62,
+                            203.45,
+                            665.96,
+                            351.13
+                        ]
+                    ],
+                    "text_description": "① 홀수는 $1, 3, 5$ 이므로 주사위의 눈의 수가 홀수로 나올 가능성은 '반반이다'이며, 수로 표현하면 $\\frac{1}{2}$ 입니다. ② 7 이상인 수는 없으므로 주사위의 눈의 수가 7 이상으로 나올 가능성은 '불가능하 다'이며, 수로 표현하면 0 입니다. 따라서 일이 일어날 가능성이 더 낮은 것은 ②입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.96,
+                            140.28,
+                            404.66,
+                            161.53
+                        ]
+                    ],
+                    "text_description": "② 주사위의 눈의 수가 7 이상으로 나올 가능성"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.67,
+                            109.59,
+                            370.58,
+                            130.15
+                        ]
+                    ],
+                    "text_description": "① 주사위의 눈의 수가 홀수로 나올 가능성"
+                }
+            ]
+        }
+    ]
+}

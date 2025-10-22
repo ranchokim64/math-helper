@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b8b6981a-2f30-4aab-a50f-6355d20f05a4",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002822",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 그 관계를 비로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 두 양의 관계를 비로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            7.9,
+                            498.5,
+                            38.9
+                        ]
+                    ],
+                    "text_description": "탕수육 만드는 방법과 튀김옷 재료입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.5,
+                            432.9,
+                            438.5,
+                            462.9
+                        ]
+                    ],
+                    "text_description": "돼지고기의 양에 대한 녹말가루의 양의 비를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            62.9,
+                            707.5,
+                            405.9
+                        ]
+                    ],
+                    "text_description": "이 이미지는 돼지고기를 사용한 튀김옷 만드는 방법과 재료 목록을 보여줍니다. - **만드는 방법**: 1. 돼지고기 400g을 준비합니다. 2. 녹말가루, 물, 달걀, 식용유를 섞어서 튀김옷을 만듭니다. 3. 돼지고기를 적당한 크기로 잘라 튀김옷을 묻힌 후 튀깁니다. - **튀김옷 재료**: - 고구마 녹말가루: 140g - 감자 녹말가루: 40g - 옥수수 녹말가루: 20g - 물: 80mL - 달걀: 30mL - 식용유: 50mL (돼지고기 400g 기준)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            534.9,
+                            133.5,
+                            565.9
+                        ]
+                    ],
+                    "text_description": "$200: 400$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            473.9,
+                            593.5,
+                            525.9
+                        ]
+                    ],
+                    "text_description": "튀김옷을 만드는 데 필요한 녹말가루의 양은 $140+40+20=200(\\mathrm{~g})$ 이므로 돼지고기의 양에 대한 녹말가루의 양의 비는 $200: 400$ 입니다."
+                }
+            ]
+        }
+    ]
+}

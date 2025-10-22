@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f76876b5-4577-41ce-bbc8-3a425ed0426f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007999",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-13] 주어진 각도와 크기가 같은 각을 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.83,
+                            3.32,
+                            470.83,
+                            31.32
+                        ]
+                    ],
+                    "text_description": "$80^{\\circ}$의 각을 그린 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.83,
+                            41.32,
+                            795.83,
+                            215.32
+                        ]
+                    ],
+                    "text_description": "180도까지 측정 가능한 각도기가 두 개 있습니다. 두 변이 만나 각도를 형성하고 있는 모양입니다. 왼쪽은 110도를 가리키는 선이 있고 오른쪽은 80도를 가리키는 선이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.83,
+                            226.05,
+                            286.83,
+                            369.05
+                        ]
+                    ],
+                    "text_description": "180도까지 측정 가능한 각도기가 있습니다. 두 변이 만나 각도를 형성하고 있는 모양입니다. 80도를 가리키는 선이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.83,
+                            378.95,
+                            433.83,
+                            398.95
+                        ]
+                    ],
+                    "text_description": "각도기의 바깥쪽 눈금을 80으로 맞춘 것을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

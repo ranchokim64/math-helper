@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "842e5fa5-01df-41e2-8096-dbb88d9794aa",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005634",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.99,
+                            1.41,
+                            689.49,
+                            51.41
+                        ]
+                    ],
+                    "text_description": "다음 삼각기둥의 전개도에서 다의 넓이는 $54 \\mathrm{~cm}^{2}$ 이고, 나의 넓이는 가의 넓이의 2배입니다. 선분 ㅊㅇ의 길이는 몇 cm인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.49,
+                            59.63,
+                            459.49,
+                            233.38
+                        ]
+                    ],
+                    "text_description": "이 이미지는 삼각기둥의 전개도이다. 전개도의 사각형 3개를 각가, 나, 다로 표시했고 다의 넓이는 $54 \\mathrm{~cm}^{2}$ 이고, 나의 넓이는 가의 넓이의 2배라고 나와 있다. 선 ㅊㅈ의 길이는 4cm이고, 선 ㅈㅇ의 길이는 6cm로 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.74,
+                            368.38,
+                            45.74,
+                            393.38
+                        ]
+                    ],
+                    "text_description": "8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -2.26,
+                            240.88,
+                            424.24,
+                            356.88
+                        ]
+                    ],
+                    "text_description": "\\[ (\\text { 다의 넓이 })=6 \\times(\\text { 선분 ㅅ ㅂ })=54\\left(\\mathrm{~cm}^{2}\\right) \\text {, (선분 ㅅ ㅂ) }=54 \\div 6=9(\\mathrm{~cm}) \\] (가의 넓이$)=4 \\times 9=36\\left(\\mathrm{~cm}^{2}\\right)$, (나의 넓이) $=($ 가의 넓이 $) \\times 2=36 \\times 2=72\\left(\\mathrm{~cm}^{2}\\right)$, (나의 넓이$)=($ 선분 ㅊㅇ$) \\times 9=72\\left(\\mathrm{~cm}^{2}\\right)$, (선분 ㅊㅇ) $=72 \\div 9=8(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

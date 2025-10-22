@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "83b2d948-9047-4b17-8437-86e3408c5b0b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010075",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.32,
+                            3.49,
+                            668.92,
+                            82.69
+                        ]
+                    ],
+                    "text_description": "다음과 같이 주머니 속에 흰색 바둑돌 1개와 검은색 바둑돌 1개가 들어 있습니다. 주머니에서 바둑돌 1개를 꺼낼 때 꺼낸 바둑돌이 흰색일 가능성을 말로 표현하려고 합니다. 알맞은 말을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            164.12,
+                            171.92,
+                            520.12,
+                            197.52
+                        ]
+                    ],
+                    "text_description": "불가능하다 반반이다 확실하다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303.32,
+                            83.92,
+                            385.72,
+                            164.72
+                        ]
+                    ],
+                    "text_description": "주머니 속에 흰색 바둑돌 1개와 검은색 바둑돌 1개가 들어 있는 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.92,
+                            218.32,
+                            113.72,
+                            241.52
+                        ]
+                    ],
+                    "text_description": "반반이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.92,
+                            252.72,
+                            668.92,
+                            323.12
+                        ]
+                    ],
+                    "text_description": "바둑돌 1개를 꺼낼 때 꺼낸 바둑돌이 흰색일 수도 있고 검은색일 수도 있으므로 가능성은 '반반이다’입니다."
+                }
+            ]
+        }
+    ]
+}

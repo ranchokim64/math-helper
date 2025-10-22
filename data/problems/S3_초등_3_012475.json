@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8e868e35-264b-4b1b-a144-f6e1cf354265",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012475",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-08] 무게를 나타내는 표준 단위의 필요성을 인식하여 1g과 1kg의 단위를 알고, 이를 이용하여 무게를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-20] 실생활에서 무게를 나타낼 때 사용하는 단위 1g과 1kg을 알고, 이를 이용하여 무게를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            20.44,
+                            493.5,
+                            130.04
+                        ]
+                    ],
+                    "text_description": "양팔 저울을 사용하여 귤, 사과, 배의 무 게를 비교하였습니다. 가장 가벼운 것의 이름을 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.1,
+                            147.24,
+                            493.5,
+                            243.64
+                        ]
+                    ],
+                    "text_description": "귤이 사과보다 가볍다 배는 사과보다 무겁다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            379.3,
+                            263.3,
+                            408.7,
+                            291.3
+                        ]
+                    ],
+                    "text_description": "귤"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.7,
+                            298.5,
+                            491.9,
+                            344.1
+                        ]
+                    ],
+                    "text_description": "귤<사과, 배>사과이므로 배, 사과, 귤의 순서로 무겁습니 다."
+                }
+            ]
+        }
+    ]
+}

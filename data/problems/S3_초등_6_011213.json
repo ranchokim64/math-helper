@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eda76cc0-e2f8-4e7f-9611-df8ae6b68615",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011213",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": "3",
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.47,
+                            5.12,
+                            731.81,
+                            30.66
+                        ]
+                    ],
+                    "text_description": "다음 문제를 해결하기 위한 비례식을 바르게 세운 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            250.22,
+                            132.57,
+                            631.52,
+                            193.96
+                        ]
+                    ],
+                    "text_description": "넣어야 하는 보리의 양을 $\\square \\mathrm{g}$ 이라 하면 \\[ \\text { (} 5: 3=\\square: 150, 5: 3=150: \\square \\text {)입니다. } \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            163.22,
+                            51.57,
+                            735.52,
+                            110.96
+                        ]
+                    ],
+                    "text_description": "보리와 쌀을 $5: 3$ 로 섞어서 보리밥을 지으려고 합니다. 쌀을 150 g 넣으면 보리는 몇 g 넣어야 하는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.58,
+                            207.21,
+                            169.79,
+                            234.65
+                        ]
+                    ],
+                    "text_description": "$5: 3=\\square: 150$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.52,
+                            247.9,
+                            413.9,
+                            277.23
+                        ]
+                    ],
+                    "text_description": "(보리의 양):(쌀의 양) $\\Rightarrow 5: 3=\\square: 150$"
+                }
+            ]
+        }
+    ]
+}

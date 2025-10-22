@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "18d6634d-3a90-456a-8bcd-1ada73d3e905",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012432",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.06,
+                            12.59,
+                            411.05,
+                            38.71
+                        ]
+                    ],
+                    "text_description": "풍선 670개를 한 사람에게 3개씩 나"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.3,
+                            45.77,
+                            412.46,
+                            105.06
+                        ]
+                    ],
+                    "text_description": "누어 주려고 합니다. 몇 명에게 나누어 줄 수 있고, 몇 개가 남을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.94,
+                            124,
+                            275.52,
+                            142.7
+                        ]
+                    ],
+                    "text_description": "$223$명"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            340.11,
+                            122.29,
+                            368.93,
+                            143.7
+                        ]
+                    ],
+                    "text_description": "1개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.77,
+                            173.94,
+                            361.64,
+                            193.7
+                        ]
+                    ],
+                    "text_description": "따라서 $223$명에게 나누어 줄 수 있고, $1$개가 남습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.77,
+                            153.47,
+                            145.65,
+                            172.52
+                        ]
+                    ],
+                    "text_description": "$670 \\div 3=223 \\cdots 1$"
+                }
+            ]
+        }
+    ]
+}

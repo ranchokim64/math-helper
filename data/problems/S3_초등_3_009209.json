@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d8206770-6a9d-4c0b-8641-3c723dfce0ce",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009209",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.83,
+                            5.09,
+                            313.31,
+                            28.08
+                        ]
+                    ],
+                    "text_description": "알맞은 단위를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.28,
+                            34.84,
+                            598.66,
+                            144.34
+                        ]
+                    ],
+                    "text_description": "한라산의 높이는 약 $2(\\mathrm{~km}, \\mathrm{~m}, \\mathrm{~cm})$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.25,
+                            162.33,
+                            72.97,
+                            181.51
+                        ]
+                    ],
+                    "text_description": "$km$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.21,
+                            196.01,
+                            524.73,
+                            219.96
+                        ]
+                    ],
+                    "text_description": "한라산의 높이는 약 $1947m$로 약 $2000 \\mathrm{~m}=2 \\mathrm{~km}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

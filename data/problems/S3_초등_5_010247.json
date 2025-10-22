@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4a9854dc-b5bb-4af1-82ee-d78a1075426b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010247",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.81,
+                            0.99,
+                            670.41,
+                            81.6
+                        ]
+                    ],
+                    "text_description": "흰색 바둑돌 2 개, 검은색 바둑돌 2 개가 들어 있는 상자에서 바둑돌 1 개를 꺼낼 때 꺼낸 바둑돌이 흰색이 아닐 가능성을 말과 수로 표현하려고 합니다. 알맞은 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.03,
+                            185.36,
+                            387.09,
+                            214.32
+                        ]
+                    ],
+                    "text_description": "말 (불가능하다, 반반이다, 확실하다)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.51,
+                            290.24,
+                            666.5,
+                            383.37
+                        ]
+                    ],
+                    "text_description": "꺼낸 바둑돌이 흰색이 아닐 가능성은 꺼낸 바둑돌이 검은색일 가능성과 같습니다. 따라서 꺼낸 바둑돌이 흰색이 아닐 가능성는 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$ 입니 다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.38,
+                            238.58,
+                            140.56,
+                            281.63
+                        ]
+                    ],
+                    "text_description": "반반이다, $\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            300.0,
+                            89.0,
+                            391.0,
+                            174.0
+                        ]
+                    ],
+                    "text_description": "흰색 바둑돌 2개,검은색 바둑돌 2개가 들어 있는 상자"
+                }
+            ]
+        }
+    ]
+}

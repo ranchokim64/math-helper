@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "36902bb9-d6d3-4064-b05b-731173a6ff54",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002829",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            19.92,
+                            601.5,
+                            47.92
+                        ]
+                    ],
+                    "text_description": "그림을 보고 전체에 대한 색칠한 부분의 비율을 백분율로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            55.5,
+                            216.5,
+                            318.5
+                        ]
+                    ],
+                    "text_description": "가로세로 10개칸인 모눈종이 안에 가로세로 6칸이 색칠되어있다. 색칠된 부분은 정사각형으로 보인다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            582.5,
+                            141.5,
+                            625.5
+                        ]
+                    ],
+                    "text_description": "36 %"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.5,
+                            321.5,
+                            615.5,
+                            371.5
+                        ]
+                    ],
+                    "text_description": "전체에 대한 색칠한 부분의 비율이 $\\frac{36}{100}$ 이므로 $\\frac{36}{100} \\times 100=36(\\%)$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.5,
+                            375.5,
+                            202.5,
+                            577.5
+                        ]
+                    ],
+                    "text_description": "가로세로 10개칸인 모눈종이 안에 가로세로 6칸이 색칠되어있다. 색칠된 부분은 정사각형으로 보인다."
+                }
+            ]
+        }
+    ]
+}

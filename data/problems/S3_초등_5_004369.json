@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9dc30c73-77ab-4f67-bc37-f17493f176d2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004369",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.98,
+                            48.58,
+                            364.7,
+                            113.22
+                        ]
+                    ],
+                    "text_description": "두 분수를 통분하려고 합니다. 공통분모가 될 수 있는 수 중에서 100보다 작은 수를 모두 찾아 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.02,
+                            123.9,
+                            306.46,
+                            180.42
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{9} \\quad \\frac{7}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            251.42,
+                            188.48,
+                            301.98,
+                            212.16
+                        ]
+                    ],
+                    "text_description": "$36, 72$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.78,
+                            10.56,
+                            364.7,
+                            42.56
+                        ]
+                    ],
+                    "text_description": "9와 12의 공배수는 36, 72, 108 …이므로 공동분모가 될 수 있는 수 중에서 100보다 직은 수는 36, 72입니다."
+                }
+            ]
+        }
+    ]
+}

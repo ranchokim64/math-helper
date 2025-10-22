@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6b0eb2b6-cf39-4dbe-8a65-aa9ac731a0b9",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005274",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127,
+                            11.92,
+                            734,
+                            96.92
+                        ]
+                    ],
+                    "text_description": "비례식 $2: 3=6: 9$에 대한 설명으로 옳은 것을 찾아 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            267,
+                            142.5,
+                            527,
+                            260.5
+                        ]
+                    ],
+                    "text_description": "㉠ 전항은 $2$, $3$ 입니다. ㉡ 후항은 $3$, $9$ 입니다. ㉢ 외항은 $2$, $6$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            563,
+                            313.4,
+                            593,
+                            342.4
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            156,
+                            347.5,
+                            284,
+                            467.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { 후항 } \\\\ 2: 3=6: 9 \\\\ \\text { 전항 }\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            347.0,
+                            347.5,
+                            475.0,
+                            471.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { 외항 } \\\\ 2: 3=6: 9 \\\\ \\underset{i}{\\text { 내항 }}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

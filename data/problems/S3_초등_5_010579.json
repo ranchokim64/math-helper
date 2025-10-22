@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c8d05f7-18ef-4782-b8f8-9f358bb15445",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010579",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            3.92,
+                            505,
+                            25.92
+                        ]
+                    ],
+                    "text_description": "계산 순서를 바르게 나타낸 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            246,
+                            38.92,
+                            578,
+                            175.92
+                        ]
+                    ],
+                    "text_description": "29-7x3+14 (7x3은①) (29-①은 ②) (②+14는③) 9+4x6-30 (9+4는①) (①x6은②) (②-30은③)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            195.5,
+                            180,
+                            324.5
+                        ]
+                    ],
+                    "text_description": "29-7x3+14 (7x3은①) (29-①은 ②) (②+14는③)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.28,
+                            340.27,
+                            800.28,
+                            390.27
+                        ]
+                    ],
+                    "text_description": "덧셈, 뺄셈, 곱셈이 섞여 있는 식은 곱셈을 먼저 계산한 다음 덧셈과 뺄셈을 앞에서부터 차례로 계산합니다."
+                }
+            ]
+        }
+    ]
+}

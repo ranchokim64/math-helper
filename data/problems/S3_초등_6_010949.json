@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "07338ce1-2104-4257-a087-b2f21a65dcc9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010949",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.27,
+                            7.35,
+                            740.74,
+                            33.48
+                        ]
+                    ],
+                    "text_description": "<보기>와 같이 컵을 놓았을 때 찍을 수 없는 사진을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.33,
+                            35.35,
+                            311.44,
+                            267.73
+                        ]
+                    ],
+                    "text_description": "위에서 본 모습입니다. 노란색컵과 양쪽 손잡이 컵 녹색, 아래로 향하는 손잡이 컵."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            529.82,
+                            147.88,
+                            688.41,
+                            247.73
+                        ]
+                    ],
+                    "text_description": "라 파란색 작은 컵, 양손 초록색 컵, 주황색 컵"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.34,
+                            310.26,
+                            237.72,
+                            516.51
+                        ]
+                    ],
+                    "text_description": "위에서 본 모습입니다. 노란색컵과 양쪽 손잡이 컵 녹색, 아래로 향하는 손잡이 컵."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            346.91,
+                            34.02,
+                            501.83,
+                            246.8
+                        ]
+                    ],
+                    "text_description": "가: 주황색 컵 양손 초록색 양손 컵, 다: 초록색 왼쪽 손잡이컵"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            527.96,
+                            34.95,
+                            689.41,
+                            132.01
+                        ]
+                    ],
+                    "text_description": "나 왼쪽을 향하는 파란색컵 중에 주황색 컵 녹색 나를 가키는 컵"
+                }
+            ]
+        }
+    ]
+}

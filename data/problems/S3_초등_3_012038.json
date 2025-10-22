@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7b73bf1d-691b-43ee-a740-27bc6929ada3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012038",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.120000000000001,
+                            41.69,
+                            290.76,
+                            281.61
+                        ]
+                    ],
+                    "text_description": "오른쪽 그림에서 도형을 똑같이 둘로 나눌 수 없는 점선을 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315.92,
+                            42.94,
+                            520.52,
+                            247.5
+                        ]
+                    ],
+                    "text_description": "육각형에 점직선들이 등분하고 있다. ㉠ 점직선 ㉡ 점직선 ㉢ 점직선 ㉣ 점직선"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            393.88,
+                            309.38,
+                            422.6,
+                            337.74
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.88,
+                            345.42,
+                            514.76,
+                            398.54
+                        ]
+                    ],
+                    "text_description": "㉠, ㉢, ㉣로 나누면 똑같이 둘로 나누어지고 ㉡으로 나누면 나누어진 부분의 크기와 모양이 다릅니다."
+                }
+            ]
+        }
+    ]
+}

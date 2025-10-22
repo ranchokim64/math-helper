@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "956d8437-9a66-4907-ae9e-b1cc396e3859",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004588",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.77,
+                            42.73,
+                            717.77,
+                            187.73
+                        ]
+                    ],
+                    "text_description": "윤채의 사물함 비밀번호를 올림하여 백의 자리까지 나타내면 2300입니다. 사물함 비밀번호를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            209.76999999999998,
+                            203.27,
+                            596.77,
+                            512.27
+                        ]
+                    ],
+                    "text_description": "윤채: 사물함의 비밀번호는 $\\square \\square 56$이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            515.77,
+                            536.27,
+                            598.77,
+                            572.27
+                        ]
+                    ],
+                    "text_description": "$2256$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.77,
+                            583.27,
+                            715.77,
+                            678.27
+                        ]
+                    ],
+                    "text_description": "$\\square \\square 56$을 올림하여 백의 자리까지 나타낸 수가 2300이라고 했으므로 올림하기 전의 수는 $22 \\square \\square$입니다. 따라서 사물함 비밀번호는 2256입니다."
+                }
+            ]
+        }
+    ]
+}

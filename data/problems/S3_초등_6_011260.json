@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77b9ee0d-d3c4-4602-a84f-ef90e372d384",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011260",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            5.42,
+                            763,
+                            31.42
+                        ]
+                    ],
+                    "text_description": "반지름이 7cm 인 원의 원주와 가장 비슷한 길이를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            206,
+                            74.42,
+                            686,
+                            139.42
+                        ]
+                    ],
+                    "text_description": "$14 \\mathrm{~cm}, 28 \\mathrm{~cm}, 42 \\mathrm{~cm}$가 적힌 상자가 왼쪽부터 차례로 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            152,
+                            108,
+                            174
+                        ]
+                    ],
+                    "text_description": "42cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            193,
+                            473,
+                            216
+                        ]
+                    ],
+                    "text_description": "반지름이 $7cm$인 원의 지름은 $14cm$입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            225,
+                            861,
+                            282
+                        ]
+                    ],
+                    "text_description": "원주는 원의 지름의 $3$배인 $42cm$보다 길고, 원의 지름의 $4$배인 $56cm$보다 짧으므로 원주와 가장 비슷한 길이는 $42cm$ 입니다."
+                }
+            ]
+        }
+    ]
+}

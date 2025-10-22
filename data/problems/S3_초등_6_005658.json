@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e5009cd5-974d-442e-9a66-ee922c70805d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005658",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            16.4,
+                            516.5,
+                            81.4
+                        ]
+                    ],
+                    "text_description": "<div>보기와 같이 소수를 소수 첫째 자리에서 반올림</div> <div>하여 어림한 식으로 나타내어 보세요. </div>"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            95.4,
+                            518.5,
+                            181.4
+                        ]
+                    ],
+                    "text_description": "<div><span class=\"math-inline \"> $5. 82 \\div 6 \\rightarrow 6 \\div 6$</span></div>"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            188.4,
+                            133.5,
+                            219.4
+                        ]
+                    ],
+                    "text_description": "<div>① <span class=\"math-inline \"> $34. 6 \\div 5$</span></div>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            279.4,
+                            78.5,
+                            310.4
+                        ]
+                    ],
+                    "text_description": "<div><span class=\"math-inline \"> $35 \\div 5$</span></div>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.5,
+                            233.4,
+                            509.5,
+                            260.4
+                        ]
+                    ],
+                    "text_description": "<div>반올림하는 자리의 수가 0~4이면 버리고 5~9이면 올립니다. </div>"
+                }
+            ]
+        }
+    ]
+}

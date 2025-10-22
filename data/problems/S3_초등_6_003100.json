@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f6586380-c1ee-456a-beff-f55961487eb8",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003100",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.07,
+                            10.4,
+                            294.47,
+                            47.2
+                        ]
+                    ],
+                    "text_description": "빈칸에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            245.67,
+                            65.6,
+                            564.07,
+                            324.8
+                        ]
+                    ],
+                    "text_description": "이 이미지는 분수가 있는 격자 모양의 배열입니다. 격자에는 두 개의 행과 네 개의 열이 있으며, 각 칸에는 분수 형태의 숫자가 들어 있습니다. 위쪽 두 칸에는 각각 \\(\\frac{2}{9} \\)와 \\(\\frac{2}{7} \\)이 있고, 아래쪽 두 칸에는 \\(\\frac{1}{2} \\)와 \\(\\frac{4}{5} \\)가 있습니다. 각 행과 열의 끝에는 나누기 기호가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.27,
+                            486.91,
+                            258.47,
+                            697.31
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{9} \\div \\frac{2}{7}=\\frac{7}{9}$ $\\frac{1}{2} \\div \\frac{4}{5}=\\frac{5}{8}$ $\\frac{2}{9} \\div \\frac{1}{2}=\\frac{4}{9}$ $\\frac{2}{7} \\div \\frac{4}{5}=\\frac{5}{14}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.27,
+                            348.91,
+                            441.67,
+                            471.11
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\frac{2}{9} \\div \\frac{2}{7}=\\frac{22}{9} \\times \\frac{7}{2}=\\frac{7}{9}, \\frac{1}{2} \\div \\frac{4}{5}=\\frac{1}{2} \\times \\frac{5}{4}=\\frac{5}{8} \\\\ \\frac{2}{9} \\div \\frac{1}{2}=\\frac{2}{9} \\times 2=\\frac{4}{9}, \\frac{2}{7} \\div \\frac{4}{5}=\\frac{2}{7} \\times \\frac{5}{4}=\\frac{5}{14}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

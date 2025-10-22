@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "49861ed2-c961-4800-8569-acd5e36f82be",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004728",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.67,
+                            1.92,
+                            174.76,
+                            36.84
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.230000000000004,
+                            49.68,
+                            152.25,
+                            80.32
+                        ]
+                    ],
+                    "text_description": "$5 \\times 0. 72$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.8700000000000001,
+                            215.62,
+                            43.69,
+                            243.44
+                        ]
+                    ],
+                    "text_description": "$3. 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -1.15,
+                            89.34,
+                            529.14,
+                            202.9
+                        ]
+                    ],
+                    "text_description": "2) $5 \\times 0. 72=5 \\times \\frac{72}{100}=\\frac{360}{100}=3. 6 \\rightarrow$ 소수점 아래 마지막 0은 생략하여 나타낼 수 있으므로 3. 60은 3. 6으로 나타냅니다."
+                }
+            ]
+        }
+    ]
+}

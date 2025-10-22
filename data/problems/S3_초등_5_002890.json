@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6756d756-d6e1-4e89-8deb-a4ef9b72355f",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002890",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-02] 합동인 두 도형에서 대응점, 대응변, 대응각을 각각 찾고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.8,
+                            12.37,
+                            648,
+                            68.37
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ과 삼각형 ㄹㅁㄷ은 서로 합동입니다. 삼각형 ㄱㄴㄷ의 넓이는 몇 $\\mathrm{cm}^{2}$ 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176,
+                            83.2,
+                            485.6,
+                            296.8
+                        ]
+                    ],
+                    "text_description": "서로 합동인 삼각형 ㄱㄴㄷ과 삼각형 ㄹㅁㄷ 선분 ㄴㄷ의 길이는 10, 선분 ㄱㄴ의 길이는 13cm, 선분 ㄷㄹ의 길이는 7cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            616,
+                            304.8,
+                            646.6,
+                            332.4
+                        ]
+                    ],
+                    "text_description": "$35$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.6,
+                            324.8,
+                            503.88,
+                            351.68
+                        ]
+                    ],
+                    "text_description": "변 ㄱㄷㅇㅢ 대응변은 변 ㄹㄷ이므로 변 ㄱㄷㅇㅢ 길이는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.24,
+                            352.24,
+                            718.2,
+                            381.76
+                        ]
+                    ],
+                    "text_description": "7cm 입니다. 따라서 삼각형 ㄱㄴ ㄷㅇㅢ 넓이는 $10 \\times 7 \\div 2=35\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

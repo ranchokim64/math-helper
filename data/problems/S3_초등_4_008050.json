@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3d6f3ece-1bb7-433a-85e5-f101dc54beba",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008050",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.5,
+                            6.14,
+                            544.1,
+                            35.74
+                        ]
+                    ],
+                    "text_description": "가장 많이 벌어진 컴퍼스를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            159.3,
+                            44.54,
+                            308.3,
+                            219.74
+                        ]
+                    ],
+                    "text_description": "컴퍼스가 예각이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            397.3,
+                            62.6,
+                            567.3,
+                            198.6
+                        ]
+                    ],
+                    "text_description": "컴퍼스가 직각이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            653.5,
+                            81.6,
+                            819.3,
+                            174.6
+                        ]
+                    ],
+                    "text_description": "컴퍼스가 예각이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.3,
+                            223.8,
+                            191.1,
+                            327.4
+                        ]
+                    ],
+                    "text_description": "컴퍼스가 직각이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.7,
+                            340.2,
+                            636.1,
+                            366.6
+                        ]
+                    ],
+                    "text_description": "각의 두 변이 많이 벌어질수록 각의 크기가 더 큽니다."
+                }
+            ]
+        }
+    ]
+}

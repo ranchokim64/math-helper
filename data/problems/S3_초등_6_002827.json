@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e95e4fd9-de50-4317-9749-b3549c5796e0",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002827",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.27,
+                            7.74,
+                            565.27,
+                            34.74
+                        ]
+                    ],
+                    "text_description": "수소를 연료로 하는 두 자동차가 있습니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.27,
+                            341.28,
+                            611.27,
+                            369.28
+                        ]
+                    ],
+                    "text_description": "두 자동차의 연료의 양에 대한 주행 거리의 비율을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.27,
+                            59.28,
+                            738.27,
+                            314.28
+                        ]
+                    ],
+                    "text_description": "가 자동차: 수소 연료 $5kg$으로 $460km$를 갈 수 있어. 나 자동차: 수소 연료 $4kg$으로 $380km$를 갈 수 있어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.27,
+                            483.28,
+                            443.27,
+                            512.28
+                        ]
+                    ],
+                    "text_description": "가 $\\left(\\begin{array}{ll}92\\end{array}\\right)$, 나 $\\left(\\begin{array}{ll}95\\end{array}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.27,
+                            414.28,
+                            447.27,
+                            462.28
+                        ]
+                    ],
+                    "text_description": "가 자동차: $\\frac{460}{5}=92$, 나 자동차: $\\frac{380}{4}=95$"
+                }
+            ]
+        }
+    ]
+}

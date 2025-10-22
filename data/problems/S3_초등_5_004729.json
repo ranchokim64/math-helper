@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c9f1fb58-a27f-4379-86e5-1f7f10c5fd31",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004729",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.6,
+                            11.43,
+                            455,
+                            69.03
+                        ]
+                    ],
+                    "text_description": "지구에서 잰 몸무게는 달에서 잰 몸무게의 6배입니다. 지구에서의 몸무게는 몇 kg 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.8,
+                            80.03,
+                            441.6,
+                            295.43
+                        ]
+                    ],
+                    "text_description": "진호: 달에서 내 몸무게를 재면 8.3kg 일 거야. 지영: 그럼 지구에서의 너의 몸무게는 몇 kg이니?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.4,
+                            371.1,
+                            145.4,
+                            393.5
+                        ]
+                    ],
+                    "text_description": "49.8kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            316.7,
+                            285.4,
+                            358.1
+                        ]
+                    ],
+                    "text_description": "$6 \\times 8. 3=6 \\times \\frac{83}{10}=\\frac{498}{10}=49. 8(\\mathrm{~kg})$"
+                }
+            ]
+        }
+    ]
+}

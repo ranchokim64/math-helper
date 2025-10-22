@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5e7bbdcd-2820-4083-92c4-6b2ab12c6d33",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011947",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            17.42,
+                            296.5,
+                            45.42
+                        ]
+                    ],
+                    "text_description": "직사각형을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            64.42,
+                            173.5,
+                            144.42
+                        ]
+                    ],
+                    "text_description": "① 직사각형이고 네 각이 표시되어있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            228.5,
+                            162,
+                            371.5,
+                            237
+                        ]
+                    ],
+                    "text_description": "④ 정사각형이고 네 각이 표시되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            229.5,
+                            70,
+                            391.5,
+                            141
+                        ]
+                    ],
+                    "text_description": "② 평행사변형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            158,
+                            176.5,
+                            331
+                        ]
+                    ],
+                    "text_description": "③ 사다리꼴이며 아래 두 각은 직각이다. ⑤ 마름모 모양이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.0,
+                            334.0,
+                            308.0,
+                            358.0
+                        ]
+                    ],
+                    "text_description": "네 각이 모두 직각인 사각형을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

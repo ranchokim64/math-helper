@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8377cf06-f222-4903-9389-b4bfa689a857",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011908",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.13,
+                            3.01,
+                            369.88,
+                            39.26
+                        ]
+                    ],
+                    "text_description": "시계의 시각을 읽어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            236.13,
+                            60.26,
+                            408.63,
+                            233.01
+                        ]
+                    ],
+                    "text_description": "특정 시간을 나타내는 시계 이미지이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            384.88,
+                            242.5,
+                            543.63,
+                            275
+                        ]
+                    ],
+                    "text_description": "1시 48분 29초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.88,
+                            276.25,
+                            509.88,
+                            365
+                        ]
+                    ],
+                    "text_description": "짧은바늘 : 숫자 1과 2사이 $\\rightarrow$ 1시 긴바늘 : 숫자 9와 작은 눈금 3칸과 4칸 사이 $\\rightarrow 48$ 분 초바늘 : 숫자 5와 작은 눈금 4칸 $\\rightarrow 29$초"
+                }
+            ]
+        }
+    ]
+}

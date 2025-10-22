@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9b42c7c2-b022-491b-bb4b-b9f3ec3482c9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010156",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.75,
+                            1.95,
+                            662.5,
+                            52.2
+                        ]
+                    ],
+                    "text_description": "경애가 $\\bigcirc$$\\times$ 문제를 풀고 있습니다. 경애가 $\\times$라고 답했을 때 정답을 맞혔을 가능성을 말과 수로 표현하려고 합니다. 알맞은 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            146.88,
+                            384.25,
+                            175.63
+                        ]
+                    ],
+                    "text_description": "말 (불가능하다, 반반이다, 확실하다)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            457.75,
+                            137.38,
+                            595.75,
+                            184.63
+                        ]
+                    ],
+                    "text_description": "수 $\\left(0, \\frac{1}{2}, 1\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            288.0,
+                            58.0,
+                            401.0,
+                            134.0
+                        ]
+                    ],
+                    "text_description": "ox라고 써져있는 두개의 판넬"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            245.38,
+                            664.75,
+                            317.38
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$$\\times$ 문제에서 정답은 $\\bigcirc$ 또는 $\\times$ 이므로 $\\times$라고 답했을 때 정답을 맞혔을 가능성은 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.75,
+                            194.38,
+                            134.5,
+                            240.88
+                        ]
+                    ],
+                    "text_description": "반반이다, $\\frac{1}{2}$"
+                }
+            ]
+        }
+    ]
+}

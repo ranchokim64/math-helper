@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ee1e1819-ea6d-45c1-8a9d-f77690e3a25c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012198",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            3.91,
+                            397,
+                            108.91
+                        ]
+                    ],
+                    "text_description": "5 8 현진이네 반 학급 문고에 있는 책 수를 조사하여 표로 나타내었습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            237.5,
+                            403,
+                            303.5
+                        ]
+                    ],
+                    "text_description": "학급 문고에 있는 동화책은 과학책보다 몇 권이 더 많은가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            121.91,
+                            398,
+                            226.91
+                        ]
+                    ],
+                    "text_description": "학급 문고에 있는 책 수 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 종류 & 동화책 & 위인전 과학책 & 역사책 & 합계 \\\\ \\hline 책 수(권) & 25 & 12 & 13 & 10 & 60 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.0,
+                            312.5,
+                            340.0,
+                            342.5
+                        ]
+                    ],
+                    "text_description": "12권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.0,
+                            344.5,
+                            187.0,
+                            369.5
+                        ]
+                    ],
+                    "text_description": "25-13=12(권)"
+                }
+            ]
+        }
+    ]
+}

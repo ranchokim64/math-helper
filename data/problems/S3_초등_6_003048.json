@@ -1,0 +1,111 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5f51e71c-164a-4953-bfed-f2adb2b28de1",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003048",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.26,
+                            10.23,
+                            390.26,
+                            41.23
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 작은 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.26,
+                            74.77,
+                            623.26,
+                            102.77
+                        ]
+                    ],
+                    "text_description": "㉠ $44.02 \\div 7.1$\n㉡ $39.65 \\div 6.5$\n㉢ $32.64 \\div 5.1$\n㉣ $28.38 \\div 4.3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.26,
+                            245.77,
+                            114.26,
+                            267.77
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            50,
+                            132
+                        ],
+                        [
+                            43,
+                            226
+                        ],
+                        [
+                            217,
+                            231
+                        ],
+                        [
+                            215,
+                            135
+                        ]
+                    ],
+                    "text_description": "㉠ $44.02 \\div 7.1=6.2$\n㉡ $39.65 \\div 6.5=6.1$\n㉢ $32.64 \\div 5.1=6.4$\n㉣ $28.38 \\div 4.3=6.6$"
+                }
+            ]
+        }
+    ]
+}

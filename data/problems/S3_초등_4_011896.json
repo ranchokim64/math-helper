@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c27b1b1f-4f7d-41d4-af7b-16505edd42e5",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011896",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            1.92,
+                            304.5,
+                            22.92
+                        ]
+                    ],
+                    "text_description": "정오각형에서 각 ㉠의 크기를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            154.99,
+                            39.65
+                        ],
+                        [
+                            100.93,
+                            78.64
+                        ],
+                        [
+                            123.54,
+                            142.21
+                        ],
+                        [
+                            250.35,
+                            142.21
+                        ],
+                        [
+                            250.68,
+                            134.35
+                        ],
+                        [
+                            224.13,
+                            133.69
+                        ],
+                        [
+                            224.46,
+                            116.33
+                        ],
+                        [
+                            197.26,
+                            114.69
+                        ],
+                        [
+                            209.06,
+                            78.97
+                        ]
+                    ],
+                    "text_description": "정오각형 내부에 각 ㉠이 있으며, 밑변 외각으로 $72^{\\circ}$가 표시되어 있다. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            413.5,
+                            121.92,
+                            447.5,
+                            138.92
+                        ]
+                    ],
+                    "text_description": "$108^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            229.5,
+                            52.5,
+                            524.5,
+                            108.5
+                        ]
+                    ],
+                    "text_description": "정오각형의 한 각의 크기는 $180^{*}-72^{*}=108^{\\circ}$ 입니다. 정오각영은 모든 각의 크기가 같으므로 각 ㉠의 크기는 $108^{\\circ}$입니다."
+                }
+            ]
+        }
+    ]
+}

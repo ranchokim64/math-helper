@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b5b9ae6c-b0e5-428a-9977-1d0f7f4ef325",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010168",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.1,
+                            7.2,
+                            563.82,
+                            28.5
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.09,
+                            49.54,
+                            580.86,
+                            73.36
+                        ]
+                    ],
+                    "text_description": "주사위를 한 번 굴릴 때, 주사위 눈의 수가 6 이하일 가능성"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            174.5,
+                            104.9,
+                            504.5,
+                            264.9
+                        ]
+                    ],
+                    "text_description": "두 개의 수직선이 각각 0과 1 사이를 나타냄. 각 선의 중간에 1/2 지점 표시. 위 수직선에는 1에 화살표, 아래 수직선에는 0에 화살표가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            274.18,
+                            298.18,
+                            331.14
+                        ]
+                    ],
+                    "text_description": "양 끝에 $0$과 $1$이 있는 수평선이 있다. $1$ 위에 $\\downarrow$가 표시되어 있고. 수평선 중앙에 표시된 선이 있는데 $\\frac{1}{2}$이 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.78,
+                            393.94,
+                            657.86,
+                            437.38
+                        ]
+                    ],
+                    "text_description": "주사위들 한 번 굴릴 때 나오는 주사위 눈의 수는 항상 6 이하이므로 말로 표현하면 '확실하다’, 수로 표현하면 1 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            335.9,
+                            297.5,
+                            392.9
+                        ]
+                    ],
+                    "text_description": "양 끝에 $0$과 $1$이 있는 수평선이 있다. $1$ 위에 $\\downarrow$가 표시되어 있고. 수평선 중앙에 표시된 선이 있는데 $\\frac{1}{2}$이 적혀있다."
+                }
+            ]
+        }
+    ]
+}

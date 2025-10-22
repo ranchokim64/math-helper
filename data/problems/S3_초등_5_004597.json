@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4d81ac77-dbda-4386-b85e-bffd49b363f8",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004597",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.22,
+                            27.49,
+                            679.62,
+                            164.69
+                        ]
+                    ],
+                    "text_description": "수직선에 나타낸 수의 범위에 속하는 자연수 중에서 $5$로 나누어떨어지는 수는 모두 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.42,
+                            184.72,
+                            664.22,
+                            246.92000000000002
+                        ]
+                    ],
+                    "text_description": "수직선으로 나타낸 $10$~$90$까지의 수의 범위입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            499.82,
+                            274.12,
+                            546.22,
+                            304.32
+                        ]
+                    ],
+                    "text_description": "$6$개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.32,
+                            323.9,
+                            677.32,
+                            352.26
+                        ]
+                    ],
+                    "text_description": "수의 범위가 $30$ 이상 $60$ 미만이므로 $5$로 나누어떨어지는 수"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            189,
+                            353.54,
+                            646.6,
+                            382.34
+                        ]
+                    ],
+                    "text_description": "는 $30, 35, 40, 45, 50, 55$로 모두 $6$개입니다."
+                }
+            ]
+        }
+    ]
+}

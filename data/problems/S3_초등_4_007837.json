@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5e93d493-a872-490a-ae3d-7bc0ff1f2e28",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007837",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            5.42,
+                            847.5,
+                            62.42
+                        ]
+                    ],
+                    "text_description": "48. 세종이가 감기에 걸린 동안 매일 낮 12 시에 잰 체온을 꺾은선그래프로 나타냈습 니다. 금요일 오후 8 시에 세종이의 체온은 몇 ${ }^{\\circ} \\mathrm{C}$ 였을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            252.5,
+                            70.16,
+                            848.5,
+                            403.16
+                        ]
+                    ],
+                    "text_description": "이 이미지는 세종이의 주간 체온 변화를 나타내는 그래프입니다. 그래프의 세로축은 체온(°C)을 나타내고, 가로축은 요일을 나타냅니다. 체온은 주중에 변화하며, 최고 체온은 약 38. 5°C로 보입니다. \\[ \\left(37. 6^{\\circ} \\mathrm{C}, 37. 8^{\\circ} \\mathrm{C}, 38. 0^{\\circ} \\mathrm{C}, 38. 2^{\\circ} \\mathrm{C}\\right) \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            420,
+                            124.5,
+                            444
+                        ]
+                    ],
+                    "text_description": "$38. 0^{\\circ} \\mathrm{C}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            459,
+                            846.5,
+                            515
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (해설)금요일 낮 } 12 \\text { 시 체온 } 38. 2^{\\circ} \\mathrm{C} \\text { 이고 토요일 낮 } 12 \\text { 시 체온 } 37. 6^{\\circ} \\mathrm{C} \\text { 이므로 금요일 오후 } \\\\ 8 \\text { 시에 세종이의 체온은 } 38. 0^{\\circ} \\mathrm{C} \\text { 였을 것입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

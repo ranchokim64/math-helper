@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e06c8148-2161-4f7c-a48d-b5ec02dc3cdd",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002985",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            7.4,
+                            243.5,
+                            35.4
+                        ]
+                    ],
+                    "text_description": "조건에 맞는 수를 모두 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.5,
+                            81.4,
+                            378.5,
+                            135.4
+                        ]
+                    ],
+                    "text_description": "- 분모가 8 인 진분수입니다. - 기약분수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.5,
+                            241.4,
+                            211.5,
+                            288.4
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{8}, \\frac{3}{8}, \\frac{5}{8}, \\frac{7}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            160.4,
+                            405.5,
+                            240.4
+                        ]
+                    ],
+                    "text_description": "분모가 8 인 진분수는 $\\frac{1}{8}, \\frac{2}{8}, \\frac{3}{8}, \\frac{4}{8}, \\frac{5}{8}, \\frac{6}{8}, \\frac{7}{8}$ 이고이 중에서 기약분수는 $\\frac{1}{8}, \\frac{3}{8}, \\frac{5}{8}, \\frac{7}{8}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

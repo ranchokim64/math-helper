@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4bb9c7e7-d67b-46d6-9124-9a30a94cf1e6",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013490",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97.5,
+                            12.44,
+                            672.5,
+                            54.44
+                        ]
+                    ],
+                    "text_description": "다음 중 계산이 틀린 것은 어느 것입니끼?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97.5,
+                            137,
+                            421.5,
+                            179
+                        ]
+                    ],
+                    "text_description": "① $545+476=1011$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.5,
+                            187,
+                            438.5,
+                            375
+                        ]
+                    ],
+                    "text_description": "② $447+669=1116$ ③ $404+597=1001$ ④ $376+778=1154$ ⑤ $315+908=1223$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.5,
+                            440,
+                            419.5,
+                            488
+                        ]
+                    ],
+                    "text_description": "① $545+476=1021$"
+                }
+            ]
+        }
+    ]
+}

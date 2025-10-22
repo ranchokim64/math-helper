@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cc4f6e28-e345-477a-9f27-f77df4aefc08",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004259",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.8,
+                            6.03,
+                            531.2,
+                            70.83
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 차례대로 () 안에 번호를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.8,
+                            80.43,
+                            341.6,
+                            278.83
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{c} $64 \\times 2 \\div 8$ \\\\ \\hline $64 \\div(2 \\times 8)$ \\\\ \\hline $64 \\div 2 \\times 8$ \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            459.2,
+                            96.9,
+                            478.2,
+                            264.7
+                        ]
+                    ],
+                    "text_description": "2 3 1"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88,
+                            285.7,
+                            284.8,
+                            360.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}64 \\times 2 \\div 8=128 \\div 8=16 \\\\ 64 \\div(2 \\times 8)=64 \\div 16=4 \\\\ 64 \\div 2 \\times 8=32 \\times 8=256\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

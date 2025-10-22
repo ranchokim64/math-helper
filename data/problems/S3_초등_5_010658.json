@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "81f62826-9cb4-407a-b4d0-17f5848930d7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010658",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.5,
+                            11.4,
+                            484.5,
+                            37.4
+                        ]
+                    ],
+                    "text_description": "20의 약수를 모두 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            242.5,
+                            78.4,
+                            731.5,
+                            169.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{}1 & 2 & 3 & 4 & 5 & 6 \\\\ 8 & 10 & 12 & 14 & 15 & 20\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            213.4,
+                            229.5,
+                            241.4
+                        ]
+                    ],
+                    "text_description": "$1, 2, 4, 5, 10, 20$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.5,
+                            297.4,
+                            351.5,
+                            325.4
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow 20$의 약수: $1, 2, 4, 5, 10, 20$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            261.4,
+                            837.5,
+                            289.4
+                        ]
+                    ],
+                    "text_description": "$20 \\div 1=20, 20 \\div 2=10, 20 \\div 4=5, 20 \\div 5=4, 20 \\div 10=2, 20 \\div 20=1$"
+                }
+            ]
+        }
+    ]
+}

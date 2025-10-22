@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "56ca9adc-c015-43ea-b574-433b18d3322e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010092",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.65,
+                            5.61,
+                            661.65,
+                            78.85
+                        ]
+                    ],
+                    "text_description": "상자 안에 빨간색 공이 $5$개, 파란색 공이 $3$개, 노란색 공이 $2$개 들어 있습니다. 이 상자에서 공 $1$개를 꺼낼 때 꺼낸 공이 빨간색일 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.02,
+                            88.73,
+                            507.51,
+                            237.5
+                        ]
+                    ],
+                    "text_description": "0, $\\frac{1}{2}$, 1이 수직선 위에 표시 되어 있고 1과 $\\frac{1}{2}$에 $\\downarrow$가 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.5,
+                            249.5,
+                            302.5,
+                            306.5
+                        ]
+                    ],
+                    "text_description": "0, $\\frac{1}{2}$, 1이 수직선 위에 표시 되어 있고 $\\frac{1}{2}$ 위에 $\\downarrow$가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.25,
+                            370.16,
+                            661.72,
+                            460.74
+                        ]
+                    ],
+                    "text_description": "상자 안에는 모두 $5+3+2=10$개의 공이 있습니다. 이 중 빨간색은 $5$개이므로이 상자에서 공 $1$개들을 꺼낼 때 빨간색일 가능성은 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            312.52,
+                            301.2,
+                            369.28
+                        ]
+                    ],
+                    "text_description": "0, $\\frac{1}{2}$, 1이 수직선 위에 표시 되어 있고 $\\frac{1}{2}$ 위에 $\\downarrow$가 있다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fe75b6f2-d7c1-4038-81e9-940331442fee",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005437",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.27,
+                            23.74,
+                            458.27,
+                            90.74
+                        ]
+                    ],
+                    "text_description": "다음 전개도를 접어서 만들어지는 원기둥의 밑면의 반지름은 몇 cm 인가요? (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            128.27,
+                            105.27,
+                            346.27,
+                            282.27
+                        ]
+                    ],
+                    "text_description": "가로가 50. 24cm이고 세로가 25cm인 사각형과 원이 합쳐진 원기둥의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            314.27,
+                            295.27,
+                            376.27,
+                            328.27
+                        ]
+                    ],
+                    "text_description": "8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.27,
+                            334.27,
+                            358.27,
+                            362.27
+                        ]
+                    ],
+                    "text_description": "$($ 밑면의 반지름) $=50. 24 \\div 3. 14 \\div 2=8(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

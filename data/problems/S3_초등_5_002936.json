@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "19b26834-1dcf-4101-aedf-d43c46e146af",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002936",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            9.42,
+                            770.5,
+                            78.42
+                        ]
+                    ],
+                    "text_description": "태오가 5 일 동안 마신 우유의 양을 나타낸 표입니다. 태오가 5 일 동안 마신 우유의 양의 평균이 380mL 일 때, 목요일에 마신 우유의 양은 몇 mL인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            94,
+                            772.5,
+                            222
+                        ]
+                    ],
+                    "text_description": "요일별 마신 우유의 양 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 요일 & 월 & 화 & 수 & 목 & 금 \\\\ \\hline 우유의 양 $(\\mathrm{mL})$ & 340 & 450 & 420 & & 350 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104.5,
+                            336,
+                            300.5,
+                            367
+                        ]
+                    ],
+                    "text_description": "340mL"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.5,
+                            225,
+                            759.5,
+                            308
+                        ]
+                    ],
+                    "text_description": "태오가 5 일 동안 마신 우유의 양의 평균이 380mL이므로 5 일 동안 마신 우유의 양의 합은 $380 \\times 5=1900(\\mathrm{~mL})$ 입니다. 따라서 태오가 목요일에 마신 우유의 양은 $1900-(340+450+420+350)=340(\\mathrm{~mL})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

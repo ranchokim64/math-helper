@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d8c37b5f-3ed9-4e93-8bd3-554f43c59d06",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005205",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.57,
+                            9.81,
+                            546.84,
+                            86.44
+                        ]
+                    ],
+                    "text_description": "쌓기나무 6개로 쌍은 모양을 위, 옆에서 본 모양 입니다. 앞에서 본 모양을 그려 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.94,
+                            90.26,
+                            139.3,
+                            250.24
+                        ]
+                    ],
+                    "text_description": "위 \\[ \\begin{array}{|l|l|} \\hline 1 & 1 \\\\ \\hline 2 & 2 \\\\ \\hline \\end{array} \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            317.81,
+                            87.73,
+                            448.32,
+                            245.19
+                        ]
+                    ],
+                    "text_description": "3x3표 이다 2행에 1열, 3행에 1, 2열에 있다. 옆에서 본 사진이다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162.03,
+                            89.41,
+                            293.39,
+                            251.93
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|}\n\\hline & \\\\\n\\hline & \\\\\n\\hline & \\\\\n\\hline\n\\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.1,
+                            253.61,
+                            472.74,
+                            300.76
+                        ]
+                    ],
+                    "text_description": "위와 옆에서 본 모양으로 쌓은 쌓기나무 수를 위에서 본 모양에 써넣어 앞에서 본 모양을 그릴 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

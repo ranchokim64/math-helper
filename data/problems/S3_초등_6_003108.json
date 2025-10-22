@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1cae671b-bd34-45a3-8b20-f5604349b610",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003108",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.1,
+                            6.24,
+                            744.1,
+                            72.64
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 왼쪽과 같은 모양으로 쌓았습니다. 돌렸을 때 왼쪽 그림과 같은 모양을 만들 수 없는 경우를 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            85.9,
+                            332.9,
+                            349.1
+                        ]
+                    ],
+                    "text_description": "기준이 되는 쌓기나무의 모형이다. 책상위에 8개의 쌓기나무가 기역자로 쌓여있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            378.5,
+                            84.3,
+                            744.9,
+                            345.1
+                        ]
+                    ],
+                    "text_description": "이미지에는 나무 상자들로 구성된 네 개의 구조물이 있습니다. 각 구조물에는 '가', '나', '다', '라'라는 이름이 붙어 있습니다. 첫 번째 구조물인 '가'는 세 개의 상자가 위에, 두 개의 상자가 아래에 배치된 L자 형태를 이루고 있으며, 가운데 공간이 비어 있습니다. 두 번째 구조물 '나'는 네 개의 상자가 직사각형 형태로 배열되어 있고, 한쪽 아래에 하나의 상자가 더해져서 위쪽으로 돌출된 모습입니다. 세 번째 구조물 '다'는 네 개의 상자가 직사각형 형태로 배열되어 있으며, 한쪽 위에 상자가 더해져 입체적인 구조를 형성하고 있습니다. 마지막으로, '라'는 세 개의 상자가 2x2 형태로 배치되어 있고, 한쪽 모서리 부분이 비어 있어서 그 부분이 파인 형태를 띄고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.9,
+                            573.9,
+                            134.5,
+                            604.3
+                        ]
+                    ],
+                    "text_description": "라"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.7,
+                            532.3,
+                            396.1,
+                            557.9
+                        ]
+                    ],
+                    "text_description": "라를 돌렸을 때 $\\bigcirc$표 한 쌓기나무가 보입니다."
+                }
+            ]
+        }
+    ]
+}

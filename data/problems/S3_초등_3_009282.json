@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b064af22-d0d6-46e1-a18e-cfff54bc3cda",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009282",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.78,
+                            8.52,
+                            457.58,
+                            30.52
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 수를 모두 골라 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            290.38,
+                            42.32,
+                            409.58,
+                            98.32
+                        ]
+                    ],
+                    "text_description": "$\\frac{\\square}{12}<\\frac{5}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.78,
+                            119.12,
+                            184.78,
+                            141.12
+                        ]
+                    ],
+                    "text_description": "① 3 ② 4"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            285.58,
+                            117.2,
+                            587.18,
+                            138.8
+                        ]
+                    ],
+                    "text_description": "③ 7 ④ 8 ⑤ 10"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.38,
+                            187.6,
+                            676.78,
+                            208.4
+                        ]
+                    ],
+                    "text_description": "분모가 12로 같으므로 분자의 크기를 비교하면 $\\square$ 안에 들어갈 수 있는 수는 5보"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.18,
+                            213.2,
+                            412.78,
+                            262
+                        ]
+                    ],
+                    "text_description": "다 작은 수입니다. 따라서 $\\square$ 안에 들어갈 수 있는 수는 ①, ②입니다."
+                }
+            ]
+        }
+    ]
+}

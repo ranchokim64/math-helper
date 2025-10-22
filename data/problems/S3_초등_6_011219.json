@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "76ee80af-58a0-4c4c-9be8-0008dee5b090",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011219",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.72,
+                            1.83,
+                            566.52,
+                            26.79
+                        ]
+                    ],
+                    "text_description": "설명이 맞으면 $\\bigcirc$ 표, 틀리면 $\\times$ 표를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.68,
+                            178.2,
+                            434.68,
+                            205.08
+                        ]
+                    ],
+                    "text_description": "원주와 원의 지름은 길이가 같습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            657.87,
+                            179.58,
+                            725.04,
+                            205.81
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc, \\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            364.72,
+                            33.11,
+                            517.88,
+                            154.79
+                        ]
+                    ],
+                    "text_description": "원의 중점을 통과하는 지름선 ㄱㄴ이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.77,
+                            273.32,
+                            52.76,
+                            292.36
+                        ]
+                    ],
+                    "text_description": "$\\times$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            704.12,
+                            178.2,
+                            725.24,
+                            206.36
+                        ]
+                    ],
+                    "text_description": "$\\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.24,
+                            228.12,
+                            667,
+                            251.16
+                        ]
+                    ],
+                    "text_description": "원주는 원의 지름의 $3$배보다 길고, 원의 지름의 $4$배보다 짧습니다."
+                }
+            ]
+        }
+    ]
+}

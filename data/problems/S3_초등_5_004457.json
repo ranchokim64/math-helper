@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d11a51af-2e7e-48a1-805b-5c540768d7a8",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004457",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.66,
+                            14.85,
+                            341.87,
+                            43.52
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.77,
+                            53.34,
+                            382.3,
+                            171.52
+                        ]
+                    ],
+                    "text_description": "직사각형의 좌우변을 수직으로하는 직각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            298.35,
+                            186.16,
+                            378.22,
+                            212.27
+                        ]
+                    ],
+                    "text_description": "$595 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.07,
+                            221.49,
+                            284.53,
+                            280.88
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (평행사변형의 넓이)-(마름모의 넓이) } \\\\ =(40+15) \\times 17-40 \\times 17 \\div 2 \\\\ =935-340=595\\left(\\mathrm{~cm}^{2}\\right)\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "552cb7a3-ff30-4fdb-a840-38e464c443cb",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010086",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            0.74,
+                            663.4,
+                            55.94
+                        ]
+                    ],
+                    "text_description": "형우가 $\\bigcirc \\times$ 문제를 풀고 있습니다. $\\times$라고 답했을 때, 정답을 맞혔을 가능성을 말과 수로 표현하려고 합니다. 알맞은 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            457,
+                            142.5,
+                            592,
+                            189.5
+                        ]
+                    ],
+                    "text_description": "수 $\\left(0, \\frac{1}{2}, 1\\right)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            146.5,
+                            385,
+                            179.5
+                        ]
+                    ],
+                    "text_description": "말 (불가능하다, 반반이다, 확실하다)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            282,
+                            57.5,
+                            403,
+                            141.5
+                        ]
+                    ],
+                    "text_description": "O, X 표지판이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.8,
+                            250.8,
+                            662.6,
+                            321.2
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 형우가 푼 } \\bigcirc \\times \\text { 문제의 정답이 } \\times \\text { 일 가능성은 '반반이다'이고, 이를 수로 표현하면 } \\\\ \\frac{1}{2} \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.0,
+                            205.0,
+                            140.0,
+                            239.0
+                        ]
+                    ],
+                    "text_description": "반반이다. $\\frac{1}{2}$"
+                }
+            ]
+        }
+    ]
+}

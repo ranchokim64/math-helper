@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1169412e-f82b-43af-b01e-24c960d26a11",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009818",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.51,
+                            4.62,
+                            564.45,
+                            28.05
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 4보다 큰 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.53,
+                            115.05,
+                            460.79,
+                            176.85
+                        ]
+                    ],
+                    "text_description": "㉠$8 \\times 0. 49$는 8의 0. 5 배인 4 보나 작습니나. ㉡ 7의 0. 61은 7의 0. 6 배인 4. 2 보답 큽니다. 따라서 어림하여 계산 결과가 4보다 큰 것은 ㉡입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            271.0,
+                            50.0,
+                            349.0,
+                            73.0
+                        ]
+                    ],
+                    "text_description": "$8\\times0.49$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            411.0,
+                            50.0,
+                            487.0,
+                            78.0
+                        ]
+                    ],
+                    "text_description": "7의 0. 61"
+                }
+            ]
+        }
+    ]
+}

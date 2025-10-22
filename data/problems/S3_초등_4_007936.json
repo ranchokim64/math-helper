@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "929123c3-6ca9-45a8-9440-435961de882b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007936",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.5,
+                            5.92,
+                            498.5,
+                            32.92
+                        ]
+                    ],
+                    "text_description": "정다각형이 아닌 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.3,
+                            41.52,
+                            659.1,
+                            199.12
+                        ]
+                    ],
+                    "text_description": "① 삼각형이다. ② 사각형이다. ③ 원이다. ④ 오각형이다. ⑤ 팔각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.1,
+                            213.52,
+                            75.1,
+                            233.52
+                        ]
+                    ],
+                    "text_description": "③"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            254.5,
+                            762.5,
+                            277.5
+                        ]
+                    ],
+                    "text_description": "③은 선분이 아니라 곡선으로 둘러싸인 도형이므로 정다각형이 아닙니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fbc40a15-02e5-4fea-908a-2cf5b20435dc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005412",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.76,
+                            1.4,
+                            481.26,
+                            80.63
+                        ]
+                    ],
+                    "text_description": "다음 원기둥의 전개도에서 밑면의 둘레가 18cm 일 때 물음에 답하세요 (원주율: 3)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.79,
+                            273.25,
+                            331.02,
+                            299.65
+                        ]
+                    ],
+                    "text_description": "밑면의 반지름은 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.0,
+                            91.0,
+                            326.0,
+                            249.0
+                        ]
+                    ],
+                    "text_description": "원기둥 전개도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.92,
+                            357.57,
+                            365.51,
+                            411.67
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 밑면의 반지름 }) & =(\\text { 밑면의 둘레 }) \\div(\\text { 원주율 }) \\div 2 \\\\ & =18 \\div 3 \\div 2=3(\\mathrm{~cm})\\end{aligned}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            338.3,
+                            319.69,
+                            394.76,
+                            351.56
+                        ]
+                    ],
+                    "text_description": "3cm"
+                }
+            ]
+        }
+    ]
+}

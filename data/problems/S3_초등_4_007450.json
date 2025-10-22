@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6291f852-157e-4d2f-89d2-4bfdf3cb9afc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007450",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.1,
+                            5.04,
+                            541.9,
+                            29.04
+                        ]
+                    ],
+                    "text_description": "바르게 설명한 것을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            647.1,
+                            224.7,
+                            842.7,
+                            251.9
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢, ㉣)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            162.7,
+                            37.84,
+                            709.9,
+                            221.04
+                        ]
+                    ],
+                    "text_description": "㉠ 이등변삼각형은 예각삼각형입니다. ㉡ 정삼각형은 예각삼각형입니다. ㉢ 이등변삼각형은 둔각삼각형입니다. ㉣ 정삼각형은 둔각삼각형입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            269.5,
+                            76.3,
+                            295.1
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            313.5,
+                            842.7,
+                            483.1
+                        ]
+                    ],
+                    "text_description": "- ㉠, ㉢: 이등변삼각형은 예각삼각형일 수도 있고, 직각삼각형이나 둔각삼각형일 수도 있습니다. - ㉡, ㉣: 정삼각형은 세 각의 크기가 모두 $60^{\\circ}$인 예각이므로 예각삼각형입니다. 따라서 바르게 설명한 것은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

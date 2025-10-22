@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c3501ea7-bc71-45cc-a140-41626c89efd5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010441",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.49,
+                            4.77,
+                            817.54,
+                            34.84
+                        ]
+                    ],
+                    "text_description": "자연수의 나눗셈을 이용하여 계산 결과로 알맞은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.16,
+                            40.85,
+                            308.82,
+                            122.63
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}369 \\div 3=123 \\\\ 3. 69 \\div 3=(1. 23, 12. 3)\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.75,
+                            249.63,
+                            52.65,
+                            276.08
+                        ]
+                    ],
+                    "text_description": "$1. 23$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.95,
+                            136.37,
+                            958.25,
+                            229.18
+                        ]
+                    ],
+                    "text_description": "나누는 수가 같고 나누어지는 수가 $\\frac{1}{10}$ 배, $\\frac{1}{100}$ 배가 되면 몫도 $\\frac{1}{10}$ 배, $\\frac{1}{100}$ 배가 되므로 몫의 소수점은 왼 쪽으로 한 칸, 두 칸 이동합니다."
+                }
+            ]
+        }
+    ]
+}

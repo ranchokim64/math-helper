@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "87facac5-012f-45e2-bdce-3b928cda4ee6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005379",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.02,
+                            11.95,
+                            462.22,
+                            69.26
+                        ]
+                    ],
+                    "text_description": "둘레가 12.56cm 인 원 모양의 초콜릿 과자가 있습니다. 이 과자의 한쪽 면의 넓이를 구해 보세요. (원주율: 3. 14)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.61,
+                            163.87,
+                            308.63,
+                            193.67
+                        ]
+                    ],
+                    "text_description": "과자의 한쪽 면의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            542.31,
+                            12,
+                            678.86,
+                            139.8
+                        ]
+                    ],
+                    "text_description": "초콜릿 과자 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            524.12,
+                            203.98,
+                            610.09,
+                            231.49
+                        ]
+                    ],
+                    "text_description": "$12. 56 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.609999999999999,
+                            194.08,
+                            184.27,
+                            218.47
+                        ]
+                    ],
+                    "text_description": "> $2 \\times 2 \\times 3. 14=12. 56\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

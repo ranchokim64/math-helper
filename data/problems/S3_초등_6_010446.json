@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a8ee3df7-1291-406b-8145-18538f0a4447",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010446",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.6,
+                            1.87,
+                            780.6,
+                            32.87
+                        ]
+                    ],
+                    "text_description": "어림셈하여 몫의 소수점 위치가 옳은 식을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            339.6,
+                            39.87,
+                            559.6,
+                            222.87
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}5. 64 \\div 6=940 \\\\ 5. 64 \\div 6=94 \\\\ 5. 64 \\div 6=9. 4 \\\\ 5. 64 \\div 6=0. 94\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.6,
+                            238.5,
+                            212.6,
+                            262.5
+                        ]
+                    ],
+                    "text_description": "$5. 64 \\div 6=0. 94$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.6,
+                            283.5,
+                            954.6,
+                            308.5
+                        ]
+                    ],
+                    "text_description": "$5. 64 \\div 6$에서 5. 64를 반올림하여 일의 자리까지 나타내면 6 입니다. $6 \\div 6$의 몫은 1이"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.6,
+                            318.5,
+                            854.6,
+                            345.5
+                        ]
+                    ],
+                    "text_description": "므로 $5. 64 \\div 6$의 몫도 1과 비슷할 것입니다. $5. 64 \\div 6=0. 94$가 답이 됩니다."
+                }
+            ]
+        }
+    ]
+}

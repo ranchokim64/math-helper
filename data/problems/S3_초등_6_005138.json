@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0232bf4b-5275-495b-913c-c4cd3ccc7af1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005138",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18,
+                            23.42,
+                            628,
+                            119.42
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이가 $2. 7 \\mathrm{~cm}^{2}$ 일 때, 가로는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85,
+                            134.42,
+                            561,
+                            260.42
+                        ]
+                    ],
+                    "text_description": "세로길이가 0. 9cm인 직사각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            439,
+                            277,
+                            509,
+                            314
+                        ]
+                    ],
+                    "text_description": "3cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46,
+                            326,
+                            366,
+                            357
+                        ]
+                    ],
+                    "text_description": "$($ 직사각형의 넓이) $=($ 가로 $) \\times($ 세로 $)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            136,
+                            358,
+                            495,
+                            422
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 가로 }) & =(\\text { 직사각형의 넓이 }) \\div(\\text { 세로 }) \\\\ & =2. 7 \\div 0. 9=27 \\div 9=3(\\mathrm{~cm})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

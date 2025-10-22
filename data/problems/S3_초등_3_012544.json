@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "70b9b87e-3a7a-4772-b5d6-6a1f8ef54498",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012544",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.72,
+                            16.4,
+                            488.72,
+                            86.4
+                        ]
+                    ],
+                    "text_description": "다음 중에서 나머지가 5가 될 수 없는 식의 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.72,
+                            110.4,
+                            483.72,
+                            216.4
+                        ]
+                    ],
+                    "text_description": "㉠ $\\square$ $\\div 7$ ㉡ $\\square$ $\\div 4$ ㉢ $\\square$ $\\div 8$ ㉣ $\\square$ $\\div 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            377.72,
+                            235.99,
+                            404.72,
+                            263.99
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.72,
+                            268.99,
+                            471.72,
+                            313.99
+                        ]
+                    ],
+                    "text_description": "나누는 수와 같거나 나누는 수보다 큰 수는 나머지가 될 수 없습니다."
+                }
+            ]
+        }
+    ]
+}

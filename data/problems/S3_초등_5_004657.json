@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "acba17e2-60ac-445c-b4e8-d1ca1e4989fd",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004657",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.43,
+                            22.84,
+                            214.58,
+                            42.16
+                        ]
+                    ],
+                    "text_description": "세 분수의 곱을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.12,
+                            48.27,
+                            308.09,
+                            112.25
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{9}$ $\\frac{6}{7}$ $\\frac{3}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            249.31,
+                            112.89,
+                            270.36,
+                            144.53
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.92,
+                            136.43,
+                            215.88,
+                            190.73
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{9} \\times \\frac{2}{7} \\times \\frac{3}{5}=\\frac{1 \\times 2 \\times 1}{1 \\times 7 \\times 1}=\\frac{2}{7}$"
+                }
+            ]
+        }
+    ]
+}

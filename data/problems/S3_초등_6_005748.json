@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "056e482a-aabc-4c9f-b016-99dd733f7015",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005748",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.76,
+                            1.15,
+                            698.01,
+                            52.4
+                        ]
+                    ],
+                    "text_description": "마을별 학생 수를 나타낸 띠그래프입니다. ㉱ 마을의 학생이 126명이라면, ㉮ 마을의 학생은 몇 명인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.51,
+                            149.38,
+                            233.01,
+                            181.88
+                        ]
+                    ],
+                    "text_description": "㉮ 마을의 학생은 몇 명인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.51,
+                            58.13,
+                            599.26,
+                            148.13
+                        ]
+                    ],
+                    "text_description": "이 이미지는 마을별 학생 수를 나타내는 그래프입니다. 각 마을의 학생 비율은 다음과 같습니다: 1. 마을 A: 35% 2. 마을 B: 20% 3. 마을 C: 15% 4. 마을 D: 5%"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            518.01,
+                            185.63,
+                            575.51,
+                            210.63
+                        ]
+                    ],
+                    "text_description": "210명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.51,
+                            181.88,
+                            274.26,
+                            219.38
+                        ]
+                    ],
+                    "text_description": "㉮ 마을의 학생은 $840 \\times \\frac{25}{100}=210$ (명)입니다."
+                }
+            ]
+        }
+    ]
+}

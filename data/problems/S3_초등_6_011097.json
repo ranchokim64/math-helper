@@ -1,0 +1,161 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2dce88f3-e0b5-4044-a3de-3d276a269581",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011097",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.8,
+                            10.54,
+                            861.2,
+                            70.54
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 빼내어 왼쪽 모양을 오른쪽 모양과 똑같이 만들려고 합니다. 빼내야 할 쌓기나무를 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            236.6,
+                            83.14,
+                            653,
+                            173.74
+                        ]
+                    ],
+                    "text_description": "이미지는 여러 개의 나무 블록이 서로 연결되어 있는 구조를 보여줍니다. 순서대로 ㉠, ㉡, ㉢, ㉣, ㉤으로 표기되어 있습니다. 왼쪽에는 5개의 블록이 특정 형태로 배열되어 있고, 오른쪽에는 3개의 블록이 직선으로 이어져 있습니다. 화살표가 두 구조의 변화를 나타내고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            188.2,
+                            74,
+                            215
+                        ]
+                    ],
+                    "text_description": "① ㉠"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303.6,
+                            227,
+                            349.4,
+                            253.4
+                        ]
+                    ],
+                    "text_description": "⑤ ㉤"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303.6,
+                            187.8,
+                            623.6,
+                            214.2
+                        ]
+                    ],
+                    "text_description": "② ㉡ ③ ㉢"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            227,
+                            74.8,
+                            252.6
+                        ]
+                    ],
+                    "text_description": "④ ㉣"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.2,
+                            313.4,
+                            426.8,
+                            335.8
+                        ]
+                    ],
+                    "text_description": "$\\times$표 한 쌓기나무 2개를 빼내야 합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            344.6,
+                            186.8,
+                            424.6
+                        ]
+                    ],
+                    "text_description": "여러 개의 나무 블록이 서로 연결되어 있는 구조를 보여줍니다. 순서대로 ㉠, ㉡, ㉢, ㉣, ㉤으로 표기되어 있습니다. 맨 왼쪽 블럭과 맨 오른쪽 블럭에 빨간 X표시가 쳐져있습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c416bfe5-b1fc-420e-b1e9-45039dee7d9c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005178",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108.5,
+                            31.92,
+                            839.5,
+                            195.92
+                        ]
+                    ],
+                    "text_description": "어떤 액체 물질 $1.35L$의 무게가 $3kg$ 일 때이 액체 물질 $1L$의 무게는 몇 $kg$ 인지 반올림하여 소수 첫째 자리까지 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            303.4,
+                            157.5,
+                            341.4
+                        ]
+                    ],
+                    "text_description": "2.2kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            239.4,
+                            334.5,
+                            277.4
+                        ]
+                    ],
+                    "text_description": "$3 \\div 1. 35=2. 22 \\cdots$"
+                }
+            ]
+        }
+    ]
+}

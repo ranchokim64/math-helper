@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9d21241b-e938-4f25-ae20-7e1fc8236c5e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010464",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.8,
+                            8.75,
+                            614.4,
+                            39.15
+                        ]
+                    ],
+                    "text_description": "몫을 어림해 보고 알맞은 식을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            360.8,
+                            46.35,
+                            633.6,
+                            319.95
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}62. 4 \\div 3=208 \\\\ 62. 4 \\div 3=20. 8 \\\\ 62. 4 \\div 3=2. 08 \\\\ 62. 4 \\div 3=0. 208\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            336.4,
+                            217.6,
+                            358.8
+                        ]
+                    ],
+                    "text_description": "$62. 4 \\div 3=20. 8$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.12,
+                            379.01,
+                            874.62,
+                            443.01
+                        ]
+                    ],
+                    "text_description": "$62. 4 \\div 3$에서 62. 4를 반올림하여 일의 자리까지 나타내면 62 입니다. $62 \\div 3$의 몫은 20보다 크고 21보다 작습니다. 62. 4 \\div 3=20. 8$ 이 답이 됩니다."
+                }
+            ]
+        }
+    ]
+}

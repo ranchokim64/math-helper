@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ab4b7ab0-8cb3-4023-8732-5c52ab958d5a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005742",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.8,
+                            5.12,
+                            429.8,
+                            63.52
+                        ]
+                    ],
+                    "text_description": "선미네 집의 지난 달 생활비 지출을 조사하여 나타낸 원그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            320.32,
+                            431.4,
+                            378.72
+                        ]
+                    ],
+                    "text_description": "선미네 한 달 생활비가 1200000원이라면 지난 달 지출한 주거광열비는 얼마인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            126.6,
+                            70.72,
+                            347.4,
+                            297.92
+                        ]
+                    ],
+                    "text_description": "생활비의 쓰임새별 금액을 조사하여 나타낸 원그래프입니다. 전체 100% 중에 기타(10%), 의료비(13%), 주거광열비(20%), 식료품비(25%), 교육비(32%)로 차지하는 비율을 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            273.8,
+                            394.72,
+                            372.2,
+                            419.52
+                        ]
+                    ],
+                    "text_description": "240000원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            431.52,
+                            263.4,
+                            473.92
+                        ]
+                    ],
+                    "text_description": "$1200000 \\times \\frac{20}{100}=240000$(원)"
+                }
+            ]
+        }
+    ]
+}

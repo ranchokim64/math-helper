@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3df1d0cd-d754-4fb3-8b29-0215ba109fbd",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012260",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79,
+                            23.41,
+                            776,
+                            194.41
+                        ]
+                    ],
+                    "text_description": "구슬이 180 개 있습니다. 한 봉지에 30 개씩 나누어 담으려면 봉지는 몇 개가 필요할까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167,
+                            297,
+                            230,
+                            337
+                        ]
+                    ],
+                    "text_description": "6개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            207,
+                            442,
+                            277
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (구슬 수) } \\div \\text { (한 봉지당 개수)=(봉지 수) } \\\\ \\rightarrow 180 \\div 30=6 \\text { (개) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

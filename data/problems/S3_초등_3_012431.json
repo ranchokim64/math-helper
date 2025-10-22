@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "21a1e439-520b-478f-94e6-844f9a1dc859",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012431",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.54,
+                            18.4,
+                            414.31,
+                            47.46
+                        ]
+                    ],
+                    "text_description": "어떤 수를 5로 나누었더니 몫이 15이"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.36,
+                            52.45,
+                            415.14,
+                            111.4
+                        ]
+                    ],
+                    "text_description": "고, 나머지가 4였습니다. 어떤 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            318,
+                            129.51,
+                            344.22,
+                            148.74
+                        ]
+                    ],
+                    "text_description": "$79$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.63,
+                            157.24,
+                            197.89,
+                            176.81
+                        ]
+                    ],
+                    "text_description": "$5 \\times 15=75 \\Rightarrow 75+4=79$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a59d1837-6bce-46ed-86a7-d7bae3e3b446",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018556",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.51,
+                            3.28,
+                            535.51,
+                            21.15
+                        ]
+                    ],
+                    "text_description": "어떤 수를 12로 나누었더니 몫이 18이고 나머지가 6 이었습니다. 어떤 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.39,
+                            42.18,
+                            46.75,
+                            58.99
+                        ]
+                    ],
+                    "text_description": "① 222"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.91,
+                            158.25,
+                            177.1,
+                            174.61
+                        ]
+                    ],
+                    "text_description": "따라서 어떤 수는 222입니다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.960000000000001,
+                            64.88,
+                            47.43,
+                            125.52000000000001
+                        ]
+                    ],
+                    "text_description": "② 223\n③ 224\n④ 225"
+                }
+            ]
+        }
+    ]
+}

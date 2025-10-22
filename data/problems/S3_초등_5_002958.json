@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "144b4fb5-31c3-4713-af62-e3999b4db93f",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002958",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.92,
+                            6.16,
+                            268.02,
+                            27.15
+                        ]
+                    ],
+                    "text_description": "계산 순서에 맞게 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            109.3,
+                            49.68,
+                            552.69,
+                            156.69
+                        ]
+                    ],
+                    "text_description": "$8 \\times(15-7)+28 \\div 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.14,
+                            263.99,
+                            317.68,
+                            292.66
+                        ]
+                    ],
+                    "text_description": "㉡, ㉠, ㉣, ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.66,
+                            207.67,
+                            572.14,
+                            252.22
+                        ]
+                    ],
+                    "text_description": "덧셈. 뺄셈. 곱셈. 나눗셈이 섞여 있고 ()가 있는 식에서는（）안을 가장 먼저 계산한 후, 곱셈과 나눗셈을 계산합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2074912b-aba2-4388-8692-c667df427a7c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009427",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.78,
+                            2.24,
+                            680.78,
+                            29.24
+                        ]
+                    ],
+                    "text_description": "올림하여 백의 자리까지 나타낸 수가 다른 하나를 찾아 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            254.78,
+                            50.78,
+                            494.78,
+                            80.78
+                        ]
+                    ],
+                    "text_description": "$18300 \\quad 18215 \\quad 18340$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.78,
+                            104.78,
+                            94.78,
+                            127.78
+                        ]
+                    ],
+                    "text_description": "$18340$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.78,
+                            135.78,
+                            402.78,
+                            160.78
+                        ]
+                    ],
+                    "text_description": "백의 자리 아래 수들 100으로 보고 올립니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.78,
+                            165.78,
+                            162.78,
+                            297.78
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}183 \\underline{00} \\Rightarrow 18300 \\\\ 182\\underline{15} \\Rightarrow 18300 \\\\ 183\\underline{40} \\Rightarrow 18400\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

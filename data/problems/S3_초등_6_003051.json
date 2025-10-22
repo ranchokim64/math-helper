@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0606ed67-5d2e-4060-ad8c-c2ef41ebe1cc",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003051",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.04,
+                            13.63,
+                            371.68,
+                            103.23
+                        ]
+                    ],
+                    "text_description": "둘레가 5m 인 원 모양 화단에 0.25m 간격으로 꽃을 한 송이씩 심으려고 합니다. 꽃은 모두 몇 송이를 심을 수 있는지 구해 보세요. 도띠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.68,
+                            131.09,
+                            279.52,
+                            296.21
+                        ]
+                    ],
+                    "text_description": "둘레가 5m인 원 모양 화단에 꽃을 심고 있는 소녀 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.88,
+                            344.85,
+                            121.44,
+                            372.37
+                        ]
+                    ],
+                    "text_description": "$20$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.56,
+                            303.25,
+                            288.48,
+                            325.01
+                        ]
+                    ],
+                    "text_description": "$5 \\div 0. 25=500 \\div 25=20$ (송이)"
+                }
+            ]
+        }
+    ]
+}

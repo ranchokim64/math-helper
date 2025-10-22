@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3a689fb0-c746-4611-be03-62fe4e8c66ad",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012584",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.99,
+                            23.05,
+                            349.71,
+                            54.05
+                        ]
+                    ],
+                    "text_description": "두 수의 곱을 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            155.79,
+                            79.65,
+                            492.43,
+                            170.53
+                        ]
+                    ],
+                    "text_description": "두 타원이 있습니다. 왼쪽 타원은 초록색이며, 25이라고 표기되어 있습니다. 오른쪽 타원은 보라색이며, 67이라고 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            442.59,
+                            194.57,
+                            498.19,
+                            220.45
+                        ]
+                    ],
+                    "text_description": "$1675$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.67,
+                            233,
+                            158.35,
+                            364.84
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}25 \\\\ \\times 67 \\\\ \\hline 175 \\\\ 1500 \\\\ \\hline 1675\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

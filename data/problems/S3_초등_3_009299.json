@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d6586f85-2416-4c82-b6b4-fbf52be5e004",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009299",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.59,
+                            10.02,
+                            308.92,
+                            54.23
+                        ]
+                    ],
+                    "text_description": "$\\frac{7}{9}$보다 큰 분수를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            207.03,
+                            58.72,
+                            488.62,
+                            146.04
+                        ]
+                    ],
+                    "text_description": "보라색 상자에 다음과 같은 내용이 들어 있다 $\\frac{2}{9} \\quad \\frac{8}{9} \\quad \\frac{5}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.86,
+                            158.04,
+                            58.05,
+                            198.41
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.18,
+                            209.55,
+                            578.05,
+                            279.72
+                        ]
+                    ],
+                    "text_description": "분모가 9로 모두 같으므로 분자의 크기를 비교하면 $8>7>5>2$ 입니다. 따라서 $\\frac{7}{9}$보다 큰 분수는 $\\frac{8}{9}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

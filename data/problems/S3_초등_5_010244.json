@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d9ce4809-5a1e-465d-9b4c-ac5a5bd0f3f5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010244",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.5,
+                            2.94,
+                            665,
+                            54.69
+                        ]
+                    ],
+                    "text_description": "각 회전판에서 화살이 파란색에 멈출 가능성이 가장 높은 것을 선택해 보 세요. (단, 화살이 경계선이나 회전판 밖에 멈출 가능성은 없습니다.)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            187.0,
+                            66.0,
+                            511.0,
+                            147.0
+                        ]
+                    ],
+                    "text_description": "가,나,다 3개의 회전판"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.25,
+                            187.87,
+                            653,
+                            242.62
+                        ]
+                    ],
+                    "text_description": "각 회전판에서 파란색 부분이 넓을수록 화살이 파란색에 멈출 가능성이 높습니다. 따라서 화살이 파란색에 멈출 가능성이 가장 높은 회전판은 가입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.75,
+                            156.37,
+                            64.25,
+                            181.12
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        }
+    ]
+}

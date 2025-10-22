@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1bf69a87-c33b-4080-90b0-e687776434d6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005487",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-09] 원뿔과 구를 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.42,
+                            7.92,
+                            448.23,
+                            78.03
+                        ]
+                    ],
+                    "text_description": "다음 원뿔을 앞에서 보았을 때의 도형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147.56,
+                            85.63,
+                            308.91,
+                            246.07
+                        ]
+                    ],
+                    "text_description": "지름이 10cm, 높이가15cm인 원뿔의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            297.07,
+                            255.17,
+                            369.92,
+                            288.87
+                        ]
+                    ],
+                    "text_description": "$75 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.63,
+                            292.51,
+                            402.7,
+                            369
+                        ]
+                    ],
+                    "text_description": "원뿔을 앞에서 보았을 때 모양은 밑면이 10cm, 높이가 15cm 인 삼각형입니다. $($ 삼각형의 넓이 $)=10 \\times 15 \\div 2=75\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

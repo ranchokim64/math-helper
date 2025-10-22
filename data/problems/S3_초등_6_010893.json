@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d8bef27-44e4-4d60-af67-7b055761946d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010893",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.73,
+                            6.89,
+                            495.73,
+                            34.89
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 같은 것을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            573.73,
+                            47.89,
+                            703.73,
+                            76.89
+                        ]
+                    ],
+                    "text_description": "③ $1. 2 \\div 0. 04$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.69,
+                            86.55,
+                            143.31,
+                            119.36
+                        ]
+                    ],
+                    "text_description": "④ $12 \\div 0. 4$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48,
+                            130.3,
+                            110.5,
+                            158.43
+                        ]
+                    ],
+                    "text_description": "(3), (4)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.73,
+                            50.5,
+                            123.73,
+                            75.5
+                        ]
+                    ],
+                    "text_description": "① $1. 2 \\div 4$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.73,
+                            48.5,
+                            423.73,
+                            116.5
+                        ]
+                    ],
+                    "text_description": "② $1. 2 \\div 0. 4$ ⑤ $12 \\div 0. 04$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78,
+                            176.36,
+                            198.25,
+                            196.61
+                        ]
+                    ],
+                    "text_description": "$1. 2 \\div 4=0. 3$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.69,
+                            208.18,
+                            204.5,
+                            326.3
+                        ]
+                    ],
+                    "text_description": "$1. 2 \\div 0. 4=3$ $1. 2 \\div 0. 04=30$ $12 \\div 0. 4=30$ $12 \\div 0. 04=300$"
+                }
+            ]
+        }
+    ]
+}

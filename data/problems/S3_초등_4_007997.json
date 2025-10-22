@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6b6bc552-f212-49f9-8ba3-ecdfd8baf23c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007997",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.5,
+                            9.42,
+                            932.5,
+                            78.42
+                        ]
+                    ],
+                    "text_description": "3. 직각 삼각자의 각을 참고하여 각도를 어림해 보려고 합니다. 알맞은 각도를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            261,
+                            929.5,
+                            331
+                        ]
+                    ],
+                    "text_description": "직각 샴각자의 $45^{\\circ}$보다 조금 작은 것 같아 약 $\\left(5^{\\circ}, 35^{\\circ}, 90^{\\circ}\\right)$라고 어림할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            87.42,
+                            423.5,
+                            257.42
+                        ]
+                    ],
+                    "text_description": "왼쪽엔 직각 삼각자가 있고 오른쪽엔 각도가 적혀있지 않은 각이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            353,
+                            98.5,
+                            379
+                        ]
+                    ],
+                    "text_description": "$35^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.5,
+                            404,
+                            893.5,
+                            432
+                        ]
+                    ],
+                    "text_description": "직각 삼각자의 $45^{\\circ}$보다 조금 작으므로 약 $35^{\\circ}$라고 어림할 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cd6a9a7b-f143-4292-b282-d1f3487af8a5",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005707",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.74,
+                            10.18,
+                            286.46,
+                            129.43
+                        ]
+                    ],
+                    "text_description": "선하는 동화책을 어제 63쪽 읽었고, 오늘 어제보다 21쪽 더 많이 읽어서 모두 읽었습니다. 동화책의 전체 쪽수에 대한 오늘 읽은 쪽수의 비율을 분수로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            298.38,
+                            7.6,
+                            452.65,
+                            124.61
+                        ]
+                    ],
+                    "text_description": "책을 읽고 있는 선하"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            257.27,
+                            22.63,
+                            296.02
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5099999999999998,
+                            139.52,
+                            371.42,
+                            254.29
+                        ]
+                    ],
+                    "text_description": "(오늘 읽은 쪽수)=63+21 = 84(쪽)입니다. (동화핵의 전체 쪽수) $=63+84=147$ (쪽)입니다. 동화책의 전체 쪽수에 대한 오늘 익은 쪽수의 비율은 $\\frac{84}{147}=\\frac{4}{7}$ 입나다."
+                }
+            ]
+        }
+    ]
+}

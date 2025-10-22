@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2e36cf23-a686-40f1-8545-dbd5b5409d3b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011183",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.17,
+                            4.76,
+                            860.81,
+                            103.52
+                        ]
+                    ],
+                    "text_description": "준수는 딱지를 만들려고 합니다. 딱지 4개를 만들려면 색종이 5장이 필요 할 때, 딱지 8개를 만들려면 색종이가 몇 장 필요한지 준수의 생각이 옳으면 $\\bigcirc$표, 틀리면 $\\times$표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.81,
+                            272.48,
+                            48.65,
+                            318.56
+                        ]
+                    ],
+                    "text_description": "ⓞ ⓧ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            174.15,
+                            130.34,
+                            716.28,
+                            272.93
+                        ]
+                    ],
+                    "text_description": "준수: 딱지 4개를 만드는 데 필요한 색종이 수는 딱지 수보다 하나 더 많아. 그래서 딱지 8개를 만들려면 색종이가 9장 필요해."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.49,
+                            336.48,
+                            70.41,
+                            355.76
+                        ]
+                    ],
+                    "text_description": "$\\times$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.2,
+                            272.93,
+                            47.73,
+                            294.82
+                        ]
+                    ],
+                    "text_description": "ⓞ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.57,
+                            408.72,
+                            576.69,
+                            459.04
+                        ]
+                    ],
+                    "text_description": "\\[ \\Rightarrow 4 \\times \\square=5 \\times 8, 4 \\times \\square=40, \\square=10 \\] 따라서 딱지 8개를 만들려면 색종이가 10장 필요하므로 준수의 생각은 옳지 않습니다."
+                }
+            ]
+        }
+    ]
+}

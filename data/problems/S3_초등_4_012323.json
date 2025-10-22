@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "79677ade-73bf-430d-a6b4-6ef1d1912688",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012323",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            6.41,
+                            708.5,
+                            34.41
+                        ]
+                    ],
+                    "text_description": "긴바늘과 짧은바늘이 이루는 작은 쪽의 각을 예각, 직각, 둔각으로 구분하여 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            63.41,
+                            280.5,
+                            278.41
+                        ]
+                    ],
+                    "text_description": "10시 30분을 가리키고 있는 시계그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.5,
+                            354,
+                            728.5,
+                            419
+                        ]
+                    ],
+                    "text_description": "시계의 두 바늘이 이루는 작은 쪽의 각이 $90^{\\circ}$보다 크고 $180^{\\circ}$보다 작습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            548.5,
+                            301.0,
+                            606.5,
+                            338.0
+                        ]
+                    ],
+                    "text_description": "둔각"
+                }
+            ]
+        }
+    ]
+}

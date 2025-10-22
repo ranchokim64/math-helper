@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2e8d937e-e09f-483f-87d2-124b5eec291f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005722",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            7.92,
+                            430.5,
+                            65.92
+                        ]
+                    ],
+                    "text_description": "별빛 마을 학생들이 좋아하는 꽃을 조사하여 나타낸 띠그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            188.5,
+                            423.5,
+                            217.5
+                        ]
+                    ],
+                    "text_description": "해바라기를 좋아하는 학생은 전체의 몇 %인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.5,
+                            72.92,
+                            424.5,
+                            170.92
+                        ]
+                    ],
+                    "text_description": "이 이미지는 학생들이 좋아하는 꽃 종류와 그 비율을 나타낸 표입니다. 각 꽃 이름과 학생들이 선호하는 비율은 다음과 같습니다: - 장미: 20% - 해바라기: 15% - 개나리: 20% - 백합: 20% - 기타: 10%"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.5,
+                            231.5,
+                            352.5,
+                            254.5
+                        ]
+                    ],
+                    "text_description": "$35 \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            266.5,
+                            272.5,
+                            287.5
+                        ]
+                    ],
+                    "text_description": "$100-(20+15+20+10)=35(\\%)$"
+                }
+            ]
+        }
+    ]
+}

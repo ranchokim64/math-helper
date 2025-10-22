@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "963e1113-d91b-487d-a346-4e994d6ff805",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002894",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.92,
+                            9.6,
+                            369.08,
+                            42.24
+                        ]
+                    ],
+                    "text_description": "점대칭도형을 모두 찾아 $\\bigcirc$ 표 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.84,
+                            69.12,
+                            830.52,
+                            255.36
+                        ]
+                    ],
+                    "text_description": "기하학적 평면도형 5개가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.48,
+                            340.48,
+                            788.92,
+                            568.96
+                        ]
+                    ],
+                    "text_description": "()($\\bigcirc$)($\\bigcirc$)()($\\bigcirc$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.84,
+                            575.36,
+                            785.08,
+                            604.8
+                        ]
+                    ],
+                    "text_description": "어떤 점을 중심으로 $180^{\\circ}$ 돌렸을 때 처음 도형과 완전히 겹치는 도형을 찾습니다."
+                }
+            ]
+        }
+    ]
+}

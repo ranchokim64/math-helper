@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7990682f-4ab2-4538-8e23-bc2eca4c9f97",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_006010",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.46,
+                            11.65,
+                            536.11,
+                            84.04
+                        ]
+                    ],
+                    "text_description": "직육면체 모양의 물건들 중 부피가 더 큰 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.48,
+                            97.46,
+                            539.08,
+                            225.38
+                        ]
+                    ],
+                    "text_description": "가: 가로 7cm, 세로 6cm, 높이 3cm로 구성된 직육면체의 겨냥도이다. 나: 가로 15cm, 세로 4cm, 높이 2cm로 구성된 직육면체의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            378.43,
+                            249.18,
+                            407.19,
+                            279.92
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.26,
+                            288.85,
+                            439.92,
+                            339.42
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 가: } 7 \\times 6 \\times 3=126\\left(\\mathrm{~cm}^{3}\\right) \\text {, 나: } 4 \\times 15 \\times 2=120\\left(\\mathrm{~cm}^{3}\\right), \\\\ \\Rightarrow 126>120 \\Rightarrow \\text { 가 }>\\text { 나 }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

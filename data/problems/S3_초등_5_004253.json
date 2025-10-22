@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cb98d098-ac4b-4602-9dd1-bd42a04d2778",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004253",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.9,
+                            97.64,
+                            607.1,
+                            128.24
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 작은 것을 찾아 기호를 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            249.3,
+                            164.64,
+                            445.9,
+                            278.04
+                        ]
+                    ],
+                    "text_description": "㉠ $(5+6) \\times 3$ ㉡ $54 \\div(15-9)$ ㉢ $9+(12-6) \\div 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            465.3,
+                            319.3,
+                            489.9,
+                            345.5
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.3,
+                            4.7,
+                            453.7,
+                            81.5
+                        ]
+                    ],
+                    "text_description": "㉠ $(5+6) \\times 3=11 \\times 3=33$ ㉡ $54 \\div(15-9)=54 \\div 6=9$ ㉢ $9+(12-6) \\div 3=9+6 \\div 3=9+2=11$"
+                }
+            ]
+        }
+    ]
+}

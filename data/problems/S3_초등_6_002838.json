@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ea68306e-49f0-4081-a2c1-f03ae8ddf6e8",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002838",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.01,
+                            2.4,
+                            715.51,
+                            68.65
+                        ]
+                    ],
+                    "text_description": "예지네 반 학생들이 놀이동산에서 타고 싶어 하는 놀이 기구를 조사하여 나타낸 표입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.26,
+                            255.62,
+                            489.26,
+                            286.87
+                        ]
+                    ],
+                    "text_description": "놀이 기구별 학생 수의 백분율을 구하여 표를 완성해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.009999999999999787,
+                            79.37,
+                            723.01,
+                            255.12
+                        ]
+                    ],
+                    "text_description": "학생들이 타고 싶어 하는 놀이 기구 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 놀이 기구 & 롤러코스터 & 바이킹 & 회전목마 & 범퍼카 & 합계 \\\\ \\hline 학생 수(명) & 10 & 7 & 6 & 2 & 25 \\\\ \\hline 백분율(%) & 40 & & & 8 & \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.76,
+                            368.87,
+                            884.26,
+                            568.12
+                        ]
+                    ],
+                    "text_description": "학생들이 타고 싶어 하는 놀이 기구 \\begin{tabular}{|c|c|c|c|c|c|} \\hline 놀이 기구 & 롤러코스터 & 바이킹 & 회전목마 & 범퍼카 & 합계 \\\\ \\hline 학생 수(명) & 10 & 7 & 6 & 2 & 25 \\\\ \\hline 백분율(%) & 40 & 28 & 24 & 8 & 100 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.51,
+                            291.37,
+                            701.76,
+                            355.62
+                        ]
+                    ],
+                    "text_description": "바이킹: $\\frac{7}{25} \\times 100=28(\\%), \\quad$ 회전목마: $\\frac{6}{25} \\times 100=24(\\%)$"
+                }
+            ]
+        }
+    ]
+}

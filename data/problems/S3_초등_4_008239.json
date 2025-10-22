@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "129b23df-0f50-4195-bd0c-3f4618f33b7d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008239",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-05] 평면도형의 이동을 이용하여 규칙적인 무늬를 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68,
+                            10.04,
+                            768.4,
+                            37.64
+                        ]
+                    ],
+                    "text_description": "어떤 규칙으로 무늬를 만들었는지 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123.6,
+                            221.22,
+                            830.16,
+                            305.7
+                        ]
+                    ],
+                    "text_description": "(직사각형에 사각형이 있는 그림)모양을 시계 방향으로 $\\left(90^{\\circ}, 180^{\\circ}\\right)$만큼 돌리는 것을 반복해서 모양을 만들고, 그 모양을 오른쪽으로 밀었습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            351,
+                            44,
+                            603,
+                            217
+                        ]
+                    ],
+                    "text_description": "직사각형에 사각형이 있는 그림을 네개 붙여 시계 방향으로 돌리는 것을 반복해서 모양을 만들고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.84,
+                            333.22,
+                            89.04,
+                            356.26
+                        ]
+                    ],
+                    "text_description": "$90^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.04,
+                            376.18,
+                            924.88,
+                            437.82
+                        ]
+                    ],
+                    "text_description": "(해설)주어진 모양을 시계 방향으로 $90^{\\circ}$만큼 돌리는 것을 반복해서 모양을 만들고, 그 모양을 오른쪽으로 밀었습니다."
+                }
+            ]
+        }
+    ]
+}

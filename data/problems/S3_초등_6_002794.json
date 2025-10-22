@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9aa8ab06-32be-48ab-92cc-86e303e84f19",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002794",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.98,
+                            21.11,
+                            618.38,
+                            47.22
+                        ]
+                    ],
+                    "text_description": "둘레가 48.4cm 인 마름모의 한 변의 길이는 몇 cm 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            276.37,
+                            68.73,
+                            516.5,
+                            207.99
+                        ]
+                    ],
+                    "text_description": "마름모꼴."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.18,
+                            249.26,
+                            209.3,
+                            281
+                        ]
+                    ],
+                    "text_description": "12.1cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.41,
+                            215.98,
+                            680.85,
+                            242.09
+                        ]
+                    ],
+                    "text_description": "마름모는 네 변의 길이가 모두 같으므로 $($ 한 변의 길이 $)=48. 4 \\div 4=12. 1(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

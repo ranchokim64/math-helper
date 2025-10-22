@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e118273e-bd27-4a2f-970a-dd05dff69cb1",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003124",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.75,
+                            23.25,
+                            420,
+                            125.75
+                        ]
+                    ],
+                    "text_description": "태오는 외발자전거에 있는 원 모양의 바퀴에서 원주와 지름을 각각 재어 보았습니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            345.75,
+                            717.5,
+                            375.75
+                        ]
+                    ],
+                    "text_description": "바퀴 가와 나에서 원주율을 반올림하여 소수 둘째 자리까지 나타내어 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            524.1,
+                            392.96,
+                            780.74,
+                            461.44
+                        ]
+                    ],
+                    "text_description": "가() 나()"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            432.5,
+                            15.75,
+                            786.25,
+                            328.25
+                        ]
+                    ],
+                    "text_description": "가 : 원주가 144. 4cm, 지름이 46cm인 외발자전거가 있다. 나 : 원주가 191. 5cm, 지름이 61cm인 외발자전거가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            515.75,
+                            253.75,
+                            580.75
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lll}\\text { 가 }(& 3. 14 &) \\\\ \\text { 나 (} & 3. 14 & {) }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            478.25,
+                            633.75,
+                            508.25
+                        ]
+                    ],
+                    "text_description": "가: $144. 4 \\div 46=3. 139 \\cdots \\Rightarrow 3. 14$, 나: $191. 5 \\div 61=3. 139 \\cdots \\Rightarrow 3. 14$"
+                }
+            ]
+        }
+    ]
+}

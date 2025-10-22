@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "20e0eba0-5de5-4425-b4d7-e8f871af417b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011142",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.12,
+                            8.45,
+                            518.72,
+                            37.45
+                        ]
+                    ],
+                    "text_description": "비례식이면 $\\bigcirc$ 표, 비례식이 아니면 $\\times$ 표 하세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324.8,
+                            74.57,
+                            566.72,
+                            151.37
+                        ]
+                    ],
+                    "text_description": "보라색테두리의 네모 박스 안에 다음과 같은 비례식이 들어 있다.$3: 8=9: 24$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.96,
+                            211.26,
+                            75.2,
+                            234.3
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.96,
+                            253.86,
+                            804.16,
+                            302.78
+                        ]
+                    ],
+                    "text_description": "$3: 8$의 비율은 $\\frac{3}{8}, 9: 24$의 비율은 $\\frac{9}{24}\\left(=\\frac{3}{8}\\right) \\Rightarrow$ 비율이 같으므로 비례식입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cc47cefa-1a33-4c90-a461-c8922052c7ba",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012241",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            17.91,
+                            595.5,
+                            145.91
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text { 시계의 긴바늘과 짧은바늘이 이루는 작 } \\\\ \\text { 은 쪽의 각이 둔각인 것은 어느 것일까 } \\\\ \\text { 요? } \\end{array} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            415.5,
+                            167.5,
+                            568.5,
+                            280.5
+                        ]
+                    ],
+                    "text_description": "③ 3시 55분을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.5,
+                            426.5,
+                            544.5,
+                            450.5
+                        ]
+                    ],
+                    "text_description": "둔각은 크기가 직각보다 크고 $180^{\\circ}$보다 작은 각입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            167.5,
+                            395.5,
+                            408.5
+                        ]
+                    ],
+                    "text_description": "① 3시를 가리키고 있다. ② 12시 15분을 가리키고 있다. ④12시 10분을 가리키고있다. ⑤9시를 가리키고 있다."
+                }
+            ]
+        }
+    ]
+}

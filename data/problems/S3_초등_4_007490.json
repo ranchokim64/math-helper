@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "23788278-d5e1-40a0-9e9a-8089e73bfab5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007490",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-15] 소수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-14] 소수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.78,
+                            1.74,
+                            498.19,
+                            29.62
+                        ]
+                    ],
+                    "text_description": "다른 수를 설명한 것을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            101.73,
+                            39.23,
+                            775.66,
+                            195.82
+                        ]
+                    ],
+                    "text_description": "곰, 강아지, 호랑이가 팻말을 들고 있는 이미지이며 곰은 $0. 407$의 $10$배, 강아지는 $4. 07$의 $\\frac{1}{10}$, 호랑이는 $407$의 $\\frac{1}{100}$이라는 글이 팻말에 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.32,
+                            206.12,
+                            194.3,
+                            331.84
+                        ]
+                    ],
+                    "text_description": "강아지는 $4. 07$의 $\\frac{1}{10}$이라는 팻말을 들고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.91,
+                            343.61,
+                            420.34,
+                            426.12
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { } 0. 407 \\text { 의 } 10 \\text { 배 } \\Rightarrow 4. 07 \\\\ 4. 07 \\text { 의 } \\frac{1}{10} \\Rightarrow 0. 407, 407 \\text { 의 } \\frac{1}{100} \\Rightarrow 4. 07\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

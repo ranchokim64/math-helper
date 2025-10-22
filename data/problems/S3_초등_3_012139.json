@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a9e7e5ec-ac59-4d87-893c-636c43197c07",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012139",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.31,
+                            13.73,
+                            530.71,
+                            185.25
+                        ]
+                    ],
+                    "text_description": "혜원이네 학교의 3학년은 6개 반입니다. 각 반의 여학생 수는 똑같이 13 명씩입 니다. 혜원이네 학교의 3학년 여학생 수는 모두 몇 명일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            388.63,
+                            213.41,
+                            439.19,
+                            240.29
+                        ]
+                    ],
+                    "text_description": "78명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.63,
+                            249.25,
+                            158.23,
+                            274.13
+                        ]
+                    ],
+                    "text_description": "$13 \\times 6=78$ (명)"
+                }
+            ]
+        }
+    ]
+}

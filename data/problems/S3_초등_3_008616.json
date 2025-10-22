@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "19f47d3c-ea02-4627-b736-7017f57938c0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008616",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.23,
+                            2.41,
+                            750.23,
+                            33.41
+                        ]
+                    ],
+                    "text_description": "문제를 바르게 설명한 사람이 누구인지 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            387.23,
+                            63.41,
+                            579.23,
+                            101.41
+                        ]
+                    ],
+                    "text_description": "$99 \\div 8=$ $\\square. . . $$\\square$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            153.23,
+                            164,
+                            820.23,
+                            424
+                        ]
+                    ],
+                    "text_description": "근희 : 몫은 10보다 작아. 영표 : 나머지는 0으로 나누어 떨어져. 슬기 : 나머지는 8보다 작아."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.23,
+                            436,
+                            110.23,
+                            465
+                        ]
+                    ],
+                    "text_description": "슬기"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.23,
+                            515.0,
+                            578.23,
+                            657.0
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 근희: 몫은 } 12 \\text { 이므로 } 10 \\text { 보다 큽니다. } \\\\ \\text { 영표: 나머지는 } 3 \\text { 이므로 나누어떨어지지 않습니다. } \\\\ \\text { 슬기: 나머지는 } 3 \\text { 이므로 } 8 \\text { 보다 작습니다. } \\\\ \\text { 따라서 문제를 바르게 설명한 사람은 슬기입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c1f0acb-2bb6-4374-a0a8-0a36e3a4a336",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008148",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            8.92,
+                            774,
+                            37.92
+                        ]
+                    ],
+                    "text_description": "계산 결과의 0의 개수가 다른 하나를 찾아 기호를 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            707,
+                            161.5,
+                            925,
+                            194.5
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢, ㉣)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            249,
+                            42.92,
+                            707,
+                            158.92
+                        ]
+                    ],
+                    "text_description": "㉠ $50 \\times 700$ ㉡ $600 \\times 30$ ㉢ $80 \\times 500$ ㉣ $400 \\times 90$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            211.5,
+                            80,
+                            237.5
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            260.5,
+                            388,
+                            401.5
+                        ]
+                    ],
+                    "text_description": "㉠ $50 \\times 700=35000 \\rightarrow 0$이 3 개 ㉡ $600 \\times 30=18000 \\rightarrow 0$이 3 개 ㉢ $80 \\times 500=40000 \\rightarrow 0$이 4 개 ㉣ $400 \\times 90=36000 \\rightarrow 0$이 3 개"
+                }
+            ]
+        }
+    ]
+}

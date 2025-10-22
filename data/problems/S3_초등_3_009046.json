@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3fd0492e-6d9a-41ff-9285-d43ea2894c17",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009046",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.5,
+                            3.92,
+                            488.5,
+                            34.92
+                        ]
+                    ],
+                    "text_description": "반직선 ㄱㄴ으로 알맞은 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            181.5,
+                            677.5,
+                            207.5
+                        ]
+                    ],
+                    "text_description": "반직선 ㄱㄴ은 점 ㄱ에서 시작하여 점 ㄴ을 지나는 반직선입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.0,
+                            65.0,
+                            413.0,
+                            102.0
+                        ]
+                    ],
+                    "text_description": "점ㄱ과 점ㄴ을 한쪽만 지나가는 선이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            471.0,
+                            69.0,
+                            736.0,
+                            106.0
+                        ]
+                    ],
+                    "text_description": "점ㄱ과 점ㄴ을 곧게 이은 선이다."
+                }
+            ]
+        }
+    ]
+}

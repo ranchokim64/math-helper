@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3fe3610d-9506-4d8b-ba9a-4f04fd75e54d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004512",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            14.42,
+                            353.5,
+                            40.42
+                        ]
+                    ],
+                    "text_description": "두 식의 계산 결과의 합을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127.2,
+                            49.98,
+                            377.06,
+                            129.85
+                        ]
+                    ],
+                    "text_description": "연두색 박스에 다음과 같은 두 개의 식이 들어있다.㉠ $5+27-12$ ㉡ $5 \\times(4+6) \\div 2-7$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            330.98,
+                            145.51,
+                            358.62,
+                            167.53
+                        ]
+                    ],
+                    "text_description": "$38$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.58,
+                            176.74,
+                            365.28,
+                            257.64
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text { ㉠ } 5+27-12=32-12=20 \\\\ \\text { ㉡ } 5 \\times(4+6) \\div 2-7=5 \\times 10 \\div 2-7 \\\\ =50 \\div 2-7=25-7=18 \\\\ \\Rightarrow㉠+㉡=20+18=38 \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

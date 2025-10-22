@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4c1a4c9c-c125-4bf7-9b5b-83a035956ecf",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007460",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            7.42,
+                            533,
+                            32.42
+                        ]
+                    ],
+                    "text_description": "삼각형의 이름이 될 수 있는 것을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            363,
+                            37.42,
+                            514,
+                            185.42
+                        ]
+                    ],
+                    "text_description": "정삼각형이 그려져있고, 각 변의 길이가 $6cm$로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            226,
+                            168,
+                            253
+                        ]
+                    ],
+                    "text_description": "③ 예각삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            438,
+                            191,
+                            553,
+                            218
+                        ]
+                    ],
+                    "text_description": "② 정삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            192,
+                            189,
+                            217
+                        ]
+                    ],
+                    "text_description": "① 이등변삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            437,
+                            226,
+                            574,
+                            251
+                        ]
+                    ],
+                    "text_description": "④ 직각삼각형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            261,
+                            167,
+                            286
+                        ]
+                    ],
+                    "text_description": "⑤ 둔각삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            344,
+                            845,
+                            400
+                        ]
+                    ],
+                    "text_description": "세 변의 길이가 같기 때문에 정삼각형이고, 세 각이 예각이기 때문에 예각삼각형입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4bb44bba-45c4-4294-b40d-8e8f59772534",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012264",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84,
+                            18.92,
+                            773,
+                            183.92
+                        ]
+                    ],
+                    "text_description": "민영이는 314쪽인 동화책을 매일 23쪽 씩 읽었습니다. 이 동화책을 끝까지 읽는 데 며칠이 걸릴까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            144.38,
+                            565.76,
+                            206.34,
+                            598.53
+                        ]
+                    ],
+                    "text_description": "14일"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            280.17,
+                            423.53,
+                            490.29,
+                            450.15
+                        ]
+                    ],
+                    "text_description": "에서 13일을 읽고"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.93,
+                            460.8,
+                            491.11,
+                            522.65
+                        ]
+                    ],
+                    "text_description": "15쪽을 읽는 데 1일이 더 걸리므로 모두 14일이 걸립니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            424.92,
+                            278,
+                            448.92
+                        ]
+                    ],
+                    "text_description": "$314 \\div 23=13 \\cdots15$"
+                }
+            ]
+        }
+    ]
+}

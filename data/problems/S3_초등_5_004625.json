@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "daea3925-6bb6-4d3b-9be4-ab597222828a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004625",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.33,
+                            19.07,
+                            452.29,
+                            69.93
+                        ]
+                    ],
+                    "text_description": "보기와 같이 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.59,
+                            99.46,
+                            750.07,
+                            273.37
+                        ]
+                    ],
+                    "text_description": "보기 $4 \\times 2 \\frac{2}{3}=(4 \\times 2)+\\left(4 \\times \\frac{2}{3}\\right)=8+\\frac{8}{3}=10 \\frac{2}{3}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.28,
+                            282.27,
+                            219.28,
+                            373.27
+                        ]
+                    ],
+                    "text_description": "① $3 \\times 1 \\frac{1}{5}=$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            617.17,
+                            281.27,
+                            685.26,
+                            365.76
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{3}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.85,
+                            378.07,
+                            595.85,
+                            414.88
+                        ]
+                    ],
+                    "text_description": "대분수를 자연수와 진분수의 합으로 보고 계산합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            222.28,
+                            281.27,
+                            590.28,
+                            368.27
+                        ]
+                    ],
+                    "text_description": "$(3 \\times 1)+\\left(3 \\times \\frac{1}{5}\\right)=3+\\frac{3}{5}$"
+                }
+            ]
+        }
+    ]
+}

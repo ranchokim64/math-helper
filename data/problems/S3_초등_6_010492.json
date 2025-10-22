@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1438ed0c-b2e0-4d8f-b76c-d0851fdf5bf9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010492",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.86,
+                            12.78,
+                            956.72,
+                            82.12
+                        ]
+                    ],
+                    "text_description": "윤주와 승기는 농구공 던져 넣기를 했습니다. 두 사람 중 성공률이 더 높은 사람의 이름을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            392.11,
+                            306.36,
+                            596.3,
+                            342.39
+                        ]
+                    ],
+                    "text_description": "(윤주, 승기)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            150.61,
+                            90.4,
+                            840.89,
+                            303.51
+                        ]
+                    ],
+                    "text_description": "윤주라는 여학생과 승기라는 남학생이 농구공을 들고 대화하고 있습니다. 윤주 : 나는 공을 30번 던져서 18번 넣었어. 승기 : 나는 공을 20번 전져서 13번 넣었어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.98,
+                            363.14,
+                            106.02,
+                            390.43
+                        ]
+                    ],
+                    "text_description": "승기"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.98,
+                            412.27,
+                            872.55,
+                            466.78
+                        ]
+                    ],
+                    "text_description": "윤주의 성공률은 $\\frac{18}{30}\\left(=\\frac{3}{5}=0. 6\\right)$ 이고, 승기의 성공률은 $\\frac{13}{20}(=0. 65)$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.769999999999996,
+                            479.7,
+                            918.41,
+                            535.66
+                        ]
+                    ],
+                    "text_description": "따라서 $\\frac{18}{30}\\left(=\\frac{3}{5}=0. 6\\right)<\\frac{13}{20}(=0. 65)$ 이므로 성공률이 더 높은 사람은 승기입니다."
+                }
+            ]
+        }
+    ]
+}

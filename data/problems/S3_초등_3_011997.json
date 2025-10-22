@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fb1586a1-34f6-4a6b-bca2-56dfbf4a8aa7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011997",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.06,
+                            15.47,
+                            587.86,
+                            97.07
+                        ]
+                    ],
+                    "text_description": "나타내는 수가 가장 작은 것을 찾아 기 호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            164.66,
+                            120.27,
+                            493.46,
+                            320.27
+                        ]
+                    ],
+                    "text_description": "㉠ $70 \\times 4$ ㉡ 80씩 3묶음 ㉢ 60과 5의 곱 ㉣ $90+90+90+90$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            461.86,
+                            345.56,
+                            487.06,
+                            371.96
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.86,
+                            385.56,
+                            368.66,
+                            491.96
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\begin{array}{lll} \\text { ㉠ } 70 \\times 4 & =280 & \\text { ㉡ } 80 \\times 3=240 \\end{array} \\\\ \\text { ㉢ } 60 \\times 5=300 \\text { ㉣ } 90 \\times 4=360 \\\\ \\rightarrow \\underline{240}<\\underline{280}<\\underline{300}<\\underline{360} \\\\ \\text { ㉡ } \\quad\\quad \\text { ㉠ } \\quad\\quad \\text { ㉢ } \\quad\\quad \\text { ㉣ } \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

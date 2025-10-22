@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fa7c3210-a070-4499-b378-e2ef340a3e42",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005575",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.56,
+                            21.82,
+                            316.81,
+                            48.56
+                        ]
+                    ],
+                    "text_description": "전개도를 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.57,
+                            333.04,
+                            488.11,
+                            362.67
+                        ]
+                    ],
+                    "text_description": "전개도를 접으면 어떤 도형이 되는지 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.25,
+                            64.46,
+                            416.89,
+                            314.27
+                        ]
+                    ],
+                    "text_description": "각 꼭지점 ㄱ에서 ㅊ까지인 삼각기둥 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            353.67,
+                            382.91,
+                            436.79,
+                            413.27
+                        ]
+                    ],
+                    "text_description": "삼각기둥"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.59,
+                            430.61,
+                            524.86,
+                            476.15
+                        ]
+                    ],
+                    "text_description": "삼각형인 밑면이 2개이고, 직사각형인 옆면이 3개이므로 삼각기 둥입니다."
+                }
+            ]
+        }
+    ]
+}

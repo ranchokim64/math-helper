@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6be501a1-e452-4dd8-860e-20e021d510ba",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004468",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.91,
+                            7.26,
+                            259.22,
+                            31.07
+                        ]
+                    ],
+                    "text_description": "삼각형의 넓이를 각각 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.27,
+                            38.77,
+                            157.27,
+                            148.77
+                        ]
+                    ],
+                    "text_description": "이미지에는 직각삼각형이 있다. 이 삼각형의 한 변의 길이는 7cm이고, 다른 변의 길이는 10cm이다. 직각은 삼각형의 한 꼭짓점에 표시되어 있다. 삼각형의 내부는 연두색으로 음영 처리되어 있다. 삼각형의 밑변과 높이는 각각 7cm와 10cm로 보인다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.27,
+                            193.77,
+                            104.27,
+                            215.77
+                        ]
+                    ],
+                    "text_description": "$35 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.35,
+                            166.61,
+                            150.4,
+                            187.01
+                        ]
+                    ],
+                    "text_description": "① $7 \\times 10 \\div 2=35\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c21a4a66-37a8-4a5c-ad3e-dbe79a4c682d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012499",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.21,
+                            10.86,
+                            474.52,
+                            76.45
+                        ]
+                    ],
+                    "text_description": "어느 달의 날씨를 조사한 자료입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.3,
+                            442.03,
+                            432.6,
+                            468.54
+                        ]
+                    ],
+                    "text_description": "이 달의 30일에는 날씨가 어땠나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.77,
+                            101.11,
+                            458.49,
+                            403.81
+                        ]
+                    ],
+                    "text_description": "달력에 날씨가 나타나있고. 해는 맑음, 구름은 흐림, 우산은 비를 나타낸다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            372.8,
+                            493.2,
+                            409.79,
+                            514.77
+                        ]
+                    ],
+                    "text_description": "흐림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.5,
+                            530.19,
+                            449.24,
+                            548.68
+                        ]
+                    ],
+                    "text_description": "30일에는 구름이 그려져 있으므로 흐린 날이었습니다."
+                }
+            ]
+        }
+    ]
+}

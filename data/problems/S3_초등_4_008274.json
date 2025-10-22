@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "852a4da2-bccc-4631-8e2d-0e4b0fb79169",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008274",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            4.42,
+                            929,
+                            73.42
+                        ]
+                    ],
+                    "text_description": "도형을 왼쪽으로 $2$번 뒤집은 뒤 시계 방향으로 $270^{\\circ}$만큼 돌린 모양을 아래에서 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            194.25,
+                            77,
+                            763,
+                            283.25
+                        ]
+                    ],
+                    "text_description": "모눈종이 위에 사다리꼴이 그려져 있다. 오른쪽 표시를하고 있는 화살표가 있으며 빈 모눈종이를 가리키고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            264.25,
+                            298.25,
+                            696.75,
+                            450.75
+                        ]
+                    ],
+                    "text_description": "두 모눈종이 위에 사다리꼴이 다른 모양의 형태로 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            592,
+                            108,
+                            699.5
+                        ]
+                    ],
+                    "text_description": "모눈종이 위에 사다리꼴이 그려져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            463,
+                            923,
+                            562
+                        ]
+                    ],
+                    "text_description": "도형을 왼쪽으로 2번 뒤집으면 처음 모양과 같고, 시계 방향으로 $270^{\\circ}$만큼 돌린 모양은 시계 반대 방향으로 $90^{\\circ}$만큼 돌린 모양과 같으므로 처음 도형을 시계 반대 방향으로 $90^{\\circ}$만큼 돌린 모양을 그리면 됩니다."
+                }
+            ]
+        }
+    ]
+}

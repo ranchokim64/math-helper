@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1b21c5f8-0971-4429-b3d7-8bdead0078f6",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003058",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.49,
+                            8,
+                            743.49,
+                            75
+                        ]
+                    ],
+                    "text_description": "친구들이 주어진 모양과 똑같이 쌓기나무를 쌓고 있습니다. 똑같이 쌓는 데 필요한 쌓기 나무의 개수가 많은 친구부터 차례대로 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.49,
+                            86,
+                            344.49,
+                            820
+                        ]
+                    ],
+                    "text_description": "시우의 나무쌓기 모형: 총 3층이며, 그것을 위에서 본 모양은 'ㅆ'자와 비슷하다. 태오의 나무쌓기 모형: 총 3층이며, 그것을 위에서 본 모양으ㅏㄴ 토끼모양과 비슷하다. 다희의 나무쌓기 모형: 2층이며, 위에서 본 모양은 사각형4개인 정사각형과 사각형 2개인 직사각형이 붙은 모양이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.49,
+                            1157.67,
+                            363.49,
+                            1192.67
+                        ]
+                    ],
+                    "text_description": "시우, 다희, 태오"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.49,
+                            829.67,
+                            291.49,
+                            1146.67
+                        ]
+                    ],
+                    "text_description": "시우는 1 층에 5 개, 2 층에 3 개, 3 층에 3 개이므로 주어진 모양과 똑같이 쌓는 데 쌓기나무 11 개가 필요합니다. 태오는 1 층에 6 개, 2 층에 2 개, 3 층에 1 개이므로 주어진 모양과 똑같이 쌓는 데 쌓기나무 9 개가 필요합니다. 다희는 1 층에 6 개, 2 층에 4 개 이므로 주어진 모양과 똑같이 쌓는 데 쌓기나무 10 개가 필요 합니다."
+                }
+            ]
+        }
+    ]
+}

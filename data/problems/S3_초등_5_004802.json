@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7f6d2340-19f5-4514-aabf-c0f16cb5bda4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004802",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-04] 직육면체와 정육면체를 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-03] 직육면체와 정육면체를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.28,
+                            23.24,
+                            495.28,
+                            90.24
+                        ]
+                    ],
+                    "text_description": "정육면체를 보고 면, 모서리, 꼭짓점은 각각 몇 개인지 세어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196.28,
+                            105.78,
+                            315.28,
+                            226.78
+                        ]
+                    ],
+                    "text_description": "정육면체 겨냥도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            166.28,
+                            242.78,
+                            496.28,
+                            363.78
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{rcc} 면: (& 6개 &) \\\\ 모서리:(& 12개 &) \\\\ 꼭짓점: (& 8개 &) \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.28,
+                            371.78,
+                            491.28,
+                            398.78
+                        ]
+                    ],
+                    "text_description": "정육면체에서 면은 6개, 모서리는 12 개, 꼭짓점은 8 개입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d3fee084-f1b3-454a-a50a-5e6d4aaebe2e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004648",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.27,
+                            24.81,
+                            218.36,
+                            67.47
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.73,
+                            107.3,
+                            178.16,
+                            189.16
+                        ]
+                    ],
+                    "text_description": "① $\\frac{7}{15} \\times 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.71,
+                            316.11,
+                            60.03,
+                            383.81
+                        ]
+                    ],
+                    "text_description": "$4 \\frac{1}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.67,
+                            206.92,
+                            285.62,
+                            301.26
+                        ]
+                    ],
+                    "text_description": "① $\\frac{7}{\\frac{75}{5}} \\times \\stackrel{3}{9}=\\frac{21}{5}=4 \\frac{1}{5}$"
+                }
+            ]
+        }
+    ]
+}

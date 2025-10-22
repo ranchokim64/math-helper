@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7f23f20c-05c0-4657-a095-c3f08bedf039",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007492",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-14] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-13] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            3.9,
+                            620.5,
+                            28.9
+                        ]
+                    ],
+                    "text_description": "소수에서 생략할 수 있는 0이 있는 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            233.5,
+                            35.9,
+                            643.5,
+                            199.9
+                        ]
+                    ],
+                    "text_description": "동물이 숫자가 적힌 팻말을 들고 있다. 토끼: 10. 05 강아지: 7. 060"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            209.9,
+                            214.5,
+                            356.9
+                        ]
+                    ],
+                    "text_description": "강아지: 7. 060"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            370.9,
+                            602.5,
+                            396.9
+                        ]
+                    ],
+                    "text_description": "소수의 오른쪽 끝자리 0만 생략할 수 있습니다. $\\Rightarrow 7. 06 ~\\emptyset$"
+                }
+            ]
+        }
+    ]
+}

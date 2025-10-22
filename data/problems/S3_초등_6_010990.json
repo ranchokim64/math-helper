@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "79ba8118-3f17-4083-875e-a8ada91e5d8e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010990",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            7.24,
+                            856.1,
+                            120.44
+                        ]
+                    ],
+                    "text_description": "()모양에 쌓기나무 1개를 더 붙여서 만들 수 있는 모양이 아닌 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            221.9,
+                            129.44,
+                            656.9,
+                            222.84
+                        ]
+                    ],
+                    "text_description": "각기 다른 모양의 쌓기 나무가 3종류 있습니다. 3종류의 쌓기 나무 모두 1층은 4개, 2층은 1개의 나무가 쌓여있지만, 형태는 각기 다릅니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            232.5,
+                            127.3,
+                            311.3
+                        ]
+                    ],
+                    "text_description": "쌓기 나무가 있고, 1층은 4개, 2층은 1개의 나무가 쌓여있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.3,
+                            317.7,
+                            855.3,
+                            422.5
+                        ]
+                    ],
+                    "text_description": "주어진 모양에 쌓기나무 1개들 더 붙여서 (아래 네개, 위에 하나 쌓여진 쌓기나무 모양), (아래 네개, 위에 하나 쌓여진 쌓기나무 모양) 모양을 만들 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

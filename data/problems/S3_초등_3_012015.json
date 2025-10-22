@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e46e36e6-5000-4e0d-b205-2809b75ac1b4",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012015",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14,
+                            11.42,
+                            531,
+                            50.42
+                        ]
+                    ],
+                    "text_description": "색칠한 부분을 분수로 쓰고, 읽어 보세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            76.42,
+                            379,
+                            257.42
+                        ]
+                    ],
+                    "text_description": "① 십자가 모양의 도형이 특정 부부만 색칠 되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            341,
+                            529,
+                            395
+                        ]
+                    ],
+                    "text_description": "쓰기 $\\left(\\frac{3}{8}\\right)$, 읽기 $(8$ 분의 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0,
+                            262,
+                            495,
+                            326
+                        ]
+                    ],
+                    "text_description": "① 전체 8 개 중 3 개를 색칠했으므로 $\\frac{3}{8}$ 이고, 8분의 3이라고 읽습니다."
+                }
+            ]
+        }
+    ]
+}

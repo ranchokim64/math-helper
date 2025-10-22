@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "daf3b460-d1c4-446f-a836-d086954f4cf1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005366",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            17.9,
+                            592,
+                            157.9
+                        ]
+                    ],
+                    "text_description": "원을 한없이 잘게 잘라 이어 붙여서 점점 직사각형에 가까워지는 도형을 만들었습니다. 물음에 답하 세요. (원주율: 3. |4) [12 14]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            376.9,
+                            407,
+                            420.9
+                        ]
+                    ],
+                    "text_description": "직사각형의 가로는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            173.9,
+                            543,
+                            343.9
+                        ]
+                    ],
+                    "text_description": "반지름이 9cm인 정원형과 이를 한없이 잘게 잘라 이어 붙여서 점점 직사각형에 가까워지게 만든 도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            363,
+                            441.9,
+                            490,
+                            476.9
+                        ]
+                    ],
+                    "text_description": "28.26cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            490.9,
+                            531,
+                            548.9
+                        ]
+                    ],
+                    "text_description": "$($ 가로 $)=($ 원주 $) \\times \\frac{1}{2}=9 \\times 2 \\times 3. 14 \\times \\frac{1}{2}=28. 26(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

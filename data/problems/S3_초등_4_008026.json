@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "66af87bb-c858-4c24-af76-1e2e350ad2cf",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008026",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            3.63,
+                            928.64,
+                            77.31
+                        ]
+                    ],
+                    "text_description": "민희와 동준이는 각자 그린 삼각형의 세 각의 크기를 각각 재었습니다. 각도를 잘못 잰 사람의 이름을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            257.15999999999997,
+                            123.23,
+                            442.6,
+                            280.47
+                        ]
+                    ],
+                    "text_description": "민희가 잰 삼각형의 각각의 크기는 $60^{\\circ}, 30^{\\circ}, 90^{\\circ}$이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            541.88,
+                            81.36,
+                            707.2,
+                            280.4
+                        ]
+                    ],
+                    "text_description": "동준이가 잰 삼각형의 각각의 크기는 $50^{\\circ}, 35^{\\circ}, 85^{\\circ}$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.52,
+                            346.32,
+                            108.16,
+                            371.92
+                        ]
+                    ],
+                    "text_description": "동준"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.72,
+                            393.04,
+                            914.56,
+                            455.76
+                        ]
+                    ],
+                    "text_description": "민희: $60^{\\circ}+30^{\\circ}+90^{\\circ}=180^{\\circ}$, 동준: $50^{\\circ}+35^{\\circ}+85^{\\circ}=170^{\\circ}$ 동준이의 삼각형의 세 각의 크기의 합이 $180^{\\circ}$가 아니므로 각도를 잘못 재었습니다."
+                }
+            ]
+        }
+    ]
+}

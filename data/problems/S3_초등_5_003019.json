@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1c20fadd-0308-4fb6-ba47-a3ac2439e4b8",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003019",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-04] 넓이를 나타내는 표준 단위의 필요성을 인식하여 1cm², 1m², 1km²의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-12] 넓이 단위 1cm², 1m², 1km²를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.47,
+                            8.92,
+                            434.07,
+                            32.92
+                        ]
+                    ],
+                    "text_description": "조각 맞추기를 하였습니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.27,
+                            343.12,
+                            471.67,
+                            370.52
+                        ]
+                    ],
+                    "text_description": "조각이 채워진 부분의 넓이는 모두 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            267.67,
+                            57.41,
+                            541.27,
+                            334.21
+                        ]
+                    ],
+                    "text_description": "한 칸의 넓이가 $1 \\mathrm{cm}^{2}$인 7x7크기의 조각맞추기 이미지."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.67,
+                            445.41,
+                            296.47,
+                            476.61
+                        ]
+                    ],
+                    "text_description": "$34 \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.27,
+                            387.81,
+                            634.87,
+                            423.01
+                        ]
+                    ],
+                    "text_description": "그림에서 조각이 채워진 부분은 $1 \\mathrm{cm}^{2}$가 34 개이므로 $34 \\mathrm{~cm}^{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

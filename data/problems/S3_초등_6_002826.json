@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f5d019c5-226e-43cf-89f8-fe2e7c15e1c5",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002826",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            7.66,
+                            726.5,
+                            73.91
+                        ]
+                    ],
+                    "text_description": "두 마을의 넓이에 대한 인구의 비율을 각각 구하여 시우네 가족이 이사 갈 예정인 마을이 어디인지 알아보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.75,
+                            70.63,
+                            724.5,
+                            390.38
+                        ]
+                    ],
+                    "text_description": "인구가 덜 밀집한 마을로 이사 갈 예정이야. 인구와 넓이를 행복 마을과 사랑 마을로 비교한 표."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.75,
+                            559.13,
+                            710.5,
+                            916.13
+                        ]
+                    ],
+                    "text_description": "행복마을 넓이에 대한 인구의 비율: 168, 사랑마을 넓이에 대한 인구의 비율: 150 (사랑)마을"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44,
+                            446.88,
+                            708.5,
+                            558.38
+                        ]
+                    ],
+                    "text_description": "행복 마을의 넓이에 대한 인구의 비율은 $\\frac{840}{5}=168$ 이고, 사랑 마을의 넓이에 대한 인구의 비율은 $\\frac{1200}{8}=150$ 입니다. 넓이에 대한 인구의 비율이 낮은 마을일수록 인구가 덜 밀집한 곳이므로 시우네 가족이 이사 갈 예정인 마을은 사랑 마을입니다."
+                }
+            ]
+        }
+    ]
+}

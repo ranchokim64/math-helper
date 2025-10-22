@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7101d85a-b8e4-4c68-977d-296219904b42",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008151",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73,
+                            9.84,
+                            582,
+                            41.84
+                        ]
+                    ],
+                    "text_description": "계산 결과가 잘못된 것의 기호를 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            815,
+                            330.44,
+                            935,
+                            363.44
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            213,
+                            46.84,
+                            758,
+                            327.84
+                        ]
+                    ],
+                    "text_description": "㉠ $ \\begin{aligned} & \\quad \\quad 2 \\quad 5 \\\\ 14 \\,) & \\quad 3 \\quad 5 \\quad 7 \\\\ & \\quad 2 \\quad 8 \\\\ \\hline & \\quad 7 \\quad 7 \\\\ & \\quad 7 \\quad 0 \\\\ & \\quad \\, \\, \\, 7 \\\\ \\end{aligned} $ ㉡ $ \\begin{aligned} & \\ \\ \\ \\ 1 \\ \\ 5 \\\\ 32) & \\ \\ \\ \\ 5 \\ \\ 1 \\ \\ 2 \\\\ & \\ \\ \\ \\ \\ \\ \\ 3 \\ \\ 2 \\\\ & \\underline{1 \\ \\ 9 \\ \\ 2} \\\\ & \\ 1 \\ \\ 6 \\ \\ 0 \\\\ & \\underline{3 \\ \\ 2} \\end{aligned} $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            380.44,
+                            88,
+                            407.44
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            425.44,
+                            542,
+                            455.44
+                        ]
+                    ],
+                    "text_description": "나머지는 나누는 수보다 항상 작아야 합니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36,
+                            462.44,
+                            833,
+                            491.44
+                        ]
+                    ],
+                    "text_description": "㉡에서 나머지가 나누는 수와 같으므로 몫을 1 크게 하여 계산해야 합니다."
+                }
+            ]
+        }
+    ]
+}

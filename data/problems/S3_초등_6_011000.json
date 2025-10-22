@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9de908e1-406e-4a4e-b21f-99e1b780f612",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011000",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.37,
+                            3.26,
+                            864.12,
+                            67.01
+                        ]
+                    ],
+                    "text_description": "공원에 있는 조형물 사진을 찍었습니다. 각 사진을 찍은 위치를 찾아 기호를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.87,
+                            72.01,
+                            354.12,
+                            277.01
+                        ]
+                    ],
+                    "text_description": "이 이미지는 정육면체 모양의 3D 도형을 중심으로 네 개의 위치가 표시되어 있습니다. 각 위치는 '가', '나', '다', '라'라는 텍스트와 함께 빨간색 핀 아이콘이 위치하고 있습니다. 각 위치는 정육면체의 각 면이나 꼭짓점에 해당하는 것처럼 보입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.62,
+                            282.76,
+                            224.12,
+                            439.26
+                        ]
+                    ],
+                    "text_description": "이 이미지는 정육면체 모양의 3D 도형입니다. 꼭지점 세 개에 다른 색의 공 모양 표시가 있습니다. 보라색 공이 가운데, 빨간색 공이 왼쪽, 노란색 공이 오른쪽에 있습니다. (가, 나, 다, 라)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.62,
+                            499.26,
+                            29.12,
+                            525.51
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.62,
+                            458.01,
+                            745.37,
+                            489.26
+                        ]
+                    ],
+                    "text_description": "다: 보라색 공이 가운데, 빨간색 공이 왼쪽, 노란색 공이 오른쪽에 있습니다."
+                }
+            ]
+        }
+    ]
+}

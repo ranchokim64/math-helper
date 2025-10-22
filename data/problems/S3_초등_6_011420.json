@@ -1,0 +1,138 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "da24b82c-2f6b-4fdb-875c-187c1da5c8ee",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011420",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.04,
+                            3.56,
+                            702.72,
+                            37.04
+                        ]
+                    ],
+                    "text_description": "다음 중 원기둥의 전개도는 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            406.4,
+                            49.14,
+                            577.6,
+                            191.54
+                        ]
+                    ],
+                    "text_description": "원기둥의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.35,
+                            451.34,
+                            1151.6,
+                            523.84
+                        ]
+                    ],
+                    "text_description": "①과 ③은 밑면의 둘레와 직사각형 모양의 옆면이 맞닿는 부분의 길이가 다르고, ④는 밑면이 위와 아래에 하나씩이 아닙니다. ⑤는 위와 아래의 면의 크기가 다릅니다."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            51,
+                            178.8,
+                            195.2
+                        ]
+                    ],
+                    "text_description": "면의 둘레와 직사각형 모양의 옆면이 맞닿는 부분의 길이가 다른 전개도이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            770.4,
+                            48.8,
+                            970.4,
+                            184
+                        ]
+                    ],
+                    "text_description": "면의 둘레와 직사각형 모양의 옆면이 맞닿는 부분의 길이가 다른 전개도이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.4,
+                            204,
+                            218.4,
+                            312.8
+                        ]
+                    ],
+                    "text_description": "밑면이 위와 아래에 하나씩이 아닌 전개도이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            408,
+                            204,
+                            579.2,
+                            372.8
+                        ]
+                    ],
+                    "text_description": "위와 아래의 면의 크기가 다른 전개도이다."
+                }
+            ]
+        }
+    ]
+}

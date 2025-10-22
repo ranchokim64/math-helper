@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4a83d078-ce83-4721-a6cf-710d9304acca",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005270",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            5.92,
+                            624.5,
+                            95.92
+                        ]
+                    ],
+                    "text_description": "⬛️안의 수를 주어진 비로 비례 배분하여 (,) 안에 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            126.92,
+                            250.5,
+                            199.92
+                        ]
+                    ],
+                    "text_description": "① 80"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            210.5,
+                            158.5,
+                            255.5
+                        ]
+                    ],
+                    "text_description": "$5: 3 \\Rightarrow$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            242.5,
+                            215.5,
+                            521.5,
+                            254.5
+                        ]
+                    ],
+                    "text_description": "50, 30"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.32,
+                            267.62,
+                            319.32,
+                            400.42
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}80 \\times \\frac{5}{5+3}=80 \\times \\frac{5}{8}=50, \\\\ 80 \\times \\frac{3}{5+3}=80 \\times \\frac{3}{8}=30\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

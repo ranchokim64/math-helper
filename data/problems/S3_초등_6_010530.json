@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bab25be6-c239-4950-9077-7d0d3df654c8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010530",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            1.92,
+                            964.5,
+                            77.92
+                        ]
+                    ],
+                    "text_description": "지민이네 반 학생들이 좋아하는 과목을 조사하여 나타낸 띠그래프입니다. 가장 많은 학생들이 좋아하는 과목은 무엇인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            170.5,
+                            88.92,
+                            815.5,
+                            254.92
+                        ]
+                    ],
+                    "text_description": "좋아하는 과목별 학생 수의 띠그래프가 있다. 0에서 100(%)까지의 눈금이 있다. 왼쪽부터 수학은 35%, 국어는 20%, 사회는 15%, 과학은 10%, 기타는 20%를 차지한다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            262.5,
+                            127.5,
+                            299.5
+                        ]
+                    ],
+                    "text_description": "① 수학"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            335.5,
+                            261.5,
+                            736.5,
+                            341.5
+                        ]
+                    ],
+                    "text_description": "② 국어 ③ 사회 ⑤ 기타"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            307.5,
+                            128.5,
+                            341.5
+                        ]
+                    ],
+                    "text_description": "④ 과학"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.5,
+                            398.5,
+                            963.5,
+                            507.5
+                        ]
+                    ],
+                    "text_description": "(해설)수학이 $35 \\%$, 국어가 $20 \\%$, 사회가 $15 \\%$, 과학이 $10 \\%$, 기타 $20 \\%$ 이므로 수학이 $35 \\%$로 가장 큰 비율을 차지합니다. 따라서 가장 많은 학생들이 좋아하는 과목은 수학 입니다."
+                }
+            ]
+        }
+    ]
+}

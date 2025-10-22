@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "09e4cd35-907d-49ec-a578-fd09cb5c932e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010176",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.2,
+                            0.14,
+                            665.2,
+                            60.74
+                        ]
+                    ],
+                    "text_description": "주어진 카드 중에서 한 장을 뽑을 때, 스페이드 카드를 뽑을 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            142.2,
+                            64.72,
+                            547.6,
+                            145.32
+                        ]
+                    ],
+                    "text_description": "스페이스 카드 6장이 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196,
+                            183.12,
+                            493.2,
+                            318.92
+                        ]
+                    ],
+                    "text_description": "위 이미지에는 두 개의 수평선이 있습니다. 각 선은 $0$에서 $1$까지의 범위를 나타내며, 선 모두 중간 지점인 $\\frac{1}{2}$이 표기되어 있습니다. 위 수평선에는 $\\frac{1}{2}$지점에 핑크색 화살표가 표시되어 있고 아래 수평선은 $1$지점에 핑크색 화살표가 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.2,
+                            328.32,
+                            304.4,
+                            386.92
+                        ]
+                    ],
+                    "text_description": "수직선이 있고 $0$에서 $1$까지의 범위를 나타내며, 선 중간 지점인 $\\frac{1}{2}$이 표기되어 있습니다. $1$지점에 핑크색 화살표가 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.2,
+                            390.72,
+                            665.2,
+                            449.32
+                        ]
+                    ],
+                    "text_description": "카드 6장이 모두 (스페이스 모양) 카드이므로 (스페이스 모양) 카드를 뽑을 가능성은 '확실하다'이고, 수로 표현하면 1입니다."
+                }
+            ]
+        }
+    ]
+}

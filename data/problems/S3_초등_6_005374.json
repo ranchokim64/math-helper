@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e6d3c361-a21f-4b57-bc73-1ebfd3a52eed",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005374",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.78,
+                            3.74,
+                            558.78,
+                            56.74
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 24cm인 정사각형 안에 그릴 수 있는 가장 큰 원의 넓이를 구해 보세요. (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.78,
+                            66.28,
+                            175.78,
+                            191.28
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 24cm인 정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            563.78,
+                            246.28,
+                            630.78,
+                            278.28
+                        ]
+                    ],
+                    "text_description": "12cm"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.78,
+                            238.28,
+                            209.78,
+                            258.28
+                        ]
+                    ],
+                    "text_description": "$($ 원의 반지름 $)=24 \\div 2=12(\\mathrm{~cm})$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.78,
+                            206.28,
+                            299.78,
+                            235.28
+                        ]
+                    ],
+                    "text_description": "가장 큰 원의 반지름은 몇 cm인가요?"
+                }
+            ]
+        }
+    ]
+}

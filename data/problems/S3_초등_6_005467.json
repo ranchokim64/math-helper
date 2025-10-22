@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8ea40300-f703-4ddf-9c6d-2dcc9796990b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005467",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            9.9,
+                            354.5,
+                            53.9
+                        ]
+                    ],
+                    "text_description": "원주를 구해 보세요. (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            157.5,
+                            63.9,
+                            302.5,
+                            189.9
+                        ]
+                    ],
+                    "text_description": "반지름이 3cm인 정원형 평면도형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.5,
+                            209.9,
+                            394.5,
+                            236.9
+                        ]
+                    ],
+                    "text_description": "18.84cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            237.9,
+                            293.5,
+                            273.9
+                        ]
+                    ],
+                    "text_description": "$($ 원주 $)=3 \\times 2 \\times 3. 14=18. 84(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

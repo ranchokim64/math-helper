@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "132183d2-b612-40d7-bf75-c456499a3174",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011247",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.92,
+                            7.12,
+                            867.72,
+                            60.8
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 $1cm$ 인 정육각형, 지름이 $2cm$ 인 원, 한 변의 길이가 $2cm$ 인 정사각형을 보고 물음에 답하세요 $. $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.16,
+                            223.08,
+                            862.6,
+                            282.88
+                        ]
+                    ],
+                    "text_description": "원주가 얼마쯤 될지 수직선에 ()로 알맞게 표시한 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.24,
+                            66.12,
+                            572.68,
+                            201.6
+                        ]
+                    ],
+                    "text_description": "이미지는 두 개의 도형을 보여줍니다. 왼쪽에는 정육각형이 있고, 각 변의 길이는 $1cm$입니다. 그 주위에는 반지름 $1cm$의 원이 그려져 있습니다. 오른쪽에는 정사각형이 있으며, 한 변의 길이는 $2cm$입니다. 그 안에는 반지름 $1cm$의 원이 그려져 있습니다. 두 도형의 중심에는 검은 점이 표시되어 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            151.48,
+                            304.36,
+                            746.12,
+                            442.24
+                        ]
+                    ],
+                    "text_description": "이미지는 두 개의 선분을 보여줍니다. 각각의 선분은 $0$에서 $10cm$까지의 길이를 나타내며, 특정 구간에서 파란색으로 표시된 부분이 있습니다. 위쪽 선분의 파란색 구간은 $0$부터 $7$ 가까이까지, 아래쪽 선분은 $0$부터 $5$ 조금 뒤까지 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.48,
+                            463.36,
+                            650.12,
+                            523.52
+                        ]
+                    ],
+                    "text_description": "이 이미지는 선분을 보여줍니다. 선분은 $0$에서 $10cm$까지의 길이를 나타내며, 특정 구간에서 파란색으로 표시된 부분이 있습니다. 위쪽 선분의 파란색 구간은 $0$부터 $7$ 가까이까지 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.96,
+                            535.04,
+                            861.96,
+                            590.08
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 $1cm$ 인 정육각형의 둘레보다 길고, 한 변의 길이가 $2cm$ 인 정사각형의 둘레보다 짧으므로 $6cm$보다 길고, $8cm$보다 짧게 그립니다."
+                }
+            ]
+        }
+    ]
+}

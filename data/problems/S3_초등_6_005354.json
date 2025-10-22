@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "eba15801-5ece-4375-9f1c-443d0171de77",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005354",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.64,
+                            16.72,
+                            519.76,
+                            54.79
+                        ]
+                    ],
+                    "text_description": "그림을 보고 물음에 답하세요. (원주율: 3. 1)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.17,
+                            341.55,
+                            586.68,
+                            437.31
+                        ]
+                    ],
+                    "text_description": "선분 ㄱㄴ의 길이가 선분 ㄴㄷ의 길이의 2 배일 때 큰 원과 작은 원의 지름을 각각 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            143.17,
+                            118.87,
+                            413.61,
+                            315.01
+                        ]
+                    ],
+                    "text_description": "ㄱ에서 ㄷ까지의 거리가 9cm인 작은원과 큰원이 합쳐진 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188.47,
+                            445.93,
+                            584.37,
+                            544.61
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{rll}\\text { 큰 원: (} & 12 \\mathrm{~cm} & \\text {) } \\\\ \\text { 작은 원: (} & 6 \\mathrm{~cm} & \\text {) }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.71,
+                            550.92,
+                            380.46,
+                            681.91
+                        ]
+                    ],
+                    "text_description": "(선분 ㄱㄴ의 길이) $=9 \\times \\frac{2}{3}=6(\\mathrm{~cm})$ (선분 ㄴㄷ의 길이) $=9 \\times \\frac{1}{3}=3(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

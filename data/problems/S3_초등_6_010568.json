@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0e8aa015-906b-44eb-8b07-122c205015f4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010568",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.62,
+                            11.52,
+                            956.62,
+                            84.02
+                        ]
+                    ],
+                    "text_description": "쌓기나무 한 개의 부피가 $1 \\mathrm{~cm}^{3}$라고 할 때, 부피가 가장 큰 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            247.37,
+                            96.02,
+                            739.12,
+                            339.02
+                        ]
+                    ],
+                    "text_description": "정육면체 모양의 블록이 여러 개 쌓여 있는 구조인 세 개의 모형이 있다. 각 블록은 격자 모양으로 배열되어 있으며, 전체적으로 입체적인 형태를 가지고 있습니다. 가 가로 4개, 세로 5개, 높이 2개로 이루어져 있다. 나 가로 3개, 세로 5개, 높이 6개로 이루어져 있다. 다 가로 5개, 세로 4개, 높이 3개로 이루어져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.12,
+                            352.5,
+                            84.12,
+                            382.5
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.12,
+                            403.5,
+                            409.12,
+                            558.75
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { 가: } 4 \\times 5 \\times 2=40 \\text { (개) } \\rightarrow 40 \\mathrm{~cm}^{3} \\\\ \\text { 나: } 3 \\times 5 \\times 6=90 \\text { (개) } \\rightarrow 90 \\mathrm{~cm}^{3} \\\\ \\text { 다: } 5 \\times 4 \\times 3=60 \\text { (개) } \\rightarrow 60 \\mathrm{~cm}^{3} \\\\ \\text { 따라서 부피가 큰 것은 나입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

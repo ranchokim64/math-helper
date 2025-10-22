@@ -1,0 +1,132 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8356bd73-cab6-4270-ab78-c066a42c0591",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010710",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.37,
+                            -0.2,
+                            623.24,
+                            27.14
+                        ]
+                    ],
+                    "text_description": "두 수가 서로 약수와 배수의 관계인 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.4,
+                            73.99,
+                            120.31,
+                            103.81
+                        ]
+                    ],
+                    "text_description": "④ $(13, 52)$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.4,
+                            37.53,
+                            615.78,
+                            67.36
+                        ]
+                    ],
+                    "text_description": "① $(3, 25)$ ② $(6, 56)$ ③ $(8, 49)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            269.45,
+                            73.99,
+                            373.02,
+                            104.64
+                        ]
+                    ],
+                    "text_description": "⑤ $(20, 70)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.89,
+                            306.81,
+                            624.07,
+                            334.15
+                        ]
+                    ],
+                    "text_description": "따라서 두 수가 서로 약수와 배수의 관계인 것은 ④ $(13, 52)$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.83,
+                            155.18,
+                            198.2,
+                            301.84
+                        ]
+                    ],
+                    "text_description": "① $25 \\div 3=8 \\cdots 1$ ② $56 \\div 6=9 \\cdots 2$ ③ $49 \\div 8=6 \\cdots 1$ ④ $52 \\div 13=4$ ⑤ $70 \\div 20=3 \\cdots 10$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a48c5008-badf-4d70-b072-1d3f6cd0ea08",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011058",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.2,
+                            11.24,
+                            756.4,
+                            38.44
+                        ]
+                    ],
+                    "text_description": "다음 모양을 위에서 내려다 보면 어떤 모양인지 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            390,
+                            44.44,
+                            496.4,
+                            176.64
+                        ]
+                    ],
+                    "text_description": "직육면체 윗면에 삼각뿔이 붉은색으로 그려져 있습니다. 위에서 본 표시라는 화살표가 적혀 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            214.8,
+                            173.3,
+                            348.4,
+                            286.9
+                        ]
+                    ],
+                    "text_description": "① 사각형 안에 삼각형 3개가 합쳐 만든 삼각형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            338.9,
+                            713,
+                            362.9
+                        ]
+                    ],
+                    "text_description": "위에서 내려다보았을 때 삼각뿔 모양의 가운데가 만나므로 ①입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            383.6,
+                            178.1,
+                            515.6,
+                            288.5
+                        ]
+                    ],
+                    "text_description": "② 사각형 안에 하나의 삼각형이 보입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            534.8,
+                            174.9,
+                            670,
+                            289.3
+                        ]
+                    ],
+                    "text_description": "③ 사각형 안에 두 개의 삼각형이 합쳐 하나의 삼각형이 된 형태가 보입니다."
+                }
+            ]
+        }
+    ]
+}

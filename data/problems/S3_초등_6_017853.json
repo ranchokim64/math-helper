@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "061b379c-de51-41d7-9dfc-6d3c12387960",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017853",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.9,
+                            6.38,
+                            335.1,
+                            30.38
+                        ]
+                    ],
+                    "text_description": "45를 4:5의 비율로 나누어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.9,
+                            93.58,
+                            99.1,
+                            118.38
+                        ]
+                    ],
+                    "text_description": "② 20, 25"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.9,
+                            55.18,
+                            99.9,
+                            81.58
+                        ]
+                    ],
+                    "text_description": "① 15, 30"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            131.18,
+                            101.5,
+                            231.98
+                        ]
+                    ],
+                    "text_description": "③ 25, 20 ④ 18, 27 ⑤ 10, 35"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.3,
+                            253.3,
+                            686.3,
+                            326.9
+                        ]
+                    ],
+                    "text_description": "1. 전체 비율 합 구하기: 비율의 합은 $4+5=9$ 입니다. 2. 각 부분의 비율 계산: 전체 금액(45)을 비율의 합⑨으로 나눕니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.9,
+                            402.9,
+                            574.3,
+                            590.9
+                        ]
+                    ],
+                    "text_description": "3. 각 부분에 해당하는 값 구하기: - 4의 비율에 해당하는 값: $4 \\times 5=20$ - 5의 비율에 해당하는 값: $5 \\times 5=25$ 따라서, 45를 $4: 5$의 비율로 나누면 각각 $\\mathbf{2 0}$과 $\\mathbf{2 5}$가 됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            453.5,
+                            358.1,
+                            573.5,
+                            381.3
+                        ]
+                    ],
+                    "text_description": "$45 \\div 9=5$"
+                }
+            ]
+        }
+    ]
+}

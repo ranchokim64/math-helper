@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "308355e7-c99c-48f0-b4d0-5f672d88ad54",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008675",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그려서 다양한 모양을 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71,
+                            6.92,
+                            515,
+                            32.92
+                        ]
+                    ],
+                    "text_description": "원을 바르게 완성한 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133.0,
+                            70.92,
+                            828.0,
+                            230.92
+                        ]
+                    ],
+                    "text_description": "이미지는 세 개의 정사각형 안에 원들이 그려진 구조입니다. 첫 번째 정사각형은 정사각형 안에 검은색 원이 완성되지 못한 채 있으며, 원의 중심에는 빨간점이 위치하고 있습니다. 두 번째 정사각형도 내부에 검은색 원과 빨간점이 있습니다. 올바르게 원이 그려져 있습니다. 세 번째 정사각형은 같은 방식으로 구성되어 있지만, 원의 형태가 다릅니다. 중심에 분홍색 점이 있습니다. 원의 하단 부분은 정사각형의 경계에 닿아 있고, 전체적으로 첫 번째 정사각형과 유사하지만 두 번째 형식의 오른쪽 형식과 같은 방식으로 수정되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            268.5,
+                            217,
+                            426.5
+                        ]
+                    ],
+                    "text_description": "정사각형 안에 원이 그려진 구조입니다. 정사각형도 내부에 검은색 원과 빨간점이 있습니다. 올바르게 원이 그려져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            440.5,
+                            919,
+                            467.5
+                        ]
+                    ],
+                    "text_description": "원을 그릴 때에는 누름 못을 이동하지 않고, 시작점과 끝점이 만나도록 그립니다."
+                }
+            ]
+        }
+    ]
+}

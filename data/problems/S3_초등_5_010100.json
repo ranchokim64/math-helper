@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "db0a3172-38d5-4bf8-9f3c-b64e55d66ba2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010100",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.9,
+                            3.04,
+                            447.3,
+                            28.64
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성이 더 높은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.3,
+                            140.3,
+                            662.5,
+                            213.9
+                        ]
+                    ],
+                    "text_description": "일요일 다음 날이 월요일일 가능성은 '확실하다'이고, 6월 31일이 있을 가능성은 '불가능하다'입니다. 따라서 일이 일어날 가능성이 더 높은 것은 왼쪽입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.3,
+                            109.9,
+                            296.9,
+                            131.5
+                        ]
+                    ],
+                    "text_description": "일요일 다음 날이 윌요일일 가능성"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167.3,
+                            39.84,
+                            316.1,
+                            91.84
+                        ]
+                    ],
+                    "text_description": "일요일이 다음 날일 월요일일 가능성"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            365.5,
+                            38.7,
+                            509.7,
+                            92.3
+                        ]
+                    ],
+                    "text_description": "6월 31일이 있을 가능성"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "710ec782-9c6a-468c-ba6a-4a24300e7355",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005290",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.72,
+                            10.79,
+                            476.12,
+                            121.99
+                        ]
+                    ],
+                    "text_description": "길이가 120cm인 끈으로 가로와 세로의 비가 $8: 7$인 직사각형을 만들었습니다. 이 직사각형의 가로와 세로는 각각 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.32,
+                            132.82,
+                            480.12,
+                            206.42
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lll}\\text { 가로: (} & 32 \\mathrm{~cm} & \\text {) } \\\\ \\text { 세로: (} & 28 \\mathrm{~cm} & \\text {) }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.72,
+                            206.42,
+                            365.72,
+                            340.82
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 가로 })+(\\text { 세로 })=120 \\div 2=60(\\mathrm{~cm}) \\\\ (\\text { 가로 })=60 \\times \\frac{8}{8+7}=60 \\times \\frac{8}{15}=32(\\mathrm{~cm}) \\\\ (\\text { 세로 })=60 \\times \\frac{7}{8+7}=60 \\times \\frac{7}{15}=28(\\mathrm{~cm})\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

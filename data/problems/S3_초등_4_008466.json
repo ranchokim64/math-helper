@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0fe1c7eb-250d-4342-97fd-d571e7bfe704",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008466",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.62,
+                            0.25,
+                            931.62,
+                            74
+                        ]
+                    ],
+                    "text_description": "다음은 어느 해 1월 한 달 동안의 날씨를 조사하여 나타낸 막대그래프입니다. 날수가 가장 많은 날씨를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            345.37,
+                            381.5,
+                            624.12,
+                            411.5
+                        ]
+                    ],
+                    "text_description": "(맑음, 흐림, 비, 눈)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167.87,
+                            80.25,
+                            805.37,
+                            379
+                        ]
+                    ],
+                    "text_description": "1월의 날씨별 날수의 막대그래프이다. 가로는 날수, 세로는 날씨이다. 맑음은 13, 흐림은 8, 비는 3, 눈은 7을 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.12,
+                            425.25,
+                            114.12,
+                            463.5
+                        ]
+                    ],
+                    "text_description": "맑음"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.62,
+                            475.25,
+                            671.62,
+                            505.25
+                        ]
+                    ],
+                    "text_description": "막대그래프에서 막대의 길이가 가장 긴 날씨를 찾습니다."
+                }
+            ]
+        }
+    ]
+}

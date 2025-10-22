@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e355767a-a4a1-49a5-85ad-5da6a19587e1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004439",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-04] 넓이를 나타내는 표준 단위의 필요성을 인식하여 1cm², 1m², 1km²의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-12] 넓이 단위 1cm², 1m², 1km²를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.25,
+                            90.25,
+                            413.58,
+                            114.83
+                        ]
+                    ],
+                    "text_description": "직사각형가, 나, 다의 넓이의 합을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.24,
+                            128.42,
+                            415.63,
+                            302.5
+                        ]
+                    ],
+                    "text_description": "눈금 한 칸의 넓이가 $1 \\mathrm{~cm}^{2}$인 모눈종이에 각기 다른 넓이의 직사각형가, 나, 다가 있다. 가: 가로 4칸 x 세로 3칸의 직사각형 모양이다. 나: 가로 2칸 x 세로 5칸의 직사각형 모양이다. 다: 가로 3칸 x 세로 1칸의 직사각형 모양이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            310.16,
+                            319.39,
+                            374.67,
+                            340.39
+                        ]
+                    ],
+                    "text_description": "$25 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.61,
+                            5.03,
+                            233.36,
+                            82.34
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 가: } 4 \\times 3=12\\left(\\mathrm{~cm}^{2}\\right) \\\\ \\text { 나: } 2 \\times 5=10\\left(\\mathrm{~cm}^{2}\\right) \\\\ \\text { 다: } 3 \\times 1=3\\left(\\mathrm{~cm}^{2}\\right) \\\\ \\rightarrow 12+10+3=25\\left(\\mathrm{~cm}^{2}\\right)\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

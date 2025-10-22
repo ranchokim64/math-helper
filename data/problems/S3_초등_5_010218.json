@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3bf6a144-6c06-4016-bc0b-e4391f787e4a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010218",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.75,
+                            4.44,
+                            662.25,
+                            50.94
+                        ]
+                    ],
+                    "text_description": "1부터 6까지의 눈이 그려진 주사위들 한 번 굴릴 때, 주사위 눈의 수가 7 이상일 가능성을 1로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.9,
+                            62.4,
+                            615.5,
+                            121.6
+                        ]
+                    ],
+                    "text_description": "선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이 있습니다. 화살표가 $\\frac{1}{2}$을 가리키고 있습니다. 선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이 있습니다. 화살표가 $0$을 가리키고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.7,
+                            132.2,
+                            296.1,
+                            191.6
+                        ]
+                    ],
+                    "text_description": "선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이 있습니다. 화살표가 $0$을 가리키고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.75,
+                            199.12,
+                            660.5,
+                            244.87
+                        ]
+                    ],
+                    "text_description": "주사위 눈의 수는 1부터 6까지의 수이므로 7 이상일 가능성은 '불가능하다'이고, 수로 표현하면 0 입니다."
+                }
+            ]
+        }
+    ]
+}

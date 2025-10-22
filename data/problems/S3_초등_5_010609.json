@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8a242138-23ee-45b3-b2ff-0abeb2adfc9f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010609",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.27,
+                            4.73,
+                            519.27,
+                            28.73
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 큰 것의 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            653.27,
+                            163.27,
+                            801.27,
+                            191.27
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            265.27,
+                            40.27,
+                            556.27,
+                            157.27
+                        ]
+                    ],
+                    "text_description": "㉠ $45 \\div(28-23)+9$ ㉡ $24+10 \\times 2-21 \\div 7$ ㉢ $60-32+(24-6) \\div 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.27,
+                            206.27,
+                            72.27,
+                            227.27
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.27,
+                            242.27,
+                            650.27,
+                            358.27
+                        ]
+                    ],
+                    "text_description": "㉠ $45 \\div(28-23)+9=45 \\div 5+9=9+9=18$ ㉡ $24+10 \\times 2-21 \\div 7=24+20-3=44-3=41$ ㉢ $60-32+(24-6) \\div 9=60-32+18 \\div 9=60-32+2=28+2=30$ 따라서 계산 결과가 가장 큰 것은 ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

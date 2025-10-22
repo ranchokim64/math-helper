@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f9360998-c9cc-46a4-bad6-b8974cd0fc17",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004760",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.33,
+                            111.83,
+                            608.33,
+                            280.83
+                        ]
+                    ],
+                    "text_description": "떨어뜨린 높이의 0. 8 배만큼 튀어 오르는 공이 있습니다. 이 공을 70cm 높이에서 떨어뜨렸을 때 두 번째로 튀어 오를 때까지 공이 움직인 거리는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            144.33,
+                            291.83,
+                            532.33,
+                            527.83
+                        ]
+                    ],
+                    "text_description": "지면으로부터의 수직거리가 다른 공 세 개가 있으며, 왼쪽 공의 수직거리는 70CM이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            412.33,
+                            549.44,
+                            531.33,
+                            579.44
+                        ]
+                    ],
+                    "text_description": "226.8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.33,
+                            14.44,
+                            585.33,
+                            101.44
+                        ]
+                    ],
+                    "text_description": "(첫 번째로 튀어 오른 공의 높이)=70×0. 8=56 (cm) (두 번째로 튀어 오른 공의 높이)=56×0. 8=44. 8 (cm) (공이 움직인 거리)=70+56+56+44. 8=226. 8 (cm)"
+                }
+            ]
+        }
+    ]
+}

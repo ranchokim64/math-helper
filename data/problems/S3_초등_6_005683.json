@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3ac463ed-0df3-4ff1-a899-fb6eca13bff3",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005683",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 그 관계를 비로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 두 양의 관계를 비로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.62,
+                            9.09,
+                            433.62,
+                            100.29
+                        ]
+                    ],
+                    "text_description": "다음 그림을 보고 빨간 구슬 수에 대한 노란 구슬 수의 비율을 분수로 나타내려고 합니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.62,
+                            252.72,
+                            436.82,
+                            314.32
+                        ]
+                    ],
+                    "text_description": "빨간 구슬 수에 대한 노란 구슬 수의 비율을 분수로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.620000000000001,
+                            113.32,
+                            426.62,
+                            233.72
+                        ]
+                    ],
+                    "text_description": "빨간 구슬 9개와 노란 구슬 13개가 섞인 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            270.42,
+                            317.72,
+                            385.82,
+                            368.72
+                        ]
+                    ],
+                    "text_description": "$\\frac{13}{9}\\left(=1 \\frac{4}{9}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.82,
+                            365.12,
+                            230.62,
+                            414.32
+                        ]
+                    ],
+                    "text_description": "$\\frac{(\\text { 노란 구슬 수) }}{(\\text { 빨간 구슬 수) }}=\\frac{13}{9}=1 \\frac{4}{9}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9c836758-a49c-4fc7-b643-1d25a26e37d4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009219",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            5.9,
+                            753,
+                            66.9
+                        ]
+                    ],
+                    "text_description": "지금 시각은 3시 40분입니다. 1시간 30분 전의 시각을 알아보려고 합니다. 알맞은 것에 $\\bigcirc$ 표 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65,
+                            198.9,
+                            716,
+                            259.9
+                        ]
+                    ],
+                    "text_description": "1시간 30분 전의 시간의 (합, 차)을/를 이용하여 구합니다. $\\rightarrow$ (3시 40분+1시간 30분, 3시 40분-1시간 30분)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74,
+                            73.9,
+                            303,
+                            189.9
+                        ]
+                    ],
+                    "text_description": "시곗바늘을 1시간 30분 전으로 돌려 볼까?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316,
+                            68.9,
+                            703,
+                            196.9
+                        ]
+                    ],
+                    "text_description": "현재 3시 40분을 가리키고 있는 시계가 1시간 30분 전에는 물음표 시간이었다는 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            268.9,
+                            272,
+                            297.9
+                        ]
+                    ],
+                    "text_description": "차, 3시 40분-1시간 30분"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            305.9,
+                            537,
+                            362.9
+                        ]
+                    ],
+                    "text_description": "1시간 30분 전의 시각은 시간의 차를 이용하여 구합니다. $\\rightarrow$ 3시 40분-1시간 30분입니다."
+                }
+            ]
+        }
+    ]
+}

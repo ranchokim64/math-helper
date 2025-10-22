@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0451e086-f97b-457e-8f94-bdb1a3dccf7a",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017908",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.42,
+                            10.71,
+                            310.14,
+                            71.64
+                        ]
+                    ],
+                    "text_description": "다음의 계산 결과를 구하시오. \\[ 18. 75 \\div 5 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.93,
+                            173.53,
+                            81.28,
+                            199.13
+                        ]
+                    ],
+                    "text_description": "③ 3. 7"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.4,
+                            99.8,
+                            82.28,
+                            160.73
+                        ]
+                    ],
+                    "text_description": "① 3. 5 ② 3. 6"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.37,
+                            212.26,
+                            82.3,
+                            273.7
+                        ]
+                    ],
+                    "text_description": "④ 3. 8 ⑤ 3. 9"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.32,
+                            314.52,
+                            497.02,
+                            445.22
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}18. 75 \\div 5=\\frac{1875}{100} \\div 5=\\frac{1875}{100} \\times \\frac{1}{5}=\\frac{1875}{500} \\\\ \\frac{1875}{500}=3. 75\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

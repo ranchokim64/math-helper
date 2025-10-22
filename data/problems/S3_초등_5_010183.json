@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9a660182-4243-4578-9e7c-c53e2cb2e77a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010183",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.54,
+                            6.98,
+                            666.93,
+                            54.47
+                        ]
+                    ],
+                    "text_description": "다음 회전판을 돌릴 때, 화살이 빨간색에 멈출 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.4,
+                            58.47,
+                            387.46,
+                            144.6
+                        ]
+                    ],
+                    "text_description": "절반이 파란색과 빨간색으로 각각 칠해진 회전판에 화살표가 2시 방향을 가리키고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181.63,
+                            149.14,
+                            509.99,
+                            296.61
+                        ]
+                    ],
+                    "text_description": "0, $\\frac{1}{2}$, 1로 표시된 수직선이 위, 아래로 두 개 있다. 위에는 $\\frac{1}{2}$ 지점에 아래로 향한 화살표가 표시돼 있고, 아래는 0 지점에 아래로 향한 화살표가 표시돼 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.94,
+                            305.39,
+                            305.71,
+                            363.57
+                        ]
+                    ],
+                    "text_description": "0, $\\frac{1}{2}$, 1로 표시된 수직선, $\\frac{1}{2}$ 지점에 아래로 향한 화살표가 표시돼 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            425.5,
+                            665.5,
+                            467.5
+                        ]
+                    ],
+                    "text_description": "회전판에서 빨간색과 파란색이 반반이므로 화살이 빨간색에 멈출 가능성은 반반입니 다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            366.5,
+                            304.5,
+                            423.5
+                        ]
+                    ],
+                    "text_description": "0, $\\frac{1}{2}$, 1로 표시된 수직선, $\\frac{1}{2}$ 지점에 아래로 향한 화살표가 표시돼 있다."
+                }
+            ]
+        }
+    ]
+}

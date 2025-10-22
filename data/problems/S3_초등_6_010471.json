@@ -1,0 +1,156 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "28fd425d-389c-4d39-bdea-84e818c1bc93",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010471",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.61,
+                            8.370000000000001,
+                            939.61,
+                            37.37
+                        ]
+                    ],
+                    "text_description": "다음 식을 분수의 나눗셈으로 바꾸어 바르게 나타낸 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.61,
+                            46.37,
+                            655.61,
+                            123.37
+                        ]
+                    ],
+                    "text_description": "$15. 6 \\div 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            335.61,
+                            134.37,
+                            460.61,
+                            193.37
+                        ]
+                    ],
+                    "text_description": "② $\\frac{156 \\div 6}{10}$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.61,
+                            135,
+                            163.61,
+                            268
+                        ]
+                    ],
+                    "text_description": "① $\\frac{15. 6 \\div 6}{10}$ ④ $\\frac{10}{156 \\div 6}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            335.61,
+                            210,
+                            460.61,
+                            271
+                        ]
+                    ],
+                    "text_description": "⑤ $\\frac{100}{156 \\div 6}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            641.61,
+                            135,
+                            764.61,
+                            194
+                        ]
+                    ],
+                    "text_description": "③ $\\frac{156 \\div 6}{100}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.61,
+                            336,
+                            651.61,
+                            364
+                        ]
+                    ],
+                    "text_description": "15. 6을 분모가 10인 분수의 나눗셈으로 바꾸어 계산하면"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.61,
+                            374,
+                            906.61,
+                            428
+                        ]
+                    ],
+                    "text_description": "$15. 6 \\div 6=\\frac{156}{10} \\div 6=\\frac{156 \\div 6}{10}=2. 6$ 이므로 바르게 나타낸 것은 $② \\frac{156 \\div 6}{10}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

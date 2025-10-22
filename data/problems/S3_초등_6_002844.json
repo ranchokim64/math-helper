@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7a03ef50-9bfd-45dd-85d8-ecdac4df10c3",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002844",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.6,
+                            0.14,
+                            589,
+                            24.14
+                        ]
+                    ],
+                    "text_description": "현아네 학교 6학년 학생들의 동아리 활동을 조사하여 나타낸 표입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.8,
+                            217.4,
+                            413,
+                            241.4
+                        ]
+                    ],
+                    "text_description": "동아리 활동별 학생 수의 백분율을 구하여 표를 완성해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.4,
+                            35.34,
+                            585.8,
+                            186.54
+                        ]
+                    ],
+                    "text_description": "백분율이 군데군데 비어있는 학생들의 동아리 활동을 조사하여 만든 표."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.8,
+                            257.4,
+                            551.4,
+                            299
+                        ]
+                    ],
+                    "text_description": "만화 그리기: $\\frac{48}{160} \\times 100=$ $\\square$ (%) 배드민턴: $\\frac{40}{160} \\times 100=$ $\\square$ (%)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.4,
+                            558.2,
+                            573,
+                            602.2
+                        ]
+                    ],
+                    "text_description": "만화 그리기: $\\frac{48}{160} \\times 100=30$(%) 배드민턴: $\\frac{40}{160} \\times 100=25$ (%)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.8,
+                            305,
+                            531.4,
+                            383.8
+                        ]
+                    ],
+                    "text_description": "만화 그리기: $\\frac{48}{160} \\times 100=30$(%) 배드민턴: $\\frac{40}{160} \\times 100=25$ (%)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1,
+                            387.8,
+                            609,
+                            543.8
+                        ]
+                    ],
+                    "text_description": "백분율이 정답 30, 25, 100으로 채워진 학생들의 동아리 활동 표"
+                }
+            ]
+        }
+    ]
+}

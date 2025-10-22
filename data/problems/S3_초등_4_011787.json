@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1e1c5beb-b3ee-445f-a601-2e0e681c2f97",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011787",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.02,
+                            11.23,
+                            477.07,
+                            70.22
+                        ]
+                    ],
+                    "text_description": "다음 도형에서 ㉠과 ㉡의 각도의 합을 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            163.22,
+                            89.62,
+                            365.6,
+                            266.52
+                        ]
+                    ],
+                    "text_description": "한 변이 12cm인 정삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            358.47,
+                            288.72,
+                            400.73,
+                            310.53
+                        ]
+                    ],
+                    "text_description": "$120^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.24,
+                            321.8,
+                            353.02,
+                            363.02
+                        ]
+                    ],
+                    "text_description": "세 변의 길이가 같으므로 정삼각형입니다. \\[ \\rightarrow\\mathrm{㉠}+\\mathrm{㉡}=60^{\\circ}+60^{\\circ}=120^{\\circ} \\]"
+                }
+            ]
+        }
+    ]
+}

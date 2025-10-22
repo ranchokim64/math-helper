@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ae9f1022-a4aa-432c-bf7b-341f6f275661",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008108",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.66,
+                            4.71,
+                            927.8,
+                            70.98
+                        ]
+                    ],
+                    "text_description": "$700 \\times 40$을 계산하려고 합니다. $7 \\times 4=28$에서 숫자 8은 어느 자리에 써야 하는지 알맞은 기호를 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            319.85,
+                            79.47,
+                            643.81,
+                            278.16999999999996
+                        ]
+                    ],
+                    "text_description": "$ \\begin{array}{r} 7 0 0\\\\ \\times \\ \\ 40 \\\\ \\hline ㉠㉡㉢㉣㉤ \\end{array} $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.95,
+                            290.32,
+                            82.24,
+                            316.51
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.06,
+                            360.15,
+                            166.16,
+                            528.79
+                        ]
+                    ],
+                    "text_description": "$ \\begin{array}{rrr} & & 700 \\\\ \\times & &40 \\\\ \\hline\\underline{2} & \\underset{㉡}{\\underline{8}} & 000 \\end{array} $"
+                }
+            ]
+        }
+    ]
+}

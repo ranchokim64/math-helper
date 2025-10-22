@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a4041851-49c1-4f4e-8200-95893a6fb216",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018527",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.12,
+                            5.59,
+                            838.77,
+                            63.39
+                        ]
+                    ],
+                    "text_description": "장미가 $24$송이가 있습니다. 한 명에게 $3$송이씩 나누어 주려고 합니다. 모두 몇 명에게 나누어 줄 수 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.83,
+                            109.78,
+                            73.77,
+                            134.04
+                        ]
+                    ],
+                    "text_description": "② $8$명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.11,
+                            74.81,
+                            70.92,
+                            101.21
+                        ]
+                    ],
+                    "text_description": "① $7$명"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.54,
+                            143.75,
+                            83.77,
+                            197.28
+                        ]
+                    ],
+                    "text_description": "③ $9$명 ④ $10$ 명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.4,
+                            212.26,
+                            110.6,
+                            234.38
+                        ]
+                    ],
+                    "text_description": "$24 \\div 3=8$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.84,
+                            241.52,
+                            616.12,
+                            267.21
+                        ]
+                    ],
+                    "text_description": "장미 $24$송이를 $3$송이씩 묶으면 $8$묶임이 되므로 $8$명에게 줄 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "36656d03-08fa-4dd1-b71a-f3f8c1dd571d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011132",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.23,
+                            0.9,
+                            628.23,
+                            30.9
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수가 더 큰 비례식을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            182.23,
+                            33.9,
+                            704.23,
+                            113.9
+                        ]
+                    ],
+                    "text_description": "핑크색 테두리의 네모 박스 안에 다음과 같은 두 개의 식이 들어있다.㉠ $3: 7=18$ : $\\square$ ㉡ $9: 5=$ $\\square$:20"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.23,
+                            122.9,
+                            72.23,
+                            146.9
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.28,
+                            165.14,
+                            440.32,
+                            192.02
+                        ]
+                    ],
+                    "text_description": "㉠ $3 \\times \\square=7 \\times 18, 3 \\times \\square=126, \\square=42$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.6,
+                            198.42,
+                            549.12,
+                            255.38
+                        ]
+                    ],
+                    "text_description": "㉡ $9 \\times 20=5 \\times \\square, 5 \\times \\square=180, \\square=36$ 따라서 $\\square$ 안에 들어갈 수가 더 큰 비례식은 ㉠입니다."
+                }
+            ]
+        }
+    ]
+}

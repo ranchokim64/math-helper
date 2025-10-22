@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b8f78e38-2e6a-4f22-83ef-4b91cadc8d4a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012253",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            2.41,
+                            784.5,
+                            238.41
+                        ]
+                    ],
+                    "text_description": "소연이네 양계장에서는 달걀을 한 바구 니에 25개씩 담습니다. 달걀 784 개는 몇 개의 바구니에 담을 수 있고, 남는 달 걀은 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.5,
+                            543,
+                            508.5,
+                            584
+                        ]
+                    ],
+                    "text_description": "3| 개 $\\quad$ 9개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.5,
+                            249.41,
+                            484.5,
+                            323.41
+                        ]
+                    ],
+                    "text_description": "\\[ 784 \\div 25=3 \\mid \\cdots 9 \\text { 이므로 } \\] 31 개의 바구니에 담고 9개가 남습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            324,
+                            149.5,
+                            532
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}31 \\\\ 2 5 \\longdiv { 7 8 4 } \\\\ 75 \\\\ \\hline 34 \\\\ 25 \\\\ \\hline 9\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

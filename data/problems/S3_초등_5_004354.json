@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "17ffaa6b-2c5c-4f69-a5a5-6089650a1ea0",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004354",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.12,
+                            3.59,
+                            650.52,
+                            71.59
+                        ]
+                    ],
+                    "text_description": "나무를 13도막으로 잘라 물건을 만들려고 합니다. 나무를 한 번 자르는 데 5분이 걸리고, 4번 자를 때마다 3분씩 쉬어야 합니다. 나무를 13도막으로 자르는 데 걸리는 시간은 몇 분인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            173.72,
+                            80.82,
+                            479.32,
+                            200.02
+                        ]
+                    ],
+                    "text_description": "나무 두 개가 있고 위쪽 나무는 1번 자르는 그림이고, 아래쪽 나무는 2번 자르는 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108.12,
+                            383.22,
+                            148.12,
+                            403.22
+                        ]
+                    ],
+                    "text_description": "66분"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.32,
+                            259.22,
+                            606.52,
+                            359.22
+                        ]
+                    ],
+                    "text_description": "나무를 1번 자르면 2도막, 2번 자르면 3도막, 3번 자르면 4도막. . . . . 이므로 13도막으로 자르려면 12번 잘라야 합니다. 나무를 자르는 데 걸리는 시간은 $12 \\times 5=60$ (분)이고 12번 자르는 동안 2번 쉬게 되므로 쉬는 시간은 $3 \\times 2=6$ (분)입니다. 따라서 (나무를 13도막으로 자르는 데 걸리는 시간)$=60+6=66$(분)입니다."
+                }
+            ]
+        }
+    ]
+}

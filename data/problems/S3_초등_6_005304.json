@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d4bc8641-9d52-43f2-a402-b85c62f31b9e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005304",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.12,
+                            149.25,
+                            667.62,
+                            376.75
+                        ]
+                    ],
+                    "text_description": "흥부와 놀부 형제는 함께 생산한 쌀을 $\\frac{1}{4}: \\frac{1}{3}$의 비로 나누어 가지려고 합니다. 올해 생산한 쌀이 37800kg일 때, 놀부는 쌀을 몇 kg가질 수 있나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            445.75,
+                            399.25,
+                            583.25,
+                            436.75
+                        ]
+                    ],
+                    "text_description": "21600kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            109.5,
+                            5.5,
+                            665.75,
+                            135.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\left(\\text { 흥부) : (놀부) }=\\frac{1}{4}: \\frac{1}{3}=\\left(\\frac{1}{4} \\times 12\\right):\\left(\\frac{1}{3} \\times 12\\right)=3: 4\\right. \\\\ \\rightarrow \\text { (놀부) }=37800 \\times \\frac{4}{3+4}=37800 \\times \\frac{4}{7}=21600(\\mathrm{~kg})\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

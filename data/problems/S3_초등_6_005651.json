@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4164911c-3a3f-4548-870a-c017a063723c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005651",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.280000000000001,
+                            13.74,
+                            434.28,
+                            46.74
+                        ]
+                    ],
+                    "text_description": "보기와 같은 방법으로 몫을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.28,
+                            58.28,
+                            521.28,
+                            175.28
+                        ]
+                    ],
+                    "text_description": "보기 \\[ 9 \\div 4=\\frac{9}{4}=\\frac{225}{100}=2. 25 \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.28,
+                            203.28,
+                            134.28,
+                            232.28
+                        ]
+                    ],
+                    "text_description": "$8 \\div 25=$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            139.28,
+                            187.28,
+                            340.28,
+                            248.28
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{25}=\\frac{32}{100}=0. 32$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.28,
+                            263.28,
+                            521.28,
+                            314.28
+                        ]
+                    ],
+                    "text_description": "(자연수)$\\div($자연수)를 분수로 바꿀 때 나누는 수는 분모가 되고 나누어지는 수는 분자가 됩니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6ca6927d-b4d6-4e4a-9c5b-73e8321d2123",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009304",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.77,
+                            8.74,
+                            512.77,
+                            31.740000000000002
+                        ]
+                    ],
+                    "text_description": "똑같이 나누어진 와플을 모두 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146.77,
+                            52.28,
+                            607.77,
+                            262.28
+                        ]
+                    ],
+                    "text_description": "가: 정원형 와플이 세로선 정가운데에서 왼쪽으로 치우친 부분에서 불균형하게 2분할 되어 있다. 나: 정원형 와플이 정가운데에서 y모양으로 잘려져 불균형하게 3분할 되어 있다. 다: 정원형 와플이 십자가 모양으로 똑같게 4분할 되어 있다. 라: 사각형 와플이 v모양으로 불균형하게 3분할 되어 있다. 마: 사각형 와플이 십자가 모양이지만 가로선이 위로 치우치면서 불균형하게 4분할 되있다. 바: 사각형 와플이 n모양으로 똑같게 삼각형으로 4분할 되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.77,
+                            288.28,
+                            100.77,
+                            310.28
+                        ]
+                    ],
+                    "text_description": "다, 바"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.77,
+                            326.28,
+                            411.77,
+                            347.28
+                        ]
+                    ],
+                    "text_description": "다와 바는 똑같이 넷으로 나누어졌습니다."
+                }
+            ]
+        }
+    ]
+}

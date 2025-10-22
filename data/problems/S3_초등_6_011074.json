@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "99632446-40ab-4dd5-8838-f6059ea9cfd2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011074",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            7.92,
+                            863.5,
+                            68.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 앞에서 본 모양을 바르게 그린 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            327.5,
+                            120.92,
+                            414.5,
+                            289.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보여줍니다. 위에서 바라본 모양이며 앞에서 본다는 표시의 화살표도 있습니다. 나무는 1행에는 3열 1이 쓰여져 있고 2행에는 1열 3, 2열 1, 3열 2라고 쓰여져 있고 3행에는 1열 1, 2열 2, 3열 1이 쓰여져 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            480.5,
+                            83.5,
+                            567.5,
+                            329.5
+                        ]
+                    ],
+                    "text_description": "이미지는 두 개의 블록으로 구성되어 있습니다. 각 블록은 여러 개의 격자로 나뉘어 있으며, 상단 블록과 하단 블록이 있습니다. - 상단 블록: - 앞에서 바라본 3x3 블록이며 1열 3칸, 2열과 3열은 아래서부터 2칸이 채워져 있습니다. - 하단 블록: - 앞에서 바라본 3x3 블록이며 1열 3칸, 2열 아래서부터 2칸, 3열 아래 1칸이 채워져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            339.5,
+                            129.5,
+                            445.5
+                        ]
+                    ],
+                    "text_description": "앞에서 본 3x3 블록이며 1열 3칸, 2열과 3열은 아래서부터 2칸이 채워져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            456.5,
+                            538.5,
+                            482.5
+                        ]
+                    ],
+                    "text_description": "앞에서 보면 왼쪽부터 3층, 2층, 2층으로 보입니다."
+                }
+            ]
+        }
+    ]
+}

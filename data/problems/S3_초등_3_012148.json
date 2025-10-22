@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "960f06db-46d5-4316-bc0b-0f2c1541e321",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012148",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.1,
+                            18.740000000000002,
+                            1021.9,
+                            182.14
+                        ]
+                    ],
+                    "text_description": "어느 마라톤 경기에서 우승한 선수가 결승선을 통과한 시각은 오전 11시 14분 50초였습니다. 이 선수의 기록이 2시간 7분 45초라면 마라톤 경기가 시작된 시각을 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            575.7,
+                            223.4,
+                            909.9,
+                            257.8
+                        ]
+                    ],
+                    "text_description": "오전 9 시 7분 5초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.1,
+                            275.4,
+                            848.3,
+                            304.2
+                        ]
+                    ],
+                    "text_description": "(경기가 시작한 시각) $=11$ 시 14분 50초-2시간 7분 45초=9시 7분 5초"
+                }
+            ]
+        }
+    ]
+}

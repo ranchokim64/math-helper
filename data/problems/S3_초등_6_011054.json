@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "58f8d777-42e1-4a96-aa11-ce7ba721e74e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011054",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.739999999999995,
+                            11.27,
+                            864.49,
+                            73.02
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 층별로 나타낸 모양을 보고 쌓은 모양을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            267.99,
+                            80.02,
+                            631.49,
+                            277.02
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 층별로 나타낸 모양이다. 1층, 2층, 3층으로 구성되어 있으며 앞이 어디인지 표기되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.74,
+                            477,
+                            77.99,
+                            501
+                        ]
+                    ],
+                    "text_description": "②"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            532.48,
+                            666.06,
+                            560.64
+                        ]
+                    ],
+                    "text_description": "2층으로 가능한 모양을 찾아보면 ②와 ③이고, ③은 3층 모양이"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            720.46,
+                            533.76,
+                            864.46,
+                            559.36
+                        ]
+                    ],
+                    "text_description": "이므로 쌓은 모"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.38,
+                            583.68,
+                            179.3,
+                            608.64
+                        ]
+                    ],
+                    "text_description": "양은 ②입니다."
+                }
+            ]
+        }
+    ]
+}

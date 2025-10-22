@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a9e2837b-1d49-4342-9fa4-4051c5bb5221",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011606",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.13,
+                            15.75,
+                            527.38,
+                            164
+                        ]
+                    ],
+                    "text_description": "정아는 동화책을 어제는 $\\frac{3}{7}$ 시간, 오늘은 $\\frac{5}{7}$ 시간 동안 읽었습니다. 정아가 어제와 오늘 동화책을 읽은 시간은 모두 몇 시간일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            358.63,
+                            199,
+                            458.63,
+                            257.75
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{1}{7}$ 시간"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.38,
+                            251,
+                            306.13,
+                            332.25
+                        ]
+                    ],
+                    "text_description": "(어제와 오늘 동화책을 읽은 시간) \\[ =\\frac{3}{7}+\\frac{5}{7}=\\frac{8}{7}=1 \\frac{1}{7} \\text { (시간) } \\]"
+                }
+            ]
+        }
+    ]
+}

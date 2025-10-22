@@ -1,0 +1,147 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4f871e80-65db-45fc-9676-2c9353ff096b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009326",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-15] 소수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-14] 소수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            1.92,
+                            419,
+                            23.92
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 수를 모두 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.0,
+                            43.92,
+                            211.0,
+                            76.92
+                        ]
+                    ],
+                    "text_description": "3. $\\square$ $>3. 7$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            349,
+                            46.5,
+                            548,
+                            76.5
+                        ]
+                    ],
+                    "text_description": "$(5, 6, 7, 8, 9)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.68,
+                            105.45,
+                            68.84,
+                            123.88
+                        ]
+                    ],
+                    "text_description": "8, 9"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            38,
+                            135
+                        ],
+                        [
+                            563,
+                            138
+                        ],
+                        [
+                            567,
+                            150
+                        ],
+                        [
+                            367,
+                            157
+                        ],
+                        [
+                            368,
+                            177
+                        ],
+                        [
+                            367,
+                            179
+                        ],
+                        [
+                            24,
+                            180
+                        ],
+                        [
+                            22,
+                            155
+                        ],
+                        [
+                            35,
+                            156
+                        ],
+                        [
+                            44,
+                            157
+                        ]
+                    ],
+                    "text_description": "자연수 부분이 3으로 같으므로 소수 부분의 크기들 비교하면 $\\square>7$ 입니다. 따라서 $\\square$ 안에 들어갈 수 있는 수는 8, 9 입니다."
+                }
+            ]
+        }
+    ]
+}

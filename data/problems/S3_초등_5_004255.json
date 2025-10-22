@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1ffa8557-b0f2-448d-a9d4-afb7481caf29",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004255",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            12.42,
+                            522,
+                            137.42
+                        ]
+                    ],
+                    "text_description": "어머니께서 귤 60개를 사 오셨습니다. 15개로 주스를 만든 후 남은 것을 똑같이 세 집에 나누어 주었습니다. 한 집에 몇 개씩 나누어 주었는지 알아보는 식은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            291.2,
+                            187.13,
+                            446.08,
+                            214.65
+                        ]
+                    ],
+                    "text_description": "④ $\\, (60-15) \\div 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85,
+                            258,
+                            522,
+                            304
+                        ]
+                    ],
+                    "text_description": "사 온 귤 수에서 주스를 만드는 데 사용한 귤 수를 뺀 후 나누어 준 집의 수로 나눕니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            153.85,
+                            217.6,
+                            247.29
+                        ]
+                    ],
+                    "text_description": "① $60-15 \\div 3$ ③ $60 \\div 15-3$ ⑤ $60 \\div(15 \\div 3)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            291.92,
+                            154.49,
+                            430.08,
+                            181.01
+                        ]
+                    ],
+                    "text_description": "② $60 \\div 15 \\div 3$"
+                }
+            ]
+        }
+    ]
+}

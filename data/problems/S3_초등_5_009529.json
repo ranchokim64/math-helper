@@ -1,0 +1,191 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "215e4035-7fe9-4197-99c6-08024a6991d3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009529",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.45,
+                            -0.67,
+                            777.65,
+                            85.92
+                        ]
+                    ],
+                    "text_description": "40대 부부가 70세인 어머니와 13세인 아들, 16세인 딸을 데리고 미술관에 갔습니다. 다음 안내문을 보고, 다섯 사람의 입장료는 모두 얼마인지 구하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            227.28,
+                            106.35,
+                            527.86,
+                            229.58
+                        ]
+                    ],
+                    "text_description": "- 13세 미만 : 무료 - 13세 이상 20세 미만 : 3000원 - 20세 이상 70세 미만 : 5000원 - 70세 이상 : 무료"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            275.57,
+                            286.2,
+                            373.83,
+                            312.01
+                        ]
+                    ],
+                    "text_description": "⑤ 16000원"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.45,
+                            252.06,
+                            129.86,
+                            312.01
+                        ]
+                    ],
+                    "text_description": "① 12000원 ④ 15000원"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            276.41,
+                            250.4,
+                            616.12,
+                            277.87
+                        ]
+                    ],
+                    "text_description": "② 13000원 ③ 14000원"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.77,
+                            363.27,
+                            457.77,
+                            385.27
+                        ]
+                    ],
+                    "text_description": "40대 부부는 '20세 이상 70세 미만'에 속하므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            689.77,
+                            359.27,
+                            776.77,
+                            389.27
+                        ]
+                    ],
+                    "text_description": "70세인 어"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.77,
+                            387.27,
+                            585.77,
+                            444.27
+                        ]
+                    ],
+                    "text_description": "머니는 '70세 이상'이므로 무료입니다. 또 13세인 아들과 16세인 딸은 '13세 이상 20세 미만'에 속하므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.77,
+                            447.27,
+                            575.77,
+                            502.27
+                        ]
+                    ],
+                    "text_description": "니다. 따라서 (다섯 사람의 입장료) $=10000+6000=16000$(원)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            460.77,
+                            362.27,
+                            687.77,
+                            387.27
+                        ]
+                    ],
+                    "text_description": "$5000 \\times 2=10000$(원)이고,"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            588.77,
+                            420.27,
+                            782.77,
+                            443.27
+                        ]
+                    ],
+                    "text_description": "$3000 \\times 2=6000$(원)입"
+                }
+            ]
+        }
+    ]
+}

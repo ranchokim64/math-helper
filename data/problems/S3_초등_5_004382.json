@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3556543b-76e6-463e-8460-3e6f4de4d1e6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004382",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.4,
+                            6.14,
+                            115,
+                            30.14
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.2,
+                            45.14,
+                            91.4,
+                            90.94
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3}+\\frac{3}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.6,
+                            142.2,
+                            62.2,
+                            185.4
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{4}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.64,
+                            95.47,
+                            365.4,
+                            133.87
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3}+\\frac{3}{5}=\\frac{2 \\times 5}{3 \\times 5}+\\frac{3 \\times 3}{5 \\times 3}=\\frac{10}{15}+\\frac{9}{15}=\\frac{19}{15}=1 \\frac{4}{15}$"
+                }
+            ]
+        }
+    ]
+}

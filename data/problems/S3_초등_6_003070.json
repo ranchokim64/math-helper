@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9071fa11-d53d-4588-9781-85423e8ea47c",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003070",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            12.4,
+                            561.5,
+                            41.4
+                        ]
+                    ],
+                    "text_description": "지름이 10cm 인 원의 원주는 몇 cm인지 구해 보세요. (원주율: 3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            278.5,
+                            59.400000000000006,
+                            451.5,
+                            232.4
+                        ]
+                    ],
+                    "text_description": "지름이 10cm인 원이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.5,
+                            309.4,
+                            261.5,
+                            339.4
+                        ]
+                    ],
+                    "text_description": "$31{cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            237.4,
+                            731.5,
+                            290.4
+                        ]
+                    ],
+                    "text_description": "원주는 (지름) $\\times$ (원주율)입니다. 지름이 10cm이므로 원주는 $10 \\times 3. 1=31(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

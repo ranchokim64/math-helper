@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77d1de92-f669-4b49-8668-6e298e9fec81",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011660",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.11,
+                            11.9,
+                            444.11,
+                            37.9
+                        ]
+                    ],
+                    "text_description": "사과가 담긴 바구니의 무게가 4.25kg 입"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.11,
+                            43.9,
+                            444.11,
+                            98.9
+                        ]
+                    ],
+                    "text_description": "니다. 바구니의 무게가 0.66kg이라면 사과의 무게는 몇 kg 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.11,
+                            175.5,
+                            167.11,
+                            198.5
+                        ]
+                    ],
+                    "text_description": "$3.59kg$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.73,
+                            108.23,
+                            118.01,
+                            130.24
+                        ]
+                    ],
+                    "text_description": "(사과의 무게)="
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107.77,
+                            130.75,
+                            185.08,
+                            151.23
+                        ]
+                    ],
+                    "text_description": "$=3. 59(\\mathrm{~kg})$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.52,
+                            108.23,
+                            199.93,
+                            130.24
+                        ]
+                    ],
+                    "text_description": "$4. 25-0. 66$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d345e28-5e63-4d68-955f-dea7ba4083d1",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012212",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            174.59,
+                            9.86,
+                            665.32,
+                            47.35
+                        ]
+                    ],
+                    "text_description": "그림을 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.13,
+                            357.8,
+                            769.37,
+                            520.94
+                        ]
+                    ],
+                    "text_description": "10000원이 2장, 1000원이 3장, 100원이 5개, 10원이 4개이면 모두 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.56,
+                            83.23,
+                            760.12,
+                            324.89
+                        ]
+                    ],
+                    "text_description": "만원 2개, 천원 3개, 100원 5개, 10원 4개가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100,
+                            612.1,
+                            225.62,
+                            643.62
+                        ]
+                    ],
+                    "text_description": "23540원"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.29,
+                            559.4,
+                            467.9,
+                            588.14
+                        ]
+                    ],
+                    "text_description": "$20000+3000+500+40=23540$ (원)"
+                }
+            ]
+        }
+    ]
+}

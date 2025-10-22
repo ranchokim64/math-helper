@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bd56579e-962d-4a35-a390-4cad492ce34b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011790",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.16,
+                            6.77,
+                            473.76,
+                            69.17
+                        ]
+                    ],
+                    "text_description": "삼각형 가의 세 변의 길이의 합은 삼각형 나의 세 변의 길이의 합보다 몇 cm 더 길까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.56,
+                            87.97,
+                            441.16,
+                            251.57
+                        ]
+                    ],
+                    "text_description": "가 : 양 변의 길이가 10cm이고 밑변이 12cm인 이등변삼각형 나 : 한 변의 길이가 8cm이고, 양 각이 60도인 정삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            350.56,
+                            270.77,
+                            399.36,
+                            293.17
+                        ]
+                    ],
+                    "text_description": "8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.36,
+                            304.06,
+                            443.36,
+                            370.46
+                        ]
+                    ],
+                    "text_description": "삼각형 가의 세 변의 길이의 합 $10+10+12=32(\\mathrm{~cm})$ 삼각형 나의 세 변의 길이의 합. $8+8+8=24(\\mathrm{~cm})$ $ 32-24=8(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

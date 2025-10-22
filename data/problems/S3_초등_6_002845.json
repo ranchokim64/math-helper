@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e5d1a83e-87a5-424b-8f2b-a259bc619d8b",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002845",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.28,
+                            4.74,
+                            739.28,
+                            68.74
+                        ]
+                    ],
+                    "text_description": "2012년과 2019년 우리나라 재생 에너지별 발전량을 조사하여 나타낸 띠그래프입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.28,
+                            376.27,
+                            636.28,
+                            406.27
+                        ]
+                    ],
+                    "text_description": "2012년의 풍력 $\\cdot$ 수력 에너지 발전량은 바이오 에너지 발전량의 몇 배인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.28,
+                            71.81,
+                            736.28,
+                            343.81
+                        ]
+                    ],
+                    "text_description": "2012년과 2019년 우리나라 재생 에너지별 발전량이 나와 있음."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.28,
+                            505.27,
+                            173.28,
+                            530.27
+                        ]
+                    ],
+                    "text_description": "$\\left(\\begin{array}{lll} 5\\end{array}\\right)$ 배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.28,
+                            462.27,
+                            503.28,
+                            499.27
+                        ]
+                    ],
+                    "text_description": "2012년의 풍력 $\\cdot$ 수력 에너지 발전량은 $25 \\%$. 바이오 에너지 발전량은 $5 \\%$ 이므로 $25 \\div 5=5$ (배)입니다."
+                }
+            ]
+        }
+    ]
+}

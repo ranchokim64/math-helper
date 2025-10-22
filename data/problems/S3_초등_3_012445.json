@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0c33d9ee-ae5c-4d59-9501-cc4a8cf8fd1d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012445",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그려서 다양한 모양을 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            13.9,
+                            603,
+                            49.9
+                        ]
+                    ],
+                    "text_description": "그림을 보고 반지름이 몇 cm인 원을 그리려고 하는 것인지 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123,
+                            55.9,
+                            349,
+                            176.9
+                        ]
+                    ],
+                    "text_description": "눈금자 위에 3cm가 벌어진 컴퍼스가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            514,
+                            151.9,
+                            566,
+                            177.9
+                        ]
+                    ],
+                    "text_description": "3cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            181.9,
+                            294,
+                            207.9
+                        ]
+                    ],
+                    "text_description": "컴퍼스를 벌린 길이가 원의 반지름이 됩니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "456c72a8-7cd2-4b28-a1ac-64ee80beede9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009362",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.62,
+                            9.73,
+                            821.62,
+                            72.23
+                        ]
+                    ],
+                    "text_description": "분수와 소수의 크기를 비교하여 작은 수부터 차례로 쓸 때 네 번째로 써야 하는 수를 선택해 보세요 $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.12,
+                            77.23,
+                            672.87,
+                            177.23
+                        ]
+                    ],
+                    "text_description": "네모 상자에 다음과 같은 숫자가 들어 있다.$\\frac{1}{9}, 0. 1, 1. 4, \\frac{5}{7}, \\frac{1}{7}, 1$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.87,
+                            184.73,
+                            64.62,
+                            219.23
+                        ]
+                    ],
+                    "text_description": "$\\frac{5}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.87,
+                            237.24,
+                            471.62,
+                            282.99
+                        ]
+                    ],
+                    "text_description": "분수들의 크기를 비교하면 $\\frac{1}{9}<\\frac{1}{7}<\\frac{5}{7}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.62,
+                            294.99,
+                            821.62,
+                            489.24
+                        ]
+                    ],
+                    "text_description": "이때, $0. 1=\\frac{1}{10}$ 이므로 $\\frac{1}{10}<\\frac{1}{9}<\\frac{1}{7}<\\frac{5}{7}$ 입니다. 또, $\\frac{5}{7}<1$ 이므로 주어진 수들을 작은 수부터 차례로 쓰면 $0. 1, \\frac{1}{9}, \\frac{1}{7}, \\frac{5}{7}, 1, 1. 4$ 입니다. 따라서 네 번째로 써야 하는 수는 $\\frac{5}{7}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fc2f3d1a-69d1-4866-92d4-cda2f7052988",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011154",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.67,
+                            1.58,
+                            644.16,
+                            28.44
+                        ]
+                    ],
+                    "text_description": "비례식의 성질을 이용하여 비례식을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            170.53,
+                            32.02,
+                            730.12,
+                            113.5
+                        ]
+                    ],
+                    "text_description": " 연두색 배경의 네모난 박스에 다음과 같은 비례식이 들어 있다.㉠ $21: 12=9: 4$ ㉡ $0. 5: 0. 6=15: 18$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.83,
+                            121.19,
+                            81,
+                            147.16
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.75,
+                            163.59,
+                            545.68,
+                            257.28
+                        ]
+                    ],
+                    "text_description": "$($ ㉠ 외항의 곱: $21 \\times 4=84$, 내항의 곱: $12 \\times 9=108$ ㉡ 외항의 곱: $0. 5 \\times 18=9$, 내항의 곱: $0. 6 \\times 15=9$ $\\rightarrow$ 외항의 곱과 내항의 곱이 같은 ㉡이 비례식입니다."
+                }
+            ]
+        }
+    ]
+}

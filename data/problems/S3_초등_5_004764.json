@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d785d9fa-2fbd-4723-9177-8dadc02985cd",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004764",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.12,
+                            18.49,
+                            553.72,
+                            94.49
+                        ]
+                    ],
+                    "text_description": "계산 결과를 잘못 말한 사람을 찾아 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.12,
+                            122.12,
+                            533.72,
+                            403.72
+                        ]
+                    ],
+                    "text_description": "수환: $8 \\times 0. 92$는 8과 0. 9의 곱으로 어림할 수 있으니까 결과는 7. 2 정도야! 민지: $4 \\times 0. 53$은 4와 53의 곱이 약 200이니까 4와 0. 53의 곱은 20 정도야!"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            401.72,
+                            428.52,
+                            449.72,
+                            456.52
+                        ]
+                    ],
+                    "text_description": "민지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.12,
+                            467.72,
+                            552.92,
+                            547.72
+                        ]
+                    ],
+                    "text_description": "민지가 잘못 말한 이유: 4와 53의 곱이 약 200이므로 4와 53의 0. 0 배인 0. 53의 곱은 200의 0. 01 배이므로 2 정도입니다."
+                }
+            ]
+        }
+    ]
+}

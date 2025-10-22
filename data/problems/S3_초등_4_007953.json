@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c5e73c09-1dd4-4203-8577-fd2309eaa17c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007953",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39,
+                            8.42,
+                            935,
+                            75.42
+                        ]
+                    ],
+                    "text_description": "수로 나타냈을 때 0의 개수가 더 적은 것을 들고 있는 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299,
+                            96.42,
+                            682,
+                            272.42
+                        ]
+                    ],
+                    "text_description": "현준과 유정이 있습니다. 현준은 '사만 십구' 라고 적힌 나무 판자를 들고 있습니다. 유정은 '육만 구' 라고 적힌 나무 판자를 들고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            296,
+                            110,
+                            324
+                        ]
+                    ],
+                    "text_description": "현준"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            343,
+                            477,
+                            372
+                        ]
+                    ],
+                    "text_description": "현준: $40019 \\rightarrow 2$ 개, 유정: $600009 \\rightarrow 3$ 개"
+                }
+            ]
+        }
+    ]
+}

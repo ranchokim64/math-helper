@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e9d9b8b6-28a2-411d-8f4a-5ec1591e1d76",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009273",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            2.9,
+                            481.5,
+                            24.9
+                        ]
+                    ],
+                    "text_description": "똑같이 넷으로 나누어진 피자를 모두 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.5,
+                            30.9,
+                            631.5,
+                            137.9
+                        ]
+                    ],
+                    "text_description": "가: 정원형 모양 피자가 세로 선 3줄로 불균형하게 3분할 된 그림이다. 나: 정원형 모양 피자가 십자가 모양으로 동일하게 4분할 된 그림이다. 다: 정원형 모양 피자가 x 모양으로 동일하게 4분할 된 그림이다. 라: 정원형 모양 피자가 한점에서 3줄로 뻗어 나오는 모양으로 불균형하게 4분할 된 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            146.9,
+                            91.5,
+                            167.9
+                        ]
+                    ],
+                    "text_description": "나, 다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.5,
+                            179.9,
+                            533.5,
+                            202.9
+                        ]
+                    ],
+                    "text_description": "나누어진 4조각의 모양과 크기가 모두 같은 것은 나, 다입니다."
+                }
+            ]
+        }
+    ]
+}

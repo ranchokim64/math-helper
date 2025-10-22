@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "99babf28-4b08-4e0d-bf4f-2a0fcb0f20e0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009172",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            8.14,
+                            572.8,
+                            35.34
+                        ]
+                    ],
+                    "text_description": "5cm 8mm를 바르게 읽은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.6,
+                            44.14,
+                            380.0,
+                            102.54
+                        ]
+                    ],
+                    "text_description": "보라색 상자에 다음과 같은 텍스트가 쓰여져 있다.5 센티미터 8 밀리미터"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            465.6,
+                            44.6,
+                            768.8,
+                            105.4
+                        ]
+                    ],
+                    "text_description": "보라색 상자에 다음과 같은 텍스트가 쓰여져 있다. 5 센티미터 8 미터"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.4,
+                            118.2,
+                            282.4,
+                            143.8
+                        ]
+                    ],
+                    "text_description": "5 센티미터 8 밀리미터"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.4,
+                            162.2,
+                            545.6,
+                            189.4
+                        ]
+                    ],
+                    "text_description": "cm는 센티미터, mm는 밀리미터라고 읽습니다."
+                }
+            ]
+        }
+    ]
+}

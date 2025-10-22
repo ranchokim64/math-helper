@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "89856797-2fad-41b7-9201-a820f248ccdb",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003036",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.3,
+                            9.93,
+                            438.5,
+                            76.33
+                        ]
+                    ],
+                    "text_description": "예지는 우유 $\\frac{9}{10} \\mathrm{~L}$를 한 컵에 $\\frac{3}{10} \\mathrm{~L}$ 씩 똑같이 나누어 담으려고 합니다. 몇 컵에 나누어 담을 수 있는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.3,
+                            97.93,
+                            183.3,
+                            220.33
+                        ]
+                    ],
+                    "text_description": "예지가 컵에 우유를 담고있는 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.3,
+                            287.2,
+                            168.1,
+                            315.2
+                        ]
+                    ],
+                    "text_description": "3컵"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.3,
+                            228.4,
+                            227.3,
+                            267.2
+                        ]
+                    ],
+                    "text_description": "$\\frac{9}{10} \\div \\frac{3}{10}=9 \\div 3=3$ (컵)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "91dcbd04-700c-4076-8f37-d360e9094bca",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005427",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-09] 원뿔과 구를 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.28,
+                            12.32,
+                            456.07,
+                            78.16
+                        ]
+                    ],
+                    "text_description": "원기둥과 원뿔 중 어느 도형의 높이가 몇 cm 더 높은가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.0,
+                            90.0,
+                            443.0,
+                            220.0
+                        ]
+                    ],
+                    "text_description": "원기둥과 원뿔"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.86,
+                            270.86,
+                            435.88,
+                            299.83
+                        ]
+                    ],
+                    "text_description": "원기둥의 높이는 10cm이고, 원뿔의 높이는 12cm 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.72,
+                            233.12,
+                            392.87,
+                            265.59
+                        ]
+                    ],
+                    "text_description": "원뿔, $\\quad 2 \\mathrm{~cm}$"
+                }
+            ]
+        }
+    ]
+}

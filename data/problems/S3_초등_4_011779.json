@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f246bb52-f26e-41f7-9065-04053ca34cee",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011779",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.06,
+                            6.67,
+                            480.06,
+                            199.07
+                        ]
+                    ],
+                    "text_description": "길이가 각각 $7 \\frac{4}{5} \\mathrm{~cm}, 5 \\frac{2}{5} \\mathrm{~cm}$ 인 색 테이프를 겹쳐서 한 줄로 이어 붙였더니 그 길이가 $11 \\frac{4}{5} \\mathrm{~cm}$ 였습니다. 겹쳐진 부분의 길이는 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.86,
+                            219.87,
+                            445.06,
+                            355.87
+                        ]
+                    ],
+                    "text_description": "이미지는 세 개의 직사각형 블록으로 구성되어 있습니다. 1. 왼쪽의 빨간색 블록은 길이가 \\(7\\frac{4}{5}\\) cm입니다. 2. 전체 블록은 길이가 \\(11\\frac{4}{5}\\) cm입니다. 3. 오른쪽의 파란색 블록은 길이가 \\(5\\frac{2}{5}\\) cm입니다. 블록들은 가로로 나란히 배열되어 있으며, 각 블록의 길이가 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            348.26,
+                            364.75,
+                            415.46,
+                            407.95
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{2}{5} \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.06,
+                            413.36,
+                            413.86,
+                            451.56
+                        ]
+                    ],
+                    "text_description": "$7 \\frac{4}{5}+5 \\frac{2}{5}=13 \\frac{1}{5}(\\mathrm{~cm}), 13 \\frac{1}{5}-11 \\frac{4}{5}=1 \\frac{2}{5}(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

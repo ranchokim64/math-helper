@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6164e33b-b3e9-4744-9f8c-630341673b21",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003028",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            12,
+                            201,
+                            29
+                        ]
+                    ],
+                    "text_description": "삼각형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.36,
+                            49.61,
+                            194.41,
+                            188.45
+                        ]
+                    ],
+                    "text_description": "밑변이 $7 \\, cm$이고 높이가 $8 \\, cm$인 삼각형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            394.34,
+                            63.43,
+                            518.51,
+                            187.94
+                        ]
+                    ],
+                    "text_description": "밑변이 $13m$이고 높이가 $16m$인 직각삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.72,
+                            280.1,
+                            183.66,
+                            299.05
+                        ]
+                    ],
+                    "text_description": "$28 \\quad \\mathrm{~cm}^{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            400.75,
+                            279.08,
+                            501.1,
+                            299.56
+                        ]
+                    ],
+                    "text_description": "$104 \\quad \\mathrm{~m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41,
+                            202,
+                            402,
+                            263
+                        ]
+                    ],
+                    "text_description": "삼각형의 넓이는 $($ 밑변의 길이 $) \\times($ 높이 $) \\div 2$ 이므로 왼쪽 삼각형의 넓이는 $7 \\times 8 \\div 2=28\\left(\\mathrm{~cm}^{2}\\right)$, 오른쪽 삼각형의 넓이는 $13 \\times 16 \\div 2=104\\left(\\mathrm{~m}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "99830b94-6d06-48da-a719-93bd13c1d3dd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008803",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-08] 무게를 나타내는 표준 단위의 필요성을 인식하여 1g과 1kg의 단위를 알고, 이를 이용하여 무게를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-20] 실생활에서 무게를 나타낼 때 사용하는 단위 1g과 1kg을 알고, 이를 이용하여 무게를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39,
+                            7.14,
+                            933,
+                            73.54
+                        ]
+                    ],
+                    "text_description": "저울로 오렌지, 딸기, 바나나의 무게를 비교했습니다. 가장 무거운 과일을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            634,
+                            271,
+                            933.8,
+                            301.8
+                        ]
+                    ],
+                    "text_description": "(오렌지, 딸기, 바나나)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            215,
+                            81.54,
+                            760.4,
+                            226.14
+                        ]
+                    ],
+                    "text_description": "저울로 오렌지, 딸기, 바나나의 무게를 비교하고 있습니다. 좌측은 오렌지와 딸기를 비교하고 있고 저울은 오렌지 쪽으로 기울어져 있습니다. 우측은 바나나와 오렌지를 비교하고 있고 저울은 오렌지 쪽으로 기울어져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.2,
+                            319.4,
+                            133.8,
+                            345.8
+                        ]
+                    ],
+                    "text_description": "오렌지"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.8,
+                            366.2,
+                            536.2,
+                            391.6
+                        ]
+                    ],
+                    "text_description": "오렌지는 딸기와 바나나보다 더 무겁습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.6,
+                            402.6,
+                            486.6,
+                            429
+                        ]
+                    ],
+                    "text_description": "따라서 가장 무거운 과일은 오렌지입니다."
+                }
+            ]
+        }
+    ]
+}

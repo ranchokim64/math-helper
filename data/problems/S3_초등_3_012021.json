@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b91e97b8-d871-4d96-a9e3-ce3cc45849e7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012021",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.09,
+                            24.42,
+                            411.34,
+                            213.92
+                        ]
+                    ],
+                    "text_description": "오른쪽 덧셈에서 $\\square$안의 숫자는 실제로 얼마를 나타낼까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            428.84,
+                            23.34,
+                            698.84,
+                            319.59
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}11 \\\\ 276 \\\\ +358 \\\\ \\hline 634\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            102.34,
+                            277.09,
+                            406.84,
+                            322.09
+                        ]
+                    ],
+                    "text_description": "$\\left(\\begin{array}{ll}100\\end{array}\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.84,
+                            327.09,
+                            676.34,
+                            399.59
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안의 숫자 I은 10+70+50=130에서 받아올림한 수 이므로 실제로 100을 나타냅니다."
+                }
+            ]
+        }
+    ]
+}

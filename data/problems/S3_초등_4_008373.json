@@ -1,0 +1,191 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6ed8ab4c-d922-4019-8ad6-70d709f5ac6d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008373",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-05] 평면도형의 이동을 이용하여 규칙적인 무늬를 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.96,
+                            4.470000000000001,
+                            773.36,
+                            32.27
+                        ]
+                    ],
+                    "text_description": "어떤 규칙으로 무늬를 만들었는지 알맞은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            139.76,
+                            193.67,
+                            890.76,
+                            225.47000000000003
+                        ]
+                    ],
+                    "text_description": "모양을 시계 방향으로 $\\left(90^{\\circ}, 180^{\\circ}\\right)$만큼 돌리는 것을 반복해서 모양을 만들고,"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.9,
+                            238.4,
+                            880.1,
+                            269.6
+                        ]
+                    ],
+                    "text_description": "그 모양을 오른쪽으로 (밀어서, 뒤집어서) 무늬를 만들었습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            349.16,
+                            39.47,
+                            612.36,
+                            173.07
+                        ]
+                    ],
+                    "text_description": "이미지는 여러 개의 삼각형과 사각형으로 구성된 패턴을 보여줍니다. 전체 구조는 3줄, 6열의 격자 형태로 나뉘어 있으며, 각 셀에는 서로 다른 방향을 가진 핑크색 삼각형들이 배치되어 있습니다. 각 삼각형은 격자의 정중앙을 향해 대칭적으로 배열되어 있으며, 나머지 공간은 흰색으로 남겨져 있습니다. 이 패턴은 기하학적 모양을 강조하는 디자인으로 보입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.3,
+                            187.2,
+                            129.7,
+                            237.6
+                        ]
+                    ],
+                    "text_description": "사각형 안에 자주색 삼각형 이미지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.16,
+                            305.96,
+                            181.36,
+                            334.36
+                        ]
+                    ],
+                    "text_description": "$90^{\\circ}$, 밀어서"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.75999999999999,
+                            354.96,
+                            871.56,
+                            381.96
+                        ]
+                    ],
+                    "text_description": "모양을 시계 방향으로 $90^{\\circ}$만큼 돌리는 것을 반복해서 모양을 만듭니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.9,
+                            512,
+                            537.7,
+                            537.6
+                        ]
+                    ],
+                    "text_description": "그 모양을 오른쪽으로 밀어서 무늬를 만듭니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.76,
+                            398.36,
+                            494.76,
+                            503.96
+                        ]
+                    ],
+                    "text_description": "이미지는 일련의 도형 변환 과정을 보여주고 있습니다. 왼쪽에서 오른쪽으로 진행되는 구조로, 각 사각형에 대한 변형이 나타나며, 사각형 안에 자주색 삼각형이 있는 모양이 있습니다. 이 사각형을 90도만큼 돌리는 것을 반복하여 무늬를 만들었습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.56,
+                            546.36,
+                            515.56,
+                            643.96
+                        ]
+                    ],
+                    "text_description": "사각형 안에 자주색 삼각형이 있는 모양이 있습니다. 이 사각형을 4개 사용하여 90도만큼 돌리는 것을 반복하여 무늬를 만들었습니다. 그 무늬가 4개 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.7,
+                            347.2,
+                            108.9,
+                            396.8
+                        ]
+                    ],
+                    "text_description": "사각형 안에 자주색 $\\triangle$이 있는 모양."
+                }
+            ]
+        }
+    ]
+}

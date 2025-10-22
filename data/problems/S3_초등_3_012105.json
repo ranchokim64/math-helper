@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6531deb6-6897-44f7-9567-9a89f9bfb6d2",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012105",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.42,
+                            14.81,
+                            586.02,
+                            146.65
+                        ]
+                    ],
+                    "text_description": "숫자 카드를 한 번씩만 사용하여 가장 큰 세 자리 수와 가장 작은 세 자리 수를 만 들었습니다. 두 수의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.3,
+                            173.53,
+                            475.3,
+                            237.53
+                        ]
+                    ],
+                    "text_description": "8, 5, 0, 7 네 개의 카드가 놓여져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            447.14,
+                            262.22,
+                            493.22,
+                            287.18
+                        ]
+                    ],
+                    "text_description": "$368$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.66,
+                            297.42,
+                            317.22,
+                            376.78
+                        ]
+                    ],
+                    "text_description": "가장 큰 세 자리 수: 875, 가장 작은 세 자리 수: 507 \\[ \\rightarrow 875-507=368 \\]"
+                }
+            ]
+        }
+    ]
+}

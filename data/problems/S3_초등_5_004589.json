@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "afdde05d-1db1-4149-96a8-6a1a882b4f2d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004589",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.28,
+                            13.74,
+                            691.28,
+                            163.74
+                        ]
+                    ],
+                    "text_description": "수직선 위에 나타낸 수의 범위에 속하는 자연수는 모두 7개입니다. $\\square$ 안에 알맞은 자연수를 구 해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            142.28,
+                            174.28,
+                            607.28,
+                            240.28
+                        ]
+                    ],
+                    "text_description": "수직선위에 수의 범위를 나타낸 것으로, 26 숫자 위에 채워진 빨간점이 있고 쭉 옆으로 이어져 $\\square$ 위에 비어진 빨간점까지 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            503.28,
+                            262.28,
+                            555.28,
+                            302.28
+                        ]
+                    ],
+                    "text_description": "$3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.28,
+                            312.28,
+                            692.28,
+                            444.28
+                        ]
+                    ],
+                    "text_description": "26 이상 $\\square$ 미만인 수이므로 26은 포함되고 $\\square$는 포함되지 않습니다. 26 이상인 자연수 7개를 차례로 쓰면 $26, 27, 28, 29, 30, 31, 32$입니다. 따라서 $\\square$ 안에 알맞은 자연수는 33입니다."
+                }
+            ]
+        }
+    ]
+}

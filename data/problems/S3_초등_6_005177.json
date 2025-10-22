@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fcabdfa3-8200-4320-bcc8-c7d820e6a314",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005177",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            115.5,
+                            67.42,
+                            626.5,
+                            111.42
+                        ]
+                    ],
+                    "text_description": "더 큰 수를 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.5,
+                            132.9,
+                            845.5,
+                            383.9
+                        ]
+                    ],
+                    "text_description": "핑크색 테두리의 박스에 다음과 같은 내용이 있다. ㉠ $2. 5 \\div 7$의 몫을 반올림하여 소수 첫째 자리까 지 나타낸 수 $\\rightarrow 0. 4$ ㉡ $2. 5 \\div 7$의 몫을 반올림하여 소수 둘째 자리까 지 나타낸 수 $\\rightarrow 0. 36$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            640.5,
+                            415.9,
+                            674.5,
+                            450.9
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            149.5,
+                            474.9,
+                            843.5,
+                            583.9
+                        ]
+                    ],
+                    "text_description": "$2. 5 \\div 7=0. 357 \\cdots \\cdots \\cdot$ 이므로 몫을 반올림하여 소수 첫째 자리까지 나타낸 수는 0. 4, 몫을 반올림하여 소수 둘째 자리까지 나타낸 수는 0. 36 이므로 더 큰 수는 ㉠입니다."
+                }
+            ]
+        }
+    ]
+}

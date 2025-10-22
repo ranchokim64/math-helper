@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ce634357-8e9d-44aa-94b7-bc942968a73d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009312",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.61,
+                            5.39,
+                            617.61,
+                            29.39
+                        ]
+                    ],
+                    "text_description": "다음 중 큰 분수부터 차례로 바르게 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            231.61,
+                            36.39,
+                            541.61,
+                            131.39
+                        ]
+                    ],
+                    "text_description": "가 $\\frac{3}{9}$ 나 $\\frac{5}{9}$ 다 $\\frac{8}{9}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.61,
+                            206.65,
+                            136.61,
+                            230.65
+                        ]
+                    ],
+                    "text_description": "③ 다, 나, 가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.61,
+                            137,
+                            136.61,
+                            197
+                        ]
+                    ],
+                    "text_description": "① 가, 나, 다 ② 다, 가, 나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.61,
+                            284,
+                            603.61,
+                            330
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{9}<\\frac{5}{9}<\\frac{8}{9}$ 이므로 가장 큰 분수는 $\\frac{8}{9}$, 가장 작은 분수는 $\\frac{3}{9}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

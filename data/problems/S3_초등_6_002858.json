@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d8b29abd-bcb5-4ebb-806d-eab045ac0918",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002858",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.34,
+                            2.17,
+                            601.34,
+                            35.67
+                        ]
+                    ],
+                    "text_description": "직육면체의 겉넓이는 $108 \\mathrm{~cm}^{2}$ 입니다. $\\square$ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.59,
+                            49.34,
+                            647.84,
+                            303.09
+                        ]
+                    ],
+                    "text_description": "직육면체 입체도형과 그에 대한 전개도."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            150.34,
+                            543.09,
+                            194.09,
+                            590.59
+                        ]
+                    ],
+                    "text_description": "$6$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            581.59,
+                            548.09,
+                            626.59,
+                            598.09
+                        ]
+                    ],
+                    "text_description": "$6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.84,
+                            303.09,
+                            892.84,
+                            403.09
+                        ]
+                    ],
+                    "text_description": "$($ 직육면체의 겉넓이 $)=($ 한 밑면의 넓이 $) \\times 2+($ 옆면의 넓이 $)$ 이므로 $(4 \\times 3) \\times 2+($ 옆면의 넓이 $)=108\\left(\\mathrm{~cm}^{2}\\right), ($ 옆면의 넓이 $)=108-24=84\\left(\\mathrm{~cm}^{2}\\right)$ 입니다. $($ 옆면의 넓이 $)=(3+4+3+4) \\times \\square$ 이므로 $14 \\times \\square=84\\left(\\mathrm{~cm}^{2}\\right), \\square=6(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

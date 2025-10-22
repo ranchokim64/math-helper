@@ -1,0 +1,107 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b7f0422f-8b4f-41b0-88bd-c4d243f828f4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011134",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.26,
+                            1.46,
+                            590.02,
+                            27.81
+                        ]
+                    ],
+                    "text_description": "문제에 알맞은 비례식을 세운 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.07,
+                            57.13,
+                            772.12,
+                            122.08000000000001
+                        ]
+                    ],
+                    "text_description": "쌀과 보리쌀을 $5: 2$의 비로 섞어서 밥을 지으려고 합니다. 쌀을 $150g$ 넣으면 보리쌀은 몇 $g$ 넣어야 하는지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            218.43,
+                            149.78,
+                            661.14,
+                            217.51
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 넣어야 하는 보리쌀의 양을 } \\square \\mathrm{g} \\text { 이라 하면 } \\\\ \\text { (} 5: 2=\\square: 150, 5: 2=150: \\square \\text {)입니다. }\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.79,
+                            233.46,
+                            169.05,
+                            258.42
+                        ]
+                    ],
+                    "text_description": "$5: 2=15:\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.87,
+                            273.13,
+                            435.64,
+                            302.04
+                        ]
+                    ],
+                    "text_description": "(쌀의 양):(보리쌀의 양) $\\Rightarrow 5: 2=150: \\square$"
+                }
+            ]
+        }
+    ]
+}

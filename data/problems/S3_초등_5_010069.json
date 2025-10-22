@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c961cfb9-a15b-46c9-938d-28bfcbe89fbc",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010069",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.75,
+                            0.19,
+                            663,
+                            48.19
+                        ]
+                    ],
+                    "text_description": "조건에 알맞은 회전판이 되도록 색칠하려고 합니다. 조건에 알맞은 회전판이 되도록 색칠한 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.5,
+                            69.19,
+                            600.75,
+                            168.94
+                        ]
+                    ],
+                    "text_description": "조건 - 화살이 빨간색에 멈출 가능성이 가장 높습니다. - 화살이 노란색에 멈출 가능성은 초록색에 멈출 가능성의 2 배입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            437.12,
+                            669.75,
+                            485.87
+                        ]
+                    ],
+                    "text_description": "가장 넓은 부분에 빨간색, 다음으로 넓은 부분에 노란색, 가장 좁은 부분에 초록색을 칠합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            191.87,
+                            139.5,
+                            319.37
+                        ]
+                    ],
+                    "text_description": "원의 회전판이 있다. 12시 방향을 가르키는 화살표가 있다. 원을 수직으로 나누면 오른쪽은 시게방향기준으로 녹색과 노랑색이 있다. 노랑색은 녹색보다 넓다. 왼쪽은 전부다 빨간색이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            235.5,
+                            190.37,
+                            368.25,
+                            320.12
+                        ]
+                    ],
+                    "text_description": "원의 회전판이 잉ㅆ다. 12시 방향을 가르키는 화살표가 있다. 원을 수직으로 나누면 오른쪽은 시계방향기준으로 빨간색과 노랑색이 있다. 노란색은 빨간색보다 넓다. 왼쪽은 전부 녹색이다."
+                }
+            ]
+        }
+    ]
+}

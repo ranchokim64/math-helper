@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "17c1bcb8-ee60-453c-b207-33d8502fd5a0",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003042",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.55,
+                            5.13,
+                            377.63,
+                            39.69
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 자연수를 모두 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.03,
+                            63.71,
+                            186.27,
+                            133.47
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{21} \\div \\frac{4}{9}>\\frac{\\square}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.59,
+                            272.35,
+                            201.63,
+                            299.23
+                        ]
+                    ],
+                    "text_description": "$1, 2, 3, 4, 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.83,
+                            157.31,
+                            569.43,
+                            257.63
+                        ]
+                    ],
+                    "text_description": "\\[ \\frac{8}{21} \\div \\frac{4}{9}=\\frac{8}{21} \\times \\frac{\\mathscr{9}}{4}=\\frac{6}{7} \\text { 이므로 } \\frac{8}{21} \\div \\frac{4}{9}>\\frac{\\square}{7} \\Rightarrow \\frac{6}{7}>\\frac{\\square}{7} \\text { 입니다. } \\] 따라서 \\frac{4}0 안에 들어갈 수 있는 자연수는 \\frac{4}1 입니다."
+                }
+            ]
+        }
+    ]
+}

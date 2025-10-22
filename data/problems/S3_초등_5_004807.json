@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "98430790-33d7-4caf-a110-42a8e38bd726",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004807",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.44,
+                            9.6,
+                            651.84,
+                            157.44
+                        ]
+                    ],
+                    "text_description": "다음은 직육면체의 겨냥도입니다. 보이는 모서리의 길이의 합과 보이지 않는 모서리의 길이의 합의 차는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180.8,
+                            183.04,
+                            463.04,
+                            403.2
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도로 실선과 점선으로 이루어져 있다. 가로는 6CM, 세로 2CM, 높이 5CM이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            438.72,
+                            432.21,
+                            534.08,
+                            466.13
+                        ]
+                    ],
+                    "text_description": "26cm"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.88,
+                            437.97,
+                            313.92,
+                            471.89
+                        ]
+                    ],
+                    "text_description": "(보이는 모서리의 길이의 합)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.88,
+                            475.01,
+                            591.32,
+                            537.81
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} =(6 \\times 3)+(2 \\times 3)+(5 \\times 3)=39(\\mathrm{~cm}) \\\\ \\text { (보이지 않는 모서리의 길이의 합)=6+2+5=13 (cm) } \\end{array} \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.44,
+                            541.01,
+                            271.68,
+                            575.57
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow 39-13=26(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

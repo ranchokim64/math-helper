@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e2e701c6-90be-4ed5-ab44-2a2307014824",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009910",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.16,
+                            7.26,
+                            460.91,
+                            30.72
+                        ]
+                    ],
+                    "text_description": "정육면체의 전개도가 아닌 것을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176.49,
+                            32.22,
+                            476.57,
+                            121.16
+                        ]
+                    ],
+                    "text_description": "가로3, 세로4로 구성된 직사각형으로 가로1에서 첫째칸, 가로2에서 둘째칸, 가로3에서 첫째칸이 비어있다. 그리고 가로 1에서 셋째칸, 가로3에서 둘째칸, 가로4에서 넷째칸이 비어있는 정육면체 전개도이다. 가로3, 세로4로 구성된 직사각형으로 가로1에서 둘째, 셋째칸이 비어있고, 가로 3에서 둘째, 셋째칸이 비어있고 그리고 가로4에서 둘째, 셋째칸이 비어있는 그림이다. 가로 3, 세로4로 구성된 직사각형에서 가로 첫쨰, 둘째칸이 비어있고, 가로 2에서 첫째칸이 비어있고 가로 3에서 셋째칸이 비어있고 가로 4에서 둘쨰, 셋째칸이 비어있는 정육면체 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.41,
+                            123.11,
+                            93.46,
+                            198.36
+                        ]
+                    ],
+                    "text_description": "가로3, 세로4로 구성된 직사각형으로 가로1에서 둘째, 셋째칸이 비어있고, 가로 3에서 둘째, 셋째칸이 비어있고 그리고 가로4에서 둘째, 셋째칸이 비어있는 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.53,
+                            200.32,
+                            581.14,
+                            268.82
+                        ]
+                    ],
+                    "text_description": "접었을 때 겹치는 면이 있으므로 정육면체의 전개도가 아닙니다."
+                }
+            ]
+        }
+    ]
+}

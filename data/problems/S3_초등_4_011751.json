@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "209082b1-5c5e-478c-a0a6-d1ee72df363b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011751",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            9.91,
+                            636,
+                            123.91
+                        ]
+                    ],
+                    "text_description": "지난 일요일에 시골 농장에서 현수는 고구마를 $14.35kg$ 캤고, 나는 $25.4kg$ 캤습니다. 현수와 내가 캔 고구마는 모두 몇 kg 였을까요? $?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            468,
+                            149.91,
+                            573,
+                            177.91
+                        ]
+                    ],
+                    "text_description": "$39.75kg$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37,
+                            191.5,
+                            506,
+                            219.5
+                        ]
+                    ],
+                    "text_description": "(두 사람이 캔 고구마의 무게)=$14. 35+25. 4=39. 75(kg)$"
+                }
+            ]
+        }
+    ]
+}

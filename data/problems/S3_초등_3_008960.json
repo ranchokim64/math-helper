@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "026144d1-f003-4ee4-adbb-423ffbcca22f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008960",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            0.92,
+                            939.5,
+                            69.92
+                        ]
+                    ],
+                    "text_description": "정호네 학교 학생 $1250$명의 혈액형을 조사하여 그림그래프로 나타내었습니다. 혈액형이 $AB$ 형인 학생 수를 바르게 나타낸 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            575.5,
+                            745.5,
+                            716.5
+                        ]
+                    ],
+                    "text_description": "조사한 학생 수는 $1250$명입니다. 혈액형이 $\\mathrm{A}, \\mathrm{B}, \\mathrm{O}$ 형인 학생 수는 $350+290+340=980$ (명)이므로 혈액형이 AB 형인 학생 수는 $1250-980=270$ (명)입니다. 따라서 혈액형이 AB 형인 학생 수는 큰 스마일 스티커 $2$개, 작은 스마일 스티커 $7$ 개를 그립니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.5,
+                            386.5,
+                            269.5,
+                            502.5
+                        ]
+                    ],
+                    "text_description": "① 큰 스마일 스티커 $1$개, 작은 스마일 스티커 $5$개 ③ 큰 스마일 스티커 $2$개, 작은 스마일 스티커 $5$개 ⑤ 큰 스마일 스티커 $3$개, 작은 스마일 스티커 $7$개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            481.5,
+                            389.5,
+                            665.5,
+                            422.5
+                        ]
+                    ],
+                    "text_description": "큰 스마일 스티커 $1$개, 작은 스마일 스티커 $7$개."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            511.0,
+                            436.0,
+                            688.0,
+                            460.0
+                        ]
+                    ],
+                    "text_description": ""
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            244.0,
+                            78.0,
+                            733.0,
+                            347.0
+                        ]
+                    ],
+                    "text_description": "A,B,AB O형 학생 수를 나타내는 그림그래프"
+                }
+            ]
+        }
+    ]
+}

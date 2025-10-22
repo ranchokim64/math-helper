@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a2b4204b-94ae-4e88-b6ea-e1ee1b3d6f50",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008633",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.7,
+                            3.21,
+                            922.61,
+                            29.740000000000002
+                        ]
+                    ],
+                    "text_description": "수 카드를 한 번씩만 사용하여 만들 수 있는 가장 큰 세 자리 수를 남은"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.37,
+                            43.13,
+                            530.66,
+                            69.46
+                        ]
+                    ],
+                    "text_description": "카드의 수로 나누면 나머지는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            360.44,
+                            89.29,
+                            610.48,
+                            143.95
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|l|l|l|} \\hline 6 & 8 & 9 & 7 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            620.08,
+                            158.73,
+                            650.8,
+                            177.29
+                        ]
+                    ],
+                    "text_description": "③ 3"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.37,
+                            158.54,
+                            355.43,
+                            204.02
+                        ]
+                    ],
+                    "text_description": "① 1 ② 2 ④ 4 ⑤ 5"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.11,
+                            268.49,
+                            810.45,
+                            294.83
+                        ]
+                    ],
+                    "text_description": "만들 수 있는 가장 큰 세 자리 수는 987 이고, 남은 카드의 수는 6 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.97,
+                            305.41,
+                            488.56,
+                            327.35
+                        ]
+                    ],
+                    "text_description": "$987 \\div 6=164 \\cdots 3$ 이므로 나머지는 3입니다."
+                }
+            ]
+        }
+    ]
+}

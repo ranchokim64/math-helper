@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9893f91a-cd47-4976-ad45-9a7a8f56c6fc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005080",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.1,
+                            25.94,
+                            488.1,
+                            69.14
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 알맞은 대분수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104.1,
+                            84.34,
+                            516.9,
+                            216.34
+                        ]
+                    ],
+                    "text_description": "$\\square \\times \\frac{5}{12}=2 \\frac{1}{6}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            432.9,
+                            223.2,
+                            488.1,
+                            288
+                        ]
+                    ],
+                    "text_description": "$5 \\frac{1}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.7,
+                            287.8,
+                            552.9,
+                            434.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} \\square & =2 \\frac{1}{6} \\div \\frac{5}{12}=\\frac{13}{6} \\div \\frac{5}{12}=\\frac{13}{6} \\times \\frac{2}{12}=\\frac{26}{5} \\\\ & =5 \\frac{1}{5}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

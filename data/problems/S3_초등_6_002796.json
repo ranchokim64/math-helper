@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6f9ca420-bed5-41c7-9904-19a94678443b",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002796",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.6,
+                            12.8,
+                            573.88,
+                            39.68
+                        ]
+                    ],
+                    "text_description": "$6. 93 \\div 3$을 계산한 것입니다. $\\square$안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.88,
+                            88.32,
+                            707,
+                            159.36
+                        ]
+                    ],
+                    "text_description": "$6. 93 \\div 3=\\frac{\\square}{100} \\div 3=\\frac{\\square \\div 3}{100}=\\frac{\\square}{100}=\\square$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            223.8,
+                            213.08,
+                            596.6,
+                            357.76
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{100}$ 배 $693 \\div 3=\\square$ ->$\\square$ 배 -> $6. 93 \\div 3$=$\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.2,
+                            485.6,
+                            623.8,
+                            552
+                        ]
+                    ],
+                    "text_description": "$6. 93 \\div 3=\\frac{693}{100} \\div 3=\\frac{693 \\div 3}{100}=\\frac{231}{100}=2. 31$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            192.6,
+                            591.2,
+                            528.6,
+                            725.6
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{100}$ 배 $693 \\div 3=231$ ->$\\frac{1}{100}$ 배 -> $6. 93 \\div 3$ = $2. 31$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.4,
+                            402.4,
+                            719.8,
+                            453.6
+                        ]
+                    ],
+                    "text_description": "$($ 소수 $) \\div($ 자연수 $)$는 $($ 분수 $) \\div($ 자연수 $)$로 바꾸어 계산하거나 자연수의 나눗셈을 이용하여 계산할 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

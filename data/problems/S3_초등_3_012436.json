@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b334c48c-646c-49f7-9c5a-81cd9554681e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012436",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.08,
+                            16.72,
+                            416.08,
+                            75.12
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫과 나머지를 바르게 구한 것을 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            125.68,
+                            92.72,
+                            336.88,
+                            213.52
+                        ]
+                    ],
+                    "text_description": "㉠ $17 \\div 2=7 \\cdots 3$ ㉡ $16 \\div 5=2 \\cdots 6$ ㉢ $20 \\div 3=6 \\cdots 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324.08,
+                            229.2,
+                            343.28,
+                            250
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.08,
+                            258,
+                            416.08,
+                            298
+                        ]
+                    ],
+                    "text_description": "나눗셈의 나머지는 나누는 수보다 작아야 하므로 ㉠, ㉡은 잘못된 계산입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2d43737e-8f1a-4d5e-b2ec-19e4ee21b8f4",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012276",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            6,
+                            794,
+                            127
+                        ]
+                    ],
+                    "text_description": "솟1 4 주어진 도형을 어떤 방향으로 돌린 도형인지 보기에서 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            135,
+                            800,
+                            446
+                        ]
+                    ],
+                    "text_description": "직각삼각형 ㄱㄴㄷ이다. 그리고 오른쪽에는 사등분된 노란모양에 화살표로 어느정도 회전을 어떤 방향으로 하는지 알려주는 모습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76,
+                            477,
+                            311,
+                            708
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ가 반시계 방향으로 70도 돌아간 모습이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            626,
+                            741,
+                            667,
+                            783
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116,
+                            800,
+                            815,
+                            873
+                        ]
+                    ],
+                    "text_description": "삼각형의 직각 부분이 왼쪽 위에 있으므로 시계 반대 방향으로 $90^{\\circ}$만큼 돌린 것입니다."
+                }
+            ]
+        }
+    ]
+}

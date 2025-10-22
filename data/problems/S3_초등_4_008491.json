@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77f7321a-f93a-4d1a-81cd-99d8978b8200",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008491",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.45,
+                            0.06,
+                            936.13,
+                            112.56
+                        ]
+                    ],
+                    "text_description": "연아네 학교 학생들의 혈액형을 조사하여 나타낸 막대그래프입니다. 학 생 수가 가장 많은 혈액형과 가장 적은 혈액형의 학생 수의 차는 몇 명일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            184.57,
+                            118.81,
+                            781.45,
+                            459.43
+                        ]
+                    ],
+                    "text_description": "혈액형별 학생 수의 막대그래프이다. 가로는 혈액형, 세로는 학생 수를 나타낸다. A형은 22, B형은 26, AB형은 8, O형은 18을 나타내고있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            328.32,
+                            509.43,
+                            412.7,
+                            537.56
+                        ]
+                    ],
+                    "text_description": "⑤ 18 명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.130000000000003,
+                            463.25,
+                            692.32,
+                            498.93
+                        ]
+                    ],
+                    "text_description": "① 4명 ② 8 명 ③ 9명"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.76,
+                            509.43,
+                            118.95,
+                            536
+                        ]
+                    ],
+                    "text_description": "④ 14 명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.7,
+                            601.62,
+                            933.01,
+                            737.56
+                        ]
+                    ],
+                    "text_description": "(해설)가장 많은 혈액형은 B 형으로 학생 수는 26 명이고, 가장 적은 혈액형은 AB 형으로 학생 수는 8 명입니다. 따라서 가장 많은 혈액형과 가장 적은 혈액형의 학생 수의 차는 $26-8=18$ (명)입니다."
+                }
+            ]
+        }
+    ]
+}

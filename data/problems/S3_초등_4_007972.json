@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "efa87d3a-2288-434c-9d53-b8861edec0b7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007972",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고 수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-02] 다섯 자리 이상의 수의 범위에서 수의 계열을 이해하고, 수의 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.11,
+                            6.88,
+                            606.11,
+                            32.88
+                        ]
+                    ],
+                    "text_description": "인구가 가장 적은 나라의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            319.11,
+                            222.5,
+                            648.11,
+                            260.5
+                        ]
+                    ],
+                    "text_description": "(인도, 핀란드, 대한민국)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.11,
+                            46.88,
+                            871.11,
+                            214.88
+                        ]
+                    ],
+                    "text_description": "인도, 핀란드, 대한민국의 국기와 이름이 표기되어 있으며, 인도는 $12억$ $8193$만 명, 핀란드는 $550$만 명, 대한민국은 오천백칠십칠만 명으로 표기되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.11,
+                            275.5,
+                            134.11,
+                            303.5
+                        ]
+                    ],
+                    "text_description": "핀란드"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.11,
+                            323.5,
+                            577.11,
+                            352.5
+                        ]
+                    ],
+                    "text_description": "인도: $12$억 $8193$만 명 $\\rightarrow 1281930000$ ($10$자리 수)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.11,
+                            360.5,
+                            597.11,
+                            458.5
+                        ]
+                    ],
+                    "text_description": "핀란드: $5500000$ ($7$자리 수) 대한민국: 오천백칠십칠만 명 $\\rightarrow 51, 770, 000$ ($8$자리 수) 따라서 인구가 가장 적은 나라는 핀란드입니다."
+                }
+            ]
+        }
+    ]
+}

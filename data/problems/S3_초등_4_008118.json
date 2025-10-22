@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c133804a-d965-4727-8e6d-11f57999b5d3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008118",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.59,
+                            6.91,
+                            928.84,
+                            77.66
+                        ]
+                    ],
+                    "text_description": "다음을 보고 $915 \\times 70$의 계산에서 숫자 4는 어느 곳에 써야 하는지 기호를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            156.34,
+                            105.08,
+                            484.59000000000003,
+                            233.82999999999998
+                        ]
+                    ],
+                    "text_description": "여자아이가 $915 \\times 7=6405$이니까라고 말하고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            530.09,
+                            79.58,
+                            928.84,
+                            299.58
+                        ]
+                    ],
+                    "text_description": "915 x 70=이라는 수식 아래로 ㉠ ㉡ ㉢ ㉣ ㉤ 기호가 있고 보기로 (㉠, ㉡, ㉢, ㉣, ㉤) 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.09,
+                            315.83,
+                            83.84,
+                            342.08
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.84,
+                            362.08,
+                            557.59,
+                            430.83
+                        ]
+                    ],
+                    "text_description": "$915 \\times 7=6405$이므로 $915 \\times 70=64050$입니다. 따라서 숫자 4는 ㉡에 써야 합니다."
+                }
+            ]
+        }
+    ]
+}

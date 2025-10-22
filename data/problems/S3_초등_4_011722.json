@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "80212128-8a27-4359-8caa-108b5a8bc9f8",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011722",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-02] 연속적인 변량에 대한 자료를 수집하여 꺾은선그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-02] 자료를 수집하여 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.5,
+                            7.91,
+                            392.5,
+                            60.91
+                        ]
+                    ],
+                    "text_description": "다음은 어느 도시의 온도를 월별로 나타낸 그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.5,
+                            287.91,
+                            249.5,
+                            311.91
+                        ]
+                    ],
+                    "text_description": "6월의 온도는 몇 ${ }^{\\circ} \\mathrm{C}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            69.5,
+                            372.5,
+                            258.5
+                        ]
+                    ],
+                    "text_description": "어느 도시의 온도 (매월 15일 조사)이 이미지는 어떤 도시의 온도를 나타내는 그래프입니다. X축은 월(3월에서 9월까지)을 나타내고, Y축은 온도를 섭씨(°C)로 나타냅니다. 그래프는 각 월 15일의 온도가 점으로 표시되어 있으며, 점들은 선으로 연결되어 있습니다. 온도는 3월부터 시작하여 9월까지 상승하는 경향을 보이며, 7월에 가장 높은 온도에 도달한 후 약간 감소하는 패턴을 가지고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            282.5,
+                            328.5,
+                            321.5,
+                            349.5
+                        ]
+                    ],
+                    "text_description": "$22^{\\circ} \\mathrm{C}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.5,
+                            354.5,
+                            363.5,
+                            372.5
+                        ]
+                    ],
+                    "text_description": "세로 눈금 한 칸이 $2^{\\circ} \\mathrm{C}$ 이므로 6 월의 온도는 $22^{\\circ} \\mathrm{C}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

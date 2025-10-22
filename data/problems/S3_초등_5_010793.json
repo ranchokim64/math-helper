@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e0787c79-705a-4c61-934b-1f7b34a7f8fd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010793",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-05] 분수의 성질을 이용하여 크기가 같은 분수를 만들 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26,
+                            15.42,
+                            873,
+                            80.42
+                        ]
+                    ],
+                    "text_description": "대화를 읽고 크기가 같은 분수를 같은 방법으로 구한 두 사람을 찾아 이름을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107,
+                            84.42,
+                            325,
+                            338.42
+                        ]
+                    ],
+                    "text_description": "해준: $\\begin{array}{l}\\frac{6}{9} \\text { 과 크기가 같은 } \\\\ \\text { 분수에는 } \\frac{2}{3} \\text { 가 있어. }\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            339,
+                            84,
+                            555,
+                            336
+                        ]
+                    ],
+                    "text_description": "주아: $\\begin{array}{l}\\frac{4}{10} \\text { 와 크기가 같은 } \\\\ \\text { 분수에는 } \\frac{8}{20} \\text { 이 있어. }\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            571,
+                            83,
+                            790,
+                            338
+                        ]
+                    ],
+                    "text_description": "시우: $\\frac{2}{7}$와 크기가 같은 분수에는 $\\frac{4}{14}$가 있어."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            330,
+                            335,
+                            564,
+                            368
+                        ]
+                    ],
+                    "text_description": "(해준, 주아, 시우)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            379,
+                            153,
+                            413
+                        ]
+                    ],
+                    "text_description": "주아, 시우"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            423,
+                            873,
+                            452
+                        ]
+                    ],
+                    "text_description": "주아와 시우는 분모와 분자에 각각 0이 아닌 같은 수를 곱하여 크기가 같은 분수들"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            456,
+                            871,
+                            550
+                        ]
+                    ],
+                    "text_description": "구했습니다. 해준이는 분모와 분자에 각각 0이 아닌 같은 수로 나누어 크기가 같은 분수를 구했습 니다."
+                }
+            ]
+        }
+    ]
+}

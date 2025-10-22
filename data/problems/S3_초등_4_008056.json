@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d8e1944-a13d-407e-8db2-b501383d8303",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008056",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-13] 주어진 각도와 크기가 같은 각을 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.7,
+                            15.44,
+                            833.3,
+                            43.44
+                        ]
+                    ],
+                    "text_description": "주어진 점을 이용하여 각도가 $65^{\\circ}$ 인 각을 그린 것을 선택 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.3,
+                            61.84,
+                            444.5,
+                            245.04
+                        ]
+                    ],
+                    "text_description": "각도기가 있고 두 변이 만나 이루는 각도는 65도를 가리키고 붉은 점이 접해있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            522.1,
+                            61.5,
+                            873.3,
+                            245.5
+                        ]
+                    ],
+                    "text_description": "각도기가 있고 두 변이 만나 이루는 각도는 115도를 가리키고 붉은 점이 접해있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            263.9,
+                            261.3,
+                            372.7
+                        ]
+                    ],
+                    "text_description": "각도기가 있고 두 변이 만나 이루는 각도는 65도를 가리키고 붉은 점이 접해있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            383.1,
+                            645.3,
+                            411.1
+                        ]
+                    ],
+                    "text_description": "왼쪽의 각은 $65^{\\circ}$, 오른쪽의 각은 $115^{\\circ}$를 그린 것입니다."
+                }
+            ]
+        }
+    ]
+}

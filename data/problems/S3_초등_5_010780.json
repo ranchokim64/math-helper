@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2b4a740d-c703-40f6-89fa-6bfdc63c6db5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010780",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            7.42,
+                            875,
+                            34.42
+                        ]
+                    ],
+                    "text_description": "집에서 학교에 가려고 합니다. 놀이터를 지나는 길과 학교까지 바로 가는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            38.42,
+                            683,
+                            71.42
+                        ]
+                    ],
+                    "text_description": "길 중에서 어느 길로 가는 것이 더 가까운지 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            170,
+                            289,
+                            734,
+                            316
+                        ]
+                    ],
+                    "text_description": "(놀이터를 지나는 길, 학교까지 바로 가는 길)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            245,
+                            73,
+                            647,
+                            285
+                        ]
+                    ],
+                    "text_description": "그림에서 집과 놀이터 사이는 $1\\frac{5}{8}km$, 놀이터와 학교 사이는 $\\frac{7}{8}km$, 집과 학교 사이는 $2\\frac{5}{24}km$ 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            332,
+                            277,
+                            358
+                        ]
+                    ],
+                    "text_description": "학교까지 바로 가는 길"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            377,
+                            530,
+                            428
+                        ]
+                    ],
+                    "text_description": "놀이터를 지나는 길: $1 \\frac{5}{8}+\\frac{7}{8}=1 \\frac{12}{8}=2 \\frac{4}{8}=2 \\frac{1}{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            437,
+                            314,
+                            488
+                        ]
+                    ],
+                    "text_description": "학교까지 바로 가는 길: $2 \\frac{5}{24}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            492,
+                            505,
+                            581
+                        ]
+                    ],
+                    "text_description": "\\[ \\left(2 \\frac{1}{2}, 2 \\frac{5}{24}\\right) \\Rightarrow\\left(2 \\frac{12}{24}, 2 \\frac{5}{24}\\right) \\Rightarrow 2 \\frac{1}{2}>2 \\frac{5}{24} \\] 따라서 학교까지 바로 가는 길이 더 가깝습니다."
+                }
+            ]
+        }
+    ]
+}

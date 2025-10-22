@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "62163c86-3eaa-44d9-b07c-a4836077af58",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002951",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.54,
+                            14.59,
+                            424.22,
+                            95.35
+                        ]
+                    ],
+                    "text_description": "한 시간에 빵 $15$개를 구울 수 있는 기계 $3$대가 있습니다. $225$개를 구우려면 몇 시간이 걸리는지 하나의 식으로 나타내어 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            442.54,
+                            13.6,
+                            653.62,
+                            165.04
+                        ]
+                    ],
+                    "text_description": "빵을 굽는 직원의 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.12,
+                            269.56,
+                            528.32,
+                            311.96
+                        ]
+                    ],
+                    "text_description": "식: \\[ 225 \\div(15 \\times 3)=5 \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            261.12,
+                            331.16,
+                            526.72,
+                            370.36
+                        ]
+                    ],
+                    "text_description": "답: 5시간"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.86,
+                            198.92,
+                            878.74,
+                            257.92
+                        ]
+                    ],
+                    "text_description": "한 시간에 $15$개씩 $3$대의 기계로 빵을 구우면 $(15 \\times 3)$개의 빵을 구울 수 있습니다. $225$개의 빵을 구우려면 $225 \\div(15 \\times 3)=225 \\div 45=5$(시간)이 걸립니다."
+                }
+            ]
+        }
+    ]
+}

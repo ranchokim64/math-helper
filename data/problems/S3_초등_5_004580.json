@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "073671db-549c-4f05-a9c4-db473cd11062",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004580",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-01] 실생활 장면에서 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-02] 실생활과 연결하여 이상, 이하, 초과, 미만의 의미와 쓰임을 알고, 이를 활용하여 수의 범위를 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.27,
+                            37.74,
+                            701.27,
+                            130.74
+                        ]
+                    ],
+                    "text_description": "다음 수 중에서 17 이상인 수를 모두 찾아 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.04,
+                            145.56,
+                            701.68,
+                            314.52
+                        ]
+                    ],
+                    "text_description": "<div class=\"table_tabular \" style=\"text-align: center\"> <div class=\"inline-tabular\"><table id=\"tabular\"> <tbody> <tr style=\"border-top: none !important; border-bottom: none !important;\"> <td style=\"text-align: left; border-left-style: solid !important; border-left-width: 1px !important; border-right: none !important; border-bottom: none !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">16. 78</td> <td style=\"text-align: left; border-right: none !important; border-bottom: none !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">17</td> <td style=\"text-align: left; border-right: none !important; border-bottom: none !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">15. 1</td> <td style=\"text-align: left; border-bottom: none !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">12. 5</td> </tr> <tr style=\"border-top: none !important; border-bottom: none !important;\"> <td style=\"text-align: left; border-left-style: solid !important; border-left-width: 1px !important; border-right: none !important; border-bottom: none !important; border-top: none !important; width: auto; vertical-align: middle; \">20. 32</td> <td style=\"text-align: left; border-right: none !important; border-bottom: none !important; border-top: none !important; width: auto; vertical-align: middle; \">19. 8</td> <td style=\"text-align: left; border-right: none !important; border-bottom: none !important; border-top: none !important; width: auto; vertical-align: middle; \"><span class=\"math-inline \"> $8 \\frac{4}{7}$</span></td> <td style=\"text-align: left; border-bottom: none !important; border-top: none !important; width: auto; vertical-align: middle; \">16</td> </tr> </tbody> </table> </div></div>"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            338.27,
+                            341.28,
+                            559.27,
+                            377.28
+                        ]
+                    ],
+                    "text_description": "$17, 20. 32, 19. 8$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            124.27,
+                            392.28,
+                            702.27,
+                            454.28
+                        ]
+                    ],
+                    "text_description": "17 이상인 수는 17과 같거나 큰 수이므로 $17, 20. 32, 19. 8$입니다."
+                }
+            ]
+        }
+    ]
+}

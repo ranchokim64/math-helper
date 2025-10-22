@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8c235791-dfd0-4ed9-8830-dec635f9c19d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009618",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.8,
+                            3.84,
+                            385.8,
+                            19.84
+                        ]
+                    ],
+                    "text_description": "계산 결과가 4보다 큰 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195.6,
+                            35.24,
+                            411.2,
+                            69.44
+                        ]
+                    ],
+                    "text_description": "$12 \\times \\frac{3}{10} \\quad 15 \\times \\frac{5}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.74,
+                            115.49,
+                            538.12,
+                            189.26
+                        ]
+                    ],
+                    "text_description": "\\[ \\ 12 \\times \\frac{3}{10}=\\frac{12 \\times 3}{10}=\\frac{6 \\times 3}{5}=\\frac{18}{5}=3 \\frac{3}{5}, 15 \\times \\frac{5}{12}=\\frac{15 \\times 5}{12}=\\frac{5 \\times 5}{4}=\\frac{25}{4}=6 \\frac{1}{4} \\] 따라서 계산 결과가 4보다 큰 것은 $15 \\times \\frac{5}{12}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.8,
+                            82.9,
+                            75.4,
+                            104.7
+                        ]
+                    ],
+                    "text_description": "$15 \\times \\frac{5}{12}$"
+                }
+            ]
+        }
+    ]
+}

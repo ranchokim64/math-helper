@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bb3eb2e2-a71c-49e4-8e9c-86a45e2d9d2d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004821",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.77,
+                            12.24,
+                            469.77,
+                            115.24
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도에서 보이지 않는 모서리의 길이의 합이 $27cm$일 때 색칠한 면의 둘레는 몇 $cm$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133.76999999999998,
+                            130.77,
+                            327.77,
+                            286.77
+                        ]
+                    ],
+                    "text_description": "밑면의 길이가 가로는 $12cm$, 세로는 $7cm$인 직육면체에 겨냥도로 앞면이 주황색으로 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            321.77,
+                            312.77,
+                            385.77,
+                            333.77
+                        ]
+                    ],
+                    "text_description": "$40cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.77,
+                            353.77,
+                            470.77,
+                            446.77
+                        ]
+                    ],
+                    "text_description": "색칠한 면의 세로를 $ \\square cm$라 하면 $ 12+7+\\square=27 $이므로 $ \\square=8 $입니다. 색칠한 면은 가로가 $ 12 $ cm, 세로가 $ 8 $ cm인 직사각형입니다. $ \\rightarrow($ 색칠한 면의 둘레 $)=(12+8) \\times 2=40$ ($cm$)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7cd7d4d2-588c-475a-895c-d95a8d045990",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011613",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            4.4,
+                            451.5,
+                            145.4
+                        ]
+                    ],
+                    "text_description": "운동을하고 난 후 명수는 $\\frac{1}{4} \\mathrm{~L}$의 물을, 재석이는 $\\frac{2}{4} \\mathrm{~L}$의 물을 마셨습니다. 두 사람이 마신 물은 모두 몇 L일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.5,
+                            150.4,
+                            379.5,
+                            189.4
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{4} \\mathrm{~L}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            192.4,
+                            343.5,
+                            261.4
+                        ]
+                    ],
+                    "text_description": "(명수가 마신 물의 양)+(재석이가 마신 물의 양) \\[ =\\frac{1}{4}+\\frac{2}{4}=\\frac{3}{4}(\\mathrm{~L}) \\]"
+                }
+            ]
+        }
+    ]
+}

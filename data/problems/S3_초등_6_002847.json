@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ef8a3516-502d-4b16-b336-4049d2c7cf28",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002847",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.93,
+                            5.05,
+                            739.18,
+                            67.55
+                        ]
+                    ],
+                    "text_description": "2012년과 2019년 우리나라 재생 에너지별 발전량을 조사하여 나타낸 띠그래프입니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.25,
+                            379.39,
+                            625.12,
+                            409.08
+                        ]
+                    ],
+                    "text_description": "바이오 에너지의 발전량은 2012년에 비해 2019년에 약 몇 배 늘어났나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            81,
+                            739,
+                            367
+                        ]
+                    ],
+                    "text_description": "위쪽의이 이미지는 2012년 재생 에너지원별 발전량을 나타내고 있습니다. 각 에너지원의 비율은 다음과 같습니다: 풍력·수력 25%, 폐기물 62%, 태양광 6%, 해양 2%, 바이오 5%입니다. 아랫쪽의이 이미지는 2019년의 에너지 사용 비율을 나타낸 그래프입니다. 각 에너지원의 비율은 다음과 같습니다: 태양광 27%, 풍력·수력 12%, 바이오 22%, 폐기물 38%, 그리고 해양 1%입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3,
+                            526,
+                            235,
+                            548
+                        ]
+                    ],
+                    "text_description": "약 4 배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.75,
+                            463.77,
+                            629.81,
+                            516.89
+                        ]
+                    ],
+                    "text_description": "2012 년 바이오 에너지 발전량은 $5 \\%$. 2019년 바이오 에너지 발전량은 $22 \\%$ 이므로 약 4 배 늘어났습니다."
+                }
+            ]
+        }
+    ]
+}

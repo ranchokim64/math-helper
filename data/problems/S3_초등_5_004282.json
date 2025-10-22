@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "539b1c2a-5845-410f-8a22-4bfbe8ee5f70",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004282",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.88,
+                            11.35,
+                            399.64,
+                            45.27
+                        ]
+                    ],
+                    "text_description": "빈칸에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.6,
+                            55.43,
+                            592.92,
+                            412.55
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|} \\hline 6의 배수 & $6, 12, 18, 24, 30, 36 \\cdots \\cdots$ \\\\ \\hline 8의 배수 & $8, 16, 24, 32, 40, 48 \\cdots \\cdots$ \\\\ \\hline \\begin{tabular}{c} 6과 8의 \\\\ 공배수 \\end{tabular} & $24, 48, 72, 96, 120, 144 \\cdots \\cdots$ \\\\ \\hline \\begin{tabular}{c} 6과 8의 \\\\ 최소공배수 \\end{tabular} & 24 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97.56,
+                            421.96,
+                            592.28,
+                            474.44
+                        ]
+                    ],
+                    "text_description": "6과 8의 공배수는 $24, 48, 72 \\cdots \\cdots$ 이고, 공배수 중에서 가장 작은 수인 최소공배수는 24입니다."
+                }
+            ]
+        }
+    ]
+}

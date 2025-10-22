@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "116ab5a6-5185-42d0-a432-7eac46ad5622",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004695",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.5,
+                            6.92,
+                            601.5,
+                            80.92
+                        ]
+                    ],
+                    "text_description": "선대칭도형에서 선분 ㄷㅊ이 $12~cm$일 때, 선분 ㄷㅁ은 몇 $cm$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            215.5,
+                            107.92,
+                            403.5,
+                            369.92
+                        ]
+                    ],
+                    "text_description": "직선 ㅅㅇ을 대칭으로 하는 선대칭형 도형 ㄱㄴㄷㄹㅁㅂ가 있고 점선으로 ㄴㅂ, ㄷㅁ이 곧게 이어져 있습니다. 겹치는 부분을 ㅈ, ㅊ 이라고 합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            427.5,
+                            400.5,
+                            502.5,
+                            427.5
+                        ]
+                    ],
+                    "text_description": "$24 ~cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.22,
+                            407.55,
+                            268.86,
+                            434.43
+                        ]
+                    ],
+                    "text_description": "$(선분 ㄷㅊ)=12 \\mathrm{~cm}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.22,
+                            436.35,
+                            410.3,
+                            489.47
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 선분 ㄷㅁ }) & =(\\text { 선분 ㄷㅊ })+(\\text { 선분 ㅊㅁ }) \\\\ & =(\\text { 선분 ㄷㅊ })+(\\text { 선분 ㄷㅊ })\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

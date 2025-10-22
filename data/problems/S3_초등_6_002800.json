@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1256f32d-88c8-4933-8d35-94993011d97a",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002800",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            24.92,
+                            502,
+                            130.92
+                        ]
+                    ],
+                    "text_description": "재희는 자전거를 타고 일정한 빠르기로 2시간 동안 24.64km를 달렸습니다. 재희가 한 시간 동안 자전거를 타고 달린 거리는 몇 km 인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            512,
+                            17.5,
+                            791,
+                            242.5
+                        ]
+                    ],
+                    "text_description": "어린이가 자전거를 타고 있는 삽화"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            316.5,
+                            187,
+                            350.5
+                        ]
+                    ],
+                    "text_description": "12.32km"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43,
+                            257.5,
+                            611,
+                            305.5
+                        ]
+                    ],
+                    "text_description": "$($ 한 시간 동안 자전거를 타고 달린 거리 $)=(2$ 시간 동안 자전거를 타고 달린 거리 $) \\div 2$ 이므로 $24. 64 \\div 2=12. 32(\\mathrm{~km})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

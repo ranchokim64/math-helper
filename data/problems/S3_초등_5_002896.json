@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f0457257-65d6-4c5a-89e2-4d27ad04587e",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002896",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.93,
+                            5.19,
+                            392.44,
+                            34.38
+                        ]
+                    ],
+                    "text_description": "자연수의 곱셈을 이용하여 계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            136.44,
+                            86.09,
+                            319.23,
+                            188.49
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}3 \\times 9= \\square \\\\ 0. 3 \\times 9=\\square\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.39,
+                            332.87,
+                            229.11,
+                            421.96
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}3 \\times 9=27 \\\\ 0. 3 \\times 9=2. 7\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.11,
+                            241.54,
+                            541.43,
+                            286.6
+                        ]
+                    ],
+                    "text_description": "곱해지는 수가 $\\frac{1}{10}$ 배가 되면 계산 결과는 $\\frac{1}{10}$ 배가 됩니다."
+                }
+            ]
+        }
+    ]
+}

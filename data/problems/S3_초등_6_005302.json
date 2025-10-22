@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fb9a5e40-5fef-4754-8ec0-cce24a61e119",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005302",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.75,
+                            34.66,
+                            649.5,
+                            119.91
+                        ]
+                    ],
+                    "text_description": "㉮ $\\times 12=16 \\times㉯$ 일 때, ㉮와 ㉯의 비를 간단한 자연수의 비로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            473.5,
+                            152.63,
+                            544.25,
+                            185.13
+                        ]
+                    ],
+                    "text_description": "$4: 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.5,
+                            203.88,
+                            356,
+                            329.13
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text { ㉮ } \\times 12=16 \\times㉯ \\\\ \\rightarrow \\text { ㉮: ㉯ }=16: 12 \\\\ =(16 \\div 4):(12 \\div 4) \\\\ =4: 3 \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

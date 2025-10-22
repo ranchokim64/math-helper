@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "21c5050d-f07c-46a7-8428-ff6467239e0e",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017115",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.25,
+                            2.36,
+                            268.37,
+                            27.96
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 큰 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.219999999999999,
+                            94.52,
+                            114.26,
+                            119.1
+                        ]
+                    ],
+                    "text_description": "ㄷ) $789+432$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.76,
+                            37.98,
+                            115.28,
+                            88.67
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { ㄱ) } 875+234 \\\\ \\text { ㄴ) } 456+567\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.2,
+                            125.02,
+                            170.58,
+                            206.94
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { ㄱ) } 875+234=1109 \\\\ \\text { ㄴ) } 456+567=1023 \\\\ \\text { ㄷ) } 789+432=1221\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

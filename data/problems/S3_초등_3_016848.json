@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "71dd2c1d-2001-4dcd-a516-c21792c6eb1a",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016848",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.66,
+                            7.22,
+                            638,
+                            49.26
+                        ]
+                    ],
+                    "text_description": "선영이가 집에서 기르는 강아지의 다리를 세어 보니 모두 28개였습니다. 강아지는 모두 몇 마리일 까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.66,
+                            89.99,
+                            66.47,
+                            108.38
+                        ]
+                    ],
+                    "text_description": "② 7 마리"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.02,
+                            171.79,
+                            479.47,
+                            189.4
+                        ]
+                    ],
+                    "text_description": "강아지의 다리는 4 개이므로 4의 단 곱셈구구를 이용하여 알 수 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.43,
+                            222.17,
+                            239.44,
+                            240.6
+                        ]
+                    ],
+                    "text_description": "따라서 강아지는 모두 7마리입니다."
+                }
+            ]
+        },
+        {
+            "class_num": "2",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.66,
+                            116.27,
+                            67.12,
+                            157
+                        ]
+                    ],
+                    "text_description": "③ 8마리\n④ 9 마리"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.66,
+                            67,
+                            66.47,
+                            82.76
+                        ]
+                    ],
+                    "text_description": "① 6 마리"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "506fb70b-ab3e-4c81-b452-575737b388cd",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012495",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-11] 실생활 문제 상황을 통하여 무게의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-23] 실생활 문제 상황과 연결하여 무게의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            10.92,
+                            498.5,
+                            156.92
+                        ]
+                    ],
+                    "text_description": "민영이와 동우가 딴 배를 합치면 무게가 10kg 입니다. 민영이가 딴 배의 무게는 동 우가 딴 배의 무게보다 2kg 무겁습니다. 민영이가 딴 배의 무게는 몇 kg 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.5,
+                            176.5,
+                            473.5,
+                            360.5
+                        ]
+                    ],
+                    "text_description": "나무 4그루가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            373.5,
+                            380.5,
+                            419.5,
+                            405.5
+                        ]
+                    ],
+                    "text_description": "6kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.5,
+                            412.5,
+                            492.5,
+                            506.5
+                        ]
+                    ],
+                    "text_description": "동우가 딴 배의 무게를 먼저 생각하여 민영이가 딴 배의 무게를 구하고 그 두 무게의 합이 10kg가 되는 상황을 찾습니다. 민영이가 5kg을 땄으면 동우는 3kg 입니다. $\\rightarrow 8 \\mathrm{~kg}$ 민영이가 6kg을 땄으면 동우는 4kg 입니다. $\\rightarrow 10 \\mathrm{~kg}$"
+                }
+            ]
+        }
+    ]
+}

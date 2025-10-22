@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "de8fe228-20ac-408a-b702-3ad00266f469",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005764",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.28,
+                            7.43,
+                            268.76,
+                            30.98
+                        ]
+                    ],
+                    "text_description": "정육면체의 부피를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.59,
+                            39.46,
+                            200.89,
+                            180.28
+                        ]
+                    ],
+                    "text_description": "한 모서리의 길이가 7cm인 정육면체의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.2,
+                            277.53,
+                            84.54,
+                            303.16
+                        ]
+                    ],
+                    "text_description": "$343 \\mathrm{~cm}^{3}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.05,
+                            197.29,
+                            410.73,
+                            239.15
+                        ]
+                    ],
+                    "text_description": "(정육면체의 부피) $=($한 모서리의 길이) $\\times$ (한 모서리의 길이) $\\times($한 모서리의 길이)입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.13,
+                            245.38,
+                            164.87,
+                            268.24
+                        ]
+                    ],
+                    "text_description": "$7 \\times 7 \\times 7=343\\left(\\mathrm{~cm}^{3}\\right)$"
+                }
+            ]
+        }
+    ]
+}

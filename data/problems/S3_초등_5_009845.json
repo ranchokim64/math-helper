@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fce2166d-c2c0-45bf-9a93-2e7c4db60d7b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009845",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.3,
+                            0.74,
+                            561.3,
+                            24.74
+                        ]
+                    ],
+                    "text_description": "두 친구의 대화를 읽고, 알맞은 수나 말을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.9,
+                            46.0,
+                            653.3,
+                            262.0
+                        ]
+                    ],
+                    "text_description": "민우: $9. 8 \\times 1. 5$를 계산했더니 1. 47이 나왔어. 현지: 1. 47이 맞는 걸까? 민우: 9. 8이 소수 한 자리 수이고 1. 5 도 소수 한 자리 수인데, 1. 47은 소수 두 자리 수니까 맞는 것 같은데? 현지: 어림해서 맞는지 알아보자. 어림해 보면 1. 5는 1보다 (작은, 큰) 수니까 $9. 8 \\times 1. 5$는 9. 8보다 (작은, 큰) 값이어야 돼. 그러니까 1. 47이 아니고 $(0. 147, 14. 7)$ 이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.9,
+                            274,
+                            132.5,
+                            296.4
+                        ]
+                    ],
+                    "text_description": "큰, 큰, 14. 7"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.12,
+                            298.4,
+                            103.68,
+                            321.44
+                        ]
+                    ],
+                    "text_description": "는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167.04,
+                            296.48,
+                            474.88,
+                            320.16
+                        ]
+                    ],
+                    "text_description": "보다 큰 값이어 야 하므로 14. 7 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.5,
+                            299.6,
+                            84.5,
+                            320.4
+                        ]
+                    ],
+                    "text_description": "$9. 8 \\times 1. 5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.24,
+                            297.12,
+                            165.12,
+                            320.16
+                        ]
+                    ],
+                    "text_description": "$9. 8 \\times 1$"
+                }
+            ]
+        }
+    ]
+}

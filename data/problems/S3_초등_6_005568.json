@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "de62e0c3-7ded-4de6-8aef-0c963f1bed67",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005568",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            10.42,
+                            687,
+                            58.42
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 자연수는 모두 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            73.42,
+                            690,
+                            208.42
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{5}{6} \\div 2<\\square<22 \\frac{1}{2} \\div 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            485,
+                            236,
+                            543,
+                            277
+                        ]
+                    ],
+                    "text_description": "4개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41,
+                            296,
+                            688,
+                            474
+                        ]
+                    ],
+                    "text_description": "\\[ 2 \\frac{5}{6} \\div 2=\\frac{17}{6} \\times \\frac{1}{2}=\\frac{17}{12}=1 \\frac{5}{12}, \\] $22 \\frac{1}{2} \\div 4=\\frac{45}{2} \\times \\frac{1}{4}=\\frac{45}{8}=5 \\frac{5}{8}$ 이므로 $\\square$ 안에 들어갈 수 있는 자연수는 $2, 3, 4, 5$로 모두 4개입니다."
+                }
+            ]
+        }
+    ]
+}

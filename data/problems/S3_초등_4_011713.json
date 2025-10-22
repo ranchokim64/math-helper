@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "991de030-258a-4c9b-8c1c-bd28efc7c750",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011713",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            12.92,
+                            493,
+                            76.92
+                        ]
+                    ],
+                    "text_description": "도형은 마름모입니다. 각 ㉠의 크기는 몇 도 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            87.92,
+                            248,
+                            187.92
+                        ]
+                    ],
+                    "text_description": "① 마름모가 있고 아래 각의 각도가 120도 이고 왼쪽 각은 ㉠이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            373,
+                            162.5,
+                            413,
+                            187.5
+                        ]
+                    ],
+                    "text_description": "$60^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80,
+                            196.5,
+                            422,
+                            243.5
+                        ]
+                    ],
+                    "text_description": "마름모는 이웃한 두 각의 크기의 합이 $180^{\\circ}$ 이므로 $($ 각 ㉠ $)=180^{\\circ}-120^{\\circ}=60^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

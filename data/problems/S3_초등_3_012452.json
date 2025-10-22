@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "255e4716-8273-410d-9d88-8284e966befb",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012452",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            10.91,
+                            216,
+                            172.91
+                        ]
+                    ],
+                    "text_description": "오른쪽 그림과 같이 크기가 같은 원이 3개 있습니다. 이 원의 반지름은 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            232,
+                            10.91,
+                            416,
+                            134.91
+                        ]
+                    ],
+                    "text_description": "세 개의 동그란 원이 수평으로 나란히 배치되어 있으며, 각 원은 서로 겹치고 있습니다. 원 아래에는 32cm라는 길이가 표시된 선이 ㄱ 지점에서 ㄴ 지점으로 연결되어 있습니다. 원의 중심 부분에는 각각 핑크색 점이 위치해 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            314,
+                            189.5,
+                            357,
+                            212.5
+                        ]
+                    ],
+                    "text_description": "8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            219.5,
+                            306,
+                            278.5
+                        ]
+                    ],
+                    "text_description": "선분 ㄱㄴ의 길이는 반지름 4개와 같습니다. $(반지름)=(선분 ㄱㄴ의 길이)\\div4$ $=32 \\div 4=8(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6f7ffec4-72d8-4347-abd8-c53b35282ddb",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007950",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-01] 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-01] 큰 수의 필요성을 인식하면서 10000 이상의 큰 수에 대한 자릿값과 위치적 기수법을 이해하고, 수를 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            6.42,
+                            922,
+                            35.42
+                        ]
+                    ],
+                    "text_description": "얼마만큼씩 뛰어 세었는지 알아보려고 합니다. 알맞은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181,
+                            122,
+                            785,
+                            199
+                        ]
+                    ],
+                    "text_description": "(만, 십만, 백만)의 자리 숫자가 1씩 커졌습니다. $\\Rightarrow(10000, 100000, 1000000)$씩 뛰어 세었습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106,
+                            42.42,
+                            866,
+                            97.42
+                        ]
+                    ],
+                    "text_description": "206000 -306000 - 406000 - 506000 - 606000"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63,
+                            215,
+                            201,
+                            243
+                        ]
+                    ],
+                    "text_description": "십만, 100000"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            262,
+                            785,
+                            292
+                        ]
+                    ],
+                    "text_description": "십만의 자리 숫자가 1씩 커지므로 100000씩 뛰어 세었습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3028f0f5-2093-4e43-bde0-d406841aa76d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011874",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            14.42,
+                            486,
+                            82.42
+                        ]
+                    ],
+                    "text_description": "수선과 평행선을 모두 가지고 있는 도형을 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80,
+                            95.42,
+                            461,
+                            294.42
+                        ]
+                    ],
+                    "text_description": "가 평행사변형이다. 나 원이다. 다 직각삼각형이다. 라 두 개의 각이 각각 90도이며 나머지 두 각은 서로 다른 사각형이다. 마 이등변삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            368,
+                            308,
+                            402,
+                            334
+                        ]
+                    ],
+                    "text_description": "라"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74,
+                            340,
+                            360,
+                            367
+                        ]
+                    ],
+                    "text_description": "가는 평행선만 있고 다는 수선만 있습니다."
+                }
+            ]
+        }
+    ]
+}

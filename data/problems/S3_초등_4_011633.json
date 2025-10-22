@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "235dc472-d603-4a99-b08f-1604be0f1cc5",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011633",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            9.42,
+                            408,
+                            71.42
+                        ]
+                    ],
+                    "text_description": "도형은 이등변삼각형입니다. 세 변의 길이의 합은 몇 $cm$ 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79,
+                            81.42,
+                            341,
+                            223.42
+                        ]
+                    ],
+                    "text_description": "10cm의 밑변을 가진 이등변삼각형이다. 나머지 하나의 길이는 $5cm$이다. $5cm$가 접하고 있는 각각의 각도는 $75$도로 구성되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            287,
+                            244,
+                            348,
+                            271
+                        ]
+                    ],
+                    "text_description": "$25cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            276,
+                            339,
+                            320
+                        ]
+                    ],
+                    "text_description": "나머지 한 변의 길이가 $10cm$ 이므로 세 변의 길이의 합은 $5+10+10=25$ $(cm)$입니다."
+                }
+            ]
+        }
+    ]
+}

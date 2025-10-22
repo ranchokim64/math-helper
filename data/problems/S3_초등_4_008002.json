@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f2835a9c-6489-488e-ae1e-4c59b09583a4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008002",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.8,
+                            9.940000000000001,
+                            928.2,
+                            85.14
+                        ]
+                    ],
+                    "text_description": "승우와 지수가 각도를 다음과 같이 어림했습니다. 각도를 각도기로 재었더니 $100^{\\circ}$ 일 때 어림을 더 잘한 사람은 누구인지 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133,
+                            277.6,
+                            815.4,
+                            355.2
+                        ]
+                    ],
+                    "text_description": "어림한 각도와 각도기로 잰 각도의 차이가 더 작은 사람인 (승우, 지수)가 어림을 더 잘했습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.4,
+                            93.94,
+                            360,
+                            249.14
+                        ]
+                    ],
+                    "text_description": "승우 : 내 생각에는 $120^{\\circ}$ 쯤 되는 것 같아."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            595.8,
+                            93.2,
+                            926.6,
+                            249.8
+                        ]
+                    ],
+                    "text_description": "지수 : 음, 내 생각에는 $95^{\\circ}$ 쯤 되는 것 같은데 …. . ."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            371.4,
+                            95.2,
+                            585.8,
+                            250.4
+                        ]
+                    ],
+                    "text_description": "각도를 각도기로 잰 모습이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            376.2,
+                            106.4,
+                            400.8
+                        ]
+                    ],
+                    "text_description": "지수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.8,
+                            419.2,
+                            930.6,
+                            485.6
+                        ]
+                    ],
+                    "text_description": "각도기를 이용하여 각도를 재어 보고 어림한 각도와 비교해 봅니다. 어림한 각도와 잰 각도의 차가 작을수록 더 정확하게 어림한 것입니다. 어림한 각도와 각도기로 잰 각도의 차이가 더 작은 사람인 지수가 어림을 더 잘했습니다."
+                }
+            ]
+        }
+    ]
+}

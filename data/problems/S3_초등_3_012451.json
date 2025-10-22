@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "60a8bd59-09ac-4c53-a889-5a4d4536ec0b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012451",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-06] 원의 중심, 반지름, 지름을 알고, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-06] 원의 중심, 반지름, 지름을 이해하고, 그 성질을 안다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.54,
+                            9.71,
+                            232.98,
+                            131.99
+                        ]
+                    ],
+                    "text_description": "오른쪽 도형에서 삼각형 ㄱㄴㄷ의 세 변의 길이의 합은 몇 cm 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            250.89,
+                            14.14,
+                            417.37,
+                            127.86
+                        ]
+                    ],
+                    "text_description": "이미지는 두 개의 원이 겹쳐진 형태를 보여준다. 각 원의 반지름은 6cm, 8cm이며 원의 중심이 ㄴ, ㄷ이다. 겹쳐진 원 안에 삼각형 ㄱㄴㄷ이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            308.17,
+                            153.96,
+                            362.7,
+                            172.96
+                        ]
+                    ],
+                    "text_description": "25cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.9,
+                            182.05,
+                            265.2,
+                            259.72
+                        ]
+                    ],
+                    "text_description": "선분 ᄀᄂ의 길이 : 6cm 선분 ᄀᄃ의 길이 : 8cm 선분 ᄂᄃ의 길이 : 6+8-3=11(cm) ->6+8+ 11=25(cm)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7525f777-c4e5-4699-8df9-bb2a077c2b30",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010657",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.48,
+                            0.8,
+                            792.72,
+                            27.68
+                        ]
+                    ],
+                    "text_description": "최소공배수가 더 작은 두 수를 말한 사람의 이름을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            157.27,
+                            33.77,
+                            754.27,
+                            175.77
+                        ]
+                    ],
+                    "text_description": "현성: 32, 80 시영: 60, 90 (현성, 시영)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.27,
+                            189.77,
+                            99.27,
+                            216.77
+                        ]
+                    ],
+                    "text_description": "현성"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            244.27,
+                            378.77,
+                            734.27,
+                            405.77
+                        ]
+                    ],
+                    "text_description": "32와 80의 최소공배수: $2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 5=160$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            248.27,
+                            508.77,
+                            699.27,
+                            534.77
+                        ]
+                    ],
+                    "text_description": "60과 90의 최소공배수: $2 \\times 3 \\times 5 \\times 2 \\times 3=180$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            252,
+                            215,
+                            404
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r|ll} 2&32~~80 \\\\\\hline 2&16~~40 \\\\\\hline 2&~~8~~20\\\\\\hline 2&~~4~~10\\\\\\hline &~~2~~~~5\\\\ \\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            410,
+                            211,
+                            535
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r|ll} 2&60~~90 \\\\\\hline 3&30~~45 \\\\\\hline 5&10~~15\\\\\\hline &~~2~~~~3\\\\ \\end{array}$"
+                }
+            ]
+        }
+    ]
+}

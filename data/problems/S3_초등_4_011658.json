@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f2c0b669-1941-429d-aca2-ff697e4660e7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011658",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.61,
+                            16.88,
+                            444.61,
+                            40.88
+                        ]
+                    ],
+                    "text_description": "정표는 무게가 0.33kg 인 사과 한 개와"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.61,
+                            46.88,
+                            444.61,
+                            103.88
+                        ]
+                    ],
+                    "text_description": "0.69kg 인 배 한 개를 샀습니다. 정표가 산 사과와 배의 무게는 모두 몇 kg 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.61,
+                            192.88,
+                            166.61,
+                            216.88
+                        ]
+                    ],
+                    "text_description": "1.02 kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.77,
+                            119.77,
+                            184.77,
+                            145.77
+                        ]
+                    ],
+                    "text_description": "(사과의 무게)+(배의 무게)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            184.77,
+                            123.77,
+                            275.77,
+                            162.77
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}=0. 33+0. 69 \\\\ =1. 02(\\mathrm{~kg})\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

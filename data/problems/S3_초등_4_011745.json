@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fc093c19-b8af-41f5-8c97-e566a2942f8f",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011745",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.83,
+                            13.83,
+                            388.83,
+                            62.83
+                        ]
+                    ],
+                    "text_description": "다음 도형들에 그릴 수 있는 대각선 수의 합을 구하세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.83,
+                            77.83,
+                            390.83,
+                            187.83
+                        ]
+                    ],
+                    "text_description": "삼각형, 마름모, 직각사각형, 오각형이 순서대로 배치되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            303.83,
+                            205.83,
+                            317.83,
+                            221.83
+                        ]
+                    ],
+                    "text_description": "$9$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.15,
+                            230.84,
+                            144.27,
+                            247.48
+                        ]
+                    ],
+                    "text_description": "$0+2+2+5=9$"
+                }
+            ]
+        }
+    ]
+}

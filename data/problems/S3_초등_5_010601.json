@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df184913-dfaf-409c-8bbe-0da6043a6ad7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010601",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            2.42,
+                            721,
+                            59.42
+                        ]
+                    ],
+                    "text_description": "은호네 반은 남학생이 14 명, 여학생이 16 명입니다. 이 중에서 안경을 쓴 학생이 8 명이라면 안경을 쓰지 않은 학생은 몇 명인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            480.8,
+                            65.64,
+                            548.8,
+                            90.44
+                        ]
+                    ],
+                    "text_description": "③ 22 명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.6,
+                            65.9,
+                            88.8,
+                            123.7
+                        ]
+                    ],
+                    "text_description": "① 20명 ④ 23명"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            248.8,
+                            65.7,
+                            318.8,
+                            125.3
+                        ]
+                    ],
+                    "text_description": "② 21명 ⑤ 24명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.8,
+                            164.5,
+                            443.2,
+                            195.7
+                        ]
+                    ],
+                    "text_description": "(안경을 쓰지 않은 학생수) $=14+16-8=22$ (명)"
+                }
+            ]
+        }
+    ]
+}

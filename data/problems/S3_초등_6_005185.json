@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6170f6f2-0485-4258-b2a6-75e991c44008",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005185",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.2,
+                            8,
+                            762.8,
+                            116.8
+                        ]
+                    ],
+                    "text_description": "어느 제과점에서 하루에 12.41kg의 밀가루 반죽을 0.35kg씩 그릇에 나누어 담아 식빵을 만들려고 합니다. 버리는 양이 없이 모두 그릇에 반죽을 담는다면 그릇이 몇 개 필요하고, 또 가장 적게 들어갈 그릇"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.8,
+                            124.6,
+                            423,
+                            156.8
+                        ]
+                    ],
+                    "text_description": "에는 몇 kg이 들어가는지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            770.34,
+                            0.83,
+                            1027.84,
+                            264.58
+                        ]
+                    ],
+                    "text_description": "밀가루 사진."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            715.34,
+                            543.33,
+                            964.09,
+                            580.83
+                        ]
+                    ],
+                    "text_description": "36개, 0. 16kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.84,
+                            289.58,
+                            717.84,
+                            514.58
+                        ]
+                    ],
+                    "text_description": "$12. 41 \\div 0. 35-35. 45 \\cdots \\cdots \\cdots$ 입니다. 나머지 양도 담아야 하므로 그릇은 36 개 필요합니다. 35 개의 그릇에는 0.35kg 씩 담고 남는 밀가루 반죽은 나머지 그릇에 담으면 됩니다. (35개의 그릇에 들어간 밀가루 양) $-0. 35 \\times 35-12. 25(\\mathrm{~kg})$ (가장 적게 들어간 그릇의 밀가루 양)-12. 41-12. 25-0. 16 (kg)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            503.34,
+                            120.58,
+                            680.59,
+                            279.83
+                        ]
+                    ],
+                    "text_description": "0. 35를 나누는 나누기 풀이과정."
+                }
+            ]
+        }
+    ]
+}

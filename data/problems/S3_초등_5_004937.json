@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "17e7e2a2-4e7e-484e-85e3-27be528febef",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004937",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.77,
+                            11.76,
+                            583.9,
+                            50.32
+                        ]
+                    ],
+                    "text_description": "계산 결과가 다른 하나를 찾아 기호를 써 보세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.23,
+                            71.42,
+                            646.99,
+                            291.75
+                        ]
+                    ],
+                    "text_description": "검정색 테두리의 네모 상자에 다음과 같은 내용이 들어 있다.㉠ $\\frac{5}{17}+\\frac{5}{17}+\\frac{5}{17}$ ㉡ $\\frac{5}{17} \\times 3$ ㉢ $\\frac{5 \\times 3}{17 \\times 3}$ ㉣ $\\frac{5 \\times 3}{17}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167.99,
+                            515.14,
+                            198.34,
+                            543.78
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.64,
+                            319.39,
+                            555.19,
+                            480.17
+                        ]
+                    ],
+                    "text_description": "\\[ \\frac{5}{17}+\\frac{5}{17}+\\frac{5}{17}=\\frac{5}{17} \\times 3=\\frac{5 \\times 3}{17}=\\frac{15}{17} \\] $\\frac{5 \\times 1}{17 \\times 3}=\\frac{5}{17}$ 이므로 계산 결과가 다른 하나는 ㉢입니다. 하나는 ㉢입니다."
+                }
+            ]
+        }
+    ]
+}

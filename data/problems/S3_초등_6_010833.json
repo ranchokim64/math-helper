@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "09359486-b2ee-4a0c-89cf-dd076526590d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010833",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.9,
+                            15.84,
+                            763.7,
+                            93.84
+                        ]
+                    ],
+                    "text_description": "호떡 한 개를 만드는 데 밀가루 $\\frac{2}{7} \\mathrm{~kg}$이 필요합니다. 밀가루 $\\frac{6}{7} \\mathrm{~kg}$으로 만들 수 있는 호떡은 몇 개인지 구하는 식을 바르게 쓴 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180.5,
+                            99.44,
+                            606.9,
+                            183.44
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{7} \\div \\frac{6}{7}$ \\[ \\frac{6}{7} \\div \\frac{2}{7} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.1,
+                            192.7,
+                            83.7,
+                            223.1
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{7} \\div \\frac{2}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.1,
+                            233.5,
+                            620.5,
+                            340.7
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text {(만들 수 있는 호떡의 수) } \\\\ =(\\text { (전체 밀가루의 양) } \\div \\text { (호떡 한 개를 만드는 데 필요한 밀가루의 양) } \\\\ =\\frac{6}{7} \\div \\frac{2}{7}\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

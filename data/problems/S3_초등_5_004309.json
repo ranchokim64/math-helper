@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1e1462ab-70a6-4aa2-8581-16e24976a742",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004309",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.22,
+                            0.89,
+                            425.42,
+                            32.09
+                        ]
+                    ],
+                    "text_description": "다음에서 설명하는 수는 어떤 수인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111.02,
+                            57.32,
+                            421.42,
+                            141.32
+                        ]
+                    ],
+                    "text_description": "· 이 수는 10보다 크고 30보다 작습니다. · 7의 배수이고 42의 약수입니다. · 짝수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            423.82,
+                            366.12,
+                            464.62,
+                            391.72
+                        ]
+                    ],
+                    "text_description": "14"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.22,
+                            207.72,
+                            547.02,
+                            338.92
+                        ]
+                    ],
+                    "text_description": "10보다 크고 30보다 작은 수 중에서 7의 배수는 14, 21, 28 이고, 이 중에서 42의 약수는 14, 21 입니다. 14, 21 중에서 짝수는 14 이므로 어떤 수는 14입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d4f77a7e-f6a8-4207-8715-cfff88a824cc",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003110",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.9,
+                            13.44,
+                            547.1,
+                            38.24
+                        ]
+                    ],
+                    "text_description": "주어진 모양과 똑같이 쌓는데 필요한 쌓기나무의 개수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.3,
+                            48.64,
+                            328.7,
+                            225.44
+                        ]
+                    ],
+                    "text_description": "쌓기나무와 그것을 위에서 본 모양."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.7,
+                            330.7,
+                            234.3,
+                            358.7
+                        ]
+                    ],
+                    "text_description": "13 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.1,
+                            232.3,
+                            341.5,
+                            309.9
+                        ]
+                    ],
+                    "text_description": "1 층에 8 개, 2 층에 4 개, 3 층에 1 개이므로 주어진 모양과 똑같이 쌓는데 쌓기 나무 13 개가 필요합니다."
+                }
+            ]
+        }
+    ]
+}

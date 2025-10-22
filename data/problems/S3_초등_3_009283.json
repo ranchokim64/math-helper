@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2fc06e44-c53a-4f3a-a616-42777c9973af",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009283",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.11,
+                            5.37,
+                            295.11,
+                            28.37
+                        ]
+                    ],
+                    "text_description": "가장 큰 분수를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216.11,
+                            36.37,
+                            490.11,
+                            117.37
+                        ]
+                    ],
+                    "text_description": "분홍색 상자에 다음과 같은 텍스트가 쓰여져 있다. $\\frac{2}{11} \\quad \\frac{7}{11} \\quad \\frac{9}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.11,
+                            129.37,
+                            70.11,
+                            170.37
+                        ]
+                    ],
+                    "text_description": "$\\frac{9}{11}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.11,
+                            183,
+                            512.11,
+                            209
+                        ]
+                    ],
+                    "text_description": "분모가 11로 모두 같으므로 분자를 비교하면 $2<7<9$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.11,
+                            214,
+                            293.11,
+                            252
+                        ]
+                    ],
+                    "text_description": "따라서 가장 큰 분수는 $\\frac{9}{11}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

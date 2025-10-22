@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0b0f24c8-1f65-4ebb-aa58-8b73523d9169",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012161",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.58,
+                            13.21,
+                            495.82,
+                            150.81
+                        ]
+                    ],
+                    "text_description": "색칠한 부분이 전체의 $\\frac{7}{9}$이 되도록 색을 칠하려고 합니다. 몇 칸을 더 칠해야 할 까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188.62,
+                            168.73,
+                            355.02,
+                            262.17
+                        ]
+                    ],
+                    "text_description": "위에 세칸, 중간에 세칸, 아래 세칸이 한칸씩 엇갈려 배치되어있다. 위에는 오른쪽 한칸, 중간은 가운데 한칸, 아래는 전부 색칠되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            378.06,
+                            279.18,
+                            413.26,
+                            304.78
+                        ]
+                    ],
+                    "text_description": "2칸"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.78,
+                            316.94,
+                            478.54,
+                            377.74
+                        ]
+                    ],
+                    "text_description": "전체 9칸 중에서 5칸을 색칠했으므로 $\\frac{7}{9}$이 되려면 2칸을 더 색칠해야 합니다."
+                }
+            ]
+        }
+    ]
+}

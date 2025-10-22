@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b6e0851e-f342-4f70-9b60-d18358421a33",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008769",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-08] 무게를 나타내는 표준 단위의 필요성을 인식하여 1g과 1kg의 단위를 알고, 이를 이용하여 무게를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-20] 실생활에서 무게를 나타낼 때 사용하는 단위 1g과 1kg을 알고, 이를 이용하여 무게를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            6.66,
+                            547.75,
+                            35.41
+                        ]
+                    ],
+                    "text_description": "무게를 알맞게 어림한 것을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            355.25,
+                            102.91,
+                            597.75,
+                            240.41
+                        ]
+                    ],
+                    "text_description": "경찰차 그림이 있습니다. 약 $(1 \\mathrm{~g}, 1 \\mathrm{~kg}, 1 \\mathrm{t})$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.75,
+                            281.13,
+                            84,
+                            304.88
+                        ]
+                    ],
+                    "text_description": "1 t"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.75,
+                            324.88,
+                            722.75,
+                            352.13
+                        ]
+                    ],
+                    "text_description": "경찰차의 무게는 1kg보다 더 무거우므로 약 1 t이 알맞습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "100d5192-b6d0-42ac-8a34-7e9680ca4d4a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008600",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.26,
+                            4.85,
+                            664.45,
+                            35.43
+                        ]
+                    ],
+                    "text_description": "몫이 다른 나눗셈식을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            257.74,
+                            66.98,
+                            700.99,
+                            98.24
+                        ]
+                    ],
+                    "text_description": "㉠ $39 \\div 5$ ㉡ $45 \\div 6$ ㉢ $62 \\div 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.15,
+                            139.83,
+                            81.36,
+                            164.94
+                        ]
+                    ],
+                    "text_description": "㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.04,
+                            225,
+                            456.98,
+                            339.65
+                        ]
+                    ],
+                    "text_description": "㉡ $45 \\div 6=\\underline{7} \\cdots 3$ ㉢ $62 \\div 9=\\underline{6} \\cdots 8$ 따라서 몫이 다른 나눗셈식은 ㉢입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.15,
+                            185.69,
+                            230.95,
+                            212.99
+                        ]
+                    ],
+                    "text_description": "$39 \\div 5=7 \\cdots 4$"
+                }
+            ]
+        }
+    ]
+}

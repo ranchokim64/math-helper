@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "13a92df9-a6f7-4f26-9150-87aae1eadb6f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008257",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33,
+                            3.92,
+                            928,
+                            70.92
+                        ]
+                    ],
+                    "text_description": "왼쪽 도형을 시계 방향으로 $90^{\\circ}$만큼 돌린 모양을 오른쪽에서 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84,
+                            80.92,
+                            495,
+                            266.92
+                        ]
+                    ],
+                    "text_description": "왼쪽 4x4 파란색 그리드에 ㄴ자를 우측으로 뒤집은 모양의 도형이 있습니다. 수직으로 4칸이 있고 맨 아래 1칸이 붙어있는 형태입니다. 가운데엔 노란색 원이 있고 시계 방향으로 90도 회전하라는 표시가 있습니다. 오른쪽 파란색 그리드는 비어있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            521,
+                            107.5,
+                            844,
+                            241.5
+                        ]
+                    ],
+                    "text_description": "왼쪽 4x4 파란색 그리드에 ㄱ자 모양의 도형이 있습니다. 수평으로 4칸이 있고 맨 오른쪽 아래 1칸이 붙어있는 형태입니다. 오른쪽 4x4 파란색 그리드에 ㄴ자 모양의 도형이 있습니다. 수평으로 4칸이 있고 맨 왼쪽 위 1칸이 붙어있는 형태입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            277.5,
+                            138,
+                            359.5
+                        ]
+                    ],
+                    "text_description": "4x4 파란색 그리드에 ㄴ자 모양의 도형이 있습니다. 수평으로 4칸이 있고 맨 왼쪽 위 1칸이 붙어있는 형태입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            372.5,
+                            926,
+                            434.5
+                        ]
+                    ],
+                    "text_description": "도형을 시계 방향으로 $90^{\\circ}$만큼 돌리면 도형의 위쪽 부분이 오른쪽으로 이동합니다."
+                }
+            ]
+        }
+    ]
+}

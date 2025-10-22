@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "db473fd3-5b97-4d8e-89f8-f6290535e698",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010111",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.2,
+                            0.24,
+                            660.6,
+                            50.64
+                        ]
+                    ],
+                    "text_description": "회전판 돌리기를하고 있습니다. 회전판 가에서 화살이 분홍색에 멈출 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            210.4,
+                            55.82,
+                            465.6,
+                            136.62
+                        ]
+                    ],
+                    "text_description": "가. 초록색 회전판, 나. 초록색, 분홍색이 반반 있는 회전판"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            188.8,
+                            143.02,
+                            492,
+                            290.22
+                        ]
+                    ],
+                    "text_description": "- 두 개의 수직선 - 위쪽 선: $0$에서 $1$까지 표시, 중간에 $\\frac{1}{2}$ - 아래쪽 선: $0$에서 $1$까지 표시, 중간에 $\\frac{1}{2}$ - 위쪽 선의 $0$에는 위쪽 화살표 - 아래쪽 선의 $\\frac{1}{2}$에는 아래쪽 화살표"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.8,
+                            303.02,
+                            279.2,
+                            359.02
+                        ]
+                    ],
+                    "text_description": "수직선이 있고, $0$에서 $1$까지 표시, 중간에 $\\frac{1}{2}$, 선의 $0$에는 위쪽 화살표가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.2,
+                            364.7,
+                            663.2,
+                            411.9
+                        ]
+                    ],
+                    "text_description": "회전판 전체가 초록색인 회전판 가에서 화살이 분홍색에 멈출 가능성은 '불가능하다'이므로 수로 표현하면 0입니다."
+                }
+            ]
+        }
+    ]
+}

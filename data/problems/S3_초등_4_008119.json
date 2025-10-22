@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "72f27446-dc7d-46ef-a4d7-dd862abb5950",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008119",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.5,
+                            5.92,
+                            887.5,
+                            33.92
+                        ]
+                    ],
+                    "text_description": "동준이와 민서 중 누가 우유를 더 많이 마시게 되는지 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            395.5,
+                            171.5,
+                            564.5,
+                            205.5
+                        ]
+                    ],
+                    "text_description": "(동준, 민서)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.5,
+                            43.92,
+                            898.5,
+                            167.92
+                        ]
+                    ],
+                    "text_description": "동준 : 난 우유를 매일 250mL씩 15일 동안 마실 거야. 민서 : 난 매일 185mL씩 20일 동안 마셔야지."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            219.5,
+                            105.5,
+                            249.5
+                        ]
+                    ],
+                    "text_description": "동준"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            269.5,
+                            664.5,
+                            331.5
+                        ]
+                    ],
+                    "text_description": "(해설) $250 \\times 15=3750, 185 \\times 20=3700$ 입니다. $3750>3700$ 이므로 동준이가 우유를 더 많이 마시게 됩니다."
+                }
+            ]
+        }
+    ]
+}

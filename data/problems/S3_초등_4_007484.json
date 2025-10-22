@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "80989e2a-a54c-4739-a275-df1f292559f2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007484",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-14] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-13] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            10.9,
+                            491.5,
+                            35.9
+                        ]
+                    ],
+                    "text_description": "7이 나타내는 수가 0. 07 인 수를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            147.5,
+                            39.9,
+                            627.5,
+                            189.9
+                        ]
+                    ],
+                    "text_description": "동물들이 숫자가 써있는 팻말을 들고 있다. 토끼: 0. 715 강아지: 3. 47 호랑이: 11. 607"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            200.9,
+                            84.5,
+                            223.9
+                        ]
+                    ],
+                    "text_description": "$3. 47$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            232.9,
+                            463.5,
+                            320.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}7 \\text { 이 나타내는 수를 알아보면 } \\\\ 0. 715 \\Rightarrow 0. 7, 3. 47 \\Rightarrow 0. 07, 11. 607 \\Rightarrow 0. 007 \\text { 입니다. } \\\\ \\text { 따라서 } 7 \\text { 이 나타내는 수가 } 0. 07 \\text { 인 수는 } 3. 47 \\text { 입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

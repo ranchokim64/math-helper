@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "23dde963-fc5b-49d6-b8f4-2de67301e67e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011103",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            2.92,
+                            864.5,
+                            69.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무 1 개를 붙여서 왼쪽과 같은 모양을 만들려고 합니다. 쌓기나무 1 개를 어느 부분에 붙여야 할까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            277.5,
+                            73.92,
+                            453.5,
+                            243.92
+                        ]
+                    ],
+                    "text_description": "총 6개의 쌓기나무 모양이 있고 1층 5개 2층 1개가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            519.5,
+                            123.5,
+                            625.5,
+                            205.5
+                        ]
+                    ],
+                    "text_description": "총 5개의 쌓기나무 모양이 있고 1층에 5개가 있습니다. 안쪽부터 각각 ㉠, ㉡, ㉢, ㉣, ㉤ 이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            580.5,
+                            251.5,
+                            630.5,
+                            278.5
+                        ]
+                    ],
+                    "text_description": "③ ㉢"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            250.5,
+                            355.5,
+                            319.5
+                        ]
+                    ],
+                    "text_description": "① ㉠ ② ㉡ ④ ㉣ ⑤ ㉤"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            374.5,
+                            726.5,
+                            399.5
+                        ]
+                    ],
+                    "text_description": "1 층에 쌓은 모양과 2 층에 쌓은 모양을 비교하면서 위치들 알아봅니다."
+                }
+            ]
+        }
+    ]
+}

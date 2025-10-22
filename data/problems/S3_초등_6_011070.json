@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "16d53ef1-0ace-43fc-b549-d80941524218",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011070",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            6.64,
+                            857.2,
+                            66.64
+                        ]
+                    ],
+                    "text_description": "쌓기나무 11개를 다음과 같이 쌓았습니다. 위에서 본 모양이 될 수 있는 것을 찾아 선택해보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195.8,
+                            73.04,
+                            690,
+                            329.04
+                        ]
+                    ],
+                    "text_description": "쌓기나무 11개를 쌓은 이미지가 있고 아래 칸에는 3x3 블록으로 표기한 이미지가 3개 있습니다. 1층 5개, 2층 4개, 3층 2개로 이루어진 쌓기나무 도형이 위쪽에 있습니다. 아래 칸 첫 번째 3x3 블록은 1행 3칸, 2행 우측 1칸, 3행 우측부터 2칸이 채워져 있습니다. 두 번째 3x3 블록은 1행 3칸, 2행 우측부터 2칸이 채워져 있습니다. 세 번째 3x3 블록은 1행 3칸, 2행 우측 1칸이 채워져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74,
+                            343.9,
+                            204.4,
+                            474.3
+                        ]
+                    ],
+                    "text_description": "3x3 블록은 1행 3칸, 2행 우측부터 2칸이 채워져 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.2,
+                            487.9,
+                            483.6,
+                            514.3
+                        ]
+                    ],
+                    "text_description": "위에서 본 모양은 1 층의 모양과 같습니다."
+                }
+            ]
+        }
+    ]
+}

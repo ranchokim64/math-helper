@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ae615812-7d10-463c-983f-c96e12a910f0",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005785",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.77,
+                            8.74,
+                            442.77,
+                            100.74
+                        ]
+                    ],
+                    "text_description": "부피가 1cm3 인 쌓기나무를 다음과 같이 직육면체 모양으로 쌓았을 때, 쌓기나무의 수와 직육면체의 부피를 각각 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            155.77,
+                            106.28,
+                            301.77,
+                            235.28
+                        ]
+                    ],
+                    "text_description": "부피가 1cm3 인 쌓기나무를 15개 이용해 직육면체 모양으로 쌓은 그림."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.77,
+                            244.28,
+                            445.77,
+                            310.28
+                        ]
+                    ],
+                    "text_description": "㉠ 쌓기나무의 수: (15 개) ㉡ 직육면체의 부피: ($\\quad 15 \\mathrm{~cm}^{3} \\quad$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.77,
+                            317.28,
+                            444.77,
+                            366.28
+                        ]
+                    ],
+                    "text_description": "부피가 $1 \\mathrm{~cm}^{3}$ 인 쌓기나무 $1 \\times 5 \\times 3=15$ (개)로 쌓았으므로 직 육면체의 부피는 $15 \\mathrm{~cm}^{3}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

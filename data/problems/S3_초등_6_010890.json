@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e64270ed-c8d7-42e8-96b2-69a9a6b94e2a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010890",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.7,
+                            10.65,
+                            536.57,
+                            34.65
+                        ]
+                    ],
+                    "text_description": "$76. 8 \\div 3. 2$와 몫이 같은 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324,
+                            91.55,
+                            416.38,
+                            115.38
+                        ]
+                    ],
+                    "text_description": "$768 \\div 32$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.18,
+                            51.71,
+                            148.13,
+                            114.07
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { ① } 76. 8 \\div 32 \\\\ \\text { ④ } 7. 68 \\div 32\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            302.04,
+                            52.71,
+                            704.77,
+                            76.55
+                        ]
+                    ],
+                    "text_description": "② $76. 8 \\div 0. 32$ ③ $7. 68 \\div 3. 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.21,
+                            173.78,
+                            763.29,
+                            197.62
+                        ]
+                    ],
+                    "text_description": "나누는 수와 나누어지는 수의 소수점을 똑같이 오른쪽으로 옮겨야 합니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3d2f82fd-9ca3-46fc-9080-480e0a3b3437",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011969",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.46,
+                            8.95,
+                            709.22,
+                            115.91
+                        ]
+                    ],
+                    "text_description": "7의 단 곱셈구구를 이용하여 몫을 구할 수 있는 것은 어느 것일까요? ()"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            214.4,
+                            194.5,
+                            261.4
+                        ]
+                    ],
+                    "text_description": "$42 \\div 7$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.86,
+                            343.4,
+                            709.42,
+                            463.72
+                        ]
+                    ],
+                    "text_description": "③ 42 $\\div 7$은 나누는 수가 7 이므로 7의 단 곱셈구구를 이용하 여 몫을 구할 수 있습니다. \\[ 7 \\times 6=42 \\rightarrow 42 \\div 7=6 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": "3",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.66,
+                            153.32,
+                            542.38,
+                            200.68
+                        ]
+                    ],
+                    "text_description": "① $24 \\div 4$\n② $27 \\div 3$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            361.9,
+                            215.4,
+                            539.82,
+                            261.92
+                        ]
+                    ],
+                    "text_description": "④ $48 \\div 6$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.94,
+                            276.2,
+                            196.78,
+                            319.72
+                        ]
+                    ],
+                    "text_description": "⑤ $72 \\div 8$"
+                }
+            ]
+        }
+    ]
+}

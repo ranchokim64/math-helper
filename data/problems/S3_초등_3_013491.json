@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ed12bed7-1860-485b-84aa-0183facc25a2",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013491",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104,
+                            20.42,
+                            646,
+                            64.42
+                        ]
+                    ],
+                    "text_description": "계산한 값이 가장 큰 것은 어느 것입니끼?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            438,
+                            151.42,
+                            651,
+                            191.42
+                        ]
+                    ],
+                    "text_description": "④ $268+299$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            438,
+                            100,
+                            652,
+                            136
+                        ]
+                    ],
+                    "text_description": "② $257+258$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            104,
+                            101,
+                            319,
+                            245
+                        ]
+                    ],
+                    "text_description": "① $147+379$ ③ $711-359$ ⑤ $530-182$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72,
+                            280,
+                            574,
+                            320
+                        ]
+                    ],
+                    "text_description": "$567>526>515>352>348$"
+                }
+            ]
+        }
+    ]
+}

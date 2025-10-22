@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e7ee7e36-39cd-4179-9da4-29ea89476eec",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012476",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-11] 실생활 문제 상황을 통하여 무게의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-23] 실생활 문제 상황과 연결하여 무게의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.11,
+                            14.58,
+                            380.17,
+                            140.11
+                        ]
+                    ],
+                    "text_description": "준상이네 학급에서 재활용품을 모았습니다. 어제는 $9kg$ $300g$, 오늘은 $4kg$ $400g$을 모았습니다. 어제와 오늘 모은 재활용품의 무게는 모두 몇 $kg$ 몇 $g$일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            228.97,
+                            157.35,
+                            321.59,
+                            181.25
+                        ]
+                    ],
+                    "text_description": "$13kg$ $700g$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.42,
+                            186.18,
+                            297.13,
+                            205.49
+                        ]
+                    ],
+                    "text_description": "어제 모은 무게와 오늘 모은 무게를 더합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.42,
+                            207.42,
+                            279.9,
+                            227.67
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow 9 \\mathrm{~kg} 300 \\mathrm{~g}+4 \\mathrm{~kg} 400 \\mathrm{~g}=13 \\mathrm{~kg} 700 \\mathrm{~g}$"
+                }
+            ]
+        }
+    ]
+}

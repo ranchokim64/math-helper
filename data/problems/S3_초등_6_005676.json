@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "af1bad15-94f4-4159-9f33-a71995b58202",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005676",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.28,
+                            7.77,
+                            521.28,
+                            77.77
+                        ]
+                    ],
+                    "text_description": "그림을 보고 전체에 대한 색칠한 부분의 비율을 백분율로 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.28,
+                            82.32,
+                            243.28,
+                            265.32
+                        ]
+                    ],
+                    "text_description": "전체:10칸, 색칠한 부분 : 7칸"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.28,
+                            381.32,
+                            98.28,
+                            418.32
+                        ]
+                    ],
+                    "text_description": "$70 \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.28,
+                            275.32,
+                            435.28,
+                            373.32
+                        ]
+                    ],
+                    "text_description": "전체 1O칸 중 색칠한 부분은 7칸이므로 \\[ \\frac{7}{130} \\times 100=70(\\%) \\text { 입니다. } \\]"
+                }
+            ]
+        }
+    ]
+}

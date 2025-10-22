@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7e29778e-4052-46cc-bdb0-121b24dfd083",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005638",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.78,
+                            10.27,
+                            637.78,
+                            52.27
+                        ]
+                    ],
+                    "text_description": "몫을 어림해 보고 알맞은 식의 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.78,
+                            66.38,
+                            575.78,
+                            308.38
+                        ]
+                    ],
+                    "text_description": "상자에 다음과 같은 내용이 들어 있다.㉠ $17. 84 \\div 4=0. 446$ ㉡ $17. 84 \\div 4=4. 46$ ㉢ $17. 84 \\div 4=44. 6$ ㉣ $17. 84 \\div 4=446$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            487.78,
+                            334.82,
+                            519.78,
+                            371.82
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.78,
+                            393.82,
+                            674.78,
+                            423.82
+                        ]
+                    ],
+                    "text_description": "17. 84를 소수 첫째 자리에서 반올림하면 18이 됩니다. $18 \\div 4$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.78,
+                            426.82,
+                            351.78,
+                            456.82
+                        ]
+                    ],
+                    "text_description": "의 몫은 4보다 크고 5보다 작은"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.78,
+                            459.82,
+                            480.78,
+                            494.82
+                        ]
+                    ],
+                    "text_description": "수이므로 $17. 84 \\div 4=4. 46$이 답이 됩니다."
+                }
+            ]
+        }
+    ]
+}

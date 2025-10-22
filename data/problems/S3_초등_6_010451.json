@@ -1,0 +1,120 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6c7c98b0-e063-4205-a664-0e7a076bcae5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010451",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.6,
+                            10.64,
+                            581.4,
+                            40.24
+                        ]
+                    ],
+                    "text_description": "바르게 계산한 것의 기호를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195,
+                            49.84,
+                            800.6,
+                            243.44
+                        ]
+                    ],
+                    "text_description": "노란색 테두리의 네모 박스에 다음과 같은 계산식이 두 개 들어있다.㉠$6. 3 \\div 6=\\frac{630}{10} \\div 6=\\frac{630 \\div 6}{10}=\\frac{105}{10}=10. 5$ ㉡ $7. 42 \\div 7=\\frac{742}{100} \\div 7=\\frac{742 \\div 7}{100}=\\frac{106}{100}=1. 06$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            506.2,
+                            249.5,
+                            540.6,
+                            287.1
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            440.6,
+                            248.7,
+                            480.6,
+                            285.5
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.8,
+                            351.9,
+                            544.6,
+                            411.1
+                        ]
+                    ],
+                    "text_description": "㉠ $6. 3 \\div 6=\\frac{630}{100} \\div 6=\\frac{630 \\div 6}{100}=\\frac{105}{100}=1. 05$"
+                }
+            ]
+        }
+    ]
+}

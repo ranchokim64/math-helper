@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a5023cff-0d15-4f24-a33d-ad30d2796738",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012570",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1,
+                            10,
+                            484.75,
+                            155
+                        ]
+                    ],
+                    "text_description": "지호네 학교 3학년 학생들이 지난 주에 도서실에서 빌려간 책의 수를 반별로 조사하여 그림그래프로 나타낸 것입니다. 물음에 답하세요. (08~10)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.75,
+                            563.75,
+                            494.75,
+                            638.75
+                        ]
+                    ],
+                    "text_description": "09 4개 반이 빌려간 책의 수는 모두 몇 권 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            176.25,
+                            481,
+                            543.75
+                        ]
+                    ],
+                    "text_description": "〈반별 빌려간 책의 수〉의 그림그래프이다. 큰 책은 10권 작은 책은 1권이다. 반/책의 수 1반/57(큰 책 5개, 작은 책 7개) 2반/46(큰 책 4개, 작은 책 6개) 3반/82(큰 책 8개, 작은 책 2개) 4반/23(큰 책 2개, 작은 책 3개)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            361,
+                            656.25,
+                            424.75,
+                            683.75
+                        ]
+                    ],
+                    "text_description": "208권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.25,
+                            683.75,
+                            282.25,
+                            713.75
+                        ]
+                    ],
+                    "text_description": "$57+46+82+23=208$ (권)"
+                }
+            ]
+        }
+    ]
+}

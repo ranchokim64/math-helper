@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "45c5b83e-2763-42d8-923b-2ef7e8fdadf7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011933",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.26,
+                            16.38,
+                            436.41,
+                            80.9
+                        ]
+                    ],
+                    "text_description": "가장 큰 수와 가장 작은 수의 차를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.54,
+                            104.23,
+                            419.51,
+                            285.18
+                        ]
+                    ],
+                    "text_description": "코끼리 안에 924, 684, 238이 적혀져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            322.67,
+                            308.2,
+                            358.1,
+                            326.68
+                        ]
+                    ],
+                    "text_description": "$686$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.2,
+                            343.11,
+                            281.72,
+                            385.35
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}924>684>238 \\text { 이므로 } \\\\ \\text { 가장 큰 수 : } 924 \\text {, 가장 작은 수 : } 238\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.56,
+                            389.94,
+                            102.5,
+                            465.22
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}81110 \\\\ 924 \\\\ -238 \\\\ \\hline 686\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

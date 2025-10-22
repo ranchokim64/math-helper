@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "307112a0-8241-413b-8f68-67235188b6c3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007504",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-14] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-13] 자릿값의 원리를 바탕으로 소수 두 자리 수와 소수 세 자리 수를 이해하고 읽고 쓸 수 있다"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            3.4000000000000004,
+                            737,
+                            29.4
+                        ]
+                    ],
+                    "text_description": "$1, 0. 1, 0. 01, 0. 001$ 사이의 관계를 보고 알맞은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            228.4,
+                            746,
+                            331.4
+                        ]
+                    ],
+                    "text_description": "② 0. 01은 1에서 소수점이 왼 쪽으로 (두, 세) 자리 이동한 것이므로 0. 01은 1의 $\\left(\\frac{1}{100}, \\frac{1}{1000}\\right)$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            317,
+                            31.4,
+                            541,
+                            218.4
+                        ]
+                    ],
+                    "text_description": "$1 \\xrightarrow{\\frac{1}{10}} 0. 1 \\xrightarrow{\\frac{1}{10}} 0. 01 \\xrightarrow{\\frac{1}{10}} 0. 001$의 대한 내용을 눈금표 안에서 설명하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.0,
+                            470.4,
+                            117.0,
+                            518.4
+                        ]
+                    ],
+                    "text_description": "② 두, $\\frac{1}{100}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            349.4,
+                            824,
+                            450.4
+                        ]
+                    ],
+                    "text_description": "② 0. 01은 1에서 소수점이 왼쪽으로 두 자리 이동한 것이므로 0. 01은 1의 $\\frac{1}{100}$입니다."
+                }
+            ]
+        }
+    ]
+}

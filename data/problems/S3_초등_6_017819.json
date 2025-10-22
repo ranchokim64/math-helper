@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5b3a8cdf-e6e4-472a-8b56-e2e69b872643",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017819",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            13.56,
+                            158.18,
+                            41.81
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.28,
+                            60.2,
+                            89.86,
+                            100.28
+                        ]
+                    ],
+                    "text_description": "$12 \\div \\frac{3}{4}$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.68,
+                            267.14,
+                            77.38,
+                            290.13
+                        ]
+                    ],
+                    "text_description": "⑤ 16"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.37,
+                            311.27,
+                            394.02,
+                            350.31
+                        ]
+                    ],
+                    "text_description": "$12 \\div \\frac{3}{4}=12 \\times \\frac{4}{3}=\\frac{12 \\times 4}{3}=\\frac{48}{3}=16$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            116.04,
+                            73.44,
+                            251.37
+                        ]
+                    ],
+                    "text_description": "① 8\n② 9\n③ 10\n④ 11"
+                }
+            ]
+        }
+    ]
+}

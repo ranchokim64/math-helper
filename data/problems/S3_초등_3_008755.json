@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "da7f723d-aca9-45a5-a911-4fc2a131b8fb",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008755",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-06] 1L와 1mL의 관계를 이해하고, 들이를 단명수와 복명수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-18] 1L와 1mL의 관계를 이해하고, 들이를 ‘몇 L 몇 mL’와 ‘몇 mL’로 표현할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.0,
+                            7.92,
+                            930.0,
+                            70.92
+                        ]
+                    ],
+                    "text_description": "주스병과 우유갑에는 각각 어떤 단위가 표시되어 있는지 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            411,
+                            243.5,
+                            927,
+                            281.5
+                        ]
+                    ],
+                    "text_description": "주스병 $\\Rightarrow(\\mathrm{L}, \\mathrm{mL})$, 우유갑 $\\Rightarrow(\\mathrm{L}, \\mathrm{mL})$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96,
+                            84.92,
+                            442,
+                            242.92
+                        ]
+                    ],
+                    "text_description": "주스병이 있고 확대된 그림에는 1L가 있습니다. 우유갑이 있고 확대된 그림에는 200ml가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            496,
+                            99.5,
+                            852,
+                            223.5
+                        ]
+                    ],
+                    "text_description": "들이의 단위에는 리터와 밀리리터 등이 있어."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            295.5,
+                            126,
+                            325.5
+                        ]
+                    ],
+                    "text_description": "$\\mathrm{L}, \\mathrm{mL}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.0,
+                            338.5,
+                            385.0,
+                            372.5
+                        ]
+                    ],
+                    "text_description": "주스병 $\\Rightarrow \\mathrm{L}$, 우유갑 $\\Rightarrow \\mathrm{mL}$"
+                }
+            ]
+        }
+    ]
+}

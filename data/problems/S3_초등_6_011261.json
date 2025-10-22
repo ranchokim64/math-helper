@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "311c3809-134b-4cde-abad-5008204c4e95",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011261",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            3.42,
+                            871.5,
+                            78.42
+                        ]
+                    ],
+                    "text_description": "지름이 3cm 인 원을 만들고 자 위에서 한 바퀴 굴렸습니다. 원주가 얼마쯤 될지 자에 $\\downarrow$로 바르게 표시한 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            219.5,
+                            79.42,
+                            681.5,
+                            339.42
+                        ]
+                    ],
+                    "text_description": "지름이 3cm인 원이 있고 아래 자의 길이는 총 길이는 1m이고 9. 5cm에 화살표가 있다. 아래 자의 길이는 총 길이는 1m이고 8. 5cm에 화살표가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            343,
+                            402.5,
+                            423
+                        ]
+                    ],
+                    "text_description": "아래 자의 길이는 총 길이는 1m이고 8. 5cm에 화살표가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.5,
+                            428,
+                            865.5,
+                            485
+                        ]
+                    ],
+                    "text_description": "원주는 지름의 약 3. 14 배이므로 지름이 3cm 인 원의 원주는 $3 \\times 3. 14=9. 42(\\mathrm{~cm})$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.5,
+                            491,
+                            565.5,
+                            524
+                        ]
+                    ],
+                    "text_description": "$\\Rightarrow$ 자의 9.42cm 위치와 가까운 곳에 표시하면 됩니다."
+                }
+            ]
+        }
+    ]
+}

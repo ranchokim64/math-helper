@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6c3f1fe9-daf1-4068-b210-ca9f47c3906b",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016851",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.43,
+                            8.15,
+                            610.5,
+                            25.05
+                        ]
+                    ],
+                    "text_description": "정원에서 기른 거북이의 다리를 세어 보니 모두 12 개였습니다. 거북이는 모두 몇 마리일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.43,
+                            65.99,
+                            66.24,
+                            83.93
+                        ]
+                    ],
+                    "text_description": "② 3 마리"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.43,
+                            40.92,
+                            66.24,
+                            58.84
+                        ]
+                    ],
+                    "text_description": "① 2 마리"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.43,
+                            90.07,
+                            66.24,
+                            135.13
+                        ]
+                    ],
+                    "text_description": "③ 4마리 ④ 5 마리"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.92,
+                            145.66,
+                            512.19,
+                            162.58
+                        ]
+                    ],
+                    "text_description": "거북이의 다리는 4개씩 있으므로 4의 단 곱셈구구를 이용하여 알 수 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.38,
+                            196.39,
+                            238.71,
+                            212.78
+                        ]
+                    ],
+                    "text_description": "따라서 거북이는 모두 3마리입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.9,
+                            171.82,
+                            177.34,
+                            186.15
+                        ]
+                    ],
+                    "text_description": "$4 \\times 3=12 \\quad 12 \\div 4=3$"
+                }
+            ]
+        }
+    ]
+}

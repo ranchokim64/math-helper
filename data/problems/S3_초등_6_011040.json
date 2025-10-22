@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5fe739d1-1c34-495f-88eb-72cd6b213c95",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011040",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            5.92,
+                            870,
+                            71.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 층별로 나타낸 모양입니다. 쌓은 모양을 앞에서 본 모양을 그린 것으로 알맞은 것은 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            273,
+                            76.92,
+                            626,
+                            246.92
+                        ]
+                    ],
+                    "text_description": "3x3의 모눈 종이다. 1층 첫 번째 줄은 1, 2, 3 번째 칸이고 두 번째 줄은 1, 2, 3 번째 칸이고 세 번째 줄은 1 번째 칸 이다. 2층 첫 번째 줄은 2 번째 칸이고 두 번째 줄은 2 번째 칸 이다 3층 첫 번째 줄은 2 번째 칸 이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315,
+                            247.5,
+                            584,
+                            364.5
+                        ]
+                    ],
+                    "text_description": "앞에서 본 모습 첫 번째 줄은 2 번째 칸이고 두 번째 줄은 2 번째 칸이고 세 번째 줄은 1, 2, 3 번째 칸 이다. 앞에서 본 모습 첫 번째 줄은 2 번째 칸이고 두 번째 줄은 2, 3 번째 칸이고 세 번째 줄은 1, 2, 3 번째 칸 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            366.5,
+                            133,
+                            479.5
+                        ]
+                    ],
+                    "text_description": "앞에서 본 모습 첫 번째 줄은 2 번째 칸이고 두 번째 줄은 2 번째 칸이고 세 번째 줄은 1, 2, 3 번째 칸 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            675.5,
+                            865,
+                            733.5
+                        ]
+                    ],
+                    "text_description": "쌓기나무들 층별로 나타낸 모양에서 1층 모양의 $\\bigcirc$ 부분은 쌓기나무가 3 층까지, $\\triangle$ 부분은 2층까지, 나머지 부분은 1층만 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56,
+                            484.5,
+                            153,
+                            673.5
+                        ]
+                    ],
+                    "text_description": "1층 첫 번째 줄은 1, 2, 3 번째 칸이고 두 번째 줄은 1, 2, 3 번째 칸이고 세 번째 줄은 1 번째 칸 이다. 2층"
+                }
+            ]
+        }
+    ]
+}

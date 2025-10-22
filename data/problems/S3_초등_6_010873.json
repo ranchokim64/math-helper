@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e36f42af-8548-4fa1-90fc-a38e4a676943",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010873",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.58,
+                            9.52,
+                            628.87,
+                            33.94
+                        ]
+                    ],
+                    "text_description": "$158 \\div 3. 16$과 몫이 같은 나눗셈식을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            442.7,
+                            44.54,
+                            543.79,
+                            64.76
+                        ]
+                    ],
+                    "text_description": "② $15800 \\div 316$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.73,
+                            44.9,
+                            120.92,
+                            64.27
+                        ]
+                    ],
+                    "text_description": "① $1580 \\div 316$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.16,
+                            120.35,
+                            429.23,
+                            147.31
+                        ]
+                    ],
+                    "text_description": "$158 \\div 3. 16=1580 \\div 31. 6=15800 \\div 316$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e68a8fe3-bfe6-4789-a432-5457f4e50e60",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009181",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            0.92,
+                            823.5,
+                            64.92
+                        ]
+                    ],
+                    "text_description": "학교에서 주변에 있는 장소까지의 거리를 어림해 보려고 합니다. 알맞은 장소를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127.5,
+                            319.5,
+                            725.5,
+                            391.5
+                        ]
+                    ],
+                    "text_description": "학교에서 약 1km 500m 떨어진 곳에 있는 장소는 (문구점, 도서관, 시청)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.5,
+                            66.92,
+                            551.5,
+                            316.92
+                        ]
+                    ],
+                    "text_description": "학교 문구점 도서관 시청에 각각 점이 찍혀있다. 학교와 문구점간의 거리는 약 500m이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.5,
+                            403.5,
+                            101.5,
+                            437.5
+                        ]
+                    ],
+                    "text_description": "시청"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            452.5,
+                            825.5,
+                            540.5
+                        ]
+                    ],
+                    "text_description": "$1 \\mathrm{~km} 500 \\mathrm{~m}=1500 \\mathrm{~m}$ 이므로 500m의 세 배입니다. 학교에서 문구점까지의 거리가 500m이므로 학교에서 문구점까지의 거리의 약 세 배쯤 되는 곳에 위치한 시청이 학교에서 약 1km 500m 떨어진 곳입니다."
+                }
+            ]
+        }
+    ]
+}

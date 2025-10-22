@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "394f72da-e115-497b-845d-4cb76a32d2a7",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005730",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.84,
+                            5.6,
+                            519.04,
+                            72
+                        ]
+                    ],
+                    "text_description": "어느 회사 직원들이 출근할 때 이용하는 교통수단을 조사하여 나타낸 띠그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.84,
+                            360.16,
+                            432.64,
+                            415.36
+                        ]
+                    ],
+                    "text_description": "길이가 20cm인 띠그래프로 나타낼 때, 자동차를 이용하는 직원이 차지하는 길이는 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.239999999999995,
+                            123.4,
+                            495.84,
+                            336
+                        ]
+                    ],
+                    "text_description": "이용하는 교통수단별 직원의 수를 조사하여 나타낸 띠그래프입니다. 전체 100% 중에 자동차(24%), 지하철(32%), 자건거(16%), 버스(20%), 기타(8%)로 차지하는 비율을 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            287.84,
+                            433.76,
+                            358.24,
+                            456.96
+                        ]
+                    ],
+                    "text_description": "4.8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.24,
+                            471.36,
+                            378.24,
+                            512.96
+                        ]
+                    ],
+                    "text_description": "20cm의 $24 \\%$ 이므로 $20 \\times \\frac{24}{100}=4. 8(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

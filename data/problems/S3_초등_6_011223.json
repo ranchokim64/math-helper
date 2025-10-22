@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cd075c5c-ef33-4713-8471-5a7837321202",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011223",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.3,
+                            7.44,
+                            385.5,
+                            33.04
+                        ]
+                    ],
+                    "text_description": "잘못 말한 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            200.1,
+                            64.24,
+                            668.7,
+                            175.44
+                        ]
+                    ],
+                    "text_description": "슬기: 원의 지름이 짧아지면 원주도 짧아져. 민호: (원주율) $=$ (지름 $) \\div$ (원주)야. 연서: 원의 지름이 커져도 원주율은 일정해."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            214.3,
+                            89.5,
+                            236.7
+                        ]
+                    ],
+                    "text_description": "민호"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            255.1,
+                            300.7,
+                            283.1
+                        ]
+                    ],
+                    "text_description": "$($ 원주율 $)=($ 원주 $) \\div($ 지름 $)$"
+                }
+            ]
+        }
+    ]
+}

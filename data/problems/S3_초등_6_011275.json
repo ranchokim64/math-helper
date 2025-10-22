@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "53714b92-22e1-4bcf-bfbb-c958942b4f1c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011275",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.3,
+                            5.03,
+                            571.5,
+                            33.83
+                        ]
+                    ],
+                    "text_description": "설명이 맞으면 $\\bigcirc$ 표, 틀리면 $\\times$ 표를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111.5,
+                            182.3,
+                            742.7,
+                            347.9
+                        ]
+                    ],
+                    "text_description": "원의 기름이 짧아지면 원주도 짧아집니다. $(\\bigcirc, \\times)$ 원주의 원의 지름의 약 2배입니다. $(\\bigcirc, \\times)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            377.1,
+                            38.63,
+                            507.5,
+                            168.23
+                        ]
+                    ],
+                    "text_description": "원이 있고 중심에 붉은 점이 있다. 반으로 실선으로 갈라져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.7,
+                            355.1,
+                            105.9,
+                            384.7
+                        ]
+                    ],
+                    "text_description": "$\\bigcirc, \\times$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.7,
+                            396.7,
+                            513.1,
+                            423.1
+                        ]
+                    ],
+                    "text_description": "원주는 지름의 3 배보다 길고, 4 배보다 짧습니다."
+                }
+            ]
+        }
+    ]
+}

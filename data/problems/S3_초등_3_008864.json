@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e6c60e92-b1c7-4064-9da7-91d871408e7a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008864",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-08] 무게를 나타내는 표준 단위의 필요성을 인식하여 1g과 1kg의 단위를 알고, 이를 이용하여 무게를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-20] 실생활에서 무게를 나타낼 때 사용하는 단위 1g과 1kg을 알고, 이를 이용하여 무게를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.4,
+                            12.54,
+                            926.2,
+                            79.94
+                        ]
+                    ],
+                    "text_description": "양팔 저울을 사용하여 물감과 붓의 무게를 비교하려고 합니다. 그림을 보고 알맞은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.8,
+                            247.6,
+                            863.8,
+                            278
+                        ]
+                    ],
+                    "text_description": "(물감, 붓)이 (물감, 붓)보다 바둑돌 5개만큼 더 무겁습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            258.8,
+                            94.14,
+                            705.4,
+                            235.94
+                        ]
+                    ],
+                    "text_description": "양팔 저울을 이횽하여 물감과 붓의 무게를 바둑돌로 비교하고 있습니다. 왼쪽 양팔 저울에서는 물감과 바둑돌 9개로 균형을 맞추고 있습니다. 오른쪽 양팔 저울에서는 붓과 바둑돌 4개로 균형을 맞추고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.6,
+                            298.8,
+                            142.2,
+                            326.8
+                        ]
+                    ],
+                    "text_description": "물감, 붓"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.4,
+                            343.6,
+                            815,
+                            407.6
+                        ]
+                    ],
+                    "text_description": "물감은 바둑돌 9개의 무게와 같고, 붓은 바둑돌 4개의 무게와 같습니다. \\[ 9-4=5 \\text { (개) } \\]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.2,
+                            418,
+                            603,
+                            443.6
+                        ]
+                    ],
+                    "text_description": "따라서 물감이 붓보다 바둑돌 5개만큼 더 무겁습니다."
+                }
+            ]
+        }
+    ]
+}

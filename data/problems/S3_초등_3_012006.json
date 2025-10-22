@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9d3014b7-b8de-4dcb-81b5-9ab4ef4a555c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012006",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-02] 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-14] 실생활 문제 상황과 연결하여 초 단위까지의 시간의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70,
+                            13.92,
+                            442,
+                            51.92
+                        ]
+                    ],
+                    "text_description": "시간이 더 긴 것의 기호를 쓰세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96,
+                            88.92,
+                            410,
+                            157.92
+                        ]
+                    ],
+                    "text_description": "㉠ 22분 14초+15분 20초 ㉡ 48분 50초-13분 28초"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            369,
+                            200.5,
+                            403,
+                            228.5
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46,
+                            232.5,
+                            327,
+                            305.5
+                        ]
+                    ],
+                    "text_description": "㉠ 22분 14초+ 15분 20초=37분 34초 ㉡ 48분 50초-13분 28초=35분 22초 $\\rightarrow$ 37분 34초>35분 22초"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6c3c6917-336e-42fb-a7bb-f8a21868ed26",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003027",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.11,
+                            7.09,
+                            376.11,
+                            39.09
+                        ]
+                    ],
+                    "text_description": "넓이가 다른 평행사변형을 춪아 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.91,
+                            52.32,
+                            778.51,
+                            271.52
+                        ]
+                    ],
+                    "text_description": "눈금 하나의 단위가 $1\\left(\\mathrm{~cm}^{2}\\right)$인 눈금표에 사각 평면도형가, 나, 다, 라."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.38,
+                            291.62,
+                            620.7,
+                            354.98
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 차례대로 넓이를 구하면 } \\\\ \\text { 가: } 3 \\times 4=12\\left(\\mathrm{~cm}^{2}\\right), \\text { 나: } 4 \\times 3=12\\left(\\mathrm{~cm}^{2}\\right), \\\\ \\text { 다: } 4 \\times 4=16\\left(\\mathrm{~cm}^{2}\\right), \\text { 라: } 2 \\times 6=12\\left(\\mathrm{~cm}^{2}\\right) \\text { 이므로 넓이가 다른 평행사변형은 다입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

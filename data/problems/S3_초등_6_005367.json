@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ab1526b3-d32f-444d-b1ca-0cefbf5c673f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005367",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.56,
+                            21.82,
+                            594.32,
+                            159.15
+                        ]
+                    ],
+                    "text_description": "원을 한없이 잘게 잘라 이어 붙여서 점점 직사각형에 가까워지는 도형을 만들었습니다. 물음에 답하세요. (원주율: 3. 14)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.84,
+                            379.75,
+                            411.84,
+                            417.9
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.74,
+                            175.94,
+                            175.78,
+                            318.99
+                        ]
+                    ],
+                    "text_description": "반지름이 9cm인 원의 전개도이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            246.9,
+                            194.74,
+                            541.18,
+                            347.6
+                        ]
+                    ],
+                    "text_description": "높이 9cm, 가로(원주의 2분의1)의 직사각형의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            349.9,
+                            437.79,
+                            504.4,
+                            474.3
+                        ]
+                    ],
+                    "text_description": "$254. 34 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36,
+                            484.38,
+                            461.89,
+                            519.26
+                        ]
+                    ],
+                    "text_description": "$($ 직사각형의 넓이 $)=28. 26 \\times 9=254. 34\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

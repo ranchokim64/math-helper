@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ec789e11-dae9-421a-bb64-7f8c135a304b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011843",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.34,
+                            14.16,
+                            562.84,
+                            45.41
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ의 세 변의 길이의 합은 몇 cm일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.84,
+                            63.58,
+                            285.34,
+                            231.08
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ에서 ㄱㄷ의 길이는 7cm이고 ㄱ의 각도는 60$^{\\circ}$이며 ㄴ의 각도는 120$^{\\circ}$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.77,
+                            300.28,
+                            205.77,
+                            329.28
+                        ]
+                    ],
+                    "text_description": "$21 \\mathrm{~cm} \\quad$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.84,
+                            242.33,
+                            557.84,
+                            291.08
+                        ]
+                    ],
+                    "text_description": "(각 ㄱㄴㄷ)=$180^{\\circ}-120^{\\circ}=60^{\\circ}$ 이므로 세 각의 크기가 같은 정삼각형입니다. (변 ㄱㄴ)=(변 ㄴㄷ)=(변 ㄱㄷ)=7cm, (세 변의 길이의 합) =7+7+7=21(cm)"
+                }
+            ]
+        }
+    ]
+}

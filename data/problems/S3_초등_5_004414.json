@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7a156cd0-5245-4e72-8a30-b22596cc3f47",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004414",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            12.42,
+                            269.5,
+                            32.42
+                        ]
+                    ],
+                    "text_description": "사각형의 둘레를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.5,
+                            42.42,
+                            216.5,
+                            203.42
+                        ]
+                    ],
+                    "text_description": "① 마름모 한변의 길이는 4cm이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            232.5,
+                            39,
+                            412.5,
+                            200
+                        ]
+                    ],
+                    "text_description": "② 정사각형 한변의 길이는 4cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            115.5,
+                            221,
+                            166.5,
+                            240
+                        ]
+                    ],
+                    "text_description": "① $16cm$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307.5,
+                            221,
+                            358.5,
+                            241
+                        ]
+                    ],
+                    "text_description": "② $16cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.5,
+                            253,
+                            430.5,
+                            290
+                        ]
+                    ],
+                    "text_description": "마름모와 정사각형은 네 변의 길이가 같기 때문에 한 변의 길이를 $4$배 하면 됩니다."
+                }
+            ]
+        }
+    ]
+}

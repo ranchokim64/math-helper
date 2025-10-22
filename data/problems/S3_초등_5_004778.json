@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "95db2b6f-6d5c-44b4-a48f-0981dbf5ad98",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004778",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-04] 직육면체와 정육면체를 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-03] 직육면체와 정육면체를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            10.92,
+                            436,
+                            71.92
+                        ]
+                    ],
+                    "text_description": "직육면체에서 보이는 모서리의 길이의 합은 몇 cm인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            142,
+                            78.92,
+                            332,
+                            285.92
+                        ]
+                    ],
+                    "text_description": "가로6cm, 세로5cm, 높이9cm로 구성되어있는 직육면체의 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79,
+                            377.5,
+                            139,
+                            399.5
+                        ]
+                    ],
+                    "text_description": "60cm"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26,
+                            300.5,
+                            366,
+                            322.5
+                        ]
+                    ],
+                    "text_description": "보이는 모서리의 길이는 5+5+5+6+6+6+9+9+9"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            321.5,
+                            140,
+                            341.5
+                        ]
+                    ],
+                    "text_description": "$=60(\\mathrm{~cm})$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26,
+                            340.5,
+                            253,
+                            361.5
+                        ]
+                    ],
+                    "text_description": "다른 풀이] $(5+6+9) \\times 3=60(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

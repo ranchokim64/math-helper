@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "adbe0d2a-de75-4f3e-8e81-f67e40876003",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017009",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.93,
+                            4.29,
+                            508.46,
+                            24.86
+                        ]
+                    ],
+                    "text_description": "다음에서 $1$에서 $9$까지의 수 중 $\\square$ 안에 들어갈 수 있는 수의 개수를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.47,
+                            33.91,
+                            125.06,
+                            48.08
+                        ]
+                    ],
+                    "text_description": "$30 \\times 6>45 \\times \\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.4,
+                            114.54,
+                            51.83,
+                            131.82
+                        ]
+                    ],
+                    "text_description": "③ $3$개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.4,
+                            61.57,
+                            51.01,
+                            107.64
+                        ]
+                    ],
+                    "text_description": "① $1$개 ② $2$개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.76,
+                            138.9,
+                            51.83,
+                            159.47
+                        ]
+                    ],
+                    "text_description": "④ $4$개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.58,
+                            175.64,
+                            298.66,
+                            192.38
+                        ]
+                    ],
+                    "text_description": "$30 \\times 6=180$ 이므로 $180>45 \\times \\square$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.69,
+                            250.8,
+                            405.61,
+                            268.9
+                        ]
+                    ],
+                    "text_description": "따라서 $\\square$에 들어갈 수 있는 수는 $1, 2, 3$으로 모두 $3$개입니다."
+                }
+            ]
+        }
+    ]
+}

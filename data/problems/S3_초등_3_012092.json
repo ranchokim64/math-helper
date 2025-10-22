@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7ae3963a-ef29-4c93-be1d-a6815791241a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012092",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            12.42,
+                            490,
+                            49.42
+                        ]
+                    ],
+                    "text_description": "똑같이 나누어진 피자를 모두 찾아보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            66.42,
+                            957,
+                            203.42
+                        ]
+                    ],
+                    "text_description": "㉠: 세로 3등분 ㉡: 십자가 4등분 ㉢: 대각선 4등분 ㉣: 세모로 등분 ㉤: 대각선 6등분 ㉥: 댁가선 5등분"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            786,
+                            221,
+                            909,
+                            249
+                        ]
+                    ],
+                    "text_description": "㉠, ㉡, ㉡, ㉥"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            247,
+                            393,
+                            272
+                        ]
+                    ],
+                    "text_description": "크기와 모양이 같게 나누어진 피자를 찾습니다."
+                }
+            ]
+        }
+    ]
+}

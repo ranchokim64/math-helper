@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1e27e16b-ba1f-400d-ad5a-f9e856751ca3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012326",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.8,
+                            11.44,
+                            468.8,
+                            54.64
+                        ]
+                    ],
+                    "text_description": "두 각도의 합과 차를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.8,
+                            112.24,
+                            323.6,
+                            254.24
+                        ]
+                    ],
+                    "text_description": "각 120도입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            378.4,
+                            97.5,
+                            541.8,
+                            255.9
+                        ]
+                    ],
+                    "text_description": "각 75도입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            356,
+                            279.9,
+                            663.32,
+                            318.62
+                        ]
+                    ],
+                    "text_description": "합 ($195^{\\circ} \\quad$)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            354.56,
+                            330.38,
+                            662.56,
+                            369.42
+                        ]
+                    ],
+                    "text_description": "차 ($45^{\\circ} \\quad$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            117.92,
+                            382.86,
+                            446.88,
+                            410.38
+                        ]
+                    ],
+                    "text_description": "$120^{\\circ}+75^{\\circ}=195^{\\circ}, 120^{\\circ}-75^{\\circ}=45^{\\circ}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3d9817fe-6dd8-480b-8402-ed390b94293d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007738",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19,
+                            1.42,
+                            837,
+                            104.42
+                        ]
+                    ],
+                    "text_description": "어느 선수의 한 해 동안 스피드 스케이팅 500m 대회에서 얻은 최고 기록을 조사하여 나타낸 꺾은선그래프입니다. 만약 5 차 대회를 한다면 기록이 어떻게 될지 바르게 예상한 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            247,
+                            109.42,
+                            606,
+                            342.42
+                        ]
+                    ],
+                    "text_description": "어느 선수의 대회별 최고 기록 가로는 대회, 세로는 기록(초)이다. 1차에서 4차까지 감소하고있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            112,
+                            344,
+                            423,
+                            491
+                        ]
+                    ],
+                    "text_description": "현서가 4차 대회의 기록과 비슷하거나 더 좋아질 것 같아라고 말하고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            474,
+                            342,
+                            742,
+                            497
+                        ]
+                    ],
+                    "text_description": "지영이가 기록이 더 나빠질 것 같아라고 말하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43,
+                            505,
+                            86,
+                            532
+                        ]
+                    ],
+                    "text_description": "현서"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1,
+                            546,
+                            835,
+                            606
+                        ]
+                    ],
+                    "text_description": "(해설)기록이 점점 좋아지고 있으므로 만약 5 차 대회를 한다면 4 차 대회의 기록과 비슷하거나 더 좋아질 것으로 예상할 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d6aee664-74d4-410a-9438-e6eff9249f8a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009601",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            3.45,
+                            635.75,
+                            27.45
+                        ]
+                    ],
+                    "text_description": "계산 결과를 비교하여 $\\bigcirc$ 안에 들어갈 $>, =, <$를 알맞게 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            555.4,
+                            80.7,
+                            676.2,
+                            112.7
+                        ]
+                    ],
+                    "text_description": "$(>, =, <)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262.6,
+                            31.1,
+                            435.8,
+                            79.9
+                        ]
+                    ],
+                    "text_description": "$6 \\times 3 \\frac{1}{4} \\bigcirc 4 \\times 4 \\frac{7}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.75,
+                            149.38,
+                            500.0,
+                            240.88
+                        ]
+                    ],
+                    "text_description": "\\[ \\text { } 6 \\times 3 \\frac{1}{4}=6 \\times \\frac{13}{4}=\\frac{39}{2}=19 \\frac{1}{2}, 4 \\times 4 \\frac{7}{8}=4 \\times \\frac{39}{8}=\\frac{39}{2}=19 \\frac{1}{2} \\] 따라서 $6 \\times 3 \\frac{1}{4}=4 \\times 4 \\frac{7}{8}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.0,
+                            123.0,
+                            63.0,
+                            140.0
+                        ]
+                    ],
+                    "text_description": "="
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "387f79fb-6628-4f05-8fc7-1fbbd9e47da7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007852",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            3.92,
+                            610,
+                            26.92
+                        ]
+                    ],
+                    "text_description": "사각형에 대각선을 바르게 나타낸 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            249,
+                            36.92,
+                            613,
+                            137.92
+                        ]
+                    ],
+                    "text_description": "두 개의 사각형이 있고 한 사각형에는 십자가 모양의 점선이 있고 다른 한 사각형에는 교차하는 점선이 그려진 사각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46,
+                            148.5,
+                            196,
+                            249.5
+                        ]
+                    ],
+                    "text_description": "교차하는 점선이 그려진 사각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46,
+                            260.5,
+                            687,
+                            284.5
+                        ]
+                    ],
+                    "text_description": "다각형에서 이웃하지 않는 두 꼭짓점끼리 선분으로 이어야 합니다."
+                }
+            ]
+        }
+    ]
+}

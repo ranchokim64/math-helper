@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "701efc67-549e-41c9-8a21-2a71b5c05d4c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005289",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.3,
+                            12.14,
+                            473.1,
+                            117.34
+                        ]
+                    ],
+                    "text_description": "소영이는 밭에 상추와 깻잎을 $5: 3$으로 나누어 심었습니다. 밭의 넓이가 $56 \\mathrm{~m}^{2}$일 때, 깻잎을 심은 밭의 넓이는 몇 $\\mathrm{m}^{2}$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            321.1,
+                            133.6,
+                            386.7,
+                            162.8
+                        ]
+                    ],
+                    "text_description": "$21 \\mathrm{~m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            200.4,
+                            174.14,
+                            464.18,
+                            217.61
+                        ]
+                    ],
+                    "text_description": "$=56 \\times \\frac{3}{5+3}=56 \\times \\frac{3}{8}=21\\left(\\mathrm{~m}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

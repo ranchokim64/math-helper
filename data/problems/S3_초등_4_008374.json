@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5f1965c8-b4d9-4588-85f4-7d1880db3fd9",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008374",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.5,
+                            6.92,
+                            813.5,
+                            31.92
+                        ]
+                    ],
+                    "text_description": "아래 도형을 화살표 방향으로 밀었을 때의 알맞은 도형을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            332.5,
+                            42.92,
+                            629.5,
+                            335.92
+                        ]
+                    ],
+                    "text_description": "이미지는 총 3개의 구역으로 나뉘어 있으며, 각각의 구역에는 블록 형태가 나타나 있습니다. 아래쪽에는 5x5 블록에 직사각형 6칸, 왼쪽 아래 1칸 총 7칸 짜리 도형이 있습니다. 가운데 화살표가 있고, 위쪽 왼쪽에는 아래와 같은 모양의 도형이 있으며, 오른쪽에는 위쪽으로 뒤집은 형태의 도형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            352.5,
+                            143.5,
+                            438.5
+                        ]
+                    ],
+                    "text_description": "5x5 블록에 직사각형 6칸, 왼쪽 아래 1칸 총 7칸 짜리 도형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            449.5,
+                            800.5,
+                            476.5
+                        ]
+                    ],
+                    "text_description": "도형을 위쪽으로 밀면 모양과 크기는 변하지 않지만 위치는 바뀝니다."
+                }
+            ]
+        }
+    ]
+}

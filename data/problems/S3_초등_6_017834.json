@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3386c826-1a76-4185-92a2-019996ec43b0",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017834",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.38,
+                            6.52,
+                            441.38,
+                            33.27
+                        ]
+                    ],
+                    "text_description": "0. 6:0. 8을 간단한 자연수의 비로 나타내세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.880000000000003,
+                            54.02,
+                            79.88,
+                            85.52
+                        ]
+                    ],
+                    "text_description": "① $3: 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.38,
+                            92.5,
+                            79.38,
+                            235
+                        ]
+                    ],
+                    "text_description": "② 2:3 ③ 4:5 ④ 5:6 ⑤ 6:7"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.63,
+                            252.75,
+                            441.13,
+                            284.5
+                        ]
+                    ],
+                    "text_description": "0. 6과 0. 8을 각각 10 배하여 정수로 만듭니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.379999999999999,
+                            405.5,
+                            564.13,
+                            485
+                        ]
+                    ],
+                    "text_description": "따라서 0. 6:0. 8은 6:8로 나타낼 수 있습니다. 6:8을 더 간단하게 표현하려면, 최대공약수 2로 나눕니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            396.13,
+                            307.75,
+                            543.88,
+                            390
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}0. 6 \\times 10=6 \\\\ 0. 8 \\times 10=8\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            396.38,
+                            505.75,
+                            547.38,
+                            567
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{2}: \\frac{8}{2}=3: 4$"
+                }
+            ]
+        }
+    ]
+}

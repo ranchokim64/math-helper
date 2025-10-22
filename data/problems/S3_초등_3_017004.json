@@ -1,0 +1,167 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1de4cdf5-e228-4ed4-88c7-71d1b6cd450b",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017004",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.95,
+                            4.5,
+                            507.83,
+                            23.43
+                        ]
+                    ],
+                    "text_description": "다음에서 $1$에서 $9$까지의 수 중 $\\square$안에 들어갈 수 있는 수의 개수를 구하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.31,
+                            30.01,
+                            126.9,
+                            49.75
+                        ]
+                    ],
+                    "text_description": "$22 \\times 4>30 \\times \\square$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.42,
+                            86.78,
+                            51.2,
+                            105.7
+                        ]
+                    ],
+                    "text_description": "② $2$개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.6,
+                            60.95,
+                            52.03,
+                            83.17
+                        ]
+                    ],
+                    "text_description": "① $1$개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.6,
+                            111.14,
+                            52.85,
+                            158.04
+                        ]
+                    ],
+                    "text_description": "③ $3$개 ④ $4$개"
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.95,
+                            171.2,
+                            279.93,
+                            189.3
+                        ]
+                    ],
+                    "text_description": "$22 \\times 4=88$ 이므로 $88>30 \\times \\square$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.49,
+                            195.88,
+                            623.02,
+                            213.98
+                        ]
+                    ],
+                    "text_description": "$30 \\times 1=30, 30 \\times 2=60, 30 \\times 3=90, 30 \\times 4=120, 30 \\times 5=150, 30 \\times 6=180, 30 \\times 7=$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.95,
+                            221.39,
+                            228.1,
+                            240.31
+                        ]
+                    ],
+                    "text_description": "$210, 30 \\times 8=240, 30 \\times 9=270$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.13,
+                            246.78,
+                            369.9,
+                            263.35
+                        ]
+                    ],
+                    "text_description": "따라서 $\\square$에 들어갈 수 있는 수는 1, 2로 모두 2개입니다."
+                }
+            ]
+        }
+    ]
+}

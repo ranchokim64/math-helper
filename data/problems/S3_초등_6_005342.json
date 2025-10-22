@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0d4a809e-e7db-48bf-b85d-b28f907385d5",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005342",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            10.42,
+                            524,
+                            88.42
+                        ]
+                    ],
+                    "text_description": "정오각형의 넓이를 이용하여 원의 넓이를 어림하려고 합니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            328,
+                            516,
+                            404
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄹㅁ의 넓이가 $186 \\mathrm{~cm}^{2}$ 이면 원 밖의 정오각형의 넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            140,
+                            108.42,
+                            345,
+                            310.42
+                        ]
+                    ],
+                    "text_description": "정오각형 안에 여러 평면도형이 채워져있음. 중점인 ㄱ에서 제일 겉 오각형의 꼭지점인 ㄴㄷㄻ와 연결되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            334,
+                            421,
+                            436,
+                            452
+                        ]
+                    ],
+                    "text_description": "$930 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38,
+                            465,
+                            219,
+                            493
+                        ]
+                    ],
+                    "text_description": "$186 \\times 5=930\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

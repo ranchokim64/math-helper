@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c7523e38-a550-48a2-acf8-c88b39d83a9f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010730",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            4.4,
+                            794.5,
+                            64.4
+                        ]
+                    ],
+                    "text_description": "사각판의 수를 $\\bigcirc$, 바퀴의 수를 $\\triangle$라고 할 때, 두 양 사이의 대응 관계를 식으로 바르게 나타낸 것을 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            213.5,
+                            66.4,
+                            599.5,
+                            165.4
+                        ]
+                    ],
+                    "text_description": "하나의 직사각형 사각판 양 옆에 바퀴가 붙어있는 그림이 점차 갈수록 하나씩 붙어 늘어나는 행태를 보인다. 처음에는 1개 둘째는 2개, 셋째는 3개가 된다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            168.4,
+                            154.5,
+                            197.4
+                        ]
+                    ],
+                    "text_description": "① $\\bigcirc \\times 2=\\triangle$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            405.5,
+                            204.4,
+                            537.5,
+                            234.4
+                        ]
+                    ],
+                    "text_description": "④ $\\triangle \\div 2=\\bigcirc$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            406.5,
+                            172.4,
+                            538.5,
+                            196.4
+                        ]
+                    ],
+                    "text_description": "② $\\bigcirc \\div 2=\\triangle$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            205.4,
+                            155.5,
+                            268.4
+                        ]
+                    ],
+                    "text_description": "③ $\\triangle \\times 2=\\bigcirc$ ⑤ $\\bigcirc + 2=\\triangle$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            320.4,
+                            394.5,
+                            348.4
+                        ]
+                    ],
+                    "text_description": "바퀴의 수는 사각판의 수의 2배입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.5,
+                            350.4,
+                            584.5,
+                            532.4
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\Rightarrow(\\text { 사각판의 수 }) \\times 2=(\\text { 바퀴의 수 }) \\\\ \\Rightarrow O \\times 2=\\triangle \\end{array} \\] 사각판의 수는 바퀴의 수를 2로 나눈 몫입니다. \\[ \\begin{array}{l} \\Rightarrow(\\text { 바퀴의 수 }) \\div 2=(\\text { 사각판의 수 }) \\\\ \\Rightarrow \\triangle \\div 2=\\bigcirc \\end{array} \\] 따라서 두 양의 대응 관계들 바르게 나타낸 식은 ①, ④입니다."
+                }
+            ]
+        }
+    ]
+}

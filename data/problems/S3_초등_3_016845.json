@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1839abc1-d5a9-4682-8c7a-bf4f80657458",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016845",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.34,
+                            6.84,
+                            346.78,
+                            26.4
+                        ]
+                    ],
+                    "text_description": "다음 증에서 $\\square \\div 6=9$에 알맞은 수는 무엇일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.98,
+                            40.76,
+                            48.82,
+                            58.04
+                        ]
+                    ],
+                    "text_description": "① 54"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.34,
+                            67,
+                            49.1,
+                            134.84
+                        ]
+                    ],
+                    "text_description": "② 55 ③ 56 ④ 57"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.4,
+                            153.15,
+                            235.7,
+                            169.02
+                        ]
+                    ],
+                    "text_description": "$\\square \\div 6=9 \\quad 6 \\times 9=\\square, \\square=54$"
+                }
+            ]
+        }
+    ]
+}

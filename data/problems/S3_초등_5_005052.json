@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a028518f-7a9a-402a-9c1b-bbcd4edef6fc",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_005052",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            13.42,
+                            503.5,
+                            77.42
+                        ]
+                    ],
+                    "text_description": "빨간색, 파란색, 노란색을 사용하여 회전판을 만들었습니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            351,
+                            499.5,
+                            414
+                        ]
+                    ],
+                    "text_description": "화살이 노란색에 멈출 가능성이 가장 낮은 회전판을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            96.42,
+                            456.5,
+                            256.42
+                        ]
+                    ],
+                    "text_description": "가 나 다 세개의 회전판"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            361.5,
+                            430,
+                            390.5,
+                            455
+                        ]
+                    ],
+                    "text_description": "가"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.5,
+                            277,
+                            499.5,
+                            346
+                        ]
+                    ],
+                    "text_description": "가 회전판은 노란색 부분이 없음ㄹㄹ 화살이 노란색에 멈출 가능성은 '불가능하다'입니다. 따라서 화살이 노란색에 멈출 가능성이 가장 낮은 회전판은 가입니다."
+                }
+            ]
+        }
+    ]
+}

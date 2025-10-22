@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a992fdbc-75f2-4a15-8ab5-a60ba44313a3",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004509",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72,
+                            159.42,
+                            351,
+                            182.42
+                        ]
+                    ],
+                    "text_description": "평행사변형의 넓이는 몇 $\\mathrm{m}$인가요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146,
+                            194,
+                            387,
+                            306
+                        ]
+                    ],
+                    "text_description": "평행사변형 밑변의 길이는 $1000cm$ 이고 높이는 $700cm$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            336,
+                            327,
+                            388,
+                            346
+                        ]
+                    ],
+                    "text_description": "$70m²$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95,
+                            0,
+                            430,
+                            40
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 평행사변형의 넓이 }) & =(\\text { 밑변의 길이 }) \\times(\\text { 높이 })=1000 \\times 700 \\\\ & =700000\\left(\\mathrm{~cm}^{2}\\right) \\rightarrow 70 \\mathrm{~m}^{2}\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

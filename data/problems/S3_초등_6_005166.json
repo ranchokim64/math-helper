@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "58138f87-a966-4ad2-9daf-87ea93c5872e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005166",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            14.92,
+                            738.5,
+                            120.92
+                        ]
+                    ],
+                    "text_description": "몫을 소수 셋째 자리까지 계산한 후 몫을 반올림 하여 소수 둘째 자리까지 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            128.92,
+                            230.5,
+                            192.92
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r|r} 6 & 1 & 2. & 1 \\\\ \\hline \\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            156.5,
+                            722.5,
+                            246.5,
+                            763.5
+                        ]
+                    ],
+                    "text_description": "$2. 02$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.5,
+                            197.5,
+                            441.5,
+                            686.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r|ll} &~~~2. 016 \\\\\\hline 6 & ~12. 1 \\\\ &~12\\\\\\hline &~~~~~~10\\\\ &~~~~~~~~6\\\\\\hline &~~~~~~~~40\\\\ &~~~~~~~~36\\\\\\hline &~~~~~~~~~~4 \\end{array}$"
+                }
+            ]
+        }
+    ]
+}

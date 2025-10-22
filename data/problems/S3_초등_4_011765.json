@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "98387556-2466-4f64-ac0c-c75da0ac9ac5",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011765",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-16] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-15] 분모가 같은 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.39,
+                            19.17,
+                            571.35,
+                            212.48
+                        ]
+                    ],
+                    "text_description": "민우가 떡볶이와 라면을 조리하고 있습니다. 떡볶이에는 물 $1 \\frac{3}{4}$ 컵을, 라면에는 물 $4 \\frac{1}{4}$ 컵을 사용했습니다. 떡볶이와 라면을 조리하 는데 사용한 물은 모두 몇 컵일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            434.73,
+                            238.41,
+                            469.75,
+                            264.05
+                        ]
+                    ],
+                    "text_description": "6컵"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.51,
+                            280.81,
+                            478.72,
+                            325.72
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{3}{4}+4 \\frac{1}{4}=(1+4)+\\left(\\frac{3}{4}+\\frac{1}{4}\\right)=5+\\frac{4}{4}=5+1=6$"
+                }
+            ]
+        }
+    ]
+}

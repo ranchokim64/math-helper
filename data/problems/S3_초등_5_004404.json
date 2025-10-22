@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "24e4a2bd-5901-4fce-8bfc-21616dfa4c04",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004404",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            2.42,
+                            430.5,
+                            85.42
+                        ]
+                    ],
+                    "text_description": "경인이네 집에서 공원과 놀이터까지의 거리를 나타낸 것입니다. 경인이네 집에서 어느 곳이 몇 km 더 먼가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            93.42,
+                            423.5,
+                            260.42
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|} \\hline 구간 & 거리 \\\\ \\hline 경인이네 집 ~ 공원 & $\\frac{7}{10} \\mathrm{~km}$ \\\\ \\hline 경인이네 집 $\\sim$ 놀이터 & $\\frac{2}{3} \\mathrm{~km}$ \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            206.5,
+                            266,
+                            390.5,
+                            311
+                        ]
+                    ],
+                    "text_description": "공원, $ \\frac{1}{30} \\mathrm{~km}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            312,
+                            338.5,
+                            391
+                        ]
+                    ],
+                    "text_description": "\\[ \\frac{7}{10}=\\frac{21}{30}, \\frac{2}{3}=\\frac{20}{30} \\text { 이므로 } \\] 공원이 $\\frac{21}{30}-\\frac{20}{30}=\\frac{1}{30}(\\mathrm{~km})$만큼 더 멉니다."
+                }
+            ]
+        }
+    ]
+}

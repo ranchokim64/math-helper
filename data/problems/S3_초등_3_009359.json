@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a03adba5-2f79-407e-bcce-4239d263afe7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009359",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-15] 소수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-14] 소수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.5,
+                            10.42,
+                            820.5,
+                            133.42
+                        ]
+                    ],
+                    "text_description": "효림이네 텃밭 전체의 $\\frac{4}{10}$에 오이를 심고, 0. 3에 가지를 심었습니다. 나머지 밭에 배추를 심었다면 가장 넓은 부분에 심은 것은 무엇인지 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            598.5,
+                            138.42,
+                            818.5,
+                            174.42
+                        ]
+                    ],
+                    "text_description": "(오이, 가지, 배추)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            186,
+                            90.5,
+                            212
+                        ]
+                    ],
+                    "text_description": "오이"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.5,
+                            228.0,
+                            817.5,
+                            311.0
+                        ]
+                    ],
+                    "text_description": "오이는 $\\frac{4}{10}=0. 4$, 가지는 0. 3 이므로 전체 텃밭을 그림으로 나타내면 다음과 같습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            360,
+                            813.5,
+                            383
+                        ]
+                    ],
+                    "text_description": "오이는 4칸, 가지는 3칸, 배추는 3칸이므로 가장 넓은 부분에 심은 것은 오이입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            313.0,
+                            496.5,
+                            355.0
+                        ]
+                    ],
+                    "text_description": "<div class=\"table_tabular \" style=\"text-align: center\"> <div class=\"inline-tabular\"><table id=\"tabular\"> <tbody> <tr style=\"border-top: none !important; border-bottom: none !important;\"> <td style=\"text-align: left; border-left-style: solid !important; border-left-width: 1px !important; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">오이</td> <td style=\"text-align: left; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">가지</td> <td style=\"text-align: left; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; \">배추</td> </tr> </tbody> </table> </div></div>"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "29bd22a2-5d8e-4b9d-8631-b04a85c05651",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002940",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.77,
+                            12.74,
+                            736.77,
+                            112.74
+                        ]
+                    ],
+                    "text_description": "다희와 시우가 1번부터 8번까지의 번호표가 들어 있는 상자에서 번호표를 꺼낼 때, 일이 일어날 가능성에 대해 말하고 있습니다. $\\square$ 안에 알맞은 말을 써넣어 대화를 완성해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.77,
+                            142.28,
+                            673.77,
+                            326.28
+                        ]
+                    ],
+                    "text_description": "다희: 10번 번호표를 꺼낼 가능성은 '$\\square$'야 시우: 한 자리 수가 적혀 있는 번호표를 꺼낼 가능성은 \"$\\square$\"야"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.77,
+                            350.28,
+                            513.77,
+                            416.28
+                        ]
+                    ],
+                    "text_description": "다희: 10번 번호표를 꺼낼 가능성은 '불가능하다'야. 시우: 한 자리 수가 적혀 있는 번호표를 꺼낼 가능성은 '확실하다'야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.77,
+                            489.28,
+                            561.77,
+                            537.28
+                        ]
+                    ],
+                    "text_description": "상자 안에는 1 번부터 8 번까지의 번호표가 들어 있으므로 10 번 번호표를 꺼낼 가능성은 '불가능하다'이고, 한 자리 수가 적혀 있는 번호표를 꺼낼 가능성은 '확실하다'입니다."
+                }
+            ]
+        }
+    ]
+}

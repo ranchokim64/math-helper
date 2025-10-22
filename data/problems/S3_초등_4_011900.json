@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8ab2f76b-6738-4bb2-8705-36e0a74543bb",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011900",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            109.86,
+                            8.57,
+                            374.66,
+                            31.97
+                        ]
+                    ],
+                    "text_description": "사각형을 보고 물음에 답하세요"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.26,
+                            228.77,
+                            388.26,
+                            283.17
+                        ]
+                    ],
+                    "text_description": "두 대각선이 서로 수직인 사각형을 모두 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.26,
+                            45.57,
+                            383.46,
+                            213.57
+                        ]
+                    ],
+                    "text_description": "가: 왼쪽이 대각선으로 되어있는 사각형 나: 정사각형 다: 마름모 라: 직사각형 마: 오른쪽이 대각선으로 되어있는 사각형 바: 평행사변형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            286.66,
+                            294.86,
+                            329.86,
+                            315.66
+                        ]
+                    ],
+                    "text_description": "나, 다"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.06,
+                            322.06,
+                            386.66,
+                            357.26
+                        ]
+                    ],
+                    "text_description": "두 직선이 수직으로 만나는 사각형은 마름모와 정사각형입니다."
+                }
+            ]
+        }
+    ]
+}

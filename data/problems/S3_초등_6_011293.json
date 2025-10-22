@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "006a0fea-9b53-4641-9ec3-212e4053066a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011293",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.9,
+                            6.24,
+                            890.3,
+                            38.24
+                        ]
+                    ],
+                    "text_description": "원기둥을 만들 수 있는 전개도를 찾아 기호를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            225.5,
+                            50.24,
+                            958.3,
+                            309.44
+                        ]
+                    ],
+                    "text_description": "이미지는 세 개의 도형으로 구성된 도형을 보여줍니다. 각 도형 위에는 '가', '나', '다'라는 글자가 적혀 있습니다. 1. 가: 상단과 하단에 원형의 도형(크고 작은 두 개의 원)이 있고, 그 가운데에 수평으로 긴 직사각형이 배치되어 있습니다. 2. 나: 상단과 하단에 두 개의 원형 도형이 위치하고, 그 가운데에는 왼쪽으로 기울어진 직사각형이 있습니다. 3. 다: 가운데에 수직으로 긴 직사각형이 있으며, 그 양쪽에 작은 원형 도형이 각각 위치하고 있습니다. 각 도형은 모두 보라색으로 채워져 있으며, 형태와 위치에 따라 다양한 구성 요소를 보여주고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.3,
+                            325.9,
+                            96.7,
+                            354.7
+                        ]
+                    ],
+                    "text_description": "다"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.9,
+                            380.1,
+                            815.9,
+                            409.9
+                        ]
+                    ],
+                    "text_description": "가는 두 원이 합동이 아니므로 원기둥을 만들 수 없습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.9,
+                            423.5,
+                            832.7,
+                            453.1
+                        ]
+                    ],
+                    "text_description": "나는 옆면이 직사각형이 아니므로 원기둥을 만들 수 없습니다."
+                }
+            ]
+        }
+    ]
+}

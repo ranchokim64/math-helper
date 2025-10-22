@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3faba755-af0a-4353-a425-c39908128e37",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003113",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.83,
+                            9.27,
+                            853.83,
+                            79.27
+                        ]
+                    ],
+                    "text_description": "쌓기나무 12 개로 쌓은 모양입니다. 빨간색 쌓기나무 3개를 뺐을 때 앞에서 본 모양을 그려 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            244.83,
+                            101.27,
+                            627.83,
+                            288.27
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 12개 쌓여있습니다. 이 이미지에는 여러 개의 블록으로 쌓아 올린 구조물이 있습니다. 왼쪽에는 붉은색 블록과 갈색 블록이 섞여 있고, 오른쪽에는 배열을 위한 빈 격자가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            204.83,
+                            304.88,
+                            514.83,
+                            469.88
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 12개 쌓여있는 모습과 그것을 앞에서 본 모습입니다. 이 이미지는 다양한 색상의 블록으로 구성된 3D 형태의 구조물과 그 구조물을 2D 형식으로 나타낸 도면을 보여주고 있습니다. 왼쪽은 3D 블록 구조물이고, 오른쪽은 그 구조물의 평면도를 나타냅니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.83,
+                            474.88,
+                            632.83,
+                            505.88
+                        ]
+                    ],
+                    "text_description": "빨간색 쌓기나무를 뺐을 때 앆에서 본 모양은 왼쪽부터 1 층, 2 층, 1 층입니다."
+                }
+            ]
+        }
+    ]
+}

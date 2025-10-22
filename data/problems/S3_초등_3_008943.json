@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a0a88773-41ca-4548-a3fd-fa11a8cd4629",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008943",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33,
+                            10.92,
+                            929,
+                            115.92
+                        ]
+                    ],
+                    "text_description": "어느 음식점에서 일주일 동안 팔린 음식의 수를 조사하여 그림그래프로 나타내었습니다. 일주일 동안 가장 많이 팔린 음식부터 순서대로 바르게 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            257,
+                            122.5,
+                            704,
+                            449.5
+                        ]
+                    ],
+                    "text_description": "이 이미지는 한국의 일주일 동안의 동안 팔린 음식에 대한 표입니다. - 열 구성: 1. 김치찌개: 큰 그릇 3개, 작은 그릇 1개 2. 된장찌개: 큰 그릇 2개, 작은 그릇 2개 3. 비빔밥: 큰 그릇 1개, 작은 그릇 4개 4. 냉면: 큰 그릇 4개 - 하단: - (큰 그릇 이미지) 100그릇: 그릇 크기에 대한 기준입니다. - (작은 그릇 이미지) 10그릇: 그릇 크기에 대한 기준입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31,
+                            463.5,
+                            453,
+                            497.5
+                        ]
+                    ],
+                    "text_description": "①냉면, 김치찌개, 된장찌개, 비빔밥"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32,
+                            509.5,
+                            451,
+                            541.5
+                        ]
+                    ],
+                    "text_description": "③ 비빔밥, 된장지개, 김치찌개, 냉면"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            481,
+                            464.5,
+                            901,
+                            540.5
+                        ]
+                    ],
+                    "text_description": "② 김치찌개, 된장찌개, 냉면, 비빔밥 ④ 비빔밥, 냉면, 김치찌개, 된장찌개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            604.5,
+                            842,
+                            633.5
+                        ]
+                    ],
+                    "text_description": "$냉면(400그릇)>김치찌개(310그릇) > 된장찌개 (220그릇)> 비빔밥 (140그릇)$"
+                }
+            ]
+        }
+    ]
+}

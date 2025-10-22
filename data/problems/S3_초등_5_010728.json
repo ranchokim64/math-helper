@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a00e3b6b-b9e0-47dc-8b80-d33c4e5c461b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010728",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-01] 한 양이 변할 때 다른 양이 그에 종속하여 변하는 대응 관계를 나타낸 표에서 규칙을 찾아 설명하고, □, △ 등을 사용하여 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20,
+                            2.9,
+                            794,
+                            98.9
+                        ]
+                    ],
+                    "text_description": "그림에서 책꽂이 칸마다 책이 1권씩 더 있을 때 책꽂이 칸의 수와 책의 수 사이의 대응 관계를 식으로 바르게 나타낸 것을 선택하세요. (책꽂이 칸의 수: $\\square$, 책의 수: $\\star$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            282,
+                            99.9,
+                            538,
+                            382.9
+                        ]
+                    ],
+                    "text_description": "한 칸마다 책이 5권씩 꽂혀있는 3줄로 구성된 책장이 2개 있는 그림이다. $\\square \\times 6= \\star$ $\\square + 6= \\star$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.5,
+                            383.9,
+                            148.5,
+                            413.9
+                        ]
+                    ],
+                    "text_description": "$\\square \\times 6= \\star$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            423.9,
+                            793.5,
+                            448.9
+                        ]
+                    ],
+                    "text_description": "책꽂이 한 칸에 있는 책의 수가 1권 늘어났기 때문에 5배였던 관계가 6배로 바뀌었"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.5,
+                            454.9,
+                            152.5,
+                            513.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 습니다. } \\\\ \\Rightarrow \\square \\times 6=\\star \\end{array}$"
+                }
+            ]
+        }
+    ]
+}

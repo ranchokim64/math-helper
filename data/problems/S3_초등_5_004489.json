@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "83d83fc3-a363-40c1-9a26-851168b592b4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004489",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.68,
+                            2.16,
+                            339.68,
+                            25.84
+                        ]
+                    ],
+                    "text_description": "두 분수의 합과 차를 각각 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.52,
+                            35.12,
+                            366.56,
+                            111.28
+                        ]
+                    ],
+                    "text_description": "$\\frac{3}{10} \\quad \\frac{11}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            211.04,
+                            115.76,
+                            432.48,
+                            204.08
+                        ]
+                    ],
+                    "text_description": "합: $\\left(\\quad \\frac{31}{30}\\left(=1 \\frac{1}{30}\\right) \\quad\\right)$ 차: $\\left(\\quad\\frac{13}{30} \\quad\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.8,
+                            206.7,
+                            338.68,
+                            283.5
+                        ]
+                    ],
+                    "text_description": "합 $\\frac{3}{10}+\\frac{11}{15}=\\frac{9}{30}+\\frac{22}{30}=\\frac{31}{30}=1 \\frac{1}{30}$ 차: $\\frac{11}{15}-\\frac{3}{10}=\\frac{22}{30}-\\frac{9}{30}=\\frac{13}{30}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "398636b8-51f6-4c56-87a5-c923be77af67",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010118",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.88,
+                            4.55,
+                            469.02,
+                            26.36
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성이 더 낮은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            113.05,
+                            31.65,
+                            566.76,
+                            113.67
+                        ]
+                    ],
+                    "text_description": "흰색 바둑돌 1개와 검은색 바둑돌 1개가 있는 주머니에서 바둑돌 1개를 꺼낼 때 흰색일 가능성"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            112.82,
+                            114.88,
+                            566.76,
+                            197.06
+                        ]
+                    ],
+                    "text_description": "흰색 바둑돌 2개가 있는 주머니에서 바둑돌 1개를 꺼낼 때 흰색일 가능성"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.99,
+                            206.96,
+                            372.99,
+                            225.93
+                        ]
+                    ],
+                    "text_description": "흰색 바둑돌 1개와 검은색 바둑돌 1개가 있는"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.14,
+                            232.47,
+                            381.48,
+                            250.44
+                        ]
+                    ],
+                    "text_description": "주머니에서 바둑돌 1개들 꺼낼 때 흰색일 가능성"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.52,
+                            264.93,
+                            372.52,
+                            283.14
+                        ]
+                    ],
+                    "text_description": "위쪽의 일이 일어날 가능성은 '반반이다'이고"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.31,
+                            289.61,
+                            433.49,
+                            332.63
+                        ]
+                    ],
+                    "text_description": "아래쪽의 일이 일어날 가능성은 '확실하다'입니다. 따라서 일이 일어날 가능성이 더 낮은 것은 위쪽입니다."
+                }
+            ]
+        }
+    ]
+}

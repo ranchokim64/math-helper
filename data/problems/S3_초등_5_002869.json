@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c5a5d952-d16a-41f1-93d5-a5e35f6fa8cc",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002869",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.6,
+                            11.05,
+                            687.6,
+                            71.05
+                        ]
+                    ],
+                    "text_description": "시우와 예지가 버림의 방법으로 어림하는 문제를 만들었습니다. 만든 문제의 답이 500개가 되도록 문제를 만든 친구를 찾아 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14,
+                            84.28,
+                            688.4,
+                            308.28
+                        ]
+                    ],
+                    "text_description": "시우: 과수원에서 수확한 복숭아 527개를 한 봉지에 10개씩 담아 판매한다면 최대 몇 개까지 판매할 수 있을까? 예지: 공장에서 만든 지우개 586개를 한 상자에 100개씩 담아 판매한다면 최대 몇 개까지 판매할 수 있을까?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            96.4,
+                            437.88,
+                            150,
+                            469.88
+                        ]
+                    ],
+                    "text_description": "예지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.8,
+                            312.68,
+                            765.2,
+                            419.48
+                        ]
+                    ],
+                    "text_description": "527을 버림하여 십의 자리까지 나타내면 520이므로 시우가 만든 문제의 답은 520개입니다. 586을 버림하여 백의 자리까지 나타내면 500이므로 예지가 만든 문제의 답은 500개입니다. 따라서 문제의 답이 500개가 되도록 문제를 만든 친구는 예지입니다."
+                }
+            ]
+        }
+    ]
+}

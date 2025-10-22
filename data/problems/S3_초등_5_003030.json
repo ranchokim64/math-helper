@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9a2d8a7a-1474-4d0e-b7a2-b02fabb77939",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003030",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            5.92,
+                            233.5,
+                            28.92
+                        ]
+                    ],
+                    "text_description": "마름모의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            99.5,
+                            50.5,
+                            219.5,
+                            230.5
+                        ]
+                    ],
+                    "text_description": "마름모의 대각선의 길이가 $9cm$, $6cm$입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            431.5,
+                            72.5,
+                            631.5,
+                            207.5
+                        ]
+                    ],
+                    "text_description": "마름모의 대각선의 길이가 $10 \\text{ cm}$, $15 \\text{ cm}$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.5,
+                            331.5,
+                            223.5,
+                            362.5
+                        ]
+                    ],
+                    "text_description": "$27 \\mathrm{~cm}^{2}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            474.5,
+                            330.5,
+                            594.5,
+                            362.5
+                        ]
+                    ],
+                    "text_description": "$75 \\mathrm{~m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            243.92,
+                            551.5,
+                            315.92
+                        ]
+                    ],
+                    "text_description": "마름모의 넓이는 (한 대각선의 길이) $\\times$ (다른 대각선의 길이 $) \\div 2$ 이므로 왼쪽 마름모의 넓이는 $6 \\times 9 \\div 2=27\\left(\\mathrm{~cm}^{2}\\right)$, 오른쪽 마름모의 넓이는 $15 \\times 10 \\div 2=75\\left(\\mathrm{~m}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

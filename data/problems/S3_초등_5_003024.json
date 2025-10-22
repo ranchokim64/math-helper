@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "278793d0-74a2-454f-9cf7-0a0b743461a0",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003024",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-04] 넓이를 나타내는 표준 단위의 필요성을 인식하여 1cm², 1m², 1km²의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-12] 넓이 단위 1cm², 1m², 1km²를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.8,
+                            7.54,
+                            615.6,
+                            60.94
+                        ]
+                    ],
+                    "text_description": "우리나라에는 3천 개가 넘는 섬들이 있습니다. 섬의 넓이를 보고 넓은 섬부터 차례대로 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.6,
+                            74.2,
+                            552.2,
+                            484.4
+                        ]
+                    ],
+                    "text_description": "4개 섬들의 지도 그림 강화도: 약 305$\\mathrm{km}^{2}$ 완도: 약 97$\\mathrm{km}^{2}$ 남해도: 약 303000000$\\mathrm{m}^{2}$ 울릉도: 약 73000000$\\mathrm{m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.8,
+                            571,
+                            417,
+                            599
+                        ]
+                    ],
+                    "text_description": "(강화도, 남해도, 완도, 울릉도)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.8,
+                            519,
+                            615.4,
+                            562.2
+                        ]
+                    ],
+                    "text_description": "모두 $\\mathrm{km}^{2}$로 나타내면 남해도는 약 $303 \\mathrm{~km}^{2}$, 울릉도는 약 $73 \\mathrm{~km}^{2}$ 이므로 섬의 넓이가 넓은 섬부터 차례대로 쓰면 강화도, 남해도, 완도, 울릉도입니다."
+                }
+            ]
+        }
+    ]
+}

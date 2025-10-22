@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a223d744-2b95-40e8-b86f-5fc67aa0c6dc",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012254",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-07] 나눗셈이 이루어지는 실생활 상황을 통하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-05] 나눗셈이 이루어지는 실생활 상황과 연결하여 나눗셈의 의미를 알고, 곱셈과 나눗셈의 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            5.41,
+                            706,
+                            169.41
+                        ]
+                    ],
+                    "text_description": "2-1 윤경이네 과일 가게에는 사과가 320 개 있습니다. 한 상자에 사과를 20 개씩 나 누어 담으면 상자는 몇 개가 필요할까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            145,
+                            314,
+                            219,
+                            356
+                        ]
+                    ],
+                    "text_description": "16 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            185.41,
+                            504,
+                            288.41
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (필요한 상자 수) } \\\\ =(\\text { (전체 사과 수) } \\div \\text { (한 상자에 들어가는 사과 수) } \\\\ =320 \\div 20=16 \\text { (개) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

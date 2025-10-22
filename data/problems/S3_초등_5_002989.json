@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d2d899ec-fd68-473b-948b-cc23c7637e26",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002989",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            6,
+                            461.5,
+                            33
+                        ]
+                    ],
+                    "text_description": "지도를 보고 시우와 다희가 가려고 하는 곳을 찾아 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            436.74,
+                            546.24,
+                            663.14,
+                            611.04
+                        ]
+                    ],
+                    "text_description": "시우 () 다희 ()"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            77.97,
+                            52,
+                            602.77,
+                            404
+                        ]
+                    ],
+                    "text_description": "이 이미지는 상점들이 위치한 지도를 나타내고 있습니다. 지도에는 다양한 가게들이 표시되어 있으며, 각 가게 근처에 분수가 적혀 있습니다. 상점의 종류는 꽃 가게, 아이스크림 가게, 주스 가게, 장난감 가게, 신발 가게 등입니다. 중앙에는 분수가 있고, 출발점은 오른쪽 아래에 위치해 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.769999999999996,
+                            421,
+                            650.77,
+                            526.4
+                        ]
+                    ],
+                    "text_description": "시우: 나는 첫 번째 갈림길에서 작은 수, 두 번째 갈림길에서 큰 수가 있는 길로 갈 거야. 다희: 나는 첫 번째 갈림길에서 큰 수, 두 번째 갈림길에서 가장 작은 수가 있는 길로 갈 거야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            871,
+                            264.5,
+                            940
+                        ]
+                    ],
+                    "text_description": "시우（신발 가게 ） 다희 (꽃 가게)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            619,
+                            811.5,
+                            866
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\left(\\frac{15}{28}, \\frac{9}{14}\\right) \\Rightarrow\\left(\\frac{15}{28}, \\frac{18}{28}\\right) \\Rightarrow \\frac{15}{28}<\\frac{9}{14} \\\\ \\left(\\frac{7}{12}, \\frac{17}{30}\\right) \\Rightarrow\\left(\\frac{35}{60}, \\frac{34}{60}\\right) \\Rightarrow \\frac{7}{12}>\\frac{17}{30} \\\\ \\text { 세 분수 } \\frac{{31}}{55}, \\frac{63}{110}, \\frac{13}{22} \\text { 의 크기를 비교하면 }\\left(\\frac{31}{55}, \\frac{63}{110}\\right) \\Rightarrow\\left(\\frac{62}{110}, \\frac{63}{110}\\right) \\Rightarrow \\frac{31}{55}<\\frac{63}{110} \\\\ \\left(\\frac{63}{110}, \\frac{13}{22}\\right) \\Rightarrow\\left(\\frac{63}{110}, \\frac{65}{110}\\right) \\Rightarrow \\frac{63}{110}<\\frac{13}{22} /\\left(\\frac{31}{55}, \\frac{13}{22}\\right) \\Rightarrow\\left(\\frac{62}{110}, \\frac{65}{110}\\right) \\Rightarrow \\frac{31}{55}<\\frac{13}{22} \\end{array} \\] 가장 큰 수는 $\\frac{13}{22}$, 가장 작은 수는 $\\frac{31}{55}$ 이므로 시우는 신발 가게, 다희는 꽃 가게에 가려고 합니다."
+                }
+            ]
+        }
+    ]
+}

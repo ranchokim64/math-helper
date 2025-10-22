@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9342f638-770f-42b5-8d72-8b9e060d0d51",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004871",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.96,
+                            7.15,
+                            436.77,
+                            70.94
+                        ]
+                    ],
+                    "text_description": "5학년 친구들이 말한 일이 일어날 가능성을 비교해 보려고 합니다. 물음에 답하세요. [12~14]"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.15,
+                            363.41,
+                            394.24,
+                            424.74
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성이 높은 친구부터 순서대로 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.61,
+                            78.3,
+                            429.41,
+                            350.63
+                        ]
+                    ],
+                    "text_description": "수정: 오늘은 월요일이니까 내일은 수요일일 거야. 민희: 주사위를 2번 굴리면 주사위 눈의 수가 모두 6이 나올거야. 연우: 내년 3월에는 6학년이 될거야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.2,
+                            436.49,
+                            352.53,
+                            462.66
+                        ]
+                    ],
+                    "text_description": "연우, 민희, 수정"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.69,
+                            466.45,
+                            393.42,
+                            526.96
+                        ]
+                    ],
+                    "text_description": "수정: 불가능하다. 민희: 아닐 것 같다. 연우: 확실하다 따라서 일이 일어날 가능성이 높은 친구부터 순서대로 이름을 쓰면 연우, 민희, 수정입니다."
+                }
+            ]
+        }
+    ]
+}

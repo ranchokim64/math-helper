@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "328b6ea0-6ded-4f68-9baa-992c13a8422c",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005740",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            8.92,
+                            424.5,
+                            68.92
+                        ]
+                    ],
+                    "text_description": "선미네 집의 지난 달 생활비 지출을 조사하여 나타낸 원그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            327.5,
+                            279.5,
+                            352.5
+                        ]
+                    ],
+                    "text_description": "식료품비는 전체의 몇 $\\%$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            118.5,
+                            79.92,
+                            346.5,
+                            305.92
+                        ]
+                    ],
+                    "text_description": "생활비의 쓰임새별 금액을 나타낸 원 그래프"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            286.5,
+                            366.5,
+                            345.5,
+                            396.5
+                        ]
+                    ],
+                    "text_description": "$25 \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.5,
+                            403.5,
+                            265.5,
+                            431.5
+                        ]
+                    ],
+                    "text_description": "$100-(10+13+20+32)=25(\\%)$"
+                }
+            ]
+        }
+    ]
+}

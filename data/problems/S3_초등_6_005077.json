@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cdf7ccdf-5b41-414e-836a-111d648a0867",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005077",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91,
+                            205.42,
+                            628,
+                            245.42
+                        ]
+                    ],
+                    "text_description": "㉠, ㉡, ㉢에 알맞은 수의 합을 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            132,
+                            261.42,
+                            667,
+                            395.42
+                        ]
+                    ],
+                    "text_description": "$\\frac{8}{21} \\div \\frac{4}{9}=\\frac{8}{21} \\times \\frac{()}{(L)}=\\frac{6}{(ㄷ)}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            262,
+                            410,
+                            535,
+                            485
+                        ]
+                    ],
+                    "text_description": "$㉠ + ㉡ + ㉢ $=20$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122,
+                            33,
+                            680,
+                            169
+                        ]
+                    ],
+                    "text_description": "\\[ \\frac{8}{21} \\div \\frac{4}{9}=\\frac{\\frac{2}{8}}{21} \\times \\frac{3}{7} \\frac{9}{1}=\\frac{6}{7} \\] ㉠ 9, ㉡ 4, ㉢ 7이므로 ㉠+㉡+㉢=9+4+7=20입니다."
+                }
+            ]
+        }
+    ]
+}

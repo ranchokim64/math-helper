@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "00396dde-3808-42bf-8f31-156901a8271e",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012236",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.57,
+                            12.6,
+                            596.63,
+                            109.47
+                        ]
+                    ],
+                    "text_description": "도형에서 각㉠과 각㉡의 크기의 합은 몇 도일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181.01,
+                            124.47,
+                            441.94,
+                            301.66
+                        ]
+                    ],
+                    "text_description": "사각형에 각이 50도, 85도, ㉠, ㉡ 이 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            438.82,
+                            315.09,
+                            509.13,
+                            347.9
+                        ]
+                    ],
+                    "text_description": "$225^\\circ$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.57,
+                            357.28,
+                            393.51,
+                            418.21
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 각 ㉠ })+50^{\\circ}+(\\text { 각 ㉡ })+85^{\\circ}=360^{\\circ} \\\\ \\text { (각 ㉠ })+(\\text { 각 ㉡ })=360^{\\circ}-50^{\\circ}-85^{\\circ}=225\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

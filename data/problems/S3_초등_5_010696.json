@@ -1,0 +1,168 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "252f8aff-4d79-4bc6-bb9d-0a97a3e635de",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010696",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48,
+                            1.91,
+                            594,
+                            28.91
+                        ]
+                    ],
+                    "text_description": "$\\square \\square$ 안에 공통으로 들어갈 수 있는 수를 모두 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            251,
+                            51.91,
+                            554,
+                            114.91
+                        ]
+                    ],
+                    "text_description": "$\\cdot$ 3과 7은 $\\square$의 약수입니다. $\\square$은/는 3과 7의 배수입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.65,
+                            185.28,
+                            55.44,
+                            201.15
+                        ]
+                    ],
+                    "text_description": "③ 21"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.16,
+                            229.82,
+                            56.46,
+                            246.72
+                        ]
+                    ],
+                    "text_description": "⑤ 42"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.14,
+                            140.74,
+                            57.49,
+                            179.65
+                        ]
+                    ],
+                    "text_description": "① 12 ② 14"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.14,
+                            206.78,
+                            56.98,
+                            224.19
+                        ]
+                    ],
+                    "text_description": "④ 35"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.6,
+                            326.08,
+                            613.52,
+                            351.17
+                        ]
+                    ],
+                    "text_description": "따라서 $\\square$ 안에 공통으로 들어갈 수 있는 수는 ③ 21, ⑤ 42입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            202.13,
+                            296.38,
+                            325.26,
+                            319.94
+                        ]
+                    ],
+                    "text_description": "$42=2 \\times 3 \\times 7$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.0,
+                            297.0,
+                            161.0,
+                            322.0
+                        ]
+                    ],
+                    "text_description": "$21=3 \\times 7$"
+                }
+            ]
+        }
+    ]
+}

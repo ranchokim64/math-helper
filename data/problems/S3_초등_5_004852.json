@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "79db92e7-0399-4335-8edc-1eead8cbe9fb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004852",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.27,
+                            30.13,
+                            454.67,
+                            59.49
+                        ]
+                    ],
+                    "text_description": "다음 6개의 수들의 평균은 얼마인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            409.31,
+                            161.03,
+                            432.35,
+                            187.27
+                        ]
+                    ],
+                    "text_description": "$7$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            88.67,
+                            198.15,
+                            456.03,
+                            225.67
+                        ]
+                    ],
+                    "text_description": "$($ 평균 $)=(8+4+6+5+9+10) \\div 6=42 \\div 6=7$"
+                }
+            ]
+        }
+    ]
+}

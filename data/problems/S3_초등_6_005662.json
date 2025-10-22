@@ -1,0 +1,84 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "697bd9e2-13a2-43fb-ae43-4da3bd6bdefb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005662",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3,
+                            7.42,
+                            857,
+                            152.42
+                        ]
+                    ],
+                    "text_description": "일정한 빠르기로 8분 동안 16.08km를 가는 승용차와 5분 동안 9.3km를 가는 오토바이가 있습니다. 승용차와 오토바이가 같은 지점에서 직선 도로를 따라 서로 반대 방향으로 10분 동안 달렸다면 승용차와 오토바이 사이의 거리는 몇 km가 되는지 구해 보세요. 오토바이가 1분 동안 달린 거리는 몇 km인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            633,
+                            160,
+                            720,
+                            190
+                        ]
+                    ],
+                    "text_description": "1.86km"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15,
+                            153,
+                            161,
+                            182
+                        ]
+                    ],
+                    "text_description": "$9. 3 \\div 5=1. 86(\\mathrm{~km})$"
+                }
+            ]
+        }
+    ]
+}

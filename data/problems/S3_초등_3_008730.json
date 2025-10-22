@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "af2df660-e306-4455-a405-cf0b0a02deb8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008730",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.11,
+                            12.88,
+                            825.11,
+                            41.88
+                        ]
+                    ],
+                    "text_description": "학교와 놀이터 중 상구네 집에서 더 가까운 곳을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            728.11,
+                            198.32,
+                            925.11,
+                            233.32
+                        ]
+                    ],
+                    "text_description": "(학교, 놀이터)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            237.11,
+                            46.88,
+                            717.11,
+                            195.88
+                        ]
+                    ],
+                    "text_description": "학교, 상구네집, 놀이터가 수평선에 있습니다. 학교에서 상구네 집까지는 $\\frac{13}{11}km$이고, 상구네 집에서 놀이터 까지는$1\\frac{3}{11}km$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.11,
+                            248.51,
+                            103.11,
+                            278.51
+                        ]
+                    ],
+                    "text_description": "학교"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.11,
+                            300.51,
+                            428.11,
+                            352.51
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{3}{11}=\\frac{14}{11}$ 이므로 $\\frac{13}{11}<1 \\frac{3}{11}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.11,
+                            361.51,
+                            523.11,
+                            390.51
+                        ]
+                    ],
+                    "text_description": "상구네 집에서 더 가까운 곳은 학교입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1f56c809-5423-4875-b345-7a9cbe7f1b24",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009007",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.7,
+                            4.59,
+                            321.1,
+                            33.6
+                        ]
+                    ],
+                    "text_description": "알맞은 말을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.0,
+                            69.0,
+                            380.0,
+                            205.0
+                        ]
+                    ],
+                    "text_description": "두 점을 곧게 이은 선 이미지. 두 점을 곧게 이은 선은(선분입니다, 선분이 아닙니다.)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.01,
+                            234.12,
+                            395.37,
+                            259.57
+                        ]
+                    ],
+                    "text_description": "선분은 두 점을 이은 곧은 선입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.0,
+                            275.39,
+                            116.16,
+                            300.14
+                        ]
+                    ],
+                    "text_description": "선분입니다."
+                }
+            ]
+        }
+    ]
+}

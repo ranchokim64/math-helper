@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a1334daf-0353-41ba-91c8-8c114b5a8ce6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005789",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.59,
+                            3.33,
+                            436,
+                            91.59
+                        ]
+                    ],
+                    "text_description": "그림과 같은 직육면체 모양의 떡을 잘라서 정육면체 모양을 만들려고 합니다. 만들 수 있는 가장 큰 정육면체 모양의 부피는 몇 $\\mathrm{cm}^{3}$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            98.84,
+                            98.98,
+                            346.75,
+                            234.92
+                        ]
+                    ],
+                    "text_description": "가로 25cm, 세로 15cm, 높이 12cm의 직육면체 모양의 떡이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            284.28,
+                            244.83,
+                            377.49,
+                            277.56
+                        ]
+                    ],
+                    "text_description": "$1728 \\mathrm{~cm}^{3}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.4,
+                            284.5,
+                            436.99,
+                            371.76
+                        ]
+                    ],
+                    "text_description": "정육면체는 가로, 세로, 높이가 모두 같으므로 직육면체의 가장 짧은 길이인 12cm를 정육면체의 한 모서리의 길이로 해야 합니다. 따라서 만들 수 있는 가장 큰 정육면체 모양의 부피는 12×12×12=1728(cm³)입니다."
+                }
+            ]
+        }
+    ]
+}

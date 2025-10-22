@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5e1654ef-48ec-459c-8ce9-43c947165dfe",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004291",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-03] 배수, 공배수, 최소공배수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87,
+                            145.33,
+                            691,
+                            227.73
+                        ]
+                    ],
+                    "text_description": "다음 수가 7의 배수일 때 $\\square$ 안에 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171,
+                            242.13,
+                            607.8,
+                            330.13
+                        ]
+                    ],
+                    "text_description": "7 $\\square$ 2"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            526.2,
+                            353.8,
+                            549.4,
+                            385.8
+                        ]
+                    ],
+                    "text_description": "$4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            115,
+                            12.2,
+                            688.6,
+                            134.6
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 0부터 9 까지의 숫자를 넣어 본 후 7로 나누어 봅니다. $\\rightarrow 742 \\div 7=106$ [다른 풀이] $7 \\square 2=700+\\square 2$ 이고이 중에서 700은 7의 배수 이므로 $\\square 2$가 7의 배수이면 7 $\\square 2$ 도 7의 배수입니다. $\\rightarrow \\square=4$"
+                }
+            ]
+        }
+    ]
+}

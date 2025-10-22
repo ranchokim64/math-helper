@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "85cbc7af-9b19-4fa3-9acc-d4bbfec4f7ba",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005249",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.36,
+                            14.33,
+                            454.26,
+                            41.45
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위. 앞. 옆에서 본 모양입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.42,
+                            147.61,
+                            582.37,
+                            175.67
+                        ]
+                    ],
+                    "text_description": "똑같은 모양을 쌓는 데 필요한 쌓기나무가 가장 적을 때는 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.87,
+                            42.88,
+                            482.32,
+                            137.33
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위, 앞, 옆에서 본 모양의 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            595.46,
+                            190.63,
+                            630.06,
+                            216.81
+                        ]
+                    ],
+                    "text_description": "6개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.51,
+                            177.54,
+                            206.47,
+                            222.55
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|l|l|} \\hline 2 & 1 \\\\ \\hline 1 & 2 \\end{tabular} $2+1+1+2=6$ (개)"
+                }
+            ]
+        }
+    ]
+}

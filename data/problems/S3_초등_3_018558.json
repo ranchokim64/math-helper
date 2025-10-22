@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "34373563-5d11-492f-88d2-ce0b51a9115f",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_018558",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.38,
+                            1.8599999999999999,
+                            542.65,
+                            17.47
+                        ]
+                    ],
+                    "text_description": "어떤 수를 20으로 나누었더니 몫이 25이고 나머지가 15였습니다. 어떤 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.58,
+                            41.23,
+                            50.72,
+                            57.2
+                        ]
+                    ],
+                    "text_description": "① 515"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.17,
+                            63.75,
+                            50.72,
+                            124.78
+                        ]
+                    ],
+                    "text_description": "② 516 ③ 517 ④ 518"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.89,
+                            154.96,
+                            174.01,
+                            171.34
+                        ]
+                    ],
+                    "text_description": "따라서 어떤 수는 515입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.89,
+                            133.25,
+                            208.42,
+                            146.77
+                        ]
+                    ],
+                    "text_description": "$20 \\times 25=500 \\quad 500+15=515$"
+                }
+            ]
+        }
+    ]
+}

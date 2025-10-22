@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "df9850aa-774b-4d82-b428-cd031a275d98",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008583",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70,
+                            6.42,
+                            431,
+                            37.42
+                        ]
+                    ],
+                    "text_description": "몫이 가장 큰 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.87,
+                            180.06,
+                            652.07,
+                            240.86
+                        ]
+                    ],
+                    "text_description": "$70 \\div 7=10, 90 \\div 5=18, 60 \\div 3=20$ $\\\\$따라서 $10<18<20$ 이므로 몫이 가장 큰 것은 $60 \\div 3$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            178.0,
+                            68.42,
+                            255.0,
+                            94.42
+                        ]
+                    ],
+                    "text_description": "$70 \\div 7$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            437.0,
+                            66.0,
+                            515.0,
+                            95.0
+                        ]
+                    ],
+                    "text_description": "$9 \\div 5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            699.0,
+                            64.0,
+                            774.0,
+                            100.0
+                        ]
+                    ],
+                    "text_description": "$60 \\div 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.0,
+                            132.0,
+                            124.0,
+                            160.0
+                        ]
+                    ],
+                    "text_description": "$60 \\div 3$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3a03c73d-e2a7-4a11-83ad-9d03a6ab8df6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004440",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            2.92,
+                            391.5,
+                            84.92
+                        ]
+                    ],
+                    "text_description": "다음 정사각형의 가로를 7cm, 세로를 5cm씩 각각 더 늘여 직사각형을 만들었습니다. 처음 정사각형의 넓이보다 몇 $\\mathrm{cm}^{2}$ 더 늘어났나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123.5,
+                            89.5,
+                            272.5,
+                            213.5
+                        ]
+                    ],
+                    "text_description": "가로 9cm, 세로 9cm인 정사각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            255.5,
+                            223.5,
+                            332.5,
+                            246.5
+                        ]
+                    ],
+                    "text_description": "$143 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            256.5,
+                            326.5,
+                            316.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (늘어난 넓이) } \\\\ =(\\text { 늘인 후 직사각형의 넓이)-(처음 정사각형의 넓이) } \\\\ =(9+7) \\times(9+5)-(9 \\times 9)=224-81=143\\left(\\mathrm{~cm}^{2}\\right)\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e9cde80d-43e8-49ed-a3d8-a7b0dca1b7a2",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008109",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64,
+                            1.42,
+                            708,
+                            31.42
+                        ]
+                    ],
+                    "text_description": "다람쥐는 밤과 도토리 중에서 어느 것을 먹게 될까요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            381,
+                            265,
+                            572,
+                            305
+                        ]
+                    ],
+                    "text_description": "(밤,도토리）"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            37.42,
+                            888,
+                            265.42
+                        ]
+                    ],
+                    "text_description": "229x36 나무판 위에 있는 다람쥐가 '곰셈식의 계산 결과가 쓰여 있는 길을 따라 가면 무엇을 먹게 될까?'라고 말하고있다. 작은 '출발' 표시가 잇으며 밤이 있는 길에는 2061, 도토리가 있는 길에는 8244라고 적혀있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            323,
+                            129,
+                            351
+                        ]
+                    ],
+                    "text_description": "도토리"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            572,
+                            666,
+                            600
+                        ]
+                    ],
+                    "text_description": "8244가 쓰여 있는 길을 따라 가서 도토리를 먹게 됩니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23,
+                            393,
+                            138,
+                            570
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}229 \\\\ \\times \\quad 36 \\\\ \\hline 1374 \\\\ 6874 \\\\ \\hline 8244\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

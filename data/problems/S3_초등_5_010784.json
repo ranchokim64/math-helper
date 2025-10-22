@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e9d640a8-27f0-4efc-a08e-bf78adaa4a61",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010784",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-12] 분수와 소수의 관계를 이해하고 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-12] 분수와 소수의 관계를 이해하고 크기를 비교하며 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            3.42,
+                            775.5,
+                            34.42
+                        ]
+                    ],
+                    "text_description": "분수와 소수의 크기 비교를 잘못한 사람의 이름을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            151.5,
+                            35.42,
+                            743.5,
+                            207.42
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{4}{5}>1. 7$ \\[ 0. 5>\\frac{13}{20} \\] (준상, 지영)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            221,
+                            94.5,
+                            250
+                        ]
+                    ],
+                    "text_description": "지영"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            270,
+                            552.5,
+                            417
+                        ]
+                    ],
+                    "text_description": "준상: $1 \\frac{4}{5}=1 \\frac{8}{10}, 1. 7=1 \\frac{7}{10}$ 이므로 $1 \\frac{4}{5}>1. 7$ 입니다. 지영 : $0. 5=\\frac{5}{10}=\\frac{10}{20}$ 이므로$0. 5<\\frac{13}{20}$ 입니다. 따라서 크기 비교를 잘못한 사람은 지영입니다."
+                }
+            ]
+        }
+    ]
+}

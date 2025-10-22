@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6c7ef546-6604-4bde-8104-72601c49a1db",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007527",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.14,
+                            3.83,
+                            445.56,
+                            28.97
+                        ]
+                    ],
+                    "text_description": "바르게 계산한 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            453.37,
+                            44.84,
+                            647.29,
+                            70.44
+                        ]
+                    ],
+                    "text_description": "$4. 28+2. 37=6. 65$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.33,
+                            46.18,
+                            222.84,
+                            147.54
+                        ]
+                    ],
+                    "text_description": "① $3. 6+5. 7=8. 13$ ③ $5. 3-1. 26=4. 14$ ⑤ $6. 14-1. 8=5. 86$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            437.37,
+                            83.54,
+                            634.49,
+                            109.14
+                        ]
+                    ],
+                    "text_description": "④ $7. 87+0. 4=7. 91$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.83,
+                            207.95,
+                            416.89,
+                            230.99
+                        ]
+                    ],
+                    "text_description": "① $3. 6+5. 7=9. 3$ ③ $5. 3-1. 26=4. 04$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.33,
+                            239.18,
+                            416.89,
+                            264.78
+                        ]
+                    ],
+                    "text_description": "④ $7. 87+0. 4=8. 27$ ⑤ $6. 14-1. 8=4. 34$"
+                }
+            ]
+        }
+    ]
+}

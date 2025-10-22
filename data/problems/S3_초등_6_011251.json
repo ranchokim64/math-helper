@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b88de26e-62a7-419e-aa1f-155add35c7c6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011251",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.7,
+                            6.34,
+                            864.5,
+                            67.14
+                        ]
+                    ],
+                    "text_description": "지름이 5cm인 원판을 만들고 자 위에서 한 바퀴 굴렸습니다. 원판의 원주가 얼마쯤 될지 자에 _로 알맞게 표시한 것을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            143.5,
+                            75.8,
+                            753.5,
+                            305.8
+                        ]
+                    ],
+                    "text_description": "이미지 설명: 1. 원: 위쪽에 지름이 5cm인 분홍색 원이 그려져 있고 자에 접해있는 형태입니다. 2. 자: 아래쪽에는 두 개의 자가 수평으로 배치되어 있습니다. 각 자는 0부터 20까지 숫자가 새겨져 있으며, 각 단위가 1cm 간격으로 표시되어 있습니다. - 첫 번째 자는 왼쪽에서 약 16cm지점까지 직선이 있습니다. - 두 번째 자는 왼쪽에서 약 12cm지점까지 직선이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.9,
+                            317,
+                            603.7,
+                            360.2
+                        ]
+                    ],
+                    "text_description": "자는 왼쪽에서 약 16cm지점까지 직선이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.3,
+                            370.8,
+                            862.9,
+                            428.6
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text {원주는 지름의 약 } 3. 14 \\text { 배이므로 지름이 } 5 \\mathrm{~cm} \\text { 인 원의 원주는 } 5 \\times 3. 14=15. 7(\\mathrm{~cm}) \\text { 입니 } \\\\ \\text { 다. } 15. 7 \\mathrm{~cm} \\text { 만큼 표시하면 됩니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

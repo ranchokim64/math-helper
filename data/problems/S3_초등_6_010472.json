@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b6bbaf3d-26a6-454c-a7f9-5bfa517fcd34",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010472",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.96,
+                            8.82,
+                            727.45,
+                            37.65
+                        ]
+                    ],
+                    "text_description": "다음 중 $86. 64 \\div 19$의 계산 결과인 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            641.91,
+                            54.95,
+                            716.88,
+                            84.75
+                        ]
+                    ],
+                    "text_description": "③ 4. 56"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.55,
+                            54.56,
+                            439.1,
+                            127.61
+                        ]
+                    ],
+                    "text_description": "① 45. 6 ② 456 ④ 0. 456 ⑤ 0. 0456"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.47,
+                            192.13,
+                            596.73,
+                            248.72
+                        ]
+                    ],
+                    "text_description": "$86. 64 \\div 19=\\frac{8664}{100} \\div 19=\\frac{8664 \\div 19}{100}=\\frac{456}{100}=4. 56$"
+                }
+            ]
+        }
+    ]
+}

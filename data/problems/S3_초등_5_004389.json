@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1c848f5a-fbf9-479d-b778-0026a6f49a74",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004389",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            61.91,
+                            437,
+                            226.91
+                        ]
+                    ],
+                    "text_description": "소영이네 집에서 문구점까지의 거리는 $1\\frac{5}{8} \\mathrm{~km}$입니다. 소영이가 집에서 출발하여 문구점 방향으로 $\\frac{4}{5} \\mathrm{~km}$를 걸었다면 몇 km를 더 걸어야 문구점에 도착할 수 있나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78,
+                            235.5,
+                            411,
+                            336.5
+                        ]
+                    ],
+                    "text_description": "소영이네 집과 문국점 사이의 수직선이 있고 그 가운데 소영이가 있는 그림이다. 소영이네 집에서 소영이까지 거리가 $\\frac{4}{5}$km이고 소영이네집에서 문구점까지 거리가 $1\\frac{5}{8}$km이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            308,
+                            339.91,
+                            372,
+                            388.91
+                        ]
+                    ],
+                    "text_description": "$\\frac{33}{40} \\mathrm{~km}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75,
+                            10.5,
+                            388,
+                            55.5
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{5}{8}-\\frac{4}{5}=1 \\frac{25}{40}-\\frac{32}{40}=\\frac{65}{40}-\\frac{32}{40}=\\frac{33}{40}(\\mathrm{~km})$"
+                }
+            ]
+        }
+    ]
+}

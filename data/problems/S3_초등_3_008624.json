@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0477c64e-0a7e-408b-a4cb-d98fd1b6c142",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008624",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.61,
+                            16.39,
+                            752.61,
+                            43.39
+                        ]
+                    ],
+                    "text_description": "나머지가 큰 것부터 차례로 기호를 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            374.61,
+                            52.39,
+                            582.61,
+                            219.39
+                        ]
+                    ],
+                    "text_description": "㉠ $29 \\div 6$ ㉡ $92 \\div 4$ ㉢ $84 \\div 8$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            478.61,
+                            269.66,
+                            599.61,
+                            299.66
+                        ]
+                    ],
+                    "text_description": "④ ㉠ ㉢ ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.61,
+                            225,
+                            599.61,
+                            257
+                        ]
+                    ],
+                    "text_description": "① ㉠ ㉡ ㉢ ② ㉡ ㉢ ㉠"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.61,
+                            269,
+                            152.61,
+                            299
+                        ]
+                    ],
+                    "text_description": "③ ㉢ ㉠ ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.61,
+                            365,
+                            228.61,
+                            392
+                        ]
+                    ],
+                    "text_description": "㉠ $29 \\div 6=4^{\\cdots} 5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.61,
+                            400,
+                            679.61,
+                            506
+                        ]
+                    ],
+                    "text_description": "㉡ $92 \\div 4=23$ ㉢ $84 \\div 8=10 \\cdots 4$ 나머지가 큰 것부터 차례로 기호를 쓰면 ㉠, ㉢, ㉡입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "55e9a11c-b819-43b8-b860-346b30059f97",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003062",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            4.4,
+                            671,
+                            61.4
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 각각 수를 썼을 때, 앞과 옆에서 본 모양이 같은 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            146,
+                            75.4,
+                            528,
+                            229.4
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위에서 본 모양으로 옆, 앞의 표시가 있다. 가: 3x3 모양의 눈금표에 첫째줄에 3번째 칸, 둘째줄에 1, 2, 3번째 칸, 셋째줄에 1번째 칸이 표시되어 있는 모습이다. 나: 3x3 모양의 눈금표에 첫째줄에 2번째 칸, 둘째줄에 1, 2, 3, 번째 칸, 셋째줄에 2, 3, 번째 칸이 표시되어 있는 모습이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85,
+                            330.4,
+                            128,
+                            360.4
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38,
+                            231.4,
+                            417,
+                            324.4
+                        ]
+                    ],
+                    "text_description": "가는 앞에서 본 모양이 왼쪽부터 2 층, 2 층, 3 층이고, 옆에서 본 모양이 왼쪽부터 2 층, 3 층, 3 층입니다. 나는 앞에서 본 모양이 왼쪽부터 3 층, 3 층, 1 층이고, 옆에서 본 모양이 왼쪽부터 3 층, 3 층, 1 층입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3eeb2d58-1531-4364-aeca-6bdc83b780d7",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012424",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.3,
+                            13.16,
+                            373.36,
+                            104.47
+                        ]
+                    ],
+                    "text_description": "색종이가 71장 있습니다. 색종이 4장으로 꽃 한 송이를 만들 때 꽃은 몇 송이를 만들 수 있고, 색종이는 몇 장이 남을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            153.25,
+                            119.85,
+                            372.4,
+                            147.72
+                        ]
+                    ],
+                    "text_description": "(17송이, 3장)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.61,
+                            173.28,
+                            373.36,
+                            210.77
+                        ]
+                    ],
+                    "text_description": "따라서 꽃은 17송이를 만들 수 있고, 색종이는 3장이 남습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.57,
+                            154.06,
+                            111.92,
+                            172.32
+                        ]
+                    ],
+                    "text_description": "$71 \\div 4=17 \\cdots 3$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e3c9ed60-c4e9-4755-8d82-9923297cb1fa",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005470",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.84,
+                            11.22,
+                            375.23,
+                            38.89
+                        ]
+                    ],
+                    "text_description": "도형을 보고 물음에 답하세요. (원주율: 3)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.76,
+                            308.04,
+                            334.43,
+                            337.1
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 둘레를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            127.79,
+                            82.76,
+                            297.35,
+                            278.47
+                        ]
+                    ],
+                    "text_description": "정사각형 내부에 보라색 다이아몬드 형태의 도형이 그려져 있으며, 각 변이 곡선으로 되어있다. 정사각형의 한 변의 절반의 길이는 $3cm$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            317.39,
+                            356.33,
+                            375.82,
+                            378.59
+                        ]
+                    ],
+                    "text_description": "$18~ cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.4,
+                            391.51,
+                            455.89,
+                            435.41
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 둘레는 반지름이 $3 ~cm$인 원의 원주와 같으므로 $3 \\times 2 \\times 3=18~(\\mathrm{cm})$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "74c9721d-f32e-4463-a0b3-e8f9c03705ea",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004396",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.4,
+                            89.63,
+                            345.2,
+                            111.23
+                        ]
+                    ],
+                    "text_description": "㉠에서 ㉣까지의 거리는 몇 km인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78,
+                            123.23,
+                            405.2,
+                            251.23
+                        ]
+                    ],
+                    "text_description": "㉠에서㉢까지 거리가 $5\\frac{3}{4} \\mathrm{~km}$이고㉡에서㉣까지의 거리가 $6\\frac{3}{8} \\mathrm{~km}$이다. ㉡과 ㉢까지의 거리가 $1\\frac{1}{2} \\mathrm{~km}$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            298,
+                            252.5,
+                            376.4,
+                            302.1
+                        ]
+                    ],
+                    "text_description": "$10 \\frac{5}{8} \\mathrm{~km}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66,
+                            2.9,
+                            453.2,
+                            84.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 5 \\frac{3}{4}+6 \\frac{3}{8}-1 \\frac{1}{2} & =5 \\frac{6}{8}+6 \\frac{3}{8}-1 \\frac{1}{2}=11 \\frac{9}{8}-1 \\frac{1}{2} \\\\ & =12 \\frac{1}{8}-1 \\frac{1}{2}=11 \\frac{9}{8}-1 \\frac{4}{8}=10 \\frac{5}{8}(\\mathrm{~km})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

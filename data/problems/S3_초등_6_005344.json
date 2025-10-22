@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fa4096aa-fb81-4127-a17a-e928a0172743",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005344",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            9.92,
+                            523,
+                            128.92
+                        ]
+                    ],
+                    "text_description": "반지름이 $6cm$ 인 원을 한없이 잘게 잘라 이어 붙여서 오른쪽 도형을 만들었습니다. 물음에 답하세요. (원주율: $3$)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            308.5,
+                            505,
+                            337.5
+                        ]
+                    ],
+                    "text_description": "오른쪽 도형의 가로와 세로는 각각 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            152.92,
+                            451,
+                            291.92
+                        ]
+                    ],
+                    "text_description": "원의 반지름 6cm이고 직사각형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            192,
+                            353.5,
+                            515,
+                            401.5
+                        ]
+                    ],
+                    "text_description": "가로: ($\\quad 18 \\mathrm{~cm} \\quad$)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            193,
+                            406.5,
+                            512,
+                            444.5
+                        ]
+                    ],
+                    "text_description": "세로: ($\\quad 6 \\mathrm{~cm} \\quad$)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            451.5,
+                            420,
+                            584.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 오른쪽 도형의 가로 }) & =\\left(\\text { 원주의 } \\frac{1}{2}\\right) \\\\ & =(6 \\times 2 \\times 3) \\times \\frac{1}{2}=18(\\mathrm{~cm}) \\\\ (\\text { 오른쪽 도형의 세로 }) & =(\\text { 반지름 })=6(\\mathrm{~cm})\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

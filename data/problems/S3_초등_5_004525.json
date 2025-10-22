@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f2437bf2-2542-4748-9bba-b4534dc0465e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004525",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.5,
+                            155.5,
+                            444.5,
+                            233.5
+                        ]
+                    ],
+                    "text_description": "삼각형의 세 변의 길이의 합이 $5 \\frac{3}{7} \\mathrm{~cm}$ 일 때 변 ㄱㄷ 의 길이는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            166.3,
+                            250,
+                            349.3,
+                            388
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ이 있고 선분 ㄱㄴ은 $1\\frac{1}{2}$, ㄴㄷ은 $2\\frac{1}{7}$ 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            314.73,
+                            394.68,
+                            392.04,
+                            437.76
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{11}{14} \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.5,
+                            4.92,
+                            452.5,
+                            144.92
+                        ]
+                    ],
+                    "text_description": "두 변의 길이의 합이 $1 \\frac{1}{2}+2 \\frac{1}{7}=1 \\frac{7}{14}+2 \\frac{2}{14}=3 \\frac{9}{14}(\\mathrm{~cm})$ 이므로 나머지 한 변인 변 ㄱㄷ의 길이는 \\[ \\begin{aligned} 5 \\frac{3}{7}-3 \\frac{9}{14} & =5 \\frac{6}{14}-3 \\frac{9}{14}=4 \\frac{20}{14}-3 \\frac{9}{14} \\\\ & =1 \\frac{11}{14}(\\mathrm{~cm}) \\text { 입니다. } \\end{aligned} \\]"
+                }
+            ]
+        }
+    ]
+}

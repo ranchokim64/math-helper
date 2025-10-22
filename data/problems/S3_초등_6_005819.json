@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "01843c32-d597-49b6-8cb5-78fc04f107c6",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005819",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.43,
+                            5.22,
+                            345.98,
+                            50.27
+                        ]
+                    ],
+                    "text_description": "다음 전개도를 접어서 만들 수 있는 직육면체의 겉넓이는 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.22,
+                            58.42,
+                            289.66,
+                            178.27
+                        ]
+                    ],
+                    "text_description": "직육면체의 전개도. 이 이미지는 두 개의 직사각형이 겹쳐진 형태를 보여줍니다. 각 직사각형은 길이와 너비가 주어져 있으며, 사이즈는 다음과 같습니다: 하나는 4cm x 2cm, 다른 하나는 3cm x 2cm입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            230.27,
+                            187.28,
+                            285.06,
+                            208.78
+                        ]
+                    ],
+                    "text_description": "$52 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.86,
+                            215.95,
+                            266.11,
+                            269.71
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 직육면체의 겉넓이}) & =(4 \\times 3+2 \\times 3+4 \\times 2) \\times 2 \\\\ & =(12+6+8) \\times 2 \\\\ & =26 \\times 2=52\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

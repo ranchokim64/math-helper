@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "007ddfbd-e913-47ff-a238-6b7a521fe9f1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004697",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.5,
+                            0.92,
+                            544.5,
+                            65.92
+                        ]
+                    ],
+                    "text_description": "다음 도형은 마름모 2개로 이루어진 점대칭도형 입니다. 도형의 둘레는 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            200.0,
+                            91.0,
+                            393.0,
+                            301.0
+                        ]
+                    ],
+                    "text_description": "마름모 ㄱㄴㄷㄹ와 ㅁㅂㅅㅇ이 점대칭도형을 이루고 있다ㄱㄴ의 길이는 9cm이고 ㅈㅁ의 길이는 2cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.5,
+                            313.5,
+                            312.5,
+                            353.5
+                        ]
+                    ],
+                    "text_description": "(선분 ㅁㅈ) $=$ (선분 ㄷㅈ) $=2 \\mathrm{~cm}$ 이므로 (선분 ㄷㅁ) $=2+2=4(\\mathrm{~cm})$ 이고."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.5,
+                            359.5,
+                            347.5,
+                            406.5
+                        ]
+                    ],
+                    "text_description": "마름모의 네 변의 길이는 모두 같으므로 $($ 도형의 둘레 $)=(9 \\times 4) \\times 2-4 \\times 2=64(\\mathrm{~cm})$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.5,
+                            427.5,
+                            182.5,
+                            456.5
+                        ]
+                    ],
+                    "text_description": "64cm"
+                }
+            ]
+        }
+    ]
+}

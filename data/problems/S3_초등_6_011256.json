@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cc406a89-2167-4a24-a1b7-6ee2828f64da",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011256",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            7.42,
+                            864,
+                            118.42
+                        ]
+                    ],
+                    "text_description": "정육각형의 넓이를 이용하여 다음 원의 넓이를 어림하려고 합니다. 삼각형 ㄱㅇㄷ의 넓이가 $60 \\mathrm{~cm}^{2}$, 삼각형 ㄹㅇㅂ의 넓이가 $45 \\mathrm{~cm}^{2}$ 일 때, 원의 넓이로 알맞은 수를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            627,
+                            294,
+                            865,
+                            325
+                        ]
+                    ],
+                    "text_description": "$(260, 310, 370) \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            346,
+                            119,
+                            544,
+                            292
+                        ]
+                    ],
+                    "text_description": "세 꼭짓점이 ㄱ, ㄷ, ㅁ으로 표시되어 있는 정육각형 안에 꼭맞게 내접되어 있는 정원형 ㅇ가 있다. 정육각형의 한 변마다 중점을 기준으로 작도된 내접한 정육각형이 존재하고 세 꼭짓점이 ㄴ, ㄹ, ㅂ으로 표시되어 있다. 세 도형의 중점인 ㅇ를 기준으로 꼭짓점 ㄱ, ㄷ과 이어진 삼각형 ㄱㄷㅇ은 주황색으로 색칠되어 있고, 꼭짓점 ㄹ, ㅂ과 이어진 삼각형 ㄹㅂㅇ은 초록색으로 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50,
+                            342,
+                            90,
+                            366
+                        ]
+                    ],
+                    "text_description": "$310$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10,
+                            385,
+                            862,
+                            530
+                        ]
+                    ],
+                    "text_description": "(원 안에 있는 정육각형의 넓이) $=\\left(\\right. $ 삼각형 ㄹㅇㅂ의 넓이) $\\times 6=45 \\times 6=270\\left(\\mathrm{~cm}^{2}\\right)$ (원 밖에 있는 정육각형의 넓이)=(삼각형 ㄱㅇㄷ의 넓이) $\\times 6=60 \\times 6=360\\left(\\mathrm{~cm}^{2}\\right)$ 원의 넓이는 원 안에 있는 정육각형의 넓이보다 넓고, 원 밖에 있는 정육각형의 넓이보다 좁으므로 $270 \\mathrm{~cm}^{2}$보다 넓고, $360 \\mathrm{~cm}^{2}$보다 좁습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c2e3c2b2-7214-4423-a07d-511f44b65b03",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004518",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-08] 분모가 다른 분수의 덧셈과 뺄셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.25,
+                            42.91,
+                            439.5,
+                            157.66
+                        ]
+                    ],
+                    "text_description": "수지가 집에서 출발하여 문구점을 거쳐 학교까지 가는 거리는 $3 \\frac{5}{9} \\mathrm{~km}$ 입니다. 문구점에서 학교까지의 거리는 몇 km 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.75,
+                            157.38,
+                            436.25,
+                            322.38
+                        ]
+                    ],
+                    "text_description": "집에서 문구점을 거쳐 학교까지는 $3 \\frac{5}{9} \\mathrm{~km}$이고 문구점에서 학교까지거리 거리를 나타낸 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            306.25,
+                            322.38,
+                            390,
+                            369.88
+                        ]
+                    ],
+                    "text_description": "$1 \\frac{29}{36} \\mathrm{~km}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.75,
+                            1.13,
+                            440,
+                            44.88
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{5}{9}-1 \\frac{3}{4}=3 \\frac{20}{36}-1 \\frac{27}{36}=2 \\frac{56}{36}-1 \\frac{27}{36}=1 \\frac{29}{36}(\\mathrm{~km})$"
+                }
+            ]
+        }
+    ]
+}

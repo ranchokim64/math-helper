@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0baf5f01-082f-4098-9d53-23b764017cab",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007475",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.94,
+                            5.01,
+                            843.05,
+                            60.86
+                        ]
+                    ],
+                    "text_description": "다음 그림과 같이 $40{ }^{\\circ}$ 간격으로 반지름을 그린 원 위에 삼각형을 그렸습니다. 이 삼각형의 이름으로 알맞은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.28,
+                            316.77,
+                            731.28,
+                            379.77
+                        ]
+                    ],
+                    "text_description": "각의 크기에 따라 분류하면 (이등변삼각형, 정삼각형, 예각삼각형, 둔각삼각형)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.28,
+                            66.77,
+                            559.28,
+                            307.77
+                        ]
+                    ],
+                    "text_description": "원이 있고 원 내부에 $40^{\\circ}$ 간격으로 반지름을 점선으로 그렸다. 원 중심을 기준으로 삼각형이 내접되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.059999999999999,
+                            586.64,
+                            650.81,
+                            612.88
+                        ]
+                    ],
+                    "text_description": "$\\rightarrow$ 세 각이 $30^{\\circ}, 30^{\\circ}, 120^{\\circ}$로 모두 둔각이므로 둔각삼각형입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.0,
+                            390.0,
+                            232.0,
+                            576.0
+                        ]
+                    ],
+                    "text_description": "원이 있고 원 내부에 $40^{\\circ}$ 간격으로 반지름을 점선으로 그렸다. 원 중심을 기준으로 삼각형이 내접되어있다. 삼각형의 세 각은 각각 30도, 30도,120도로 표기되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.0,
+                            628.0,
+                            113.0,
+                            657.0
+                        ]
+                    ],
+                    "text_description": "둔각삼각형"
+                }
+            ]
+        }
+    ]
+}

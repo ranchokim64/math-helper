@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1b252a64-cd21-456e-9f7d-b98401ac1d4a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009844",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.25,
+                            1.95,
+                            499,
+                            25.95
+                        ]
+                    ],
+                    "text_description": "주어진 곱셈식의 계산 결과를 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.75,
+                            96.88,
+                            405.25,
+                            144.13
+                        ]
+                    ],
+                    "text_description": "$0. 26 \\times 0. 34=\\frac{26}{100} \\times \\frac{34}{100}=\\frac{884}{10000}=0. 0884$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.25,
+                            72.13,
+                            88.0,
+                            92.38
+                        ]
+                    ],
+                    "text_description": "$0. 0884$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133.0,
+                            43.0,
+                            591.0,
+                            60.0
+                        ]
+                    ],
+                    "text_description": "$0. 26 \\times 0. 34$ 0.884 0.0884"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "93a85954-402f-4e65-9ffc-748c25d46b65",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002882",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.86,
+                            14.02,
+                            640.06,
+                            142.82
+                        ]
+                    ],
+                    "text_description": "예지는 이번 달 용돈의 $\\frac{5}{8}$를 저금하고, 저금하고 남은 용돈의 $\\frac{4}{9}$로 동생의 생일 선물을 샀습니다. 예지가 동생의 생일 선물을 사는데 쓴 돈은 이번 달 용돈의 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            651.26,
+                            18.51,
+                            760.86,
+                            228.11
+                        ]
+                    ],
+                    "text_description": "선물을 들고있는 예지 67이미지."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111.86,
+                            413.71,
+                            145.66,
+                            471.31
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{6}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            251,
+                            729.5,
+                            302.5
+                        ]
+                    ],
+                    "text_description": "예지가 저금하고 남은 용돈은 전체의 $\\frac{3}{8}$ 이므로 동생의 생일 선물을 사는 데 쓴 돈은"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.75,
+                            303.5,
+                            360.5,
+                            383.75
+                        ]
+                    ],
+                    "text_description": "이번 달 용돈의 $\\frac{{3}}{8} \\times \\frac{{4}}{9}=\\frac{1}{6}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

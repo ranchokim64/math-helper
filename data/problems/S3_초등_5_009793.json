@@ -1,0 +1,132 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "38077329-4d92-455b-9991-d37c118d3cc1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009793",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.9,
+                            0.95,
+                            682.1,
+                            55.74
+                        ]
+                    ],
+                    "text_description": "$172 \\times 53$은 9116 입니다. $1. 72 \\times 5. 3$의 값을 어림하여 결괏값의 소수점의 알맞은 위치를 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            274.0,
+                            79.0,
+                            425.0,
+                            100.0
+                        ]
+                    ],
+                    "text_description": "$1. 72 \\times 5. 3=9116$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.68,
+                            260.46,
+                            462.96,
+                            283.94
+                        ]
+                    ],
+                    "text_description": "$1. 72 \\times 5. 3$을 1. 7의 5 배로 어림하면 8. 5보다 큰 값입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289.99,
+                            124.28,
+                            408.96,
+                            146.98
+                        ]
+                    ],
+                    "text_description": "㉠ 9와 1 사이"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            293.13,
+                            155.59,
+                            409.74,
+                            180.63
+                        ]
+                    ],
+                    "text_description": "㉡ 1과 1 사이"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            290.78,
+                            187.68,
+                            409.74,
+                            213.5
+                        ]
+                    ],
+                    "text_description": "㉢ 1과 6 사이"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "688bac9b-ae75-44be-8231-93c9019fba19",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010586",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            1.91,
+                            387.5,
+                            29.91
+                        ]
+                    ],
+                    "text_description": "바르게 계산한 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            503.0,
+                            45.0,
+                            685.0,
+                            77.0
+                        ]
+                    ],
+                    "text_description": "$70 \\div 5+42-7=49$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            138.5,
+                            443.5,
+                            191.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}\\text { } 14+28-16 \\div 2=14+28-8=42-8=34 \\\\ 70 \\div 5+42-7=14+42-7=56-7=49\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            129.0,
+                            47.0,
+                            336.0,
+                            77.0
+                        ]
+                    ],
+                    "text_description": "$14+28-16 \\div 2=13$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f9ad840a-8b8d-46c2-93da-3a78d0841d0c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011080",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            4.92,
+                            868,
+                            65.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 옆에서 본 모양을 바르게 그린 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 4,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            373,
+                            73.92,
+                            515,
+                            256.92
+                        ]
+                    ],
+                    "text_description": "위에서 본 모습입니다. 2X2형태의 표이고 1열 1행은 1, 2행은 2 2열 1행은 1, 2행은 3 이고 위, 옆, 앞에서 본다는 표시가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            160,
+                            277.5,
+                            304,
+                            469.5
+                        ]
+                    ],
+                    "text_description": "옆에서 본 모습입니다. $4 \\times 4$ 형태의 모눈종이가 있으며 $2$열 $2$행, $3$열 $2$행, $4$열 $2, 3$행에 쌓기나무가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            374,
+                            279.5,
+                            518,
+                            467.5
+                        ]
+                    ],
+                    "text_description": "옆에서 본 모습입니다. $4 \\times 4$ 형태의 모눈종이가 있으며 $2$열 $2$행, $3$열 $2$, $3$행, $4$열 $2$, $3$행에 쌓기나무가 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            588,
+                            279.5,
+                            731,
+                            467.5
+                        ]
+                    ],
+                    "text_description": "옆에서 본 모습입니다. $4 \\times 4$ 형태의 모눈종이가 있으며 $2$ 열 $3$ 행, $3$ 열 $2$, $3$행, $4$ 열 $2$, $3$행에 쌓기나무가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            497.5,
+                            169,
+                            651.5
+                        ]
+                    ],
+                    "text_description": "옆에서 본 모습입니다. $4 \\times 4$ 형태의 모눈종이가 있으며 $2$열 $2$행, $3$열 $2$, $3$행, $4$열 $2$, $3$행에 쌓기나무가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            659.5,
+                            647,
+                            686.5
+                        ]
+                    ],
+                    "text_description": "각 방향에서 각 줄의 가장 높은 숫자의 층만큼 그리면 됩니다."
+                }
+            ]
+        }
+    ]
+}

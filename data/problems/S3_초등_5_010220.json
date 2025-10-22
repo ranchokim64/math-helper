@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a32cc02c-36cf-4186-8dad-2e1496fe59ba",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010220",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.32,
+                            7.23,
+                            666.38,
+                            52
+                        ]
+                    ],
+                    "text_description": "다음 회전판에서 화살이 하늘색에 멈출 가능성을 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요 $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            279.17,
+                            55.69,
+                            413.95,
+                            190.57
+                        ]
+                    ],
+                    "text_description": "노란색으로 칠해진 육등분 된 회전판에 화살표가 1시 방향을 가리키고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181.63,
+                            193.1,
+                            510.16999999999996,
+                            344.99
+                        ]
+                    ],
+                    "text_description": "위 아래로 두 개의 수직선이 있다. 수직선에는 0, $\\frac{1}{2}$, 1 지점이 표시돼 있다. 위 수직선에는 $\\frac{1}{2}$ 지점에 아래로 향한 화살표가 표시 되었다. 아래 수직선에는 0 지점에 아래로 향한 화살표가 표시되었다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.33,
+                            354.36,
+                            371.61,
+                            426.78
+                        ]
+                    ],
+                    "text_description": "수직선에는 0, $\\frac{1}{2}$, 1 지점이 표시돼 있고, 0 지점에 아래로 향한 화살표가 표시되었다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.21,
+                            430.47,
+                            666.17,
+                            477.6
+                        ]
+                    ],
+                    "text_description": "주어진 회전판에 하늘색으로 칠해진 칸은 없으므로 화살이 하늘색에 멈출 가능성은 '불가능하다'이고, 수로 표현하면 0 입니다."
+                }
+            ]
+        }
+    ]
+}

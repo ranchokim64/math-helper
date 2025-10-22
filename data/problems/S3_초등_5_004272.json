@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cc4471bb-124b-44d5-add0-d7240c8167c7",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004272",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.28,
+                            14.72,
+                            386.8,
+                            42.88
+                        ]
+                    ],
+                    "text_description": "채소의 가격표를 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.12,
+                            292.48,
+                            496.24,
+                            383.36
+                        ]
+                    ],
+                    "text_description": "슬기는 오이 3개와 콩나물 200g을 샀습니다. 슬기가 쓴 돈은 얼마인지 구하는 식을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.64,
+                            51.84,
+                            493.04,
+                            277.12
+                        ]
+                    ],
+                    "text_description": "채소와 가격(원)으로 나타낸 표."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            166.8,
+                            411,
+                            392.8,
+                            502
+                        ]
+                    ],
+                    "text_description": "㉠ $2000 \\times 3+500 \\times 2$ ㉡ $2000 \\div 5+500 \\times 2$ ㉢ $2000 \\div 5 \\times 3+500 \\times 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            368.8,
+                            533.8,
+                            400.8,
+                            555.8
+                        ]
+                    ],
+                    "text_description": "㉢ $2000 \\div 5 \\times 3+500 \\times 2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.24,
+                            552.96,
+                            494.64,
+                            657.2
+                        ]
+                    ],
+                    "text_description": "오이 3개의 값을 구하는 식은 (오이 5개의 값) $\\div 5 \\times 3=2000 \\div 5 \\times 3$ 이고 콩나물 200g의 값을 구하는 식은 (콩나물 100g의 값) $\\times 2=500 \\times 2$ 이므로 슬 기가 쓴 돈은 얼마인지 구하는 식은 ㉢ $2000 \\div 5 \\times 3+500 \\times 2$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "be8951aa-4321-48bf-b1b2-578e746abbc1",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004426",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.54,
+                            77.34,
+                            296.16,
+                            101.91
+                        ]
+                    ],
+                    "text_description": "사다리꼴의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            142.56,
+                            112.66,
+                            356.06,
+                            240.15
+                        ]
+                    ],
+                    "text_description": "이 이미지는 한 쪽이 8cm이고 다른 쪽이 6cm인 직사각형과 삼각형이 결합된 도형을 보여줍니다. 도형의 왼쪽 변은 8cm, 아래쪽 변은 6cm로 표시되어 있으며, 각도가 직각임을 나타내는 심볼도 포함되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            307.94,
+                            253.77,
+                            371.94,
+                            278.86
+                        ]
+                    ],
+                    "text_description": "$56 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.95,
+                            8.52,
+                            433.89,
+                            68.42
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 사다리꼴의 넓이) }) & =\\{(\\text { 웻변의 길이 })+(\\text { (아랫변의 길이 })\\} \\times(\\text { 높이 }) \\div 2 \\\\ & =(8+6) \\times 8 \\div 2=14 \\times 8 \\div 2 \\\\ & =112 \\div 2=56\\left(\\mathrm{~cm}^{2}\\right)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

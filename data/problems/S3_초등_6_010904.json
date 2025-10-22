@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3d6d96fa-90d7-4d72-b522-0a1e307dc898",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010904",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            4.92,
+                            528,
+                            33.92
+                        ]
+                    ],
+                    "text_description": "계산이 잘못된 것을 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            396,
+                            167.5,
+                            494,
+                            196.5
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216,
+                            37.92,
+                            675,
+                            164.92
+                        ]
+                    ],
+                    "text_description": "㉠ $6 \\div 0. 15=\\frac{600}{100} \\div \\frac{15}{100}=600 \\div 15=40$ ㉡ $50 \\div 0. 25=\\frac{50}{100} \\div \\frac{25}{100}=50 \\div 25=2$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            210.5,
+                            79,
+                            237.5
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            252.5,
+                            495,
+                            308.5
+                        ]
+                    ],
+                    "text_description": "㉡ $50 \\div 0. 25=\\frac{5000}{100} \\div \\frac{25}{100}=5000 \\div 25=200$"
+                }
+            ]
+        }
+    ]
+}

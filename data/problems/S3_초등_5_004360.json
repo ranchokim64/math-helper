@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c9c25142-d7fc-48e9-9f1b-819ff50e7cbb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004360",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-06] 분수를 약분, 통분할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-06] 크기가 같은 분수를 만드는 방법을 이해하고, 분수를 약분, 통분할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.32,
+                            9.69,
+                            299.72,
+                            32.89
+                        ]
+                    ],
+                    "text_description": "다음 중 기약분수를 모두 찾아 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89.32,
+                            48.52,
+                            311.72,
+                            90.12
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lllll}\\frac{2}{3} & \\frac{5}{15} & \\frac{6}{8} & \\frac{12}{33} & \\frac{2}{7}\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            256.52,
+                            96.52,
+                            310.12,
+                            137.32
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3}, \\frac{2}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.52,
+                            134.12,
+                            359.72,
+                            203.72
+                        ]
+                    ],
+                    "text_description": "분모와 분자의 공약수가 I뿐인 분수를 기약분수라고 합니다. $\\frac{5}{15}=\\frac{1}{3} \\cdot \\frac{6}{8}=\\frac{3}{4} \\cdot \\frac{12}{33}=\\frac{4}{11}$ 이므로 기약분수는 $\\frac{2}{3} \\cdot \\frac{2}{7}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

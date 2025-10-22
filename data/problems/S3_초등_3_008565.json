@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "36e3959a-5e05-4ff6-bfaa-33d819018ac6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008565",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66,
+                            3.92,
+                            664,
+                            34.92
+                        ]
+                    ],
+                    "text_description": "계산 결과가 2000보다 큰 곱셈식을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            267.06,
+                            41.26,
+                            693.55,
+                            207.17
+                        ]
+                    ],
+                    "text_description": "$19 \\times 90 \\quad 20 \\times70 \\quad 40 \\times 60 \\quad 36 \\times 60$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.62,
+                            217.35,
+                            316.36,
+                            364.42
+                        ]
+                    ],
+                    "text_description": "\\[\n\\begin{array}{l}\n 19 \\times 90=1710 \\text { (<) } 2000 \\\\\n20 \\times 70=1400 (<) 2000 \\\\\n40 \\times 50=2000 (=) 2000 \\\\\n36 \\times 60=2160 (>) 2000\n\\end{array}\n\\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.17,
+                            401.22,
+                            79.39,
+                            419.24
+                        ]
+                    ],
+                    "text_description": "$36 \\times 60$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2f5d8b49-243f-4592-94c9-7ad1875f2d5c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012307",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            7.41,
+                            594.5,
+                            97.41
+                        ]
+                    ],
+                    "text_description": "모양의 배열을 보고 다섯째에 올 모양에서 모형의 개수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            115.41,
+                            552.5,
+                            274.41
+                        ]
+                    ],
+                    "text_description": "첫째 둘째 셋째 넷째"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            445.5,
+                            296,
+                            499.5,
+                            325
+                        ]
+                    ],
+                    "text_description": "13개"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.5,
+                            273,
+                            505.5,
+                            299
+                        ]
+                    ],
+                    "text_description": "모형이 1 개에서 시작하여 3개씩 늘어나는 규칙입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            300,
+                            297.5,
+                            325
+                        ]
+                    ],
+                    "text_description": "따라서 다섯째에 올 모양에서"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.5,
+                            327,
+                            361.5,
+                            354
+                        ]
+                    ],
+                    "text_description": "모형의 개수는 $10+3=13$ (개)입니다."
+                }
+            ]
+        }
+    ]
+}

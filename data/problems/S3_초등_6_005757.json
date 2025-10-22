@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5e8081e1-137f-4a7f-b0d8-d1379f55841e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005757",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-04] 자료를 수집, 분류, 정리하여 목적에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-03] 탐구 문제를 설정하고, 그에 맞는 자료를 수집, 정리하여 적절한 그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            4.9,
+                            451.5,
+                            77.9
+                        ]
+                    ],
+                    "text_description": "매화 마을과 장미 마을의 학생들이 좋아하는 과목을 조사하여 나타낸 띠그래프입니다. 과학을 좋아하는 학생은 어느 마을이 몇 명 더 많은지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            83.9,
+                            402.5,
+                            247.9
+                        ]
+                    ],
+                    "text_description": "좋아하는 과목별 학생 수를 조사하여 나타낸 띠그래프입니다. 매화 마을은 전체 100% 중에 체육(45%), 과학(20%), 국어(10%), 수학(25%)로 차지하고, 장미 마을은 전체 100% 중에 체육(40%), 과학(30%), 국어(20%), 수학(10%)로 차지하는 비율을 보여줍니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.5,
+                            357.9,
+                            266.5,
+                            379.9
+                        ]
+                    ],
+                    "text_description": "장미 마을, 1명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.5,
+                            256.9,
+                            435.5,
+                            332.9
+                        ]
+                    ],
+                    "text_description": "매화 마을의 과학을 종이하는 학생은 $40 \\times \\frac{20}{100}=8$(명)이고, 장미 마을의 과학을 좋아하는 학생은 $30 \\times \\frac{30}{100}=9$(명)입니다. 따라서 장미 마을이 $9-8=1$(명) 더 많습니다."
+                }
+            ]
+        }
+    ]
+}

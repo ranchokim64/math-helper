@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3c26e19b-c546-49c5-a694-91c870d2275f",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017916",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.33,
+                            9.55,
+                            316.56,
+                            73.55
+                        ]
+                    ],
+                    "text_description": "다음의 계산 결과를 구하시오. \\[ 0. 96 \\div 4 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.82,
+                            137.03,
+                            98.96,
+                            160.59
+                        ]
+                    ],
+                    "text_description": "② 0. 24"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.82,
+                            100.17,
+                            99.48,
+                            123.72
+                        ]
+                    ],
+                    "text_description": "① 0. 23"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.33,
+                            174.74,
+                            100.5,
+                            274.58
+                        ]
+                    ],
+                    "text_description": "③ 0. 25 ④ 0. 26 ⑤ 0. 27"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.53,
+                            306.3,
+                            443.54,
+                            437.91
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{c}0. 96 \\div 4=\\frac{96}{100} \\div 4=\\frac{96}{100} \\times \\frac{1}{4}=\\frac{96}{400} \\\\ \\frac{96}{400}=0. 24\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

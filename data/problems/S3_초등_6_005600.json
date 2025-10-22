@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b4f35e08-38cb-4c67-99f1-663724828beb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005600",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.42,
+                            8.7,
+                            433.86,
+                            66.55
+                        ]
+                    ],
+                    "text_description": "삼각기둥의 전개도에서 선분 ㄴㅇ의 길이는 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.29,
+                            81.4,
+                            424.14,
+                            286.71
+                        ]
+                    ],
+                    "text_description": "윗변인 삼각형에서 ㄱㄴ의 길이가 6cm이고, ㄴㅊ의 길이가 8cm이고, ㄱㅊ의 길이가 10cm인 삼각기둥이 있다. 이 삼각기둥의 높이는 15cm이다. $\\rightarrow$이 삼각기둥의 전개도가 있고, 모든 꼭짓점이 ㄱ~ㅊ까지의 자음으로 표기되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            292.55,
+                            313.12,
+                            355.02,
+                            336.16
+                        ]
+                    ],
+                    "text_description": "24cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.36,
+                            345.38,
+                            359.62,
+                            410.4
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned}(\\text { 선분 ㄴㅇ)} & =(\\text { 선분 ㄴㅊ })+(\\text { 선분 ㅊㅈ })+(\\text { 선분 ㅈㅇ }) \\\\ & =(\\text { 선분 ㄴㅊ) })+(\\text { 선분 ㅊㄱ })+(\\text { 선분 ㄱㄴ }) \\\\ & =8+10+6=24(cm)\\end{aligned}$"
+                }
+            ]
+        }
+    ]
+}

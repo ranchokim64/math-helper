@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d1d0f94d-e264-4592-8831-4f333c45c6f3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011989",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.6,
+                            3.74,
+                            480.2,
+                            154.94
+                        ]
+                    ],
+                    "text_description": "색종이를 진성이는 25장씩 7묶음 가지고 있고, 사랑이는 32장씩 6묶음 가지고 있습니다. 누가 색종이를 더 많이 가지고 있을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            364.2,
+                            176.34,
+                            405.8,
+                            203.54
+                        ]
+                    ],
+                    "text_description": "사랑"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.2,
+                            212.8,
+                            481.8,
+                            302.4
+                        ]
+                    ],
+                    "text_description": "(진성이가 가지고 있는 색종이 수)=25×7=175(장) (사랑이가 가지고 있는 색종이 수) $=32 \\times 6=192$ (장) 따라서 $192>175$ 이므로 사랑이가 색종이를 더 많이 가지고 있 습니다."
+                }
+            ]
+        }
+    ]
+}

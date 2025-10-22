@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8f4b1329-3672-4c90-a90e-596fe37228d5",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011072",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.6,
+                            3.29,
+                            862.52,
+                            65.77
+                        ]
+                    ],
+                    "text_description": "쌓기나무 9개로 쌓은 모양을 위와 앞에서 본 모양입니다. 옆에서 본 모양을 바르게 그린 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            227.29,
+                            79.56,
+                            427.65,
+                            198.9
+                        ]
+                    ],
+                    "text_description": "위에서 본 모눈종이 3x3 배열이 있다. 왼쪽 모눈종이는 두 번째 줄 모든 칸에 나무가 있고 세 번째 줄 첫 번째 칸에 나무가 있다. 오른쪽 모눈종이는 앞에서 본 것이며 첫 번째 줄 첫 번째 칸, 2번째 줄 첫 번째, 두 번째 칸, 세 번째 줄에는 모든 칸에 나무가 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            466.92,
+                            78.62,
+                            670.92,
+                            201.02
+                        ]
+                    ],
+                    "text_description": "옆에서 본 모눈종이 3x3 배열이 두 개가 있다. 왼쪽 모눈종이는 첫 번째 줄 첫 번째 칸, 두 번째 줄 첫 번째, 두 번째 칸, 세 번째 줄 첫 번째 칸, 두 번째 칸에 나무가 있다. 오른쪽 모눈종이도 옆에서 본 것이며 첫 번째 줄, 두 번째 줄, 세 번째 줄 모두 첫 번째 칸, 두 번째 칸에 나무가 있는 것을 그렸다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.47,
+                            213.68,
+                            127.61000000000001,
+                            320.22
+                        ]
+                    ],
+                    "text_description": "모눈종이가 3x3 배열로 있고 옆에서 본 것이며 첫 번째 줄, 두 번째 줄, 세 번째 줄 모두 첫 번째 칸, 두 번째 칸에 나무가 있는 것을 그렸다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.69,
+                            436.68,
+                            866.7,
+                            495.85
+                        ]
+                    ],
+                    "text_description": "앞에서 본 모양을 보면 $\\bigcirc$ 부분은 쌓기나무가 2개, $☆$ 부분은 쌓기나무가 1개, $\\triangle$ 부분은 쌓기나무가 3개입니다. 쌓기나무 9개로 쌓은 후 옆에서 본 모양을 보고 그립니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.89,
+                            328.31,
+                            128,
+                            433.59
+                        ]
+                    ],
+                    "text_description": "위에서 본 모눈종이 3x3 배열이 있다. 왼쪽 모눈종이는 두 번째 줄 모든 칸, 세 번째 줄 첫 번째 칸에 나무가 있다는 것을 그렸고 두 번째 줄에는 $\\triangle$, $\\bigcirc$, $☆$ 순으로 그려져 있고 세 번째 줄에 칸에는 $\\triangle$가 그려져 있다."
+                }
+            ]
+        }
+    ]
+}

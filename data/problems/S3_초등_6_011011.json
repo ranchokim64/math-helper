@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b8d906e4-a0c6-4c81-8531-eaf7da92242f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011011",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.8,
+                            9.84,
+                            856.2,
+                            69.84
+                        ]
+                    ],
+                    "text_description": "쌓기나무 10개로 쌓은 모양을 위, 앞, 옆에서 본 모양입니다. 쌓은 모양으로 가능한 모양을 모두 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167.4,
+                            76.24,
+                            715.4,
+                            254.64
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 쌓은 모양을 위, 앞, 옆에서 본 모양을 그려 놓은 이미지 입니다. 위와 앞은 2x3 블록에, 옆은 3x3 블록에 표기되어 있습니다. 위 : 2x3 블록에 모든 칸이 채워져 있습니다. 앞 : 2x3 블록에 오른쪽 맨 위 칸만 비어있습니다. 옆 : 3x3 블록에 1행 우측 1칸, 2행 우측부터 2칸, 3행 3칸이 채워져 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            212.2,
+                            255.3,
+                            671.4,
+                            395.9
+                        ]
+                    ],
+                    "text_description": "쌓기나무 10개로 쌓은 모양이 3종류가 있습니다. 세 쌓기나무 모두 1층은 6개, 2층은 3개, 3층은 1개로 쌓여있으나, 모두 형태가 다릅니다. 앞이라고 표기되어 있는 곳이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            403.9,
+                            251.4,
+                            519.1
+                        ]
+                    ],
+                    "text_description": "쌓기나무 10개로 쌓은 모양이 2종류가 있습니다. 두 쌓기나무 모두 1층은 6개, 2층은 3개, 3층은 1개로 쌓여있으나, 모두 형태가 다릅니다. 앞이라고 표기되어 있는 곳이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.2,
+                            525.9,
+                            494.6,
+                            607.9
+                        ]
+                    ],
+                    "text_description": "첫째 모양은 옆에서 본 모양이 () 입니다."
+                }
+            ]
+        }
+    ]
+}

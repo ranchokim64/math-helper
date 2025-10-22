@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "313cbf8d-47e3-4caf-90fb-f2aae33cd0c0",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009309",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.1,
+                            5.11,
+                            540.5,
+                            29.11
+                        ]
+                    ],
+                    "text_description": "분수의 크기를 잘못 비교한 것을 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            259.7,
+                            59.71,
+                            533.7,
+                            108.11
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{9}{11}>\\frac{3}{11}$ ㉡ $\\frac{6}{12}<\\frac{4}{12}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.9,
+                            207.4,
+                            462.1,
+                            249.6
+                        ]
+                    ],
+                    "text_description": "㉡ 분자들 비교하면 $6>4$ 이므로 $\\frac{6}{12}>\\frac{4}{12}$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            72.7,
+                            145.11,
+                            146.1,
+                            186.71
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{12}<\\frac{4}{12}$"
+                }
+            ]
+        }
+    ]
+}

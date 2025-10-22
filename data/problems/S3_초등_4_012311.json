@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "182b3a73-c1ed-4b0f-81de-96bce134f31d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012311",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.5,
+                            6.42,
+                            465.5,
+                            42.42
+                        ]
+                    ],
+                    "text_description": "수 배열표를 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            408.42,
+                            543.5,
+                            492.42
+                        ]
+                    ],
+                    "text_description": "수 배열표에서 $\\star$에 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.5,
+                            64,
+                            409.5,
+                            394
+                        ]
+                    ],
+                    "text_description": "\\begin{tabular}{|c|c|c|c|c|c|} \\hline$\\times$ & 203 & 204 & 205 & 206 & 207 \\\\ \\hline 21 & 3 & 4 & 5 & 6 & 7 \\\\ \\hline 22 & 6 & 8 & 0 & 2 & 4 \\\\ \\hline 23 & 9 & 2 & 5 & $\\star$ & 1 \\\\ \\hline 24 & 2 & 6 & 0 & 4 & 8 \\\\ \\hline 25 & 5 & 0 & 5 & 0 & 5 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            411.5,
+                            520,
+                            439.5,
+                            553
+                        ]
+                    ],
+                    "text_description": "$8$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.5,
+                            563,
+                            544.5,
+                            618
+                        ]
+                    ],
+                    "text_description": "$206 \\times 23=4738$에서 일의 자리 숫자는 8이므로 $\\star$에 알맞은 숫자는 8입니다."
+                }
+            ]
+        }
+    ]
+}

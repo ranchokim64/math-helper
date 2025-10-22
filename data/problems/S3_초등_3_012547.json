@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2f7778c9-2ff7-4f0c-883c-bd9cb7dc95aa",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012547",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.72,
+                            11.89,
+                            486.72,
+                            78.89
+                        ]
+                    ],
+                    "text_description": "나머지가 가장 큰 것을 찾아 기호를 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            148.72,
+                            96.89,
+                            399.72,
+                            223.89
+                        ]
+                    ],
+                    "text_description": "㉠ $438 \\div 6$ ㉡ $447 \\div 5$ ㉢ $413 \\div 4$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            377.72,
+                            242.5,
+                            401.72,
+                            268.5
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            81.72,
+                            273.5,
+                            346.72,
+                            322.5
+                        ]
+                    ],
+                    "text_description": "㉠ $438 \\div 6=73$ ㉡ $447 \\div 5=89 \\cdots 2$ ㉢ $413 \\div 4=103 \\cdots1$"
+                }
+            ]
+        }
+    ]
+}

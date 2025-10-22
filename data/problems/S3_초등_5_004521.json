@@ -1,0 +1,126 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b279f1ee-1826-4d02-a5f1-54949073c9c8",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004521",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.5,
+                            10.03,
+                            388.3,
+                            33.23
+                        ]
+                    ],
+                    "text_description": "다음 조건을 만족하는 수를 모두 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            174.74,
+                            58.63,
+                            311.45,
+                            107.27
+                        ]
+                    ],
+                    "text_description": "- 9의 배수인 수 - 270의 약수인 수"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            109.1,
+                            136.9,
+                            377.9,
+                            160.1
+                        ]
+                    ],
+                    "text_description": "9, 18, 27, 45, 54, 90, 135, 270"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            154.78,
+                            171.27,
+                            432.28,
+                            190.72
+                        ]
+                    ],
+                    "text_description": "이므로 30의 약수를 구한 후, 9를 곱하면 9의 배"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.3,
+                            190.72,
+                            435.35,
+                            267.52
+                        ]
+                    ],
+                    "text_description": "수이면서 270의 약수인 수들을 구할 수 있습니다. $30=1 \\times 30=2 \\times 15=3 \\times 10=5 \\times 6$ 이므로 30의 약수는 1, 2, 3, 5, 6, 10, 15, 30입니다. 따라서 9의 배수이면서 270의 약수인 수는 9, 18, 27, 45, 54, 90, 135, 270입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.78,
+                            171.27,
+                            154.26,
+                            189.19
+                        ]
+                    ],
+                    "text_description": "$270=9 \\times 30$"
+                }
+            ]
+        }
+    ]
+}

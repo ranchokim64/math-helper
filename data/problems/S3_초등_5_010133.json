@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c32be6a8-c9e5-4ef3-a8d3-469b97f28f47",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010133",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21.9,
+                            6.03,
+                            661.1,
+                            54.03
+                        ]
+                    ],
+                    "text_description": "친구들이 말한 일이 일어날 가능성을 비교하려고 합니다. 일이 일어날 가능성이 가장 낮은 친구의 이름을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            60.43,
+                            657.9,
+                            246.03
+                        ]
+                    ],
+                    "text_description": "태윤: 오늘은 수요일이니까 내일은 금요일이야 $. $ 선미: 올해 $5$ 학년이면 내년 $3$ 욀에는 $6$ 학년이 될 거야 $. $ 민성: 내일 날씨는 덥다던데, 친구들은 긴팔보다 반팔을 입고 오겠지 $?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.5,
+                            253.7,
+                            75.5,
+                            275.3
+                        ]
+                    ],
+                    "text_description": "태윤"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.5,
+                            284.9,
+                            663.5,
+                            332.9
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성이 가장 낮은 친구는 가능성이 '불가능하다'인 친구이므로 태윤입니다."
+                }
+            ]
+        }
+    ]
+}

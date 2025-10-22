@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "658e7aa6-381c-40f6-8f21-e1b0c21a70ef",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008739",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.5,
+                            9,
+                            931.5,
+                            80
+                        ]
+                    ],
+                    "text_description": "집에서 각 장소까지의 거리를 나타낸 것입니다. 집에서 가장 가까운 곳은 어디인지 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            665.5,
+                            286,
+                            931.5,
+                            319
+                        ]
+                    ],
+                    "text_description": "(서점, 은행, 학교)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            284.2,
+                            89.45,
+                            680.14,
+                            283.43
+                        ]
+                    ],
+                    "text_description": "집에서 학교까지의 거리는 $7 \\frac{3}{10} \\mathrm{~km}$이고 집에서 서점까지의 거리는 $7 \\frac{1}{10} \\mathrm{~km}$ 이며, 집에서 은행까지는 $\\frac{69}{10} \\mathrm{~km}$ 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.5,
+                            334,
+                            108.5,
+                            364
+                        ]
+                    ],
+                    "text_description": "은행"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            385,
+                            774.5,
+                            574
+                        ]
+                    ],
+                    "text_description": "서점까지의 거리: $7 \\frac{1}{10} \\mathrm{~km}$, 은행까지의 거리: $\\frac{69}{10} \\mathrm{~km} \\rightarrow 6 \\frac{9}{10} \\mathrm{~km}$ 학교까지의 거리: $7 \\frac{3}{10} \\mathrm{~km}$ 따라서 $6 \\frac{9}{10}<7 \\frac{1}{10}<7 \\frac{3}{10}$ 이므로 집에서 가장 가까운 곳은 은행입니다."
+                }
+            ]
+        }
+    ]
+}

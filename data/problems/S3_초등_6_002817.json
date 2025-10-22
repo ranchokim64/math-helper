@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d99ca30c-131c-40c0-a420-c58aef9c0798",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002817",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 그 관계를 비로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-02] 두 양의 크기를 비교하는 상황을 통해 비의 개념을 이해하고, 두 양의 관계를 비로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.7,
+                            11.43,
+                            718.5,
+                            43.43
+                        ]
+                    ],
+                    "text_description": "세트 수에 따른 야구 방망이 수와 야구공 수를 비교하여 $\\square$ 안에 알맞은 수를 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.100000000000001,
+                            61.629999999999995,
+                            724.9,
+                            284.23
+                        ]
+                    ],
+                    "text_description": "남자 아이: 뺄셈으로 비교하면 세트 수에 따라 야구공은 야구 방망이보다 1개, 2개, $\\square$개, $\\square$개, $\\square$개 더 많아. 여자 아이: 나눗셈으로 비교하면 세트 수가 변해도 야구공 수는 항상 야구 방망이 수의 $\\square$배야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.7,
+                            381.5,
+                            682.3,
+                            580.7
+                        ]
+                    ],
+                    "text_description": "뺄셈으로 비교하면 세트 수에 따라 야구공은 야구 방망이보다 1개, 2개, 3개, 4개, 5개 더 많아. 나눗셈으로 비교하면 세트 수가 변해도 야구공 수는 항상 야구 방망이 수의 2배야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.5,
+                            299.9,
+                            671.3,
+                            372.7
+                        ]
+                    ],
+                    "text_description": "뺄셈으로 비교하면 세트 수에 따라 야구 방망이 수와 야구공 수의 관계가 변하지만. 나눗셈으로 비교하면 세트 수가 변해도 야구 방망이 수와 야구공 수의 관계가 변하지 않습니다."
+                }
+            ]
+        }
+    ]
+}

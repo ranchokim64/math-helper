@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3e65d6fb-b77e-4071-968f-3b3f552bdc00",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011131",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.61,
+                            4.39,
+                            374.61,
+                            30.39
+                        ]
+                    ],
+                    "text_description": "비례식을 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.61,
+                            36.39,
+                            842.61,
+                            115.39
+                        ]
+                    ],
+                    "text_description": "$3: 4=6: 12$, $0. 2: 0. 7=8: 28$, $49: 9=15: 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.61,
+                            124.39,
+                            139.61,
+                            141.39
+                        ]
+                    ],
+                    "text_description": "$0. 2: 0. 7=8: 28$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.61,
+                            155,
+                            859.61,
+                            214
+                        ]
+                    ],
+                    "text_description": "- $3: 4=6: 12$는 외항의 곱 $3 \\times 12=36$과 내항의 곱 $4 \\times 6=24$가 같지 않으므로 비례 식이 아닙니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.61,
+                            221,
+                            860.61,
+                            344
+                        ]
+                    ],
+                    "text_description": "- $0. 2: 0. 7=8: 28$은 외항의 곱 $0. 2 \\times 28=5. 6$과 내항의 곱 $0. 7 \\times 8=5. 6$이 같으므로 비례식입니다. - $49: 9=15: 3$은 외항의 곱 $49 \\times 3=147$과 내항의 곱 $9 \\times 15=135$가 같지 않으므로 비례식이 아닙니다."
+                }
+            ]
+        }
+    ]
+}

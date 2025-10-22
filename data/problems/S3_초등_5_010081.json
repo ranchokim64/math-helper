@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "24a8ed67-8f49-4d44-99d9-85f6a56ec510",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010081",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.63,
+                            8.72,
+                            663.63,
+                            81.22
+                        ]
+                    ],
+                    "text_description": "1부터 6까지의 눈이 그려진 주사위를 한 번 굴릴 때, 일이 일어날 가능성을 알아보려고 합니다. 주사위 눈의 수가 1 이상일 가능성을 말로 표현한 것을 찾아 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179.88,
+                            86.22,
+                            507.38,
+                            134.97
+                        ]
+                    ],
+                    "text_description": "주사위가 6개 있고 1, 2, 3, 4, 5, 6의 눈금을 보여주고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            442.38,
+                            136.22,
+                            542.38,
+                            159.97
+                        ]
+                    ],
+                    "text_description": "③ 확실하다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.63,
+                            135.75,
+                            333.63,
+                            160.75
+                        ]
+                    ],
+                    "text_description": "① 불가능하다. ② 반반이다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.88,
+                            203.25,
+                            664.88,
+                            225.75
+                        ]
+                    ],
+                    "text_description": "주사위를 굴리면 주사위 눈의 수가 항상 1, 2, 3, 4, 5, 6 중 하나로 나오므로 1 이상"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.63,
+                            227,
+                            253.63,
+                            250.75
+                        ]
+                    ],
+                    "text_description": "일 가능성은 '확실하다'입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f8d1b691-a6fb-4c64-9dd9-a2c60c60c6ed",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008855",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-07] 실생활 문제 상황을 통하여 들이의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-19] 실생활 문제 상황과 연결하여 들이의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            2.92,
+                            841,
+                            101.92
+                        ]
+                    ],
+                    "text_description": "민정이네 냉장고에 사과주스가 $3L 50mL, $오렌지주스가 $3500mL, $포도주스가 $5L $와 $30mL $있습니다$. $사과주스$, $오렌지주스$, $포도주스 중 가장 적은 것은 어느 것인가요$?$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            444,
+                            109.92,
+                            842,
+                            142.92
+                        ]
+                    ],
+                    "text_description": "(사과주스, 오렌지주스, 포도주스)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            156.6,
+                            152.4,
+                            184.4
+                        ]
+                    ],
+                    "text_description": "사과주스"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.82,
+                            202.42,
+                            705.82,
+                            227.22
+                        ]
+                    ],
+                    "text_description": "$3500 \\mathrm{~mL}=3000 \\mathrm{~mL}+500 \\mathrm{~mL}=3 \\mathrm{~L}+500 \\mathrm{~mL}=3 \\mathrm{~L} 500 \\mathrm{~mL}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.0,
+                            238.0,
+                            830.0,
+                            301.0
+                        ]
+                    ],
+                    "text_description": "5L 와 30mL =5L 30mL $5L 30mL>3L 500mL>3L 50mL$이므로 가장 적은 것은 사과주스 입니다."
+                }
+            ]
+        }
+    ]
+}

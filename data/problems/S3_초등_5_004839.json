@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "02c12ce1-d88b-4763-8f6e-45ef78abcde4",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004839",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-01] 평균의 의미를 알고, 주어진 자료의 평균을 구할 수 있으며, 이를 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-01] 평균의 의미를 알고, 자료를 수집하여 평균을 구하고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.65,
+                            11.07,
+                            417.78,
+                            110.4
+                        ]
+                    ],
+                    "text_description": "희진이네 학교 학년별 학생 수를 나타낸 표입니다. 평균 학생 수가 138 명일 때 6학년 학생 수는 몇 명인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.09,
+                            118.59,
+                            418.81,
+                            271.17
+                        ]
+                    ],
+                    "text_description": "희진이네 학교 학년별 학생 수를 나타낸 표이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283.64,
+                            284.8,
+                            342.01,
+                            313.47
+                        ]
+                    ],
+                    "text_description": "137명"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            27.65,
+                            320.51
+                        ],
+                        [
+                            346.62,
+                            321.02
+                        ],
+                        [
+                            346.11,
+                            347.65
+                        ],
+                        [
+                            128,
+                            345.6
+                        ],
+                        [
+                            126.98,
+                            365.57
+                        ],
+                        [
+                            27.14,
+                            366.59
+                        ]
+                    ],
+                    "text_description": "(희진이네 학교 전체 학생 수) $=138 \\times 6=828$ (명) (6학년 학생 수)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.15,
+                            368.21,
+                            314.82,
+                            408.19
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}=828-(135+137+138+140+141) \\\\ =137(\\text { 명 })\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

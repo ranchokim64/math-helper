@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ce13129a-7641-420b-8c13-ab55e9e896bb",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012464",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-10] 양의 등분할을 통하여 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-09] 양의 등분할을 통하여 분수의 필요성을 인식하고, 분수를 이해하고 읽고 쓸 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.27,
+                            9.92,
+                            559.17,
+                            262.75
+                        ]
+                    ],
+                    "text_description": "4교시가 다 끝나가면 배에서 ‘꼬르륵 꼬르륵’ 소리가 납니다. 복도에서는 이미 맛있는 음식 냄새가 나고 있습니다. 우리는 학교에서 맛있는 급식을 먹습니다. 급식은 누가 만들어 줄까요? 학교에는 영양사 선생님과 조리사 분들이 계셔서 우리가 먹을 점심 식사를 준비해 주십니다. 맛있게 만들어 주는 것 뿐 만 아니라 우리의 영양을 생각해서 다양한 재료를 가지고 음식을 만들어 주십니다. 오늘 메뉴는 카레라이스입니다. 어떤 재료들이 얼마나 들어가는지 알아봅시다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.4,
+                            580.69,
+                            259.54,
+                            604.65
+                        ]
+                    ],
+                    "text_description": "밑줄 친 분수를 읽어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.880000000000003,
+                            282.67,
+                            553.13,
+                            559.03
+                        ]
+                    ],
+                    "text_description": "이미지는 급식소이며 영양사 선생님은 손가락을 들어 메뉴를 설명하고 있다. 다른 세 사람은 각각 음식을 준비하고 있는 모습이다. 대화에는 \"오늘 메뉴 중 귤은 한 개 반씩 나눠서 먹으세요. \"라는 말과 \"카레밥에는 학생 한 명이 당근 $\\frac{1}{3}$개씩 먹도록 재료를 넣었어요. \"라는 내용이 담겨 있으며 $\\frac{1}{3}$에는 밑줄이 그어져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            446.45,
+                            624.35,
+                            505.46,
+                            644.96
+                        ]
+                    ],
+                    "text_description": "3분의 1"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.71,
+                            648.61,
+                            310.47,
+                            682.32
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{3}$은 분모을 먼저 읽고 분자를 나중에 읽습니다."
+                }
+            ]
+        }
+    ]
+}

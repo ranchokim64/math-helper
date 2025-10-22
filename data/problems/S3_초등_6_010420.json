@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3b943d76-ef5a-4687-a862-f7c539f10895",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010420",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-07] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-06] 각기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68,
+                            5.92,
+                            867,
+                            39.92
+                        ]
+                    ],
+                    "text_description": "다음 전개도가 각기둥의 전개도이면 $\\bigcirc$ 표, 아니면 $\\times$ 표를 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            375,
+                            44.92,
+                            608,
+                            196.92
+                        ]
+                    ],
+                    "text_description": "직사각형에 오각형이 붙어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            225.5,
+                            48,
+                            250.5
+                        ]
+                    ],
+                    "text_description": "Ⓧ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27,
+                            199.5,
+                            50,
+                            217.5
+                        ]
+                    ],
+                    "text_description": "(O)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55,
+                            307.5,
+                            762,
+                            337.5
+                        ]
+                    ],
+                    "text_description": "전개도를 접으면 밑면이 겹쳐지므로 각기둥의 전개도가 아닙니다."
+                }
+            ]
+        }
+    ]
+}

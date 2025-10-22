@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0277f8e3-15d9-4abb-bc34-1483226c7183",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008430",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.62,
+                            1.25,
+                            925.31,
+                            121.56
+                        ]
+                    ],
+                    "text_description": "다음은 현주네 집에서 각 장소까지 걸어갔을 때 걸리는 시간을 조사하여 나타낸 막대그래프입니다. 아래 막대그래프를 보고 알 수 있는 사실을 잘못 말한 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97.19,
+                            416.88,
+                            844.06,
+                            538.75
+                        ]
+                    ],
+                    "text_description": "㉠ 현주네 집에서 가장 가까운 곳은 지하철역입니다. ㉡ 현주네 집에서 학교까지는 14분이 걸립니다. ㉢ 현주네 집에서 은행까지는 병원까지보다 16분 덜 걸립니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            253.44,
+                            127.5,
+                            695.62,
+                            409.06
+                        ]
+                    ],
+                    "text_description": "장소별 걸리는 시간의 막대그래프이다. 가로는 장소 세로는 시간(분)이다. 학교는 15, 병원은 26, 은행은 10, 지하철역은 8에 표시되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.44,
+                            562.19,
+                            612.81,
+                            598.13
+                        ]
+                    ],
+                    "text_description": "㉡ 현주네 집에서 학교까지는 14분이 걸립니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.87,
+                            615.31,
+                            806.56,
+                            643.44
+                        ]
+                    ],
+                    "text_description": "㉡ 학교의 막대의 길이는 7 칸과 8 칸 중간에 있으므로 15분이 걸립니다."
+                }
+            ]
+        }
+    ]
+}

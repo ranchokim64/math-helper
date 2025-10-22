@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "66dcc8f9-85f6-48ef-8ab3-382510ea5ba4",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017831",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.12,
+                            16.52,
+                            284.37,
+                            118.52
+                        ]
+                    ],
+                    "text_description": "계산해 보세요. \\[ \\frac{4}{2} \\div \\frac{2}{3} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.62,
+                            119.81,
+                            52.65,
+                            156.16
+                        ]
+                    ],
+                    "text_description": "① $\\frac{2}{3}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.1,
+                            157.18,
+                            54.7,
+                            308.22
+                        ]
+                    ],
+                    "text_description": "② $\\frac{3}{2}$ ③ $\\frac{1}{2}$ ④ $\\frac{3}{5}$ ⑤ $\\frac{2}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.1,
+                            323.07,
+                            356.26,
+                            367.62
+                        ]
+                    ],
+                    "text_description": "$\\frac{4}{9} \\div \\frac{2}{3}=\\frac{4}{9} \\times \\frac{3}{2}=\\frac{4 \\times 3}{9 \\times 2}=\\frac{12}{18}=\\frac{2}{3}$"
+                }
+            ]
+        }
+    ]
+}

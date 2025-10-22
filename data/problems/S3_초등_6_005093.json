@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8f6a9b77-39a1-4af6-8f2d-397dd9c52fba",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005093",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.4,
+                            12.84,
+                            630.4,
+                            139.84
+                        ]
+                    ],
+                    "text_description": "설탕 $\\frac{11}{14} \\mathrm{~kg}$과 소금 $\\frac{3}{14} \\mathrm{~kg}$이 있습니다. 설탕의 양은 소금의 양의 몇 배인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.13,
+                            223.11,
+                            96.45,
+                            287.75
+                        ]
+                    ],
+                    "text_description": "$3 \\frac{2}{3}$ 배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.65,
+                            148.62,
+                            296.13,
+                            211.98
+                        ]
+                    ],
+                    "text_description": "$\\frac{11}{14} \\div \\frac{3}{14}=\\frac{11}{3}=3 \\frac{2}{3}$ (배)"
+                }
+            ]
+        }
+    ]
+}

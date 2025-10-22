@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fde35f7b-0c36-433f-9bc7-5a7350b8012f",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004433",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-06] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-14] 평행사변형, 삼각형, 사다리꼴, 마름모의 넓이를 구하는 방법을 다양하게 추론하고, 이와 관련된 문제를 해결할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.19,
+                            6.85,
+                            440.23,
+                            111.44
+                        ]
+                    ],
+                    "text_description": "밑변의 길이가 $6cm$, 높이가 $5cm$ 인 이등변삼각형을 다음 그림과 같이 여러 개 이어 붙였더니 넓이가 $180 \\mathrm{~cm}^{2}$ 인 평행사변형이 되었습니다. 이어 붙 인 삼각형은 모두 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            130.53,
+                            121.02,
+                            368.79,
+                            212.67
+                        ]
+                    ],
+                    "text_description": "정삼각형 $3$개가 붙어 있고, 밑변은 $6cm$, 높이는 $5cm$이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324.84,
+                            231.89,
+                            362.51,
+                            252
+                        ]
+                    ],
+                    "text_description": "$12$개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            74.67,
+                            265.12,
+                            345.78,
+                            303.81
+                        ]
+                    ],
+                    "text_description": "(삼각형 $1$개의 넓이) $=6 \\times 5 \\div 2=15\\left(\\mathrm{~cm}^{2}\\right)$ (이어 붙인 삼각형의 개수) $=180 \\div 15=12$ (개)"
+                }
+            ]
+        }
+    ]
+}

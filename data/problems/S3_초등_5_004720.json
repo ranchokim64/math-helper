@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b788c939-36d9-4b33-8e84-b698a5b7fda2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004720",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            1.92,
+                            549,
+                            50.92
+                        ]
+                    ],
+                    "text_description": "점 ㅇ을 대칭의 중심으로 하는 점대칭도형입니다. 이 점대칭도형의 둘레는 몇 $cm$ 인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            240.5,
+                            194,
+                            269.5
+                        ]
+                    ],
+                    "text_description": "변 ㄱㅂ은 몇 $cm$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            62.92,
+                            132,
+                            229.92
+                        ]
+                    ],
+                    "text_description": "점 $O$를 대칭의 중심으로 하는 점대칭 도형 $A$, $B$, $C$, $D$, $E$가 있다. $AB$의 길이는 $5cm$, $AC$의 길이는 $15cm$, $A$0의 길이는 $A$1, $A$2의 길이는 $A$3이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            391,
+                            288.5,
+                            428,
+                            306.5
+                        ]
+                    ],
+                    "text_description": "$5cm$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18,
+                            273.5,
+                            227,
+                            313.5
+                        ]
+                    ],
+                    "text_description": "(선분 ㅇㄷ) $=$ (선분 ㅇㅂ) $=5 \\mathrm{~cm}$ 이므로 (변 ㄱㅂ) $=15-5-5=5(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1aa0f137-55d7-4506-9c0a-4cc6186838ca",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010781",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-07] 분모가 다른 분수의 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.56,
+                            -0.3,
+                            878.85,
+                            68.05
+                        ]
+                    ],
+                    "text_description": "33. 집에서 우체국에 가려고 합니다. 병원을 지나는 길과 우체국까지 바로 가는 길 중에서 어느 길로 가는 것이 더 가까운지 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            193.24,
+                            291.28,
+                            713.15,
+                            321.32
+                        ]
+                    ],
+                    "text_description": "(병원을 지나는 길, 우체국까지 바로 가는 길)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            243.84,
+                            70.82,
+                            663.54,
+                            291.35
+                        ]
+                    ],
+                    "text_description": "타원형에 3개의 점이 있고, 이는 집, 병원, 우체국을 지정한다. 집과 병원 사이의 길이는 $\\frac{4}{5}km$이고, 병원과 우체국 사이의 거리는 $1 \\frac{2}{5}km$이고, 집과 우체국 사이의 거리를 $2 \\frac{3}{11}km$로 표시되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.42,
+                            335.82,
+                            226.38,
+                            367.92
+                        ]
+                    ],
+                    "text_description": "병원을 지나는 길"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.99,
+                            383.67,
+                            509.29999999999995,
+                            527.42
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text { (집 병원 우체국) }=\\frac{4}{5}+1 \\frac{2}{5}=1 \\frac{6}{5}=2 \\frac{1}{5}(\\mathrm{~km}) \\\\ \\left(2 \\frac{1}{5}, 2 \\frac{3}{11}\\right) \\Rightarrow\\left(2 \\frac{11}{55}, 2 \\frac{15}{55}\\right) \\Rightarrow 2 \\frac{1}{5}<2 \\frac{3}{11} \\end{array} \\] 따라서 병원을 지나는 길이 더 가깝습니다."
+                }
+            ]
+        }
+    ]
+}

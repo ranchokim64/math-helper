@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e3039871-a8f1-429f-aa35-407086e8d946",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002912",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.7,
+                            6.94,
+                            535.5,
+                            38.94
+                        ]
+                    ],
+                    "text_description": "계산 결과를 어림하여 $\\bigcirc$ 안에 $>, =, <$를 알맞게 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            161.9,
+                            58.34,
+                            565.1,
+                            116.94
+                        ]
+                    ],
+                    "text_description": "$9. 5 \\times 1. 02$ $\\bigcirc$ $6. 2 \\times 2. 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.899999999999999,
+                            195.4,
+                            425.9,
+                            253.2
+                        ]
+                    ],
+                    "text_description": "$9. 5 \\times 1. 02$ < $6. 2 \\times 2. 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.3,
+                            121.8,
+                            777.9,
+                            183.4
+                        ]
+                    ],
+                    "text_description": "$9. 5 \\times 1. 02$를 9. 5와 1의 곱으로 어림하면 계산 결과는 9. 5정도이고 $6. 2 \\times 2. 3$을 6과 2의 곱으로 어림하면 계산 결과는 12 정도이므로 $9. 5 \\times 1. 02 \\otimes 6. 2 \\times 2. 3$입니다."
+                }
+            ]
+        }
+    ]
+}

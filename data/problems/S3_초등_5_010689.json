@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6e999031-fed9-4c3a-8cf2-6792cae19420",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010689",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            6.41,
+                            677,
+                            36.41
+                        ]
+                    ],
+                    "text_description": "두 수가 서로 약수와 배수의 관계인 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            444,
+                            87.9,
+                            547,
+                            116.9
+                        ]
+                    ],
+                    "text_description": "④ $(15, 60)$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            443,
+                            48.9,
+                            536,
+                            77.9
+                        ]
+                    ],
+                    "text_description": "② $(6, 35)$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            48.9,
+                            132,
+                            153.9
+                        ]
+                    ],
+                    "text_description": "① $(4, 25)$ ③ $(8, 49)$ ⑤ $(21, 66)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            212,
+                            215,
+                            368
+                        ]
+                    ],
+                    "text_description": "① $25 \\div 4=6 \\cdots 1$ ② $35 \\div 6=5 \\cdots 5$ ③ $49 \\div 8=6 \\cdots 1$ ④ $60 \\div 15=4$ ⑤ $66 \\div 21=3 \\cdots 3$"
+                }
+            ]
+        }
+    ]
+}

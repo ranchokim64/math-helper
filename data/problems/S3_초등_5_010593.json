@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4f5b60d5-a94e-4f96-9be8-306b3720288f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010593",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.14,
+                            5.38,
+                            598.21,
+                            31.89
+                        ]
+                    ],
+                    "text_description": "$15+10$을 가장 먼저 계산해야 하는 식을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            105.22,
+                            37.31,
+                            409.3,
+                            101.93
+                        ]
+                    ],
+                    "text_description": "$9 \\times 16-15+10 \\div 5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            429.18,
+                            38.13,
+                            732.92,
+                            102.76
+                        ]
+                    ],
+                    "text_description": "$9 \\times 16-(15+10) \\div 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.03,
+                            113.53,
+                            247.73,
+                            137.39
+                        ]
+                    ],
+                    "text_description": "$9 \\times 16-(15+10) \\div 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.43,
+                            147.67,
+                            805.34,
+                            205.5
+                        ]
+                    ],
+                    "text_description": "()가 있는 식에서는 () 안을 가장 먼저 계산하므로 오른쪽 식에서 $15+10$을 가장 먼저 계산해야 합니다."
+                }
+            ]
+        }
+    ]
+}

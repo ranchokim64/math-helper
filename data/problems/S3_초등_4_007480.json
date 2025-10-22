@@ -1,0 +1,143 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f0dd89eb-e625-469d-9a59-4818f109b50b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007480",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-08] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 이등변삼각형, 정삼각형을 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.96,
+                            3.13,
+                            543.97,
+                            28.22
+                        ]
+                    ],
+                    "text_description": "두 삼각형에서 ㉠과 ㉡의 각도의 합은 몇 도인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.26,
+                            49.11,
+                            371.94,
+                            171.06
+                        ]
+                    ],
+                    "text_description": "한 각의 크기가 $65^{\\circ}$이고 두 변의 길이가 8cm이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            415.38,
+                            53.16,
+                            557.79,
+                            173.41
+                        ]
+                    ],
+                    "text_description": "한 각의 크기가 ㉡이며 세 변의 길이가 모두 7cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            507.62,
+                            199.45,
+                            568.54,
+                            221.02
+                        ]
+                    ],
+                    "text_description": "③ $110^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.41,
+                            199.47,
+                            330.46,
+                            255.84
+                        ]
+                    ],
+                    "text_description": "① $100^{\\circ}$ ② $105^{\\circ}$ ④ $115^{\\circ}$ ⑤ $120^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.42,
+                            307.55,
+                            677.09,
+                            330.59
+                        ]
+                    ],
+                    "text_description": "첫 번째 삼각형은 이등변삼각형이므로 ㉠ $=180^{\\circ}-65^{\\circ}-65^{\\circ}=50^{\\circ}$ 입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.41,
+                            336.74,
+                            459.49,
+                            389.47
+                        ]
+                    ],
+                    "text_description": "두 번째 삼각형은 정삼각형이므로 ㉡ $=60^{\\circ}$ 입니다. 따라서 ㉠ + ㉡ $=50^{\\circ}+60^{\\circ}=110^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

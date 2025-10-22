@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8683d3fd-2dc7-4d26-9d0b-e3260f48a82e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010452",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.62,
+                            9.23,
+                            675.37,
+                            38.48
+                        ]
+                    ],
+                    "text_description": "몫을 어림하여 몫이 1보다 큰 나눗셈을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            279.12,
+                            44.23,
+                            700.37,
+                            122.98
+                        ]
+                    ],
+                    "text_description": "$3. 18 \\div 3 \\quad 5. 76 \\div 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.62,
+                            136.73,
+                            137.87,
+                            159.23
+                        ]
+                    ],
+                    "text_description": "$3. 18 \\div 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.37,
+                            180.49,
+                            535.37,
+                            207.49
+                        ]
+                    ],
+                    "text_description": "$3. 18 \\div 3 \\Rightarrow 3. 18>3$ 이므로 몫이 1보다 큽니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.62,
+                            216.24,
+                            536.62,
+                            243.74
+                        ]
+                    ],
+                    "text_description": "$5. 76 \\div 6 \\Rightarrow 5. 76<6$ 이므로 몫이 1보다 작습니다."
+                }
+            ]
+        }
+    ]
+}

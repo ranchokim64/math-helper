@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8d427cd6-1606-4374-a18d-1e933445ba27",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012282",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            11.41,
+                            794,
+                            88.41
+                        ]
+                    ],
+                    "text_description": "유정이네 반 학생들이 좋아하는 운동을 조사하여 막대그래프로 나 타내었습니다. 가로는 무엇을 나타내었나요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            182,
+                            101.41,
+                            616,
+                            387.41
+                        ]
+                    ],
+                    "text_description": "학생들이 좋아하는 운동 \\begin{tabular}{|r|l|l|l|l|l|} \\hline (명) 10 & & & & \\\\ & 5 & & & & \\\\ \\hline & 5 & & & & \\\\ \\hline & 0 & & & \\\\ \\hline \\begin{tabular}{c} 학생 수 \\\\ 운동 \\end{tabular} & 축구 & 야구 & 농구 & 배구 \\\\ \\hline \\end{tabular} 이 이미지는 학생들이 좋아하는 운동에 대한 데이터를 보여주는 그래프입니다. 축구, 야구, 농구, 배구와 같은 여러 운동에 대한 학생 수가 나타나 있습니다. 각 운동별로 선호하는 학생 수가 막대 그래프로 표현되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91,
+                            448,
+                            138,
+                            480
+                        ]
+                    ],
+                    "text_description": "운동"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            406,
+                            262,
+                            430
+                        ]
+                    ],
+                    "text_description": "가로는 운동을 나타내었습니다."
+                }
+            ]
+        }
+    ]
+}

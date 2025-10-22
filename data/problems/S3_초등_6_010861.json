@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "415223da-2c3a-4382-be16-dba274a4b61c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010861",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.5,
+                            3.44,
+                            759.14,
+                            32.92
+                        ]
+                    ],
+                    "text_description": "계산 결과가 자연수인 나눗셈식을 들고 있는 학생은 누구인가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            639.03,
+                            196.09,
+                            860.69,
+                            226.94
+                        ]
+                    ],
+                    "text_description": "(정혜, 정아, 은영)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            231.75,
+                            41.66,
+                            641.31,
+                            191.62
+                        ]
+                    ],
+                    "text_description": "\\[ 정혜\\frac{7}{10} \\div \\frac{3}{4} \\quad 정아\\frac{5}{8} \\div \\frac{5}{12} \\quad은영\\frac{2}{3} \\div \\frac{1}{9} \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.67,
+                            240.85,
+                            95.26,
+                            266.15
+                        ]
+                    ],
+                    "text_description": "은영"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.58,
+                            284.71,
+                            453.41,
+                            334.94
+                        ]
+                    ],
+                    "text_description": "정혜: $\\frac{7}{10} \\div \\frac{3}{4}=\\frac{14}{20} \\div \\frac{15}{20}=14 \\div 15=\\frac{14}{15}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            344.9,
+                            530.5,
+                            452.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 정아: } \\frac{5}{8} \\div \\frac{5}{12}=\\frac{15}{24} \\div \\frac{10}{24}=15 \\div 10=\\frac{15}{10}=\\frac{3}{2}=1 \\frac{1}{2} \\\\ \\text { 은영: } \\frac{2}{3} \\div \\frac{1}{9}=\\frac{6}{9} \\div \\frac{1}{9}=6 \\div 1=6\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

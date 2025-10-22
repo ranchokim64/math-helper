@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "232a39b4-be1f-4c39-969f-2db3afd2ceef",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010109",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.5,
+                            4.95,
+                            660.25,
+                            56.7
+                        ]
+                    ],
+                    "text_description": "5학년 친구들이 말한 일이 일어날 가능성을 비교하려고 합니다. 일이 일어 날 가능성이 더 높은 경우를 말한 친구를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176.0,
+                            66.0,
+                            514.0,
+                            286.0
+                        ]
+                    ],
+                    "text_description": "현선: 오늘은 화요일이니까 내일은 윌요일일 거야. 지은: 지금은 오후 2시니깐 1시간 후에는 3시가 될 거야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            324.13,
+                            601,
+                            398.38
+                        ]
+                    ],
+                    "text_description": "현선: 일이 일어날 가능성은 '불가능하다'입니다. 지은: 2 시에서 1시간 후는 3 시이므로 일이 일어날 가능성은 '확실하다'입니다. 따라서 일이 일어날 가능성이 더 높은 경우들 말한 친구는 지은입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.75,
+                            291.13,
+                            73.75,
+                            315.88
+                        ]
+                    ],
+                    "text_description": "지은"
+                }
+            ]
+        }
+    ]
+}

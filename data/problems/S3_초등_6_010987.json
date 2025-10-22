@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f5e290c7-54b3-4c68-983a-98daeebf2743",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010987",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26.17,
+                            7.61,
+                            868.36,
+                            69.23
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 앞에서 본 모양을 그린 것으로 알맞은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315.18,
+                            112.23,
+                            412.35,
+                            293.13
+                        ]
+                    ],
+                    "text_description": "위에서 바라본 모습이고 3X3이다 1열 2행은 3 3행은 2 2열 1행은 1 2행은 2 3열 1행은 1 2행은 2 이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            483.05,
+                            83.18,
+                            582.21,
+                            321.83
+                        ]
+                    ],
+                    "text_description": "앞에서 본 모습이다. 3x3이다 1열 2행 2열 2행 1열 전체행에 있다. 앞에서 본 모습이다. 3x3이다 1열 2행 2열 2, 3행 1열 전체행에 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.44,
+                            330.59,
+                            135.26,
+                            442.81
+                        ]
+                    ],
+                    "text_description": "3x3이다 1열 2행 2열 2, 3행 1열 전체행에 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.74,
+                            454.97,
+                            868.36,
+                            514.54
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text {위에서 본 모양에 수를 쓴 것을 보면 앞에서 보았을 때 왼쪽에서부터 } 1 \\text { 층, } 3 \\text { 층, } 2 \\text { 층으 } \\\\ \\text { 로 보입니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

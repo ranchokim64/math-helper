@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "57dd102b-69a5-47e7-a825-62381eb67fea",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005252",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.22,
+                            4.48,
+                            509.58,
+                            95.16
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위, 앞, 옆에서 본 모양입니다. 똑같은 모양을 쌓는 데 필요한 쌓기나무가 가장 적을 때와 가장 많을 때의 차를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.88,
+                            100.15,
+                            423.41,
+                            225.52
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위, 앞, 옆에서 본 모양의 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            400.45,
+                            440.17,
+                            433.82,
+                            467.23
+                        ]
+                    ],
+                    "text_description": "2개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.55,
+                            298.57,
+                            434.72,
+                            420.33
+                        ]
+                    ],
+                    "text_description": "㉮ 쌑기나무가 가장 적을 때: $1+1+1+1+2+3+1+1=11$ ㉮ ㉯ 쓸기나무가 가장 만을 때: $1+1+1+2+2+3+2+1=13$ (개) 싿기나무가 가장 적을 때와 가장 많을 때의 차는 $13-11=2$ (개)입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108.17,
+                            230.93,
+                            292.2,
+                            287.35
+                        ]
+                    ],
+                    "text_description": "㉮ \\begin{tabular}{|l|l|l|} \\hline 1 & 1 & 1 \\\\ \\hline 1 & 2 & 1 \\\\ \\hline 3 & 1 & 1 \\\\ \\hline \\end{tabular} ㉯ \\begin{tabular}{|l|l|} \\hline 1 & 1 \\\\ \\hline 2 & 2 \\\\ \\hline 3 & 2 \\\\ \\hline 3 & 1 \\\\ \\hline \\end{tabular}"
+                }
+            ]
+        }
+    ]
+}

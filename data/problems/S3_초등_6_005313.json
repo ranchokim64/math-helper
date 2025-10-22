@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c9b82fcb-852d-4cec-8b4c-930d0754a615",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005313",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11,
+                            11.4,
+                            722,
+                            67.4
+                        ]
+                    ],
+                    "text_description": "두 직선가, 나가 평행할 때, 직사각형과 삼각형의 넓이의 합은 $192 \\mathrm{~cm}^{2}$입니다. 직사각형의 넓이는 몇 $\\mathrm{~cm}^{2}$인지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201,
+                            77.4,
+                            533,
+                            201.4
+                        ]
+                    ],
+                    "text_description": "평행하는 직선 가와 나가 있고 그 사이에 꼭 맞게 직사각형과 삼각형이 위아래가 맞닿아 있다. 나와 맞닿아 있는 직사각형의 밑변의 길이는 15cm이고, 삼각형 밑변의 길이는 18cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            610,
+                            471.4,
+                            676,
+                            498.4
+                        ]
+                    ],
+                    "text_description": "$120 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29,
+                            294.4,
+                            709,
+                            408.4
+                        ]
+                    ],
+                    "text_description": "높이를 $\\square$라고 하면 직사각형의 넓이는 $15 \\times \\square$, 삼각형의 넓이는 $18 \\times \\square \\div 2=9 \\times \\square$입니다. 직사각형과 삼각형의 넓이의 비를 간단한 자연수의 비로 나타내면 $(15 \\times \\square):(9 \\times \\square)=15: 9=(15 \\div 3):(9 \\div 3)=5: 3$입니다. 따라서 (직사각형의 넓이) $=192 \\times \\frac{5}{5+3}=192 \\times \\frac{5}{8}=120\\left(\\mathrm{~cm}^{2}\\right)$입니다."
+                }
+            ]
+        }
+    ]
+}

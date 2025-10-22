@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f396e8af-e7e5-4620-b8e2-fe014f044b1d",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005795",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.99,
+                            7.27,
+                            428.95,
+                            98.15
+                        ]
+                    ],
+                    "text_description": "겉넓이가 $358 \\mathrm{~cm}^{2}$인 직육면체의 전개도입니다. 색칠한 부분이 밑면일 때 직육면체의 높이는 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.75,
+                            99.77,
+                            371.99,
+                            294.97
+                        ]
+                    ],
+                    "text_description": "겉넓이가 $358 \\mathrm{~cm}^{2}$인 직육면체의 전개도가 있다. 밑면의 길이가 가로 12cm, 세로 5cm인 직사각형이고 색칠되어 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            285.59,
+                            315.45,
+                            345.75,
+                            342.33
+                        ]
+                    ],
+                    "text_description": "7cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.19,
+                            348.09,
+                            320.79,
+                            458.17
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 한 밑면의 넓이 })=12 \\times 5=60\\left(\\mathrm{~cm}^{2}\\right) \\\\ (\\text { 옆면의 넓이 })=358-60 \\times 2=238\\left(\\mathrm{~cm}^{2}\\right) \\\\ \\text { 높이를 } \\square \\mathrm{cm} \\text { 라고 하면 } \\\\ (5+12+5+12) \\times \\square=238, 34 \\times \\square=238 \\text {, } \\\\ \\square=238 \\div 34=7(\\mathrm{~cm})\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "250e06d7-b955-463f-9d00-c3189845d860",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012132",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.5,
+                            14.92,
+                            771.5,
+                            100.92
+                        ]
+                    ],
+                    "text_description": "곶감이 한 상자에 $20$개씩 들어 있습니다. 곶감이 $4$상자 있다면, 곶감은 모두 몇 개일까요? $?$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            623.5,
+                            124.92,
+                            681.5,
+                            155.92
+                        ]
+                    ],
+                    "text_description": "80개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            164.5,
+                            332.5,
+                            217.5
+                        ]
+                    ],
+                    "text_description": "\\[2 \\times 4=8 \\rightarrow 20 \\times 4=80\\] 따라서 곶감은 모두 80개 있습니다."
+                }
+            ]
+        }
+    ]
+}

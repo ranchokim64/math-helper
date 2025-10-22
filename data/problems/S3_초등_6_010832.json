@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a199dcc9-38dd-4f0f-8191-cdd72aa4c30d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010832",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.6,
+                            15.77,
+                            584,
+                            63.17
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{4}{7} \\div \\frac{5}{8}$를 곱셈식으로 바르게 고친 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            126.4,
+                            67.97,
+                            675.2,
+                            151.17
+                        ]
+                    ],
+                    "text_description": "$\\frac{18}{7} \\times \\frac{5}{8}$ $\\frac{18}{7} \\times \\frac{8}{5}$ $\\frac{24}{7} \\times \\frac{8}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.8,
+                            164.06,
+                            118.4,
+                            206.46
+                        ]
+                    ],
+                    "text_description": "$\\frac{18}{7} \\times \\frac{8}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.6,
+                            221.06,
+                            768.8,
+                            322.86
+                        ]
+                    ],
+                    "text_description": "대분수를 가분수로 나타낸 후 나누는 분수의 분모와 분자를 바꾸어 나누어지는 수에 곱합니다. \\[ 2 \\frac{4}{7} \\div \\frac{5}{8}=\\frac{18}{7} \\div \\frac{5}{8}=\\frac{18}{7} \\times \\frac{8}{5} \\]"
+                }
+            ]
+        }
+    ]
+}

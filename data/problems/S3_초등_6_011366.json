@@ -1,0 +1,150 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "98433d96-40f5-4631-8901-946c1a33a45f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011366",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-08] 원기둥을 알고, 구성 요소, 성질, 전개도를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-07] 원기둥, 원뿔, 구를 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다.",
+            "[6수03-08] 원기둥의 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83.3,
+                            7.4,
+                            1049.7,
+                            42.4
+                        ]
+                    ],
+                    "text_description": "원기둥의 전개도를 그리고, 밑면의 반지름과 옆면의 가로, 세로의 길이를"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.3,
+                            51.2,
+                            648.9,
+                            83
+                        ]
+                    ],
+                    "text_description": "알맞게 나타낸 것을 선택해 보세요. (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            157.7,
+                            346.4,
+                            328.3,
+                            507.2
+                        ]
+                    ],
+                    "text_description": "반지름이 $2cm$이고 높이가 $4cm$인 원기둥이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            496.9,
+                            99.4,
+                            877.7,
+                            419.2
+                        ]
+                    ],
+                    "text_description": "한 칸의 넓이가 $1cm^2$인 모눈종이에 반지름이 $2cm$이고 높이가 $4cm$인 원기둥의 전개도이며 기둥 둘레의 가로 길이가 $10cm$인 평면도가 그려져있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            496.1,
+                            433.6,
+                            878.5,
+                            753.6
+                        ]
+                    ],
+                    "text_description": "한 칸의 넓이가 $1cm^2$인 모눈종이에 반지름이 $2cm$이고 높이가 $4cm$인 원기둥의 전개도이며 기둥 둘레의 가로 길이가 $12cm$인 평면도가 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.5,
+                            774.6,
+                            392.9,
+                            1056
+                        ]
+                    ],
+                    "text_description": "한 칸의 넓이가 $1cm^2$인 모눈종이에 반지름이 $2cm$이고 높이가 $4cm$인 원기둥의 전개도이며 기둥 둘레의 가로 길이가 $12cm$인 평면도가 그려져있다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.3,
+                            1068,
+                            516.9,
+                            1097.6
+                        ]
+                    ],
+                    "text_description": "옆면의 가로는 밑면의 둘레와 같으므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            1107.2,
+                            734.5,
+                            1176.8
+                        ]
+                    ],
+                    "text_description": "(밑면의 반지름) $ \\times 2 \\times $ (원주율 $)=2 \\times 2 \\times 3=12(\\mathrm{cm})$ 입니다. 옆면의 세로는 원기둥의 높이와 같으므로 $4cm$입니다."
+                }
+            ]
+        }
+    ]
+}

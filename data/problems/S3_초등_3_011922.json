@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "04a795cd-9e1d-4af6-b838-12234b2ba7f0",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011922",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.86,
+                            6.47,
+                            579.3,
+                            183.11
+                        ]
+                    ],
+                    "text_description": "1-1 어느 놀이공원에 어른은 245명 입장 했고, 어린이는 어른보다 352명 더 많이 입장했습니다. 이 놀이공원에 입장한 어린 이는 몇 명일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            140.9,
+                            301.88,
+                            213.22,
+                            331.96
+                        ]
+                    ],
+                    "text_description": "597명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.06,
+                            196.55,
+                            445.54,
+                            279.75
+                        ]
+                    ],
+                    "text_description": "\\[ \\begin{array}{l} \\text { (입장한 어린이 수) } \\\\ =(\\text { 입장한 어른 수) }+ \\text { (어른보다 더 입장한 어린이 수) } \\\\ =245+352=597 \\text { (명) } \\end{array} \\]"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "72f95ef2-3227-4850-9281-b06f427760fd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008312",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.84,
+                            3.16,
+                            934.09,
+                            113.16
+                        ]
+                    ],
+                    "text_description": "시계의 짧은바늘이 연필 모양인 시계가 있습니다. 이 시계의 짧은바늘을 시계 방향으로 $90^{\\circ}, 180^{\\circ}, 270^{\\circ}, 360^{\\circ}$만큼 돌렸을 때 알맞은 말을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            69.84,
+                            122.59,
+                            906.59,
+                            692.09
+                        ]
+                    ],
+                    "text_description": "동그란 시계에 연필 모양의 짧은바늘이 12시에 있고 시계방향으로 화살표들이 있다. 1번은 90도와 연필 모양도 90도로 향해 있고 말풍선에 시계 방향으로 90도만큼 돌리면 연필의 위쪽 부분이 오른쪽으로 이동해. 라는 말이 있다. 2번은 180도와 연필 모양도 180도로 향해 있고 말풍선에 시계 방향으로 180도만큼 돌리면 연필의 위쪽 부분이(아래쪽, 왼쪽)으로 이동해. 라는 말이 있다. 3번은 270도와 연필 모양도 270도로 향해 있고 말풍선에 시계 방향으로 270도만큼 돌리면 연필의 위쪽 부분이 (아래쪽, 왼쪽)으로 이동해. 라는 말이 있다. 4번은 360도와 연필 모양도 360도로 향해 있고 말풍선에 시계 방향으로 360도만큼 돌리면 처음 연필 모양과 같아. 라는 말이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.34,
+                            700.09,
+                            242.84,
+                            730.09
+                        ]
+                    ],
+                    "text_description": "② 아래쪽 ③ 왼쪽"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.34,
+                            747.59,
+                            921.59,
+                            815.09
+                        ]
+                    ],
+                    "text_description": "시계 방향으로 $180^{\\circ}$만큼 돌리면 연필의 위쪽 부분이 아래쪽으로 이동합니다. 시계 방향으로 $270^{\\circ}$만큼 돌리면 연필의 위쪽 부분이 왼쪽으로 이동합니다."
+                }
+            ]
+        }
+    ]
+}

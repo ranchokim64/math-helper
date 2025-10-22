@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "dcf42824-4799-4799-98e9-9e4b857c9743",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004478",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17,
+                            12.92,
+                            521,
+                            39.92
+                        ]
+                    ],
+                    "text_description": "직사각형의 둘레가 34m일 때 넓이는 몇 $\\mathrm{m}^{2}$인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            212.5,
+                            333,
+                            240.5
+                        ]
+                    ],
+                    "text_description": "직사각형의 세로는 몇 m 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283,
+                            49.5,
+                            519,
+                            206.5
+                        ]
+                    ],
+                    "text_description": "한변이 11m이고 둘레가 34m인 직사각형 평면도형."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            656,
+                            253.5,
+                            698,
+                            277.5
+                        ]
+                    ],
+                    "text_description": "6m"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84,
+                            246.5,
+                            413,
+                            289.5
+                        ]
+                    ],
+                    "text_description": "직사각형의 세로를 $\\square \\mathrm{m}$라 하면 $(1 1\\mathrm+\\square) \\times 2=34$ 이므로 $11+\\square=17, \\square=6(\\mathrm{~m})$입니다."
+                }
+            ]
+        }
+    ]
+}

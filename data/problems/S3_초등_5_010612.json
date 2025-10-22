@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d51413a6-67ee-46f4-bd57-4a6f75a87f8c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010612",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.8,
+                            2.74,
+                            504,
+                            30.74
+                        ]
+                    ],
+                    "text_description": "계산 결과가 75가 아닌 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            411.2,
+                            73.94,
+                            552,
+                            101.94
+                        ]
+                    ],
+                    "text_description": "④ $92-112 \\div 7$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.8,
+                            41.6,
+                            166.4,
+                            139.2
+                        ]
+                    ],
+                    "text_description": "① $54-18+39$ ③ $14 \\times 6-9$ ⑤ $27+6 \\times 8$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            408,
+                            40,
+                            549.6,
+                            67.2
+                        ]
+                    ],
+                    "text_description": "② $100 \\div 4 \\times 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.8,
+                            187.2,
+                            318.4,
+                            338.4
+                        ]
+                    ],
+                    "text_description": "① $54-18+39=36+39=75$ ② $100 \\div 4 \\times 3=25 \\times 3=75$ ③ $14 \\times 6-9=84-9=75$ ④ $92-112 \\div 7=92-16=76$ ⑤ $27+6 \\times 8=27+48=75$"
+                }
+            ]
+        }
+    ]
+}

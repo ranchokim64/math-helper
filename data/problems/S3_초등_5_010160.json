@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2987b278-8048-4d9f-977a-62a6b88315ab",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010160",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.26,
+                            3.38,
+                            660.26,
+                            53.3
+                        ]
+                    ],
+                    "text_description": "18. 동전 한 개를 던질 때 일이 일어날 가능성을 알아보려고 합니다. 숫자 면이 나올 가능성을 어떤 수로 표현할 수 있는지 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            283.42,
+                            58.4,
+                            398.73,
+                            111.05
+                        ]
+                    ],
+                    "text_description": "백원의 앞면과 뒷면이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            234.47,
+                            111.11,
+                            447.27,
+                            172.61
+                        ]
+                    ],
+                    "text_description": "네모난 3칸에 각각 0, $\\frac{1}{2}$, 1이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.27,
+                            183.76,
+                            55.88,
+                            223.17
+                        ]
+                    ],
+                    "text_description": "$\\frac{1}{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.030000000000001,
+                            237.98,
+                            660.14,
+                            300.54
+                        ]
+                    ],
+                    "text_description": "동전 한 개를 던질 때 숫자 면이 나올 가능성은 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

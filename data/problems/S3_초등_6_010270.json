@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9a0f42e3-2b06-47f2-8c55-6ba506e64f73",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010270",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.59,
+                            0.81,
+                            561.1,
+                            30.65
+                        ]
+                    ],
+                    "text_description": "나눗셈의 몫이 더 큰 것을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            243.74,
+                            40.11,
+                            737.25,
+                            152.94
+                        ]
+                    ],
+                    "text_description": "㉠ $6 \\frac{2}{5} \\div 6$ ㉡ $8 \\frac{4}{7} \\div 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.22,
+                            166.46,
+                            87.24,
+                            195.58
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.6,
+                            346.34,
+                            678.85,
+                            406.34
+                        ]
+                    ],
+                    "text_description": "따라서 $1 \\frac{1}{15}>\\frac{20}{21}$ 이므로 나눗셈의 몫이 더 큰 것은 ㉠입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.1,
+                            213.84,
+                            525.1,
+                            272.59
+                        ]
+                    ],
+                    "text_description": "㉠ $6 \\frac{2}{5} \\div 6=\\frac{32}{5} \\div 6=\\frac{32}{5} \\times \\frac{1}{6}=\\frac{16}{15}=1 \\frac{1}{15}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.1,
+                            280.09,
+                            496.35,
+                            342.59
+                        ]
+                    ],
+                    "text_description": "㉡ $8 \\frac{4}{7} \\div 9=\\frac{60}{7} \\div 9=\\frac{60}{7} \\times \\frac{1}{9}=\\frac{60}{63}=\\frac{20}{21}$"
+                }
+            ]
+        }
+    ]
+}

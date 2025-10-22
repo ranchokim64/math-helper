@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7e8fbeee-d1ae-4f9e-9493-1649973d00c7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008682",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그려서 다양한 모양을 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-07] 컴퍼스를 이용하여 여러 가지 크기의 원을 그릴 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.72,
+                            7.4,
+                            925.72,
+                            75.24
+                        ]
+                    ],
+                    "text_description": "주어진 모양과 똑같이 그리는 방법을 설명한 것입니다. 알맞은 말을 선택 하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            233.8,
+                            83.74,
+                            725,
+                            275.74
+                        ]
+                    ],
+                    "text_description": "모눈종이 안에 큰 원이 있고, 그 안에 작은 두개의 원이 있다. 오른쪽 화살표 모양이 가운데에 있고 빈 모눈종이가 그 오른쪽에 위치한다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            114.4,
+                            280.2,
+                            347.4,
+                            420.4
+                        ]
+                    ],
+                    "text_description": "남학생 : 큰 원을 먼저 그려."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            402.8,
+                            284,
+                            838.8,
+                            438.8
+                        ]
+                    ],
+                    "text_description": "여학생 : 큰 원의 반지름을 (지름, 반지름)으로 하는 작은 원을 2개 그려."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.6,
+                            454.6,
+                            106.6,
+                            480.2
+                        ]
+                    ],
+                    "text_description": "지름"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.4,
+                            501,
+                            929,
+                            561.8
+                        ]
+                    ],
+                    "text_description": "큰 원을 먼저 그린 다음 큰 원의 반지름(모눈 네 칸)을 지름으로 하는 작은 원을 두 개 그립니다."
+                }
+            ]
+        }
+    ]
+}

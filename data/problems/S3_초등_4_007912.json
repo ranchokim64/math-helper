@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "19422563-490a-42e0-a860-1c3a0b05e627",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007912",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60,
+                            5.92,
+                            356,
+                            34.92
+                        ]
+                    ],
+                    "text_description": "알맞은 말을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            151,
+                            46.92,
+                            801,
+                            269.92
+                        ]
+                    ],
+                    "text_description": "삼각형은 꼭짓점 3개가 서로 (이웃하고 있어서, 이웃하지 않아서) 대각선을 그을 수 (있어, 없어)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            286.5,
+                            287,
+                            313.5
+                        ]
+                    ],
+                    "text_description": "이웃하고 있어서, 없어"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            329.5,
+                            573,
+                            351.5
+                        ]
+                    ],
+                    "text_description": "삼각혐은 꼭짓점 3 개가 서로 이웃하고 있어서 대각선을 그을 수 없습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25,
+                            353.5,
+                            506,
+                            375.5
+                        ]
+                    ],
+                    "text_description": "다각혐에서 꼭짓점이 적어도 4 개이어야 대각선을 그을 수 있 습니다."
+                }
+            ]
+        }
+    ]
+}

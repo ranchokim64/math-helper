@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "35204345-1e29-4e9e-b5e6-a4ed4231f8cd",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003046",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.41,
+                            11.26,
+                            306.95,
+                            54.27
+                        ]
+                    ],
+                    "text_description": "사과주스 $1.8L$를 한 컵에 $0.3L$ 씩 나누어 담으려면 컵이 몇 개 필요한지 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.529999999999999,
+                            94.52,
+                            241.44,
+                            251.7
+                        ]
+                    ],
+                    "text_description": "사과주스와 컵 7개가 책상위에 놓여져 있습니다. 여자아이가 이것을 보고 생각하고 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.47,
+                            303.92,
+                            175.39,
+                            329.52
+                        ]
+                    ],
+                    "text_description": "6 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52,
+                            263.48,
+                            242.98,
+                            284.47
+                        ]
+                    ],
+                    "text_description": "$1. 8 \\div 0. 3=18 \\div 3=6$ (개)"
+                }
+            ]
+        }
+    ]
+}

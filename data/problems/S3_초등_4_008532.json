@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "76689da2-f21e-4747-ab19-b75a502ba81d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008532",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78.41,
+                            2.88,
+                            791.61,
+                            33.64
+                        ]
+                    ],
+                    "text_description": "계산식을 보고 설명에 맞는 계산식을 찾아 기호를 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            289.72,
+                            436.61,
+                            685.88,
+                            506.54
+                        ]
+                    ],
+                    "text_description": "일의 자리 수가 3씩 커지는 수를 3으로 나누면 몫은 1씩 커집니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            718.68,
+                            537.3,
+                            937.67,
+                            571.94
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢, ㉣)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.54,
+                            38.9,
+                            780.74,
+                            411.96000000000004
+                        ]
+                    ],
+                    "text_description": "㉠ $\\begin{array}{l}527+110=637 \\\\ 527+210=737 \\\\ 527+310=837 \\\\ 527+410=937\\end{array}$ ㉡ $\\begin{array}{l}319-100=219 \\\\ 419-200=219 \\\\ 519-300=219 \\\\ 619-400=219\\end{array}$ ㉢ $\\begin{array}{l}11 \\times 10=110 \\\\ 11 \\times 20=220 \\\\ 11 \\times 30=330 \\\\ 11 \\times 40=440\\end{array}$ ㉣ $\\begin{array}{l}33 \\div 3=11 \\\\ 36 \\div 3=12 \\\\ 39 \\div 3=13 \\\\ 42 \\div 3=14\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.11,
+                            594.01,
+                            87.06,
+                            622.85
+                        ]
+                    ],
+                    "text_description": "㉣"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.97,
+                            638.23,
+                            936.75,
+                            814.12
+                        ]
+                    ],
+                    "text_description": "㉠ 527과 110부터 100 씩 커지는 수를 더하면 계산 결과는 100 씩 커집니다. ㉡ 319부터 100 씩 커지는 수에서 100부터 100 씩 커지는 수를 빼면 계산 결과는 219로 일정합니다. ㉢ 11과 10부터 10 씩 커지는 수를 곱하면 계산 결과는 110 씩 커집니다. ㉣ 33부터 3 씩 커지는 수를 3으로 나누면 몫은 1 씩 커집니다."
+                }
+            ]
+        }
+    ]
+}

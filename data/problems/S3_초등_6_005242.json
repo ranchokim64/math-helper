@@ -1,0 +1,115 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "280d5a37-ebce-4464-9177-6c8de8876516",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005242",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다.",
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다.",
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            19.92,
+                            556,
+                            91.92
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양과 위에서 본 모양입니다. 물음에 답하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            114,
+                            105.5,
+                            441,
+                            313.5
+                        ]
+                    ],
+                    "text_description": "정사각형 모양의 쌓기나무를 쌓은 모양과 쌓기나무로 쌓은 모양을 위에서 본 모양이다. 위 ㉠ ㉡ ㉢ ㉣ ㉤ $\\uparrow$ 앞"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            407,
+                            423.5,
+                            447,
+                            452.5
+                        ]
+                    ],
+                    "text_description": "8개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62,
+                            332.5,
+                            551,
+                            406.5
+                        ]
+                    ],
+                    "text_description": "똑같은 모양으로 쌓는 데 필요한 쌓기나무는 몇개인가요?"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            83,
+                            463.5,
+                            216,
+                            485.5
+                        ]
+                    ],
+                    "text_description": "5+2+ I-8(개)"
+                }
+            ]
+        }
+    ]
+}

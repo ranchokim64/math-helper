@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "51e1f314-42a9-41ce-a2a8-ea10e39293a7",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007938",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채울 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채우고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.84,
+                            10.23,
+                            847.24,
+                            73.57
+                        ]
+                    ],
+                    "text_description": "가장 적은 개수의 모양 조각으로 다음 모양을 만들 때, 필요 없는 모양 조각의 기호를 모두 고르세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            556.3,
+                            445,
+                            847.3,
+                            476
+                        ]
+                    ],
+                    "text_description": "(가, 나, 다, 라, 마, 바)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            136.3,
+                            77,
+                            744.3,
+                            321
+                        ]
+                    ],
+                    "text_description": "가 정육각형 나 사다리꼴 다 평행사변형 라 정삼각형 마 정사각형 바 평행사변형"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            305.3,
+                            322,
+                            577.3,
+                            444
+                        ]
+                    ],
+                    "text_description": "기하학적 도형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.3,
+                            492,
+                            113.3,
+                            518
+                        ]
+                    ],
+                    "text_description": "라, 바"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.32,
+                            533.1,
+                            610.04,
+                            557.48
+                        ]
+                    ],
+                    "text_description": "가장 적은 개수의 모양 조각으로 만들면 다음과 같습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.14,
+                            663.09,
+                            457.07,
+                            689.87
+                        ]
+                    ],
+                    "text_description": "따라서 필요 없는 모양 조각은 라, 바입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.05,
+                            563.17,
+                            247.85,
+                            661.29
+                        ]
+                    ],
+                    "text_description": "정사각형, 평행사변형, 육각형, 사다리꼴로 이루어진 모양"
+                }
+            ]
+        }
+    ]
+}

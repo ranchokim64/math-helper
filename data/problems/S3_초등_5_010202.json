@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "24c34dd1-f150-4605-9186-8f62053248e1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010202",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.9,
+                            1.44,
+                            561.1,
+                            28.24
+                        ]
+                    ],
+                    "text_description": "일이 일어날 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.1,
+                            28.7,
+                            602.9,
+                            94.3
+                        ]
+                    ],
+                    "text_description": "계산기로 ' $4 \\times 8$ '을 눌렀을 때 24가 나올 가능성"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            165.3,
+                            95.1,
+                            519.7,
+                            331.1
+                        ]
+                    ],
+                    "text_description": "0, $\\frac{1}{2}$, 1이 있는 직선이 있고 첫번째 그림은 1의 화살표, 두번째 그림은 $\\frac{1}{2}$의 화살표, 세번째 그림은 0의 화살표가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            334.3,
+                            343.7,
+                            397.5
+                        ]
+                    ],
+                    "text_description": "0, $\\frac{1}{2}$, 1이 있는 직선이고 0의 화살표가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.3,
+                            403.9,
+                            658.1,
+                            456.7
+                        ]
+                    ],
+                    "text_description": "$4 \\times 8=32$ 이므로 24가 나올 가능성은 '불가능하다'이고, 이들 수로 표현하면 0 입니다."
+                }
+            ]
+        }
+    ]
+}

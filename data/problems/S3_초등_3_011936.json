@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "70d389a7-c09d-4182-85c7-14395eb55603",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011936",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.54,
+                            17.94,
+                            584.24,
+                            104.73
+                        ]
+                    ],
+                    "text_description": "계산 결과가 큰 것부터 차례로 기호를 쓰세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.82,
+                            125.98,
+                            446.68,
+                            337.42
+                        ]
+                    ],
+                    "text_description": "㉠ $278+345$ ㉡ 704-286 ㉢ 458+186 ㉣ $820-359$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            398.28,
+                            358.4,
+                            542.28,
+                            389.87
+                        ]
+                    ],
+                    "text_description": "㉢, ㉠, ㉣, ㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.58,
+                            403.33,
+                            441.19,
+                            481.11
+                        ]
+                    ],
+                    "text_description": "① ㉠ 278+345=623 ㉡ 704-286=418 ㉢ $458+186=644$ ㉣ $820-359=461$ $\\rightarrow$ ㉢ $644>$ ㉠ $623>$ ㉣ $461>$ ㉡ 418"
+                }
+            ]
+        }
+    ]
+}

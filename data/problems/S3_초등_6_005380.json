@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8623bc9c-6e7c-4632-918f-6356d1e65c9a",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005380",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.4,
+                            3.14,
+                            704.4,
+                            80.74
+                        ]
+                    ],
+                    "text_description": "다음은 학교 운동장에 있는 트랙을 나타낸 것입니다. 트랙의 두께는 1m이고, 트랙의 양쪽은 반원 모양, 가운데는 직사각형 모양입니다. 성희가 빨간색 선을 따라 달리고, 미수가 초록색 선을 따라 달렸을 때 성희가 미수보다 몇 m 더 달린 것인지 구해 보세요. (원주율: 3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            166,
+                            91.6,
+                            539.6,
+                            269.2
+                        ]
+                    ],
+                    "text_description": "트랙의 두께가 1M인 운동장 트랙 이미지. 높이(트랙의 너비)가 20m이며, 직선거리가 50m이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            602,
+                            453.2,
+                            656,
+                            474.8
+                        ]
+                    ],
+                    "text_description": "6.2m"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            322,
+                            401.2,
+                            431.6
+                        ]
+                    ],
+                    "text_description": "(성희가 달린 거리) $=20 \\times 3. 1+50+50=62+100=162(\\mathrm{~m})$ (미수가 달린 거리) $=18 \\times 3. 1+50+50=55. 8+100=155. 8(\\mathrm{~m})$ 따라서 성희가 미수보다 $162-155. 8=6. 2(\\mathrm{~m})$ 더 달렸습니다."
+                }
+            ]
+        }
+    ]
+}

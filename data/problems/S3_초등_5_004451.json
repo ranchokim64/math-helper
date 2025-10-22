@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77078a23-0f7a-4633-9a19-a776e6b51471",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004451",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-04] 넓이를 나타내는 표준 단위의 필요성을 인식하여 1cm², 1m², 1km²의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-12] 넓이 단위 1cm², 1m², 1km²를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            3.9,
+                            439,
+                            63.9
+                        ]
+                    ],
+                    "text_description": "색칠한 도형 가의 넓이가 $162 \\mathrm{~cm}^{2}$라고 할 때 $\\qquad$ 안에 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108,
+                            70.9,
+                            373,
+                            256.9
+                        ]
+                    ],
+                    "text_description": "한 칸이 $\\square{~cm}^{2}$인 눈금표 안에 총 18칸을 차지하고 있는 계단 모양의 도형 가가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            320,
+                            267.9,
+                            353,
+                            292.9
+                        ]
+                    ],
+                    "text_description": "$9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68,
+                            298.9,
+                            301,
+                            344.9
+                        ]
+                    ],
+                    "text_description": "색칠한 도형의 넓이는 $\\square$의 18 배입니다. 따라서 $\\square=162 \\div 18=9\\left(\\mathrm{~cm}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

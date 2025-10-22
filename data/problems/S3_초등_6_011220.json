@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d59c628a-8b8b-4913-8c3f-41b9177cd1c6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011220",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-07] 여러 가지 둥근 물체의 원주와 지름을 측정하는 활동을 통하여 원주율을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-15] 여러 가지 원 모양 물체의 원주와 지름을 측정하는 활동을 통하여, 원주율이 일정한 값임을 알고 그 근삿값을 사용할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.5,
+                            4.92,
+                            797.5,
+                            31.92
+                        ]
+                    ],
+                    "text_description": "지름이 $4cm$ 인 원의 원주와 가장 비슷한 길이를 찾아 선택해 보세요 $. $"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370.5,
+                            36.92,
+                            526.5,
+                            191.92
+                        ]
+                    ],
+                    "text_description": "지름이 $4cm$인 원이 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.5,
+                            192.5,
+                            710.5,
+                            373.5
+                        ]
+                    ],
+                    "text_description": "한칸에 $1cm$인 $4$칸 눈금 선 $8$칸 눈금 선 $12$칸 눈금 선이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.58,
+                            382.64,
+                            420.22,
+                            401.2
+                        ]
+                    ],
+                    "text_description": "한칸에 $1cm$인 $12$칸의 눈금이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.62,
+                            410.8,
+                            865.66,
+                            472.24
+                        ]
+                    ],
+                    "text_description": "지름이 $4cm$인 원의 원주는 지름의 $3$ 배인 $12cm$보다 길고, 지름의 $4$ 배인 $16cm$보다 짧습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c028f59c-3ef3-431e-a35e-b78926cd1b1e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010101",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            19.38,
+                            3.14,
+                            663.5,
+                            52.45
+                        ]
+                    ],
+                    "text_description": "초록색과 노란색으로 이루어진 다음 회전판을 보고 화살이 노란색에 멈출 가능 성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.68,
+                            57.51,
+                            387.64,
+                            145.51
+                        ]
+                    ],
+                    "text_description": "초록색과 노란색으로 이루어진 다음 회전판. 총 4칸 중 초록색 2칸 노란색 2칸."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195.68,
+                            146.51,
+                            496.64,
+                            288.51
+                        ]
+                    ],
+                    "text_description": "선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이다. 화살표가 1을 가리키고 있다. 선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이다. 화살표가 $\\frac{1}{2}$을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.68,
+                            298.51,
+                            278.64,
+                            233.51
+                        ]
+                    ],
+                    "text_description": " 선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이다. 화살표가 $\\frac{1}{2}$을 가리키고 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.0,
+                            307.0,
+                            280.0,
+                            352.0
+                        ]
+                    ],
+                    "text_description": "선 그래프이고 왼쪽 0, 중앙 $\\frac{1}{2}$, 오른쪽 1이다. 화살표가 1을 가리키고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.95,
+                            357.35,
+                            662.72,
+                            425.44
+                        ]
+                    ],
+                    "text_description": "노란색과 초록색이 반씩 색칠된 회전판을 돌릴 때 화살이 노란색에 멈출 가능성은 '반반이다'이므로 수로 표현하면 $\\frac{1}{2}\\left(=\\frac{2}{4}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

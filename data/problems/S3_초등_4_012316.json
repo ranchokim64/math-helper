@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fc7ef22c-01b8-4200-b931-20e7b8c09c2f",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012316",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-01] 다양한 변화 규칙을 찾아 설명하고, 그 규칙을 수나 식으로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13,
+                            4.91,
+                            814,
+                            87.91
+                        ]
+                    ],
+                    "text_description": "도형 속의 수들의 규칙을 찾아 ❤︎에 알맞은 수를 구하려고 합 니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12,
+                            396.5,
+                            659,
+                            441.5
+                        ]
+                    ],
+                    "text_description": "규칙을 찾아 ●와 ■에 알맞은 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            236,
+                            102.91,
+                            588,
+                            387.91
+                        ]
+                    ],
+                    "text_description": "아래가 다섯칸으로 시작하는 피라미드 그림이다. 맨 윗칸부터 ❤︎, ○, □ 5, 9, 13 2, 4, 6, 8 1, 2, 3, 4, 5, 6으로 쌓여있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            536,
+                            463.5,
+                            814,
+                            544.5
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{lll}●\\left(\\begin{array}{ll}\\end{array}\\right. & 13 &) \\\\ \\boldsymbol{\\square} & (&21 &)\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40,
+                            557.5,
+                            677,
+                            613.5
+                        ]
+                    ],
+                    "text_description": "위의 수는 아래의 오른쪽과 왼쪽에 있는 두 수를 더한 다음 1을 뺀 수입니다. \\[ \\rightarrow \\bullet=5+9-1=13, ■=9+13-1=21 \\]"
+                }
+            ]
+        }
+    ]
+}

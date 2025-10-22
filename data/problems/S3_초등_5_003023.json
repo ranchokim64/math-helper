@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fcbbc0ee-c5d5-4c86-8e4f-f9cd7b5d3eaf",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003023",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            5.42,
+                            287.5,
+                            35.42
+                        ]
+                    ],
+                    "text_description": "직사각형의 넓이를 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            266,
+                            341.5,
+                            314
+                        ]
+                    ],
+                    "text_description": "$\\square \\mathrm{km}^{2}=\\square \\mathrm{m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.5,
+                            61.42,
+                            258.5,
+                            231.42
+                        ]
+                    ],
+                    "text_description": "정사각형의 변이 각각 $8000m, 8km$이다$. $"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.5,
+                            388,
+                            338.5,
+                            433
+                        ]
+                    ],
+                    "text_description": "$64 \\mathrm{~km}^{2}=64000000 \\mathrm{~m}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            323,
+                            647.5,
+                            376
+                        ]
+                    ],
+                    "text_description": "8000m는 $8km$ 이므로 가로가 $8km$, 세로가 $8km$ 인 직사각형의 넓이는 $8 \\times 8=64\\left(\\mathrm{~km}^{2}\\right)$ 입니다. $64 \\mathrm{~km}^{2}=64000000 \\mathrm{~m}^{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

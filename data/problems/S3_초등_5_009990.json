@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2ac5ea88-e6fc-497d-872b-e8dc3ee3aaa6",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009990",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.93,
+                            0.6200000000000001,
+                            633.73,
+                            48.46
+                        ]
+                    ],
+                    "text_description": "정육면체의 겨냥도를 보고 전개도를 완성한 것으로 알맞은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            302.73,
+                            64.74000000000001,
+                            514.64,
+                            395.73
+                        ]
+                    ],
+                    "text_description": "한 칸이 $1cm^2$인 모눈종이 위에 정육면체의 전개도가 그려진 이미지가 두 개 있습니다. 위쪽 전개도는 잘못된 정육면체의 전개도가 그려져 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.76,
+                            185.77,
+                            278.68,
+                            271.7
+                        ]
+                    ],
+                    "text_description": "한변의 길이가 3cm인 정육면체의 겨냥도이다. $\\rightarrow$"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.99,
+                            399.9,
+                            237.53,
+                            547.56
+                        ]
+                    ],
+                    "text_description": "(정답)\\begin{tabular}{l}\n1 cm \\\\\n\\hline\n\\end{tabular}22"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.559999999999999,
+                            554.56,
+                            538.16,
+                            650.07
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text {정육면체의 전개도들 그리는 방법 } \\\\ \\text { } \\cdot \\text { 잘린 모서리는 실선으로, 잘리지 않는 모서리는 점선으로 그립니다. } \\\\ \\text { } \\cdot \\text { 면 } 6 \\text { 개의 크기가 같게 그립니다. } \\\\ \\text { } \\cdot \\text { 모든 모서리의 길이가 같게 그립니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8e6d41a0-4087-4332-acc0-65809963256e",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013493",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-01] 직선, 선분, 반직선을 알고 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-01] 직선, 선분, 반직선을 이해하고 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107,
+                            22.92,
+                            483,
+                            61.92
+                        ]
+                    ],
+                    "text_description": "선분 ㄱㄴ은 어느 것입니까?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            493.5,
+                            72,
+                            525.5
+                        ]
+                    ],
+                    "text_description": "④"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            445,
+                            160.5,
+                            731,
+                            206.5
+                        ]
+                    ],
+                    "text_description": "④ 양쪽으로 잇는 ㄱ ㄴ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            353.5,
+                            723,
+                            480.5
+                        ]
+                    ],
+                    "text_description": "두 점 ㄱ, ㄴ을 곧게 이은 선을 선분 ㄱㄴ이라고 합니다. ① 반직선 ㄱㄴ ② 직선 ㄱㄴ, 직선 ㄴㄱ ③ 반직선 ㄴㄱ ④ 선분 ㄱㄴ 또는 선분 ㄴㄱ ⑤ 곡선 ㄱㄴ"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106,
+                            93.5,
+                            715,
+                            150.5
+                        ]
+                    ],
+                    "text_description": "① ㄴ으로 잇는 직선 ② 양쪽으로 잇는 직선"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            107,
+                            166.5,
+                            404,
+                            302.5
+                        ]
+                    ],
+                    "text_description": "③ ㄱ쪽으로 잇는 직선 ⑤ 양쪽으로 잇는 곡선"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f2f48898-742e-46ac-aa2b-5cc5df46badb",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005649",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-14] ‘(자연수)÷(자연수)’, ‘(소수)÷(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-14] ‘(자연수)/(자연수)’에서 나눗셈의 몫을 소수로 나타낼 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            15.92,
+                            689.5,
+                            197.92
+                        ]
+                    ],
+                    "text_description": "길이가 9.8m 인 도로의 한쪽에 나무 5 그루를 같은 간격으로 그림과 같이 심으려고 합니다. 나무 사 이의 간격을 몇 m로 해야 하는지 식을 쓰고 답을 구 해 보세요. (나무의 두께는 생각하지 않습니다.)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.5,
+                            222.5,
+                            621.5,
+                            431.5
+                        ]
+                    ],
+                    "text_description": "길이가 9.8m 인 도로의 한쪽에 나무 5 그루를 같은 간격으로 심어져있는 이미지."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            284.5,
+                            481.5,
+                            483.5,
+                            517.5
+                        ]
+                    ],
+                    "text_description": "$9. 8 \\div 4=2. 45$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            457.5,
+                            569.5,
+                            569.5,
+                            601.5
+                        ]
+                    ],
+                    "text_description": "2.45m"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.5,
+                            632.5,
+                            687.5,
+                            696.5
+                        ]
+                    ],
+                    "text_description": "나무 사이의 간격 수는 5-I=4(곳)이므로 나무 사이의 간격을 $9. 8 \\div 4=2. 45(\\mathrm{~m})$로 해야 합니다."
+                }
+            ]
+        }
+    ]
+}

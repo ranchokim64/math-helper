@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "26b62448-6a20-4a33-bdef-ab2739f36778",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005517",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            1.6,
+                            -0.48,
+                            497.6,
+                            156.32
+                        ]
+                    ],
+                    "text_description": "민수는 길이가 98cm인 철사를 $3: 4$로 나누어 길이가 짧은 철사를 미술 시간에 사용하기 위해 학교에 가지고 갔습니다. 민수가 학교에 가지고 간 철사의 길이는 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            331.2,
+                            180.32,
+                            407.2,
+                            208.32
+                        ]
+                    ],
+                    "text_description": "42cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.2,
+                            221.92,
+                            305.6,
+                            270.72
+                        ]
+                    ],
+                    "text_description": "$98 \\times \\frac{3}{3+4}=98 \\times \\frac{3}{7}=42(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

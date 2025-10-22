@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "074f486a-06d5-40b3-a84f-ee49daf60b1a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011813",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채울 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-12] 주어진 도형을 이용하여 여러 가지 모양을 만들거나 채우고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.5,
+                            -1.1,
+                            476.5,
+                            90.9
+                        ]
+                    ],
+                    "text_description": "다음 모양을 만들려면 $\\triangle$ 모양 조각은 몇 개 필요한가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            195.5,
+                            93.9,
+                            314.5,
+                            217.9
+                        ]
+                    ],
+                    "text_description": "삼각형으로 이루어진 모양 조각들이 붙어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            344.5,
+                            227.9,
+                            398.5,
+                            265.9
+                        ]
+                    ],
+                    "text_description": "5개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.5,
+                            262.9,
+                            122.5,
+                            333.9
+                        ]
+                    ],
+                    "text_description": "다섯개의 삼각형 모양 조각이 붙어있다."
+                }
+            ]
+        }
+    ]
+}

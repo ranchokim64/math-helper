@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1806c34d-eec4-46a4-8aca-31338f14422e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004285",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.28,
+                            14.73,
+                            553.28,
+                            51.73
+                        ]
+                    ],
+                    "text_description": "154와 630의 공약수를 모두 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            234.28,
+                            83.27,
+                            487.28,
+                            167.27
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}154=2 \\times 7 \\times 11 \\\\ 630=2 \\times 3 \\times 3 \\times 5 \\times 7\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            403.28,
+                            205.27,
+                            582.28,
+                            240.27
+                        ]
+                    ],
+                    "text_description": "1, 2, 7, 14"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.28,
+                            249.27,
+                            630.28,
+                            367.27
+                        ]
+                    ],
+                    "text_description": "두 수의 최대공약수의 약수는 두 수의 공약수와 같습니다. 154와 630의 최대공약수는 $2 \\times 7=14$ 이고 14의 약수는 $1, 2, 7, 14$ 입니다. 따라서 154와 630의 공약수는 1, 2, 7, 14 입니다."
+                }
+            ]
+        }
+    ]
+}

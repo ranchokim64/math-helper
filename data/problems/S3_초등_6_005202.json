@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6f2c94c2-fc84-47c3-a43b-4ac6a74f45f3",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005202",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.5,
+                            13.42,
+                            575.5,
+                            84.42
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양과 위에서 본 모양입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.5,
+                            410,
+                            434.5,
+                            439
+                        ]
+                    ],
+                    "text_description": "쌓은 쌓기나무의 개수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            122.5,
+                            103.42,
+                            483.5,
+                            358.42
+                        ]
+                    ],
+                    "text_description": "오른쪽 그림은 총 쌓기 나무 8개로 구성되어 있으며, 1층에 5개, 2층에 2개, 3층에 1개로 쌓여져 있다. 왼쪽 그림은 위에서 본 모양으로 9x9 모양 칸에 'ㄷ'모양으로 6개가 채워진 모습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            398.5,
+                            460,
+                            452.5,
+                            488
+                        ]
+                    ],
+                    "text_description": "8개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.5,
+                            501,
+                            553.5,
+                            552
+                        ]
+                    ],
+                    "text_description": "1층에 5개, 2층에 2개, 3층에 1개이므로 주어진 모양과 똑같이 쌓는 데 쌓기나무 8개가 필요합니다."
+                }
+            ]
+        }
+    ]
+}

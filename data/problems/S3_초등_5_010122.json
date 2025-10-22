@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3ef134ef-a211-4017-bd08-c4d31df3b0db",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010122",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            0.42,
+                            669,
+                            80.42
+                        ]
+                    ],
+                    "text_description": "1부터 6 까지의 눈이 그려진 주사위를 한 번 굴릴 때 주사위의 눈의 수가 1 이상 6 이하로 나올 가능성을 말과 수로 표현하려고 합니다. 알맞은 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            179,
+                            81,
+                            513,
+                            133
+                        ]
+                    ],
+                    "text_description": "$\\cdot$ $\\cdot$ $\\cdot$ $\\cdot$ :: : : ! :"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51,
+                            133,
+                            598,
+                            182
+                        ]
+                    ],
+                    "text_description": "말 (불가능하다, 반반이다, 확실하다) 수 $\\left(0, \\frac{1}{2}, 1\\right)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42,
+                            188,
+                            132,
+                            213
+                        ]
+                    ],
+                    "text_description": "확실하다, 1"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8,
+                            220,
+                            670,
+                            321
+                        ]
+                    ],
+                    "text_description": "주사위를 굴리면 주사위 눈의 수가 항상 $1, 2, 3, 4, 5, 6$ 중의 하나로 나옵니다. 따라서 주사위의 눈의 수가 1 이상 6 이하로 나올 가능성을 말로 표현하면 '확실하다'이며, 수로 표현하면 1입니다."
+                }
+            ]
+        }
+    ]
+}

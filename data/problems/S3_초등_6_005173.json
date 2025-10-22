@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "e396852d-1937-40ca-8803-5474ad43640b",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005173",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            16.92,
+                            739,
+                            129.92
+                        ]
+                    ],
+                    "text_description": "계산 결과를 비교하여 $\\bigcirc$ 안에 $>, =, <$를 알맞 게 써넣으세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            26,
+                            280.5,
+                            599,
+                            366.5
+                        ]
+                    ],
+                    "text_description": "$1. 61 \\div 0. 7 \\bigcirc 1. 728 \\div 0. 96$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            226.5,
+                            40,
+                            272.5
+                        ]
+                    ],
+                    "text_description": "$>$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0,
+                            141.92,
+                            423,
+                            215.92
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}1. 61 \\div 0. 7=16. 1 \\div 7=2. 3 \\\\ 1. 728 \\div 0. 96=172. 8 \\div 96=1. 8\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

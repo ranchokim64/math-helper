@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4b795780-6301-4d81-b9d3-fc2c938ef7aa",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004828",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-05] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-04] 직육면체와 정육면체의 겨냥도와 전개도를 그릴 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.82,
+                            12.04,
+                            540.92,
+                            96.5
+                        ]
+                    ],
+                    "text_description": "오른쪽 직육면체의 겨냥도에서 모든 모서리의 길이의 합은 48cm 입니다. 색칠한 두 면에 동시에 수직인 면들의 모서리의 길이의 합은 몇 cm 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            573.21,
+                            10.04,
+                            773.59,
+                            159.08
+                        ]
+                    ],
+                    "text_description": "가로 5cm, 세로$\\square$, 높이4cm로 구성되어있는 직육면체 겨냥도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            673.4,
+                            429.01,
+                            726.39,
+                            454.68
+                        ]
+                    ],
+                    "text_description": "28cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.87,
+                            234.43,
+                            790.15,
+                            405.83
+                        ]
+                    ],
+                    "text_description": "직육면체의 겨냥도에서 길이가 같은 모서리가 각각 4개씩 있으므로 $\\square+4+5) \\times 4=48$ 입니다. $\\square$ \\[ +4+5) \\times 4=48, \\square+4+5=12, \\square=12-4-5=3(\\mathrm{~cm}) \\] 색칠한 두 면에 동시에 수직인 면은 모서리의 길이가 3cm와 4cm로 이루어진 면으로이 두 면은 서로 평행하고 모양과 크기가 같습 니다. 따라서 색칠한 두 면에 동시에 수직인 면들의 모서리의 길이의 합은 $(3+4+3+4) \\times 2=28(\\mathrm{~cm})$ 입니다."
+                }
+            ]
+        }
+    ]
+}

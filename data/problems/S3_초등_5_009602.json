@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7ad99d2e-25a0-477c-b4d5-ddd8ac86e8a3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009602",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.25,
+                            1.69,
+                            487.75,
+                            24.94
+                        ]
+                    ],
+                    "text_description": "계산 결과가 자연수인 것을 찾아 기호를 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            521,
+                            159.62,
+                            676.5,
+                            182.87
+                        ]
+                    ],
+                    "text_description": "(㉠, ㉡, ㉢, ㉣)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            164.82,
+                            28.67,
+                            535.51,
+                            158.21
+                        ]
+                    ],
+                    "text_description": "초록색 테두리의 네모박스에 다음과 같은 계산식이 들어있다.㉠ $\\frac{3}{14} \\times 7$ ㉡ $\\frac{5}{6} \\times 9$ ㉢ $1 \\frac{3}{4} \\times 7$ ㉣ $2 \\frac{9}{15} \\times 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9.5,
+                            230.12,
+                            362.75,
+                            431.87
+                        ]
+                    ],
+                    "text_description": "㉠ $\\frac{3}{14} \\times 7=\\frac{3}{2}=1 \\frac{1}{2}$ ㉡ $\\frac{5}{6} \\times 9=\\frac{15}{2}=7 \\frac{1}{2}$ ㉢ $1 \\frac{3}{4} \\times 7=\\frac{7}{4} \\times 7=\\frac{49}{4}=12 \\frac{1}{4}$ ㉣ $2 \\frac{9}{15} \\times 5=\\frac{39}{15} \\times 5=13$ 따라서 계산 결과가 자연수인 것은 ㉣입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.0,
+                            194.0,
+                            59.0,
+                            216.0
+                        ]
+                    ],
+                    "text_description": "㉣"
+                }
+            ]
+        }
+    ]
+}

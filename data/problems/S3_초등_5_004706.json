@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cdf72055-477f-4290-9a38-031ee21ccb18",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004706",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.5,
+                            15.42,
+                            564.5,
+                            88.42
+                        ]
+                    ],
+                    "text_description": "직선 ㅁㅂ이 대칭축인 선대칭도형입니다. 도형의 둘레는 몇 cm인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            200.46,
+                            112.32,
+                            426.06,
+                            323.84
+                        ]
+                    ],
+                    "text_description": "직선 ㅁㅂ이 대칭축인 선대칭도형이 있습니다. 선 ㄱㅁ은 6cm, 선 ㄱㄴ은 5cm, ㄴㅂ은 4cm로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.5,
+                            390,
+                            506.5,
+                            441
+                        ]
+                    ],
+                    "text_description": "선대칭도형에서 대응변의 길이는 각각 같으므로 둘레는 $6+5+4+4+5+6=30(\\mathrm{cm})$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            399.0,
+                            355.0,
+                            476.0,
+                            380.0
+                        ]
+                    ],
+                    "text_description": "30cm"
+                }
+            ]
+        }
+    ]
+}

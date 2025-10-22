@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d3b32394-7a05-407b-afe2-f8c73d769477",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007559",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 알고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-10] 여러 가지 모양의 사각형에 대한 분류 활동을 통하여 직사각형, 정사각형, 사다리꼴, 평행사변형, 마름모를 이해하고, 그 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.5,
+                            0.42000000000000004,
+                            826.5,
+                            26.42
+                        ]
+                    ],
+                    "text_description": "도형판에서 꼭짓점 한 개만 옮겨서 평행사변형을 만든 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            383,
+                            477.5,
+                            399
+                        ]
+                    ],
+                    "text_description": "마주 보는 두 쌍의 변이 서로 평행하도록 꼭짓점 한 개를 옮깁니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            495.5,
+                            35.0,
+                            790.5,
+                            197.0
+                        ]
+                    ],
+                    "text_description": "도형판에서 꼭짓점을 한 개 옮긴 사각형이 평행사변형으로 되었다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            86.5,
+                            33.42,
+                            383.5,
+                            198.42
+                        ]
+                    ],
+                    "text_description": "도형판에서 꼭짓점을 한 개 옮긴 사각형"
+                }
+            ]
+        }
+    ]
+}

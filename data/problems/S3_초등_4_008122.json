@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "529e91d8-8eb7-4f55-a0ef-a6a4973ac60d",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008122",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-09] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-07] 나누는 수가 두 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.61,
+                            6.37,
+                            928.61,
+                            72.37
+                        ]
+                    ],
+                    "text_description": "수정이가 계산을 하다 멈췄습니다. 수정이가 올바른 답을 구할 수 있도 록 도움이 되는 말을 한 사람의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            380.61,
+                            472,
+                            580.61,
+                            508
+                        ]
+                    ],
+                    "text_description": "(다연, 준서)"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.61,
+                            105.37,
+                            564.61,
+                            269.37
+                        ]
+                    ],
+                    "text_description": "수정 : 27은 약 30이고 $30 \\times 8=240$ 이므로 몫은 8 정도. . . . . . ."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            660.61,
+                            114.66,
+                            817.61,
+                            263.66
+                        ]
+                    ],
+                    "text_description": "$ \\begin{aligned} &\\phantom{27)} \\underline{8} \\\\ &27 \\, |246 \\\\ &\\phantom{27)} \\underline{216} \\\\ &\\phantom{27)} \\, 3 \\, 0 \\\\ \\end{aligned} $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.61,
+                            295,
+                            738.61,
+                            466
+                        ]
+                    ],
+                    "text_description": "다연 : 몫을 1 작게 해 줘. 준서 : 몫을 1 크게 해 줘."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.61,
+                            529,
+                            106.61,
+                            556
+                        ]
+                    ],
+                    "text_description": "준서"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.61,
+                            576,
+                            928.61,
+                            637
+                        ]
+                    ],
+                    "text_description": "나머지가 나누는 수보다 커서 27로 한 번 더 나눌 수 있으므로 몫을 1 크게 해 줍니다."
+                }
+            ]
+        }
+    ]
+}

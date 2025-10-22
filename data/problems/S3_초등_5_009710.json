@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7a14d745-a62c-4989-a6c5-c848905e3f63",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009710",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-03] 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-02] 실생활과 연결하여 선대칭도형과 점대칭도형을 이해하고 그릴 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.33,
+                            5.98,
+                            671.95,
+                            25.48
+                        ]
+                    ],
+                    "text_description": "한 직선을 따라 접었을 때 완전히 겹치는 도형을 모두 찾아 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.72,
+                            30.92,
+                            577.85,
+                            201.53
+                        ]
+                    ],
+                    "text_description": "가 정사각형이다. 나 다가형이다. 다 둔각삼각형이다. 라 육각형이다. 마 네 변의 길이가 모두 다른 사각형이다. 바 한 각이 직각인 삼각형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.25,
+                            212.31,
+                            120.3,
+                            232
+                        ]
+                    ],
+                    "text_description": "가, 라, 바"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.58,
+                            241.98,
+                            552.07,
+                            288.89
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { 한 직선을 따라 접었을 때 완전히 겹치는 도형은 선대칭도형입니다. } \\\\ \\Rightarrow \\text { 가, 라, 바 }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

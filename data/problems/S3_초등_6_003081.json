@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6043e462-e945-4c06-ad6b-b7b1e6867548",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003081",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16,
+                            17.2,
+                            735,
+                            81.2
+                        ]
+                    ],
+                    "text_description": "다희는 쓰레기를 담으면서 달리는 '쓰담달리기'를 하였습니다. 다희가 달린 운동장이 다음과 같은 모양일 때 운동장의 넓이는 몇 $\\mathrm{m}^{2}$ 인지 구해 보세요. (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            174,
+                            117.2,
+                            577,
+                            294.2
+                        ]
+                    ],
+                    "text_description": "가로가 35m, 세로가 20cm인 직사각형과 지름이 20m로 하는 반원이 직사각형의 세로부분에 맞닿아있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            570,
+                            310.2,
+                            735,
+                            338.2
+                        ]
+                    ],
+                    "text_description": "1014m²"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            312.2,
+                            462,
+                            336.2
+                        ]
+                    ],
+                    "text_description": "운동장은 가로가 35m, 세로가 20m 인 직사각형과"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            340.2,
+                            735,
+                            387.2
+                        ]
+                    ],
+                    "text_description": "반지름이 10m 인 반원 2 개가 합쳐진 모양입니다. 따라서 원주율이 3. 14 일 때 운동장의 넓이는 $(35 \\times 20)+(10 \\times 10 \\times 3. 14 \\div 2) \\times 2=700+314=1014\\left(\\mathrm{~m}^{2}\\right)$ 입니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2a5f5774-66f1-4ea5-99c9-a39454e06246",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010123",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-06] 가능성을 수나 말로 나타낸 예를 찾아보고, 가능성을 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            9.64,
+                            665.8,
+                            60.04
+                        ]
+                    ],
+                    "text_description": "1부터 6까지의 눈이 그려진 주사위를 한 번 굴릴 때 일이 일어날 가능성이 더 낮은 것을 찾아 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            111.5,
+                            413.8,
+                            165.3
+                        ]
+                    ],
+                    "text_description": "① 주사위 눈의 수가 3 이하로 나올 가능성 ② 주사위 눈의 수가 6보다 큰 수로 나올 가능성"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            181.0,
+                            63.0,
+                            504.0,
+                            107.0
+                        ]
+                    ],
+                    "text_description": "1부터 6까지의 눈이 그려진 주사위"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.6,
+                            210.1,
+                            670.4,
+                            354.1
+                        ]
+                    ],
+                    "text_description": "① 주사위 눈의 수가 3 이하로 나올 가능성은 '반반이다'이므로 수로 표현하면 $\\frac{1}{2}$ 입 니다. ② 주사위 눈의 수가 6보다 큰 수로 나올 가능성은 '불가능하다'이므로 수로 표현하면 0 입니다. 따라서 일이 일어날 가능성이 더 낮은 것은 ②입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            39.8,
+                            174.9,
+                            58.6,
+                            197.7
+                        ]
+                    ],
+                    "text_description": "②"
+                }
+            ]
+        }
+    ]
+}

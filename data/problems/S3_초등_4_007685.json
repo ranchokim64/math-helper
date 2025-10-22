@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c54f948e-7180-4a0c-8395-5e6c2c34c94b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007685",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.5,
+                            5.74,
+                            605.7,
+                            41.34
+                        ]
+                    ],
+                    "text_description": "수직으로 만나는 변이 없는 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            299.12,
+                            106.22,
+                            411.92,
+                            158.02
+                        ]
+                    ],
+                    "text_description": "⑤ 평행사변형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.3,
+                            228.6,
+                            412.9,
+                            255.8
+                        ]
+                    ],
+                    "text_description": "직각이 없는 도형을 찾으면 ⑤입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.1,
+                            264.6,
+                            387.3,
+                            408.6
+                        ]
+                    ],
+                    "text_description": "① 직각이 하나 있는 직각삼각형이다. ② 직각이 하나 있는 사각형이다. ③ 네 각이 모두 직각인 직사각형이다. ④ 네 각이 모두 직각인 마름모이다. ⑤ 직각이 없는 평행사변형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.1,
+                            46,
+                            664.7,
+                            103.6
+                        ]
+                    ],
+                    "text_description": "① 직각이 하나 있는 직각삼각형이다. ② 직각이 하나 있는 사각형이다. ③ 네 각이 모두 직각인 직사각형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.7,
+                            106.2,
+                            121.5,
+                            179.8
+                        ]
+                    ],
+                    "text_description": "④ 네 각이 모두 직각인 마름모이다."
+                }
+            ]
+        }
+    ]
+}

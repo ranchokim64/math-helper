@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fe967565-1b0f-4c0e-813c-763e5ccc0710",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010980",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.9,
+                            10.74,
+                            860.1,
+                            107.54
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 1층 위에 서로 다른 모양으로 2층과 3층을 쌓으려고 합니다. 1층 모양을 보고 2층과 3층으로 쌓을 수 있는 알맞은 모양을 찾아 기호를 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            209.7,
+                            113.6,
+                            680.9,
+                            287
+                        ]
+                    ],
+                    "text_description": "이미지에는 세 개의 블록 구조가 나열되어 있습니다. 각 구조는 다음과 같습니다: 1. 가: 세 개의 블록이 좌측에 세로로 쌓여 있고, 3x3 크기입니다. 2. 나: 블록이 우측 위에 가로로 나란히 배치되어 있습니다. 전체적으로 3x3 크기입니다. 3. 다: 세 개의 블록이 ㄱ자로 쌓이고, 전체적으로 3x3 크기입니다. 각 블록 구조 아래에는 \"앞\"이라는 문구가 위쪽을 향해 화살표로 표시되어 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            178.1,
+                            291.2,
+                            706.5,
+                            460
+                        ]
+                    ],
+                    "text_description": "이미지는 1층 공간을 나타내는 3x3 형태의 블록으로 구성되어 있고, 2층, 3층은 (가, 나, 다)라고 적혀있습니다. 1층은 1행은 3칸, 2행은 중앙이 비어있고, 3행은 우측 한 칸이 채워져 있는 블록입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.9,
+                            475.2,
+                            108.1,
+                            500.8
+                        ]
+                    ],
+                    "text_description": "다, 나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.3,
+                            516.8,
+                            860.1,
+                            573.6
+                        ]
+                    ],
+                    "text_description": "2층으로 가능한 모양은 나와 다입니다. 나를 2층에 놓으면 3층에 놓을 수 있는 모양이 없습니다. 따라서 2층에 다, 3층에 나를 놓습니다."
+                }
+            ]
+        }
+    ]
+}

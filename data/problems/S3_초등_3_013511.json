@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8396fbd1-19de-44b5-996a-7d24ce00f3ef",
+        "date": "2024-10-29",
+        "publisher": "교학사",
+        "publication_year": "2023-01-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_013511",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92.68,
+                            15.43,
+                            767.88,
+                            110.63
+                        ]
+                    ],
+                    "text_description": "다음 중 안에 공통으로 들어갈 수 있는 수는 어 느 것입니까?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            211.88,
+                            150.23,
+                            651.88,
+                            280.23
+                        ]
+                    ],
+                    "text_description": "$2 \\square \\div 6=\\square$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            427.08,
+                            350.63,
+                            494.28,
+                            389.03
+                        ]
+                    ],
+                    "text_description": "$④$ $4$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95.88,
+                            301.5,
+                            494.28,
+                            339.9
+                        ]
+                    ],
+                    "text_description": "$① 1$ $② 2$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            94.28,
+                            351.9,
+                            160.68,
+                            439.1
+                        ]
+                    ],
+                    "text_description": "$③ 3$ $⑤ 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.28,
+                            483.5,
+                            519.08,
+                            579.1
+                        ]
+                    ],
+                    "text_description": "$6$의 단 곱셈구구에서 십의 자리에 $2$가 나오는 수를 생각합니다. $6 \\times 4=24$ 이므로 $\\square$ 안에 공통으로 들어갈 수 있는 수는 $4$입니다."
+                }
+            ]
+        }
+    ]
+}

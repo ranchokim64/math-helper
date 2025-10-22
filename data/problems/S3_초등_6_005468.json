@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "654bcefc-3e97-4de5-b2e9-eb7b637c33ff",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005468",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14,
+                            14.92,
+                            456,
+                            86.92
+                        ]
+                    ],
+                    "text_description": "원주가 43.96cm 인 원의 반지름은 몇 cm 인가 요? (원주율: 3. 14)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            312,
+                            95.92,
+                            370,
+                            124.92
+                        ]
+                    ],
+                    "text_description": "7cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.47,
+                            130.17,
+                            305.83,
+                            158.13
+                        ]
+                    ],
+                    "text_description": "(반지름) $=43. 96 \\div 3. 14 \\div 2=7(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

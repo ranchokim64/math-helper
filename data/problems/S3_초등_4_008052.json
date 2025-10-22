@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "014896b8-0edc-4be4-82b1-03c6f8c23c4b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008052",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-12] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-24] 각의 크기의 단위인 1도(°)를 알고, 각도기를 이용하여 각의 크기를 측정하고 어림할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.83,
+                            4.33,
+                            930.83,
+                            71.33
+                        ]
+                    ],
+                    "text_description": "각도를 잘못 읽은 사람을 찾아 이유를 설명한 것입니다. 알맞은 말을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.83,
+                            342.94,
+                            902.83,
+                            453.94
+                        ]
+                    ],
+                    "text_description": "② (진호, 민수)는 각의 한 변이 바깥쪽 눈금 0에 맞춰져 있으므로 (안쪽, 바깥쪽) 눈금을 읽어야 하는데 (안쪽, 바깥쪽) 눈금을 잘못 읽 었습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            119.83,
+                            80.33,
+                            843.83,
+                            328.33
+                        ]
+                    ],
+                    "text_description": "180도를 측정 가능한 각도기가 있고, 왼쪽은 80도, 오른쪽은 130도를 가리키는 선이 있습니다. 왼쪽 아래는 진호 : 100도, 오른쪽 아래에는 민수: 130도로 표기되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.83,
+                            558.94,
+                            233.83,
+                            587.94
+                        ]
+                    ],
+                    "text_description": "② 진호, 바깥쪽, 안쪽"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.83,
+                            469.94,
+                            922.83,
+                            531.94
+                        ]
+                    ],
+                    "text_description": "각의 한 변이 바깥쪽 눈금 0에 맞춰져 있으면 각의 나머지 변과 만나는 바깥쪽 눈금을 읽어야 합니다. 따라서 진호는 $100^{\\circ}$가 아닌 $80^{\\circ}$로 읽어야 합니다."
+                }
+            ]
+        }
+    ]
+}

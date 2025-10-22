@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6c1bf5af-b3e4-49a1-abe5-127b5182ee3c",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011858",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.58,
+                            8.62,
+                            515.18,
+                            60.62
+                        ]
+                    ],
+                    "text_description": "선주 어머니께서는 시장에서 땅콩 1750g과 딸기 930g을 사셨 습니다. 모두 몇 kg을 사셨을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            402.78,
+                            73.22,
+                            465.58,
+                            94.62
+                        ]
+                    ],
+                    "text_description": "2.68kg"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.53,
+                            101.11,
+                            186.37,
+                            118.03
+                        ]
+                    ],
+                    "text_description": "각각 kg으로 바꾸어 계산하면"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            154.95,
+                            119.83,
+                            193.37,
+                            136.22
+                        ]
+                    ],
+                    "text_description": "입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.45,
+                            119.03,
+                            154.05,
+                            136.59
+                        ]
+                    ],
+                    "text_description": "$1. 75+0. 93=2. 68(\\mathrm{~kg})$"
+                }
+            ]
+        }
+    ]
+}

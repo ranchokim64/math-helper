@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "d72ef200-fa34-45e4-8db7-7281756a28ca",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008508",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.23,
+                            5.9,
+                            926.23,
+                            75.9
+                        ]
+                    ],
+                    "text_description": "계산식의 규칙에 따라 빈칸에 알맞은 식을 바르게 말한 사람의 이름을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            286.23,
+                            81.9,
+                            670.23,
+                            285.9
+                        ]
+                    ],
+                    "text_description": "$\\begin{aligned} 615+231 & =846 \\\\ 615+241 & =856 \\\\ 615+251 & =866 \\\\ () \\end{aligned}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            391.23,
+                            445.5,
+                            564.23,
+                            477.5
+                        ]
+                    ],
+                    "text_description": "(영준, 규리)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            144.23,
+                            289.5,
+                            812.23,
+                            442.5
+                        ]
+                    ],
+                    "text_description": "영준 : 빈칸에 알맞은 식은 $625+251=876$이야. 규리 : 빈칸에 알맞은 식은 $615+261=876$일 거야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.23,
+                            495.5,
+                            101.23,
+                            524.5
+                        ]
+                    ],
+                    "text_description": "규리"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.23,
+                            542.5,
+                            925.23,
+                            605.5
+                        ]
+                    ],
+                    "text_description": "더하는 수의 십의 자리 수가 $1$씩 커지므로 빈칸에 알맞은 식은 $615 + 261 = 876$ 입니다."
+                }
+            ]
+        }
+    ]
+}

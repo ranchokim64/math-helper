@@ -1,0 +1,120 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "59256b6c-bc8b-41fa-a165-fd1aa52ef8f3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010698",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-04] 약수와 배수의 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다.",
+            "[6수01-05] 배수, 공배수, 최소공배수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            1.91,
+                            790,
+                            58.91
+                        ]
+                    ],
+                    "text_description": "두 수가 약수와 배수의 관계이면 $\\bigcirc$, 약수와 배수의 관계가 아니면 $\\times$를 선 택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.0,
+                            73.0,
+                            159.0,
+                            114.0
+                        ]
+                    ],
+                    "text_description": "숫자 4와 28"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.0,
+                            121.0,
+                            74.0,
+                            142.0
+                        ]
+                    ],
+                    "text_description": "o"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97.0,
+                            121.0,
+                            117.0,
+                            144.0
+                        ]
+                    ],
+                    "text_description": "x"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.0,
+                            150.5,
+                            130.0,
+                            176.5
+                        ]
+                    ],
+                    "text_description": "$28 \\div 4=7(\\bigcirc)$"
+                }
+            ]
+        }
+    ]
+}

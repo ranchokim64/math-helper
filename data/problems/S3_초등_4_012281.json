@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bb56e31c-6d2d-445e-9a80-882c29ef5a78",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012281",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59,
+                            13.41,
+                            508,
+                            89.41
+                        ]
+                    ],
+                    "text_description": "주어진 도형을 돌렸을 때 생기는 도형이 아닌 것은 어느 것일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            216,
+                            100.41,
+                            345,
+                            228.41
+                        ]
+                    ],
+                    "text_description": "모눈종이위에 삼각형이 그려져있다. 밑면은 모뭄종이의 다섯칸을 차지하고있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            279,
+                            368,
+                            436,
+                            495
+                        ]
+                    ],
+                    "text_description": "④보기의 이미지가 좌우대칭된 모습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76,
+                            634,
+                            456,
+                            662
+                        ]
+                    ],
+                    "text_description": "④ 오른쪽이나 왼쪽으로 뒤집으면 생기는 모양입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            236,
+                            215,
+                            627
+                        ]
+                    ],
+                    "text_description": "①세로가 긴 삼각형이다. ③윗면이 긴 삼각형이다. ⑤양쪽이 똑같은 이등변 삼각형이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            279,
+                            237,
+                            439,
+                            361
+                        ]
+                    ],
+                    "text_description": "②보기와 똑같이 생긴 삼각형이다."
+                }
+            ]
+        }
+    ]
+}

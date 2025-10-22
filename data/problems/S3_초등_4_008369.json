@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "23cbcc81-dd09-486d-b6b0-24bf458014ce",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008369",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.5,
+                            3.42,
+                            932.5,
+                            73.42
+                        ]
+                    ],
+                    "text_description": "<보기>의 모양 조각을 위쪽으로 뒤집고 시계 방향으로 $90^{\\circ}$만큼 돌렸을 때의 모양을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            95.5,
+                            80.42,
+                            297.5,
+                            256.42
+                        ]
+                    ],
+                    "text_description": "<보기> 삼각형과육각형이 합쳐진 모양입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            388.5,
+                            124,
+                            814.5,
+                            216
+                        ]
+                    ],
+                    "text_description": "시계 방향으로 90도 돌아간 모양입니다. 시계 방향으로 270도 돌아간 모양입니다. 시계 방향으로 180도 돌아간 모양입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.5,
+                            265,
+                            149.5,
+                            333
+                        ]
+                    ],
+                    "text_description": "위쪽으로 뒤집고 시계 방향으로 90도만큼 돌린 모양입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.5,
+                            346,
+                            932.5,
+                            407
+                        ]
+                    ],
+                    "text_description": "모양 조각을 위쪽으로 뒤집으면 위쪽과 아래쪽이 서로 바뀌고, 시계 방향으로 $90^{\\circ}$만큼 돌리면 위쪽이 오른쪽으로 이동합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.5,
+                            417,
+                            243.5,
+                            599
+                        ]
+                    ],
+                    "text_description": "위쪽으로 뒤집고 시계 방향으로 90도만큼 돌린 과정을 그린 그림입니다."
+                }
+            ]
+        }
+    ]
+}

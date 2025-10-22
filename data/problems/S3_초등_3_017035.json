@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cae5548e-32d9-482b-ac65-9ba59b1f36f7",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017035",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.82,
+                            6.39,
+                            432.62,
+                            22.39
+                        ]
+                    ],
+                    "text_description": "100이 2개, 10이 8개, 1이 9개인 수보다 412 큰 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.42,
+                            38.02,
+                            57.42,
+                            56.42
+                        ]
+                    ],
+                    "text_description": "① 701"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.62,
+                            203.62,
+                            87.82,
+                            219.62
+                        ]
+                    ],
+                    "text_description": "① 701"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.42,
+                            62.82,
+                            59.02,
+                            132.42
+                        ]
+                    ],
+                    "text_description": "② 702 ③ 703 ④ 704"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.82,
+                            146.02,
+                            434.41999999999996,
+                            162.82
+                        ]
+                    ],
+                    "text_description": "100이 2개, 10이 8개, 1이 9개인 수는 200 + 80 + 9 = 289입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.02,
+                            171.62,
+                            124.62,
+                            186.82
+                        ]
+                    ],
+                    "text_description": "$289+412=701$"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9fe8aaa7-59ca-4893-8541-ba852e4586b8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010529",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.74,
+                            6.41,
+                            960.74,
+                            80.16
+                        ]
+                    ],
+                    "text_description": "다음은 유리가 한 달에 쓴 용돈의 쓰임새를 나타낸 띠그래프입니다. 둘째로 많은 돈을 지출한 항목을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296.99,
+                            298.41,
+                            688.24,
+                            327.66
+                        ]
+                    ],
+                    "text_description": "(학용품, 군것질, 저금, 기타)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            258.99,
+                            89.63,
+                            729.99,
+                            295.88
+                        ]
+                    ],
+                    "text_description": "용돈의 쓰임새별 금액의 띠그래프가 있다 0부터 100(%) 눈금자로 그려져 있고, 왼쪽부터 학용품은 40%, 군것질은 25%, 저금은 20%, 책은 10%, 기타는 5% 차지하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.99,
+                            344.63,
+                            135.74,
+                            378.13
+                        ]
+                    ],
+                    "text_description": "군것질"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            12.49,
+                            390.88,
+                            960.74,
+                            462.13
+                        ]
+                    ],
+                    "text_description": "(해설)각 용돈의 쓰임새의 백분율의 크기를 비교하면 $40>25>20>10>5$ 이므로 둘째로 많은 돈을 지출한 항목은 군것질입니다."
+                }
+            ]
+        }
+    ]
+}

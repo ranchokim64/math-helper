@@ -1,0 +1,83 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a27d9fda-57ce-489e-9b87-d44cfe10a7bc",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012559",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-07] 실생활 문제 상황을 통하여 들이의 덧셈과 뺄셈을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-19] 실생활 문제 상황과 연결하여 들이의 덧셈과 뺄셈을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.3,
+                            5.33,
+                            439.7,
+                            149.33
+                        ]
+                    ],
+                    "text_description": "1L짜리 비커 2개에 각각 900mL와 800mL의 물이 들어 있습니다. 두 비커에 있는 물을 더하면 물의 양은 모두 몇 mL 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            301.3,
+                            174.13,
+                            386.9,
+                            197.33
+                        ]
+                    ],
+                    "text_description": "1700mL"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.9,
+                            196,
+                            198.9,
+                            217
+                        ]
+                    ],
+                    "text_description": "$900+800=1700(\\mathrm{~mL})$"
+                }
+            ]
+        }
+    ]
+}

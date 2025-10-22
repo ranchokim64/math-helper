@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f5988888-12dd-4eb7-b85d-276fd750b3de",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008460",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.62,
+                            4.25,
+                            935.62,
+                            74.75
+                        ]
+                    ],
+                    "text_description": "다음 그림그래프와 막대그래프는 모두 무엇을 나타낸 것인지 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            254.87,
+                            570.25,
+                            716.62,
+                            600.75
+                        ]
+                    ],
+                    "text_description": "과수원별 (사과 생산량, 참외 생산량)"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            224.37,
+                            82.25,
+                            748.62,
+                            349.75
+                        ]
+                    ],
+                    "text_description": "과수원별 참외 생산량의 그림그래프가 있다. 가로는 생산량이고 세로는 과수원이다. 큰 참외 그림은 10상자, 작은 참외 그림은 1상자이다. 다정은 2개의 큰 참외와 8개의 작은 참외가 있다. 진실은 3개의 큰 참외와 4개의 작은 참외가 있다. 만족은 4개의 큰 참외와 2개의 작은 참외가 있다. 산들은 3개의 참외와 6개의 작은 참외가 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            199.37,
+                            350.5,
+                            773.62,
+                            567.75
+                        ]
+                    ],
+                    "text_description": "과수원별 참외 생산량의 막대그래프이다 가로는 생산량(상자)이고, 세로는 과수원이다. 산들은 36, 만족은 42, 진실은 34, 다정은 28로 표시되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            63.62,
+                            620.25,
+                            192.12,
+                            647.25
+                        ]
+                    ],
+                    "text_description": "참외 생산량"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.119999999999997,
+                            665.25,
+                            933.62,
+                            727.25
+                        ]
+                    ],
+                    "text_description": "그림그래프와 막대그래프의 제목을 보면 그림그래프와 막대그래프 모두 과수원 별 참외 생산량을 나타낸 것임을 알 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "64e8b8d1-46ea-4d28-9355-b72a97ae5d12",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003072",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            4.42,
+                            466.5,
+                            101.42
+                        ]
+                    ],
+                    "text_description": "다희는 크기가 다른 원 모양의 접시 4 개를 서로 겹쳐서 오른쪽 그림과 같이 정리하려고 합니다. 접시의 지름이 긴 것부터 차례대로 기호를 써 보세요. (원주율: 3. 1)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            125.5,
+                            144,
+                            361.5,
+                            279
+                        ]
+                    ],
+                    "text_description": "㉠ 원주가 55.8cm 인 접시 ㉡ 반지름이 10cm 인 접시 ㉢ 지름이 16cm 인 접시 ㉣ 원주가 93cm 인 접시"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.5,
+                            317,
+                            261.5,
+                            562
+                        ]
+                    ],
+                    "text_description": "다희가 크기가 다른 원 모양의 접시 4개를 겿져서 정리하려고 하는 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            683,
+                            396.5,
+                            714
+                        ]
+                    ],
+                    "text_description": "(㉣, ㉡, ㉠, ㉢)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.5,
+                            578,
+                            265.5,
+                            659
+                        ]
+                    ],
+                    "text_description": "㉠ $55. 8 \\div 3. 1=18(\\mathrm{~cm})$ ㉡ $10 \\times 2=20(\\mathrm{~cm})$ ㉣ $93 \\div 3. 1=30(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

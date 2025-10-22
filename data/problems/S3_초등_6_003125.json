@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "836049b3-9669-465b-95f7-5567e4446b7d",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_003125",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.4,
+                            3.24,
+                            727.4,
+                            66.44
+                        ]
+                    ],
+                    "text_description": "태오는 원 모양이 있는 물건에서 원의 지름을 재었습니다. 각 물건에서 원주는 몇 cm인지 구해 보세요. (원주율: 3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68.2,
+                            88.5,
+                            663.4,
+                            212.5
+                        ]
+                    ],
+                    "text_description": "시디와 거울의 원주를 구하는 표"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.8,
+                            241.3,
+                            686.6,
+                            374.1
+                        ]
+                    ],
+                    "text_description": "시디의 원주: 37. 2cm, 거울의 원주: 62cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.6,
+                            378.1,
+                            693.8,
+                            409.3
+                        ]
+                    ],
+                    "text_description": "$($ 시디의 원주 $)=12 \\times 3. 1=37. 2(\\mathrm{~cm}), ($ 거울의 원주 $)=20 \\times 3. 1=62(\\mathrm{~cm})$"
+                }
+            ]
+        }
+    ]
+}

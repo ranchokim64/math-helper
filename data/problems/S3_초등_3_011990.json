@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c4cf085b-86eb-4172-b21b-a6357620e5d3",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_011990",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.3,
+                            2.41,
+                            481.46,
+                            154.73
+                        ]
+                    ],
+                    "text_description": "4-2 사탕을 보검이는 34개씩 4묶음 가지 고 있고, 유정이는 48 개씩 3 묶음 가지고 있습니다. 누가 사탕을 더 많이 가지고 있 을까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            44.34,
+                            258.14,
+                            482.26,
+                            301.66
+                        ]
+                    ],
+                    "text_description": "따라서 144>1366으므로 유정이가 사탕을 더 많이 가지고 있습 니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.06,
+                            210.14,
+                            379.7,
+                            257.5
+                        ]
+                    ],
+                    "text_description": "(보검이가 가지고 있는 사탕 수) $=34 \\times 4=136$ (개) (유정이가 가지고 있는 사탕 수) $=48 \\times 3=144$ ㉮"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            364.34,
+                            175.85,
+                            404.66,
+                            202.73
+                        ]
+                    ],
+                    "text_description": "유정"
+                }
+            ]
+        }
+    ]
+}

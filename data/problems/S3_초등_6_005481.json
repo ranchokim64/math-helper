@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9bdb79de-34d8-40fc-80ce-d168423ad553",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005481",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-10] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-09] 쌓기나무로 만든 입체도형을 보고 사용된 쌓기나무의 개수를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.94,
+                            14.29,
+                            468.34,
+                            84.69
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양과 1층 모양을 보고 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.1,
+                            307.78,
+                            453.62,
+                            374.34
+                        ]
+                    ],
+                    "text_description": "똑같은 모양으로 쌓는 데 필요한 쌓기나무는 모 두 몇 개인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.38,
+                            96.21,
+                            387.06,
+                            276.05
+                        ]
+                    ],
+                    "text_description": "쌓기나무와 그것의 1층 모양입니다. 왼쪽의이 이미지는 나무 상자로 구성된 구조물입니다. 상자들은 서로 쌓여 있으며, 하나의 상자가 다른 상자 위에 놓여 있습니다. 왼쪽 아래에는 '앞'이라는 표시가 있습니다. 오른쪽의이 이미지는 건물의 1층 평면도를 나타내고 있습니다. 방이 네 개로 나뉘어 있으며, '앞'이라는 방향이 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            313.46,
+                            390.34,
+                            364.02,
+                            418.5
+                        ]
+                    ],
+                    "text_description": "11개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            424.26,
+                            163.7,
+                            447.3
+                        ]
+                    ],
+                    "text_description": "$6+4+1=11$ (개)"
+                }
+            ]
+        }
+    ]
+}

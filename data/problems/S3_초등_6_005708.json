@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0125e6dc-7c96-46c7-a076-1764584b979e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005708",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.779999999999999,
+                            3.29,
+                            692.94,
+                            48.91
+                        ]
+                    ],
+                    "text_description": "각 반의 회장 선거의 반별 투표율을 나타낸 것입니다. 투표율이 높은 반부터 차례로 이름을 써 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.26,
+                            279.17,
+                            260.8,
+                            301.45
+                        ]
+                    ],
+                    "text_description": "준기네 반의 투표율은 몇 %인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            79.15,
+                            57.23,
+                            628.81,
+                            258.36
+                        ]
+                    ],
+                    "text_description": "은아: 우리반의 투표율은 75%야. 준기: 우리 반은 25명 중 19명이 투표했어. 시형: 우리 반의 전체 학생 수에 대한 투표한 학생수의 비율은 $\\frac{4}{5}$야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            519.96,
+                            278.64,
+                            564.31,
+                            302.71
+                        ]
+                    ],
+                    "text_description": "$76 \\%$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.850000000000001,
+                            302.71,
+                            127.74,
+                            337.66
+                        ]
+                    ],
+                    "text_description": "$\\frac{19}{25} \\times 100=76(\\%)$"
+                }
+            ]
+        }
+    ]
+}

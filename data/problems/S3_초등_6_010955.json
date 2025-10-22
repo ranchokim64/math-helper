@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "75fa24f6-7f2a-411a-8950-b422c17e2323",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010955",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.96,
+                            4.57,
+                            766.88,
+                            57.77
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 앞과 옆에서 본 모양을 그린 것으로 알맞게 짝 지어진 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            329.92,
+                            62.89,
+                            465.08,
+                            203.33
+                        ]
+                    ],
+                    "text_description": "쌓기나무를 위에서 본 모양을 표기한 그림입니다. $$ \\begin{array}{ccc} 2 & 3 & 2 \\\\ & 1 & \\end{array} $$ 위 옆 앞이 표기되어 있습니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            133.36,
+                            205.06,
+                            660.28,
+                            311.22
+                        ]
+                    ],
+                    "text_description": "왼쪽은 앞에서 본 모양으로 왼쪽에서부터 2층, 3층, 2층 옆에서 본 모양으로 왼쪽에서부터 1층, 2층으로 되어있습니다. 오른쪽은 앞에서 본 모양으로 왼쪽에서부터 2층, 3층, 2층 옆에서 본 모양으로 왼쪽에서부터 1층, 3층으로 되어있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.8,
+                            320.82,
+                            206.52,
+                            405.94
+                        ]
+                    ],
+                    "text_description": "앞에서 본 모양으로 왼쪽에서부터 2층, 3층, 2층 옆에서 본 모양으로 왼쪽에서부터 1층, 3층으로 되어있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.96,
+                            415.82,
+                            508.32,
+                            493.62
+                        ]
+                    ],
+                    "text_description": "위에서 본 모양에 수들 쓴 것을 보고 그립니다. - 앞에서 보면 왼쪽에서부터 2 층, 3 층, 2 층으로 보입니다. - 옆에서 보면 왼쪽에서부터 1 층, 3 층으로 보입니다."
+                }
+            ]
+        }
+    ]
+}

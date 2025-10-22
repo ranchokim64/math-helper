@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8950155a-b9a9-48a2-b422-2f547b36a298",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011044",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            3.9,
+                            861,
+                            69.9
+                        ]
+                    ],
+                    "text_description": "다음은 한 면의 넓이가 $1 \\mathrm{~cm}^{2}$ 인 쌓기 나무 $5$개로 쌓은 모양입니다. 위, 앞, 옆에서 본 모양을 각각 바르게 그린 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65,
+                            75.9,
+                            823,
+                            376.9
+                        ]
+                    ],
+                    "text_description": "$1$층에는 $4$개, $2$층에 $1$개의 쌓기나무가 있고 위, 앞, 옆에서 본다는 표시의 화살표가 있습니다. 점선을 기준으로 왼쪽에는 위 모눈종이 위에 $4$개의 쌓기 나무가 있다. 앞 모눈종이 위에 ㄴ자 모양의 쌓기 나무가 $3$개 있다. 옆 모눈종이 위에 ㄴ자 모양의 좌우반전을 한 쌓기 나무가 $3$개 있다. 오른쪽에서는 위 모눈종이 위에 $4$개의 쌓기 나무가 있다. 앞 모눈종이 위에 ㄴ자 모양의 쌓기 나무가 $3$개 있다. 옆 모눈종이 위에 ㄱ자 모양의 쌓기 나무가 $3$개 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.66,
+                            389.35,
+                            378.01,
+                            516.16
+                        ]
+                    ],
+                    "text_description": "위 모눈종이 위에 $4$개의 쌓기 나무가 있다. 앞 모눈종이 위에 ㄴ자 모양의 쌓기 나무가 $3$개 있다. 옆 모눈종이 위에 ㄴ자 모양의 좌우반전을 한 쌓기 나무가 $3$개 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.92,
+                            524.52,
+                            347.24,
+                            544
+                        ]
+                    ],
+                    "text_description": "옆에서 본 모양은 $1$층에 $2$개, $2$층에 $1$개입니다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            457.96,
+                            232.32,
+                            822.76,
+                            377.6
+                        ]
+                    ],
+                    "text_description": "위 모눈종이 위에 4개의 쌓기나무가 있다\n앞 모눈종이 위에 ㄴ모양의 쌓기나무가 3개있다.\n옆 모눈종이 위에 쌓기나무가 3개있다."
+                }
+            ]
+        }
+    ]
+}

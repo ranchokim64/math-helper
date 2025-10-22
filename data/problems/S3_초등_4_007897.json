@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "42a63539-1f8b-4565-baac-703a0f6d789e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007897",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-11] 다각형과 정다각형의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-11] 다각형과 정다각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.42,
+                            11.08,
+                            490.46,
+                            38.09
+                        ]
+                    ],
+                    "text_description": "다각형이면 $\\bigcirc$, 아니면 $\\times$를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370.11,
+                            43.37,
+                            508.66,
+                            129.67
+                        ]
+                    ],
+                    "text_description": "선분으로 둘러싸이지 않고 열려 있는 도형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.44,
+                            151.73,
+                            53.68,
+                            174.63
+                        ]
+                    ],
+                    "text_description": "$\\otimes$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.44,
+                            129.42,
+                            50.16,
+                            148.21
+                        ]
+                    ],
+                    "text_description": "Ⓞ"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.85,
+                            230.99,
+                            672.46,
+                            253.88
+                        ]
+                    ],
+                    "text_description": "선분으로 둘러싸이지 않고 열려 있기 때문에 다각형이 아닙니다."
+                }
+            ]
+        }
+    ]
+}

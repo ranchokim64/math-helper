@@ -24,6 +24,10 @@
 .DS_Store
 *.pem
 
+# IDE
+.idea/
+.vscode/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
@@ -39,3 +43,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+/generated/prisma
+
+# Large data files
+/data/images
+/public/problems
+/public/recordings
+
+# Database
+*.db
+*.db-journal

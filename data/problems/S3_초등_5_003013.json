@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "074991ed-aff1-4848-a350-901842df015c",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003013",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-03] 평면도형의 둘레를 재어보는 활동을 통하여 둘레를 이해하고, 기본적인 평면도형의 둘레의 길이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-11] 평면도형의 둘레를 이해하고, 기본적인 평면도형의 둘레를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7,
+                            8.42,
+                            263,
+                            37.42
+                        ]
+                    ],
+                    "text_description": "다각형의 둘레를 구해 보세요"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.4,
+                            63.92,
+                            260.76,
+                            211.36
+                        ]
+                    ],
+                    "text_description": "한 변의 길이가 7cm인 마름모가 있습니다. 왼쪽 위에 마름모라고 적혀있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.2,
+                            304.08,
+                            235.8,
+                            332.96
+                        ]
+                    ],
+                    "text_description": "$28 \\mathrm{~cm}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3,
+                            214,
+                            570,
+                            303
+                        ]
+                    ],
+                    "text_description": "마름모의 둘레: $($ 한 변의 길이 $) \\times 4$ 이므로 $7 \\times 4=28(\\mathrm{cm})$ 입니다. \\[ \\frac{7 \\times 4=28}{\\text { 또는 } 7+7+7+7=28} \\]"
+                }
+            ]
+        }
+    ]
+}

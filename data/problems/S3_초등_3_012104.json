@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "910a3cfd-f43d-4905-8063-8ba58e7dbd91",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012104",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            64.89,
+                            23.19,
+                            588.18,
+                            102.56
+                        ]
+                    ],
+                    "text_description": "$\\square$ 안에 들어갈 수 있는 가장 큰 세 자 리 수는 어떤 수일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.88,
+                            130.7,
+                            587.68,
+                            230.82
+                        ]
+                    ],
+                    "text_description": "$974-\\square>736$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            449.59,
+                            259.42,
+                            494.96,
+                            281.62
+                        ]
+                    ],
+                    "text_description": "$237$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            91.03,
+                            294.44,
+                            576.83,
+                            371.38
+                        ]
+                    ],
+                    "text_description": "$974-736=238$ 이므로 974-238=736입니다. 따라서 $\\square$ 안에 들어갈 수 있는 가장 큰 세 자리 수는 238보다 I 작은 237입니다."
+                }
+            ]
+        }
+    ]
+}

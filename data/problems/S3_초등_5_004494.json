@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bdfd249e-1507-4430-8df8-9959091a79b5",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004494",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-05] 직사각형의 넓이를 구하는 방법을 이해하고, 이를 통하여 직사각형과 정사각형의 넓이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-13] 직사각형과 정사각형의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49,
+                            6.42,
+                            260,
+                            39.42
+                        ]
+                    ],
+                    "text_description": "도형의 넓이를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            137.28,
+                            40.77,
+                            342.28,
+                            183.77
+                        ]
+                    ],
+                    "text_description": "이미지에는 'H'자 형태의 도형이 그려져 있음. 전체 도형은 두 개의 사각형과 두 개의 세로 박스 형태로 구성됨. - 각 상단 사각형의 너비는 7cm, 높이는 5cm. - 두 세로 박스의 너비는 6cm. - 전체 도형의 높이는 15cm. 살펴보면, 상단 왼쪽과 오른쪽 사각형은 동일한 크기이며, 세로 박스가 중앙에 위치하고 있음. 도형의 라인은 실선, 모서리는 직각으로 표시되어 있음."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            296.28,
+                            198.77,
+                            371.28,
+                            219.77
+                        ]
+                    ],
+                    "text_description": "$240 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66,
+                            228,
+                            390,
+                            254
+                        ]
+                    ],
+                    "text_description": "$(7+6+7) \\times 15-(6 \\times 5) \\times 2=300-60=240\\left(\\mathrm{~cm}^{2}\\right)$"
+                }
+            ]
+        }
+    ]
+}

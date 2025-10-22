@@ -1,0 +1,167 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "9067b803-d927-477a-8428-869d03642099",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004278",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            84.5,
+                            29.51,
+                            512.3,
+                            61.269999999999996
+                        ]
+                    ],
+                    "text_description": "약수의 수가 8개인 수를 모두 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            264.98,
+                            123.59,
+                            340.14,
+                            152.43
+                        ]
+                    ],
+                    "text_description": "② 30"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            82.22,
+                            165.36,
+                            153.9,
+                            192.4
+                        ]
+                    ],
+                    "text_description": "④ 70"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            80.3,
+                            124.24,
+                            154.54,
+                            155.52
+                        ]
+                    ],
+                    "text_description": "① 15"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            448.94,
+                            122.88,
+                            521.9,
+                            152.72
+                        ]
+                    ],
+                    "text_description": "③ 45"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            267.18,
+                            161.92,
+                            335.02,
+                            194.4
+                        ]
+                    ],
+                    "text_description": "⑤ 81"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Polygon",
+                    "Type_value": [
+                        [
+                            108.8,
+                            65.28
+                        ],
+                        [
+                            104.32,
+                            118.4
+                        ],
+                        [
+                            526.08,
+                            118.4
+                        ],
+                        [
+                            522.88,
+                            97.28
+                        ],
+                        [
+                            401.28,
+                            93.44
+                        ],
+                        [
+                            398.08,
+                            66.56
+                        ]
+                    ],
+                    "text_description": "① 15의 약수: $1, 3, 5, 15 \\rightarrow 4$개 ② 30의 약수: $1, 2, 3, 5, 6, 10, 15, 30 \\rightarrow 8$개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.38,
+                            199.04,
+                            537.9,
+                            282.24
+                        ]
+                    ],
+                    "text_description": "③ 45의 약수: $1, 3, 5, 9, 15, 45 \\rightarrow 6$개 ④ 70의 약수: $1, 2, 5, 7, 10, 14, 35, 70 \\rightarrow 8$개 ⑤ $81$의 약수: $1, 3, 9, 27, 81 \\rightarrow 5$개"
+                }
+            ]
+        }
+    ]
+}

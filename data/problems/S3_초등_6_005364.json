@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f35e679b-78d2-4e38-953e-29eb03a2c6c2",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005364",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.28,
+                            21.24,
+                            573.28,
+                            198.24
+                        ]
+                    ],
+                    "text_description": "길이가 7m 인 밧줄의 한쪽 끝은 고정시키고 반대쪽 끝을 잡고 한 바퀴 돌아서 운동장에 원을 그렸습니다. 그린 원의 원주는 몇 m 인가요?(원주율:3. 1)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            383.28,
+                            219.78,
+                            474.28,
+                            246.78
+                        ]
+                    ],
+                    "text_description": "43.4m"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.71,
+                            258.57,
+                            355.43,
+                            285.1
+                        ]
+                    ],
+                    "text_description": "밧줄의 길이가 원의 반지름이 됩니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            40.85,
+                            287.83,
+                            89.92,
+                            312.48
+                        ]
+                    ],
+                    "text_description": "(원주)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            90.71000000000001,
+                            287.09,
+                            318.27,
+                            312.28
+                        ]
+                    ],
+                    "text_description": "$=7 \\times 2 \\times 3. 1=43. 4(\\mathrm{~m})$"
+                }
+            ]
+        }
+    ]
+}

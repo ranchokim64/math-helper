@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "83d4f264-879a-4fca-925a-2169a1eb3f76",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010840",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            50.54,
+                            13.12,
+                            621.92,
+                            58.96
+                        ]
+                    ],
+                    "text_description": "$2 \\frac{4}{5} \\div 1 \\frac{1}{7}$을 곱셈식으로 바르게 나타낸 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            507.77,
+                            72.76,
+                            603.77,
+                            123.96
+                        ]
+                    ],
+                    "text_description": "③ $\\frac{14}{5} \\times \\frac{7}{8}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.77,
+                            72.65,
+                            362.88,
+                            184.64
+                        ]
+                    ],
+                    "text_description": "① $\\frac{5}{14} \\times \\frac{7}{8}$ ② $\\frac{8}{5} \\times \\frac{7}{8}$ ④ $\\frac{5}{14} \\times \\frac{8}{7}$ ⑤ $\\frac{14}{5} \\times \\frac{8}{7}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.97,
+                            235.36,
+                            761.37,
+                            287.56
+                        ]
+                    ],
+                    "text_description": "먼저 대분수들 가분수로 나타낸 후 나눗셈을 곱셈으로 나타내고 나누는 분수의 분모와 분자들 바꿉니다."
+                }
+            ]
+        }
+    ]
+}

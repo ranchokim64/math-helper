@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "48f528a3-a03f-4a93-a418-5e9512df2068",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_016910",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.5,
+                            1.94,
+                            451.5,
+                            22.94
+                        ]
+                    ],
+                    "text_description": "비스킷이 한 줄에 40 개씩 5 줄 있습니다. 비스킷은 모두 몇 개일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.5,
+                            55.94,
+                            65.5,
+                            74.94
+                        ]
+                    ],
+                    "text_description": "② 200 개"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.57,
+                            30.13,
+                            63.9,
+                            47.84
+                        ]
+                    ],
+                    "text_description": "① 180 개"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.28,
+                            77,
+                            65.21,
+                            125.17
+                        ]
+                    ],
+                    "text_description": "③ 220 개 ④ 240 개"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.55,
+                            136.64,
+                            104.53,
+                            156.3
+                        ]
+                    ],
+                    "text_description": "$40 \\times 5=200$"
+                }
+            ]
+        }
+    ]
+}

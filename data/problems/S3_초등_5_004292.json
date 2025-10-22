@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "064a82cf-c1a6-4609-ba21-80eeb7b624c3",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004292",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            89,
+                            16.42,
+                            607,
+                            50.42
+                        ]
+                    ],
+                    "text_description": "다음을 만족하는 ㉮+㉯를 모두 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            214.08,
+                            94.69,
+                            510.4,
+                            168.85
+                        ]
+                    ],
+                    "text_description": "- ㉮와 ㉯는 자연수입니다. - ㉮와 ㉯의 곱은 $18$입니다."
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            166,
+                            68.42,
+                            598,
+                            191.42
+                        ]
+                    ],
+                    "text_description": "- ㉮과와 ㉯는 자연수입니다.\n- ㉮와 (니)의 곱은 18 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            468,
+                            219,
+                            591,
+                            249
+                        ]
+                    ],
+                    "text_description": "$9, 11, 19$"
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116.8,
+                            270.41,
+                            360.64,
+                            294.93
+                        ]
+                    ],
+                    "text_description": "㉮와 ㉯는 $18$의 약수이므로"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            549.44,
+                            269.97,
+                            589.76,
+                            294.93
+                        ]
+                    ],
+                    "text_description": "에서"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116.8,
+                            299.41,
+                            580.8,
+                            325.65
+                        ]
+                    ],
+                    "text_description": "㉮+㉯ 는 $1+18=19, ~2+9=11, ~3+6=9$입니다."
+                }
+            ]
+        }
+    ]
+}

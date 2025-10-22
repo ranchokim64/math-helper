@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "38df513c-1c54-499b-9989-2abe8d2a926e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005293",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-04] 비례식을 알고, 그 성질을 이해하며, 이를 활용하여 간단한 비례식을 풀 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            30.42,
+                            666,
+                            177.42
+                        ]
+                    ],
+                    "text_description": "두 직선 가와 나가 서로 평행할 때 두 삼각형 ㉠ 과 ㉡의 넓이의 비를 간단한 자연수의 비로 나타 내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103,
+                            195.42,
+                            585,
+                            405.42
+                        ]
+                    ],
+                    "text_description": "두 직선 가와 나가 서로 평행하는 두 삼각형인 ㉠과 ㉡이 있으며 ㉠의 한 변의 길이는 10cm이고 ㉡의 한 변의 길이는 6cm이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            448,
+                            437,
+                            556,
+                            474
+                        ]
+                    ],
+                    "text_description": "(예) $5: 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57,
+                            486,
+                            655,
+                            621
+                        ]
+                    ],
+                    "text_description": "두 삼각형 ㉠과 ㉡의 높이는 같습니다. 높이를 $\\square \\mathrm{cm}$라고 하면 (ㄱ의 넓이)=10× $\\square \\div 2=5 \\times[$ ㉡의 넓이) $=6 \\times \\square \\div 2=3 \\times \\square$ $\\rightarrow㉠:(\\llcorner)=(5 \\times \\square):(3 \\times \\square)=5: 3$"
+                }
+            ]
+        }
+    ]
+}

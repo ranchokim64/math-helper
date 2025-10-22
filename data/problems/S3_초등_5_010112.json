@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fa38e7b7-faaa-4442-a205-f3a21778193a",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010112",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.6,
+                            10.53,
+                            662.6,
+                            61.09
+                        ]
+                    ],
+                    "text_description": "회전판 돌리기들하고 있습니다. 회전판 나에서 화살이 분홍색에 멈출 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            185.16,
+                            66.21,
+                            501.32,
+                            304.93
+                        ]
+                    ],
+                    "text_description": "왼쪽부터 가와 나의 회전판이 있다. 가는 화살표가 12시 정각을 가르키고 있고 전부 녹색으로 되어있다. 나는 화살표가 2시 정도를 가르키고 있고 가운데를 중심으로 오른쪽은 분홍색 왼쪽은 녹색으로 되어있다. 두개의 직선의 형태를 띈 그림이 있다. 하나는 0부터 1까지의 두 수직선이 있다. 아래방향을 보는 분홍색 화살표는 0을 가르키고 있다. 그 중앙에 수직선이 있으며 $\\frac{1}{2}$적혀있다. 다른 하나는 0부터 1까지의 두 수직선이 있는데 그 중앙에 수직선이 있으며 그 곳에는 $\\frac{1}{2}$적혀있다. 아래방향을 보는 분홍색 화살표는 그 중앙에 수직선이 있으며 $\\frac{1}{2}$에 표시되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.96,
+                            312.5,
+                            283.28,
+                            369.02
+                        ]
+                    ],
+                    "text_description": "수평선 위에 눈금 $0$, $\\frac{1}{2}$, $1$이 쓰여져 있고 $\\frac{1}{2}$위에 $\\downarrow$ 표시가 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.24,
+                            373.78,
+                            664.52,
+                            439.7
+                        ]
+                    ],
+                    "text_description": "초록색과 분홍색이 회전판의 반씩 색칠된 회전판 나에서 화살이 분홍색에 멈출 가능성은 '반반이다'이므로 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

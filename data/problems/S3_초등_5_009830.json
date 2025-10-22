@@ -1,0 +1,137 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0995690d-cc39-4032-aaaa-a5ca3f71f23e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009830",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.72,
+                            1.75,
+                            478.78,
+                            26.6
+                        ]
+                    ],
+                    "text_description": "계산 결과가 다른 것을 찻아 기호를 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.59,
+                            86.66,
+                            54.89,
+                            110.8
+                        ]
+                    ],
+                    "text_description": "㉠"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4.51,
+                            114.35,
+                            304.12,
+                            196.0
+                        ]
+                    ],
+                    "text_description": "㉠ 93의 $0. 01 \\Rightarrow 93 \\times 0. 01=0. 93$ ㉡ 93의 0. 1 배 $\\Rightarrow 93 \\times 0. 1=9. 3$ ㉢ $0. 093 \\times 100=9. 3$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            138.0,
+                            44.0,
+                            235.0,
+                            73.0
+                        ]
+                    ],
+                    "text_description": "93의 0.01"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            315.0,
+                            45.0,
+                            414.0,
+                            75.0
+                        ]
+                    ],
+                    "text_description": "93의 0.1배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            483.0,
+                            51.0,
+                            596.0,
+                            78.0
+                        ]
+                    ],
+                    "text_description": "$0.09 3 \\times 100$"
+                }
+            ]
+        }
+    ]
+}

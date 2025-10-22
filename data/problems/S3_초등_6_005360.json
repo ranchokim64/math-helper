@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "7d77bada-950d-4cc9-922c-27bf0e0cbb98",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005360",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.5,
+                            20.29,
+                            471.34,
+                            52.16
+                        ]
+                    ],
+                    "text_description": "도형을 보고 물음에 답하세요. (원주율: 3. 1)"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.95,
+                            291.22,
+                            372.09,
+                            332.2
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 둘레를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            166.3,
+                            106.37,
+                            333.84,
+                            274.83
+                        ]
+                    ],
+                    "text_description": "반지름이 8cm로 되어있는 원의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            329.29,
+                            348.59,
+                            438.56,
+                            387.74
+                        ]
+                    ],
+                    "text_description": "56.8cm"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.44,
+                            398.59,
+                            411.44,
+                            479.26
+                        ]
+                    ],
+                    "text_description": "(색칠한 부분의 둘레) $=8 \\times 2 \\times 3. 1 \\times \\frac{1}{2}+8 \\times 4$ \\[ =24. 8+32=56. 8(\\mathrm{~cm}) \\]"
+                }
+            ]
+        }
+    ]
+}

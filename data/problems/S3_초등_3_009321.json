@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4f208676-8fcd-46c1-9a20-a3681ad9997b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009321",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-12] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-11] 분모가 같은 분수끼리, 단위분수끼리 크기를 비교하고 그 방법을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36.44,
+                            4.15,
+                            453.55,
+                            24.95
+                        ]
+                    ],
+                    "text_description": "큰 분수부터 순서대로 바르게 나열한 것을 고르세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            196.82,
+                            32.07,
+                            439.86,
+                            106.51
+                        ]
+                    ],
+                    "text_description": "가 $\\frac{1}{8} \\quad$ 나 $\\frac{1}{4} \\quad$ 다 $\\frac{1}{15}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.75,
+                            110.66,
+                            138.25,
+                            135.84
+                        ]
+                    ],
+                    "text_description": "① 나 > 가 > 다"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            316.15,
+                            110.66,
+                            437.13,
+                            168.13
+                        ]
+                    ],
+                    "text_description": "$ \\begin{array}{l}\\text { ② } \\text { 다 }>\\text { 가 }>\\text { 나 } \\\\ \\text { ④ 가 }>\\text { 나 }>\\text { 다 }\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.01,
+                            140.22,
+                            138.25,
+                            165.94
+                        ]
+                    ],
+                    "text_description": "③가 > 다 > 나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.63,
+                            207.55,
+                            404.83,
+                            245.86
+                        ]
+                    ],
+                    "text_description": "분모들 비교하면 $15>8>4$ 이므로 $\\frac{1}{15}<\\frac{1}{8}<\\frac{1}{4}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

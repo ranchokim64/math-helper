@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ea7ac8ad-74bc-4bef-976f-147a50e58faa",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009799",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.25,
+                            5.45,
+                            430,
+                            26.7
+                        ]
+                    ],
+                    "text_description": "계산 결과를 잘못 말한 사람을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            197.9,
+                            33.12,
+                            501.5,
+                            272.92
+                        ]
+                    ],
+                    "text_description": "승훈 : $0. 63 \\times 5\\\\$ 0. 6과 5의 곱으로 어림할 수 있으니까 결과는 3 정도가 돼. 미영: $0. 29 \\times 4\\\\$ 29와 4의 곱은 약 120이니까 0. 29와 4의 곱은 12 정도가 돼."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.5,
+                            287.32,
+                            74.3,
+                            307.32
+                        ]
+                    ],
+                    "text_description": "미영"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.9,
+                            321.52,
+                            675.1,
+                            364.92
+                        ]
+                    ],
+                    "text_description": "29와 4의 곱이 약 $120$이므로 $29$의 $0. 01$배인 $0. 29$와 $4$의 곱은 $120$의 $0. 01$배인 $1. 2$ 정도가 됩니다 $. $"
+                }
+            ]
+        }
+    ]
+}

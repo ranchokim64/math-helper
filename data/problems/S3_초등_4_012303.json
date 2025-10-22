@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6608fe8b-3a43-42e1-b63f-8c376e7bcb21",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012303",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.78,
+                            7.26,
+                            544.52,
+                            95.49
+                        ]
+                    ],
+                    "text_description": "유리의 생각과 같은 규칙적인 계산식을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            115.5,
+                            403,
+                            443.5
+                        ]
+                    ],
+                    "text_description": "다음에 올 계산식은 $2222 \\div 22 = 101$ 이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            410.41,
+                            411.76,
+                            439.82,
+                            441.59
+                        ]
+                    ],
+                    "text_description": "㉰"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            454.5,
+                            547,
+                            536.5
+                        ]
+                    ],
+                    "text_description": "㉰: 나누어지는 수가 $1111$씩 작아지고 나누는 수가 11 씩 작아지면 그 몫은 같습니다. 따라서 다음에 올 계산식은 $2222 \\div 22=10$ 입니다."
+                }
+            ]
+        }
+    ]
+}

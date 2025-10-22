@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "77d63938-3529-464a-b955-13e36b91cd85",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_008890",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-01] 실생활 자료를 수집하여 간단한 그림그래프나 막대그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-01] 자료를 수집하여 그림그래프나 막대그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30,
+                            5.92,
+                            930,
+                            112.92
+                        ]
+                    ],
+                    "text_description": "진아네 마을의 농장에시 하루 동인 생신힌 토마토의 양을 조사하여 그림그래프로 나타내었습니다. 토마토 생산량이 다 농장보다 적은 농장을 모두 선택해보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            344,
+                            480.5,
+                            929,
+                            512.5
+                        ]
+                    ],
+                    "text_description": "(가 농장, 나 농장, 다 농장, 라 농장, 마 농장)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            176.0,
+                            124.0,
+                            602.0,
+                            482.0
+                        ]
+                    ],
+                    "text_description": "가,나,다,라,마 농장별 토마토생산량을 조사한 그림그래프이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            573.5,
+                            930,
+                            643.5
+                        ]
+                    ],
+                    "text_description": "큰 그림 수가 2 개보다 적은 농장을 찾고, 큰 그림 수가 2 개인 경우 작은 그림의 수가 3 개보다 적은 농장을 찾으면 나 농장과 마 농장입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.0,
+                            532.5,
+                            236.0,
+                            563.5
+                        ]
+                    ],
+                    "text_description": "나 농장, 마 농장"
+                }
+            ]
+        }
+    ]
+}

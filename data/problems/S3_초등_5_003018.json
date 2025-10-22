@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ac181632-1011-49f2-a9e3-eab7417a54e5",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_003018",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-04] 넓이를 나타내는 표준 단위의 필요성을 인식하여 1cm², 1m², 1km²의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-12] 넓이 단위 1cm², 1m², 1km²를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            8.32,
+                            7.04,
+                            440.32,
+                            35.2
+                        ]
+                    ],
+                    "text_description": "조각 맞추기를 하였습니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            126.9,
+                            364,
+                            613.3,
+                            397.6
+                        ]
+                    ],
+                    "text_description": "조각으로 채워진 부분의 넓이는 모두 몇 $\\mathrm{cm}^{2}$ 인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            271.36,
+                            56.32,
+                            556.16,
+                            337.92
+                        ]
+                    ],
+                    "text_description": "한 칸이 $1 \\mathrm{cm}^{2}$로 이루어진 7 x 7형태이고 사각형 모양의 조각으로 이루어진 각기 다른 형태의 도형 맞추기 삽화"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.7,
+                            334.4,
+                            125.3,
+                            421.6
+                        ]
+                    ],
+                    "text_description": "5개 조각이 모여 U자 모양으로 만들어진 조각형태"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            108.5,
+                            524,
+                            301.3,
+                            557.6
+                        ]
+                    ],
+                    "text_description": "$10 \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54.1,
+                            423.2,
+                            822.1,
+                            496.8
+                        ]
+                    ],
+                    "text_description": "(5개 조각이 모여 U자 모양으로 만들어진 조각형태) 조각 한 개의 넓이는 $5 \\mathrm{~cm}^{2}$ 이고, (5개 조각이 모여 U자 모양으로 만들어진 조각형태) 조각이 2 개이므로 채워진 부분의 넓이는 $10 \\mathrm{~cm}^{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

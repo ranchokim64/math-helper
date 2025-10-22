@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ada508e7-ac00-4769-b684-d306ab6a7c8e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005625",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-06] 각기둥과 각뿔을 알고, 구성 요소와 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-05] 각기둥과 각뿔을 이해하고, 구성 요소와 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.38,
+                            10.85,
+                            682.93,
+                            154.22
+                        ]
+                    ],
+                    "text_description": "어느 각뿔의 밑면을 그림과 같이 원을 $30^{\\circ}$씩 나누어 원과 만난 점을 선분으로 이어서 만들었습니다. 이 각뿔의 이름을 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            235.93,
+                            172.71,
+                            456.27,
+                            400.43
+                        ]
+                    ],
+                    "text_description": "정원형이 있고, 원점을 기준으로 반원으로 분리되어 한쪽에 $180^{\\circ}$로 표기되어 있다. $30^{\\circ}$의 각을 가지는 삼각형이 원점을 꼭짓점으로 하여 두 개 그려져 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            452.32,
+                            427.84,
+                            568.01,
+                            470.84
+                        ]
+                    ],
+                    "text_description": "십이각뿔"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.95,
+                            484.77,
+                            683.98,
+                            558.56
+                        ]
+                    ],
+                    "text_description": "$360^{\\circ} \\div 30^{\\circ}=12$이므로 밑면이 십이각형입니다. 밑면이 십이각형인 각뿔은 십이각뿔입니다."
+                }
+            ]
+        }
+    ]
+}

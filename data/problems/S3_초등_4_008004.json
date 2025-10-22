@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0c39c750-6845-4a4d-ab41-6cb49a388ee4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008004",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-14] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-25] 여러 가지 방법으로 삼각형과 사각형의 내각의 크기의 합을 추론하고, 자신의 추론 과정을 설명할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.14,
+                            10.780000000000001,
+                            451.07,
+                            38.5
+                        ]
+                    ],
+                    "text_description": "바르게 말한 사람을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            93.95,
+                            50.25,
+                            464.53,
+                            208.93
+                        ]
+                    ],
+                    "text_description": "서윤 : 모양이 다르면 삼각형의 세 각의 크기의 합도 달라."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            531.06,
+                            49.21,
+                            853.14,
+                            207.17
+                        ]
+                    ],
+                    "text_description": "하준 : 모든 삼각형의 세 각의 크기의 합은 $180^{\\circ}$ 야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.74,
+                            251.98,
+                            104.46,
+                            278.86
+                        ]
+                    ],
+                    "text_description": "하준"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            57.1,
+                            296.78,
+                            481.42,
+                            315.98
+                        ]
+                    ],
+                    "text_description": "모양에 상관없이 삼각형의 세 각의 크기의 합은 $180^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

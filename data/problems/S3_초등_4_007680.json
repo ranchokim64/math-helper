@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5ae5cf87-38ac-4499-9393-5df52fe9df41",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_007680",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-03] 교실 및 생활 주변에서 직각인 곳이나 서로 만나지 않는 직선을 찾는 활동을 통하여 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-03] 직선의 수직 관계와 평행 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.6,
+                            2.5,
+                            646.94,
+                            31.98
+                        ]
+                    ],
+                    "text_description": "그림을 보고 () 안에 알맞은 것을 선택해보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.47,
+                            201.15,
+                            683.8,
+                            234.72
+                        ]
+                    ],
+                    "text_description": "① 직선 가에 수직인 직선은 직선 (가, 나, 다)입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.47,
+                            242.91,
+                            633.84,
+                            278.12
+                        ]
+                    ],
+                    "text_description": "② 직선 나는 직선 가에 대한 (수직, 수선)입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            339.03,
+                            36.89,
+                            614.19,
+                            199.04
+                        ]
+                    ],
+                    "text_description": "가로 직선 가와 세로선 나와 다가 겹쳐지고 있는 그림이다. 나는 가와 수직을 이루고 다는 대각선으로 겹친다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.68,
+                            291.23,
+                            108.1,
+                            322.35
+                        ]
+                    ],
+                    "text_description": "① 나"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            111.37,
+                            292.87,
+                            195.72,
+                            323.17
+                        ]
+                    ],
+                    "text_description": "② 수선"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.24,
+                            338.01,
+                            928.21,
+                            405.57
+                        ]
+                    ],
+                    "text_description": "직선 가와 직선 나가 만나서 이루는 각이 직각이므로 직선 가에 수직인 직선은 직선 나이고, 직선 나는 직선 가에 대한 수선입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            348.82,
+                            406.6,
+                            601.66,
+                            559.12
+                        ]
+                    ],
+                    "text_description": "가로 직선 가와 세로선 나와 다가 겹쳐지고 있는 그림이다. 나는 가와 수직을 이루고 다는 대각선으로 겹친다."
+                }
+            ]
+        }
+    ]
+}

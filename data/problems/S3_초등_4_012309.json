@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "58fdd4e2-c135-45dc-8dd2-31c678dccf14",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012309",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6.5,
+                            6.41,
+                            595.5,
+                            98.41
+                        ]
+                    ],
+                    "text_description": "4-1 달력에서 보기와 같은 규칙을 갖는 계 산식을 찾아 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            152.5,
+                            119.41,
+                            474.5,
+                            440.41
+                        ]
+                    ],
+                    "text_description": "6월 달 달력이고 1일부터 30일이 표시되어 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            449,
+                            596.5,
+                            548
+                        ]
+                    ],
+                    "text_description": "보기 \\[ 12+13+14+15+16=14 \\times 5 \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            632,
+                            259.5,
+                            665
+                        ]
+                    ],
+                    "text_description": "$5+6+7+8+9=7 \\times 5$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            558,
+                            297.5,
+                            616
+                        ]
+                    ],
+                    "text_description": "달력에서 연속된 5개의 수를 더한 값은 중간 수의 5배입니다."
+                }
+            ]
+        }
+    ]
+}

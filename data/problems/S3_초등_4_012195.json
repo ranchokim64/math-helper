@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5bc2f7c2-ddc2-47ad-9ee3-6aa2181af42d",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_012195",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2,
+                            1,
+                            398.25,
+                            78.5
+                        ]
+                    ],
+                    "text_description": "1~4 지민이네 친구들이 가고 싶어 하는 도시를 조사하였습니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            3.25,
+                            317.25,
+                            402,
+                            354.75
+                        ]
+                    ],
+                    "text_description": "2 대구를 가고 싶어 하는 학생은 몇명인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103.25,
+                            87.25,
+                            335.75,
+                            313.5
+                        ]
+                    ],
+                    "text_description": "가고 싶어 하는 도시를 나타내는 표이다. 대구에는 동그라미가 10, 강릉에는 동그라미가 9, 부산에는 동그라미가 14, 제주에는 동그라미가 12개를 나타내고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            298.25,
+                            361.5,
+                            338.25,
+                            384.75
+                        ]
+                    ],
+                    "text_description": "10명"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87,
+                            392.25,
+                            403.25,
+                            434.75
+                        ]
+                    ],
+                    "text_description": "대구의 붙임딱지의 수를 세어 보면 10 장이므로 대구를 가고 싶은 학생은 10 명입니다."
+                }
+            ]
+        }
+    ]
+}

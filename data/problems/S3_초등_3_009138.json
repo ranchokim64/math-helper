@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "6f2f437d-a773-46f2-a20b-6c4ae0441fd1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009138",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-08] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-06] 나누는 수가 한 자리 수인 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있으며, 나눗셈에서 몫과 나머지의 의미를 안다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.1,
+                            2.74,
+                            569.96,
+                            29.31
+                        ]
+                    ],
+                    "text_description": "<보기>와 나눗셈의 몫이 같은 식을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            106.41,
+                            59.95,
+                            227.24,
+                            124.79
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { <보기> } \\\\ 45 \\div 5\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            529.65,
+                            81.55,
+                            702.73,
+                            107.26
+                        ]
+                    ],
+                    "text_description": "$18 \\div 2 \\quad 27 \\div 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.31,
+                            199.16,
+                            812.1,
+                            224.79
+                        ]
+                    ],
+                    "text_description": "$45 \\div 5=9, 18 \\div 2=9, 27 \\div 9=3$ 이므로 $45 \\div 5$와 몫이 같은 것은 $18 \\div 2$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.28,
+                            160.81,
+                            111.29,
+                            183.45
+                        ]
+                    ],
+                    "text_description": "$18 \\div 2$"
+                }
+            ]
+        }
+    ]
+}

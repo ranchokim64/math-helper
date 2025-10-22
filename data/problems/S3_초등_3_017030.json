@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "190c71eb-fd6b-4503-ac98-6732a9d9b90c",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_017030",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-03] 세 자리 수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.24,
+                            8.44,
+                            434.13,
+                            25.25
+                        ]
+                    ],
+                    "text_description": "100이 4개, 10이 5개, 1이 3개인 수보다 598 큰 수는 얼마일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.14,
+                            41.61,
+                            66.57,
+                            58.42
+                        ]
+                    ],
+                    "text_description": "① 1051"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.69,
+                            66.6,
+                            67.48,
+                            134.75
+                        ]
+                    ],
+                    "text_description": "② 1052 ③ 1053 ④ 1054"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            11.15,
+                            147.77,
+                            431.85,
+                            163.67
+                        ]
+                    ],
+                    "text_description": "100이 4개, 10이 5개, 1이 3개인 수는 $400+50+3=453$ 입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.69,
+                            175.03,
+                            130.18,
+                            189.12
+                        ]
+                    ],
+                    "text_description": "$453+598=1051$"
+                }
+            ]
+        }
+    ]
+}

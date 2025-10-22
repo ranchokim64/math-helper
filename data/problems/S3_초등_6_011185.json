@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "c845e1f0-dcfa-44f9-952e-9bb94fa6731e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011185",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수04-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수02-05] 비례배분을 알고, 주어진 양을 비례배분 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24.77,
+                            1.24,
+                            860.77,
+                            105.24
+                        ]
+                    ],
+                    "text_description": "태수네 학교 6학년 전체 학생은 330명이고, 남학생 수와 여학생 수의 비는 5:6입니다. 6 학년 여학생이 몇 명인지 알아보기 위해 태수가 풀이한 과정에서 잘못 계산한 이유를 생각해 보고, 알맞은 말을 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            164.77,
+                            190.78,
+                            720.77,
+                            332.78
+                        ]
+                    ],
+                    "text_description": "전체를 주어진 비로 배분하기 위해서는 전체를 의미하는 전항과 후항의 (합, 곱)을 분모로 하는 분수의 비로 나타내어야 하는데 전항과 후항의 (합, 곱)으로 나타냈기 때문입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            49.77,
+                            350.78,
+                            109.77,
+                            379.78
+                        ]
+                    ],
+                    "text_description": "합, 곱"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.77,
+                            457.78,
+                            251.77,
+                            495.78
+                        ]
+                    ],
+                    "text_description": "$330 \\times \\frac{6}{5+6}=330 \\times \\frac{6}{11}=180$ (명)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.77,
+                            386.78,
+                            864.77,
+                            453.78
+                        ]
+                    ],
+                    "text_description": "전체를 주어진 비로 배분하기 위해서는 전체를 의미하는 전함과 후항의 합을 분모로 하는 분수의 비로 나타내어야 하는데 전항과 후항의 곱으로 나타냈기 때문입니다. 따라서 바르게 계산하면"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "8ab17db4-f031-4806-8004-a883e540fb84",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008379",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-05] 평면도형의 이동을 이용하여 규칙적인 무늬를 꾸밀 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "REMOVED"
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 3,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28,
+                            1.92,
+                            922,
+                            72.92
+                        ]
+                    ],
+                    "text_description": "주희네 욕실 바닥 무늬입니다. 어떤 규칙으로 만들었는지 알맞은 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            167,
+                            183.5,
+                            841,
+                            215.5
+                        ]
+                    ],
+                    "text_description": "모양을 시계 방향으로 $\\left(90^{\\circ}, 180^{\\circ}\\right)$만큼 돌리는 것을 반"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            115,
+                            230.5,
+                            837,
+                            299.5
+                        ]
+                    ],
+                    "text_description": "복해서 모양을 만들고, 그 모양을 (오른쪽, 아래쪽)으로 밀 어서 무늬를 만들었습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            353,
+                            76.92,
+                            596,
+                            161.92
+                        ]
+                    ],
+                    "text_description": "무늬가 특정 패턴으로 반복되어 그려진 그림입니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            116,
+                            182.5,
+                            162,
+                            228.5
+                        ]
+                    ],
+                    "text_description": "정사각형에 색칠 된 삼각형이 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53,
+                            338.5,
+                            177,
+                            369.5
+                        ]
+                    ],
+                    "text_description": "$90^{\\circ}$, 오른쪽"
+                }
+            ]
+        }
+    ]
+}

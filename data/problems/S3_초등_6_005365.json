@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b3d5e512-e150-44bb-a76b-0333f71d3d37",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005365",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "상",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.28,
+                            216.23,
+                            628.28,
+                            256.23
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 둘레는 몇 cm인가요? (원주율: 3)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            222.0,
+                            262.0,
+                            474.0,
+                            474.0
+                        ]
+                    ],
+                    "text_description": "변의 길이가20cm인 정사각형에 일부가 노란색으로 칠해져 있는 이미지"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.28,
+                            0.7699999999999996,
+                            635.28,
+                            211.77
+                        ]
+                    ],
+                    "text_description": "색칠한 부분의 둘레는 반지름이 20cm 인 원의 둘레의 $\\frac{1}{4}$과 지름이 20cm 인 원의 둘레의 $\\frac{1}{2}$과 20cm를 더한 것과 같 습니다. $($ 색칠한 부분의 둘레 $)=(20 \\times 2 \\times 3 \\div 4)+(20 \\times 3 \\div 2)+20$ \\[ =30+30+20=80(\\mathrm{~cm}) \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            449.28,
+                            502.77,
+                            529.28,
+                            541.77
+                        ]
+                    ],
+                    "text_description": "80cm"
+                }
+            ]
+        }
+    ]
+}

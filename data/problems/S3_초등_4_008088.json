@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "cf556e8e-ead1-4df4-905a-772a267b96f1",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008088",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-02] 각과 직각을 이해하고, 직각과 비교하는 활동을 통하여 예각과 둔각을 구별할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            36,
+                            6.42,
+                            932,
+                            76.42
+                        ]
+                    ],
+                    "text_description": "시계의 긴바늘과 짧은바늘이 이루는 작은 쪽의 각이 예각, 직각, 둔각 중 어느 것인지 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            78,
+                            311,
+                            329,
+                            347
+                        ]
+                    ],
+                    "text_description": "(예각, 직각, 둔각)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            103,
+                            97.42,
+                            304,
+                            299.42
+                        ]
+                    ],
+                    "text_description": "시계삽화가 있다. 초록색시침은 시, 빨간색 시침은 분을 가르치며, 8시 30분인 상태이다. 시침사이에 각표시가 되어있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34,
+                            402,
+                            85,
+                            429
+                        ]
+                    ],
+                    "text_description": "예각"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45,
+                            361,
+                            508,
+                            388
+                        ]
+                    ],
+                    "text_description": "8 시 30분은 직각보다 작으므로 예각입니다."
+                }
+            ]
+        }
+    ]
+}

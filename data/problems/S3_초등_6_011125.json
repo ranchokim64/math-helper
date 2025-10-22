@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "f170c873-6529-4987-bd9c-e93d720ea4c3",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011125",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-11] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-10] 쌓기나무로 만든 입체도형의 위, 앞, 옆에서 본 모양을 표현할 수 있고, 이러한 표현을 보고 입체도형의 모양을 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.99,
+                            8.03,
+                            866.99,
+                            68.03
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 보고 위에서 본 모양에 수를 썼습니다. 가, 나, 다 모양 중 옆에서 본 모양이 다른 하나를 찾아 기호를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            370.74,
+                            270,
+                            524.49,
+                            298.75
+                        ]
+                    ],
+                    "text_description": "(가, 나, 다)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            135.74,
+                            73.12,
+                            744.49,
+                            265.62
+                        ]
+                    ],
+                    "text_description": "쌓기나무로 쌓은 모양을 위에서 본 모양에 수를 쓴 것으로 각각에 앞 옆이 표시되어 있다. 가: 1층에 2라는 숫자가 두 칸, 2층에는 차례대로1-3-1 숫자가 세칸, 3층은 맨 오른쪽 세번째 칸에 1 하나가 있다. 나: 1층에 3이라는 숫자가 한 칸, 2층에는 2-1-3이라는 숫자가 세칸, 3층에는 첫번째 칸에 1 하나가 있다. 다: 1층에 왼쪽 1과 가운데는 없고 오른쪽 2로 두 칸이 있고 2층에는 차례대로 3-1-2라는 숫자가 세칸, 3층에는 왼쪽 1과 가운데는 없고 오른쪽 1로 두 칸이 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.49,
+                            315,
+                            78.24,
+                            337.5
+                        ]
+                    ],
+                    "text_description": "나"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.49,
+                            495,
+                            493.24,
+                            517.5
+                        ]
+                    ],
+                    "text_description": "따라서 옆에서 본 모양이 다른 하나는 나입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.28,
+                            371.77,
+                            449.28,
+                            492.77
+                        ]
+                    ],
+                    "text_description": "쌓기나무가 쌓여있는 모양을 옆에서 본 모습으로가: 1층 세 칸, 2층 왼쪽으로 두 칸, 3층 가운데 한 칸이다. 나: 1층 세 칸, 2층과 3층 왼쪽으로 두 칸이다. 다: 1층 세 칸, 2층 왼쪽으로 두 칸, 3층 가운데 한 칸이다."
+                }
+            ]
+        }
+    ]
+}

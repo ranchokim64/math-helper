@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4f22b5e7-0f26-4b6e-a5d9-3fd45972aa70",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011669",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-17] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-16] 소수 두 자리 수의 범위에서 소수의 덧셈과 뺄셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.45999999999999996,
+                            10.54,
+                            435.94,
+                            140.1
+                        ]
+                    ],
+                    "text_description": "지난 일요일에 감자를 혜영이는 14.56kg 캤고, 민지는 혜영이보다 4.2kg 더 캤습니다. 혜영이와 민지가 캔 감자는 모두 몇 kg 일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": "1",
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            284.9,
+                            163.5,
+                            375.14,
+                            188.46
+                        ]
+                    ],
+                    "text_description": "33.32 kg"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            23.12,
+                            194.92,
+                            389.12,
+                            267.72
+                        ]
+                    ],
+                    "text_description": "(민지가 캔 감자의 무게)=14. 56+4. 2=18. 76(kg) (두 사람이 캔 감자의 무게) =(혜영이가 캔 감자의 무게))+(민지가 캔 감자의 무게)"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.32,
+                            269.52,
+                            229.72,
+                            288.92
+                        ]
+                    ],
+                    "text_description": "$=14. 56+18. 76=33. 32(\\mathrm{kg})$"
+                }
+            ]
+        }
+    ]
+}

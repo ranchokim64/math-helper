@@ -1,0 +1,102 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "2aa7ec7e-e1f5-455a-9a95-0e3d5e44f393",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004751",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-16] 소수의 곱셈과 나눗셈의 계산 결과를 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다.",
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.63,
+                            4.19,
+                            347.36,
+                            49.13
+                        ]
+                    ],
+                    "text_description": "어림하여 계산 결과가 8보다 큰 것을 찾아 기호를 써 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            123.16,
+                            58.97,
+                            268.43,
+                            142.71
+                        ]
+                    ],
+                    "text_description": "핑크색 테두리의 네모 상자에 다음과 같은 내용이 들어 있다. ㉠ $4 \\times 1. 8$ ㉡ 4의 2. 1 ㉢ 2의 3. 9 배"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            260.46,
+                            154.37,
+                            278.71,
+                            170.93
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.82,
+                            179.15,
+                            278.02,
+                            227.46
+                        ]
+                    ],
+                    "text_description": "㉠ $4 \\times 1. 8$은 $4 \\times 2=8$보다 작습니다. ㉡ 4의 2. 1은 4의 2 배인 8보다 큽니다. ㉢ 2의 3. 9배는 2의 4 배인 8 배보다 작습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1dbee3b6-f824-482c-adc2-caaef9edcd8e",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004296",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-02] 약수, 공약수, 최대공약수의 의미를 알고 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-04] 약수, 공약수, 최대공약수를 이해하고 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67,
+                            127.42,
+                            519,
+                            225.42
+                        ]
+                    ],
+                    "text_description": "혜진이가 생각한 세 자리 수는 6의 배수가 되는 수입니다. ㉠에 들어갈 알맞은 수 중 가장 큰 수를 구해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            178,
+                            233.42,
+                            407,
+                            498.42
+                        ]
+                    ],
+                    "text_description": "혜진이가 생각하는 수 이미지: 내가 생각한 수는 7 ㉠ 6 이야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            388,
+                            514,
+                            415,
+                            542
+                        ]
+                    ],
+                    "text_description": "$8$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            92,
+                            9,
+                            517,
+                            121
+                        ]
+                    ],
+                    "text_description": "㉠ 대신 9, 8, 7…을 넣어서 6으로 나누어떨어지는 수를 찾습니다. [다른 풀이] 6의 배수는 짝수이면서 각 자리 숫자의 합이 3으로 나누어떨어집니다."
+                }
+            ]
+        }
+    ]
+}

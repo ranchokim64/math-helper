@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "4dda48c2-1ca5-437f-821e-73592ec2f43f",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010887",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            100.86,
+                            16.1,
+                            783.05,
+                            58.52
+                        ]
+                    ],
+                    "text_description": "계산 결과가 가장 큰 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            325.98,
+                            79.05,
+                            467.61,
+                            113.95
+                        ]
+                    ],
+                    "text_description": "② $4. 48 \\div 1. 6$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47.49,
+                            82.87,
+                            192.55,
+                            111.61
+                        ]
+                    ],
+                    "text_description": "① $6. 75 \\div 2. 7$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            599.67,
+                            80.13,
+                            754.99,
+                            112.97
+                        ]
+                    ],
+                    "text_description": "③ $10. 53 \\div 3. 9$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            85.12,
+                            202.61,
+                            578.46,
+                            246.4
+                        ]
+                    ],
+                    "text_description": "① $6. 75 \\div 2. 7=675 \\div 270=2. 5$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.7,
+                            260.09,
+                            576.41,
+                            414.04
+                        ]
+                    ],
+                    "text_description": "② $4. 48 \\div 1. 6=448 \\div 160=2. 8$ ③ $10. 53 \\div 3. 9=1053 \\div 390=2. 7$ $\\Rightarrow 2. 8>2. 7>2. 5$"
+                }
+            ]
+        }
+    ]
+}

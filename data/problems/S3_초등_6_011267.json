@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b3e74f6d-892a-45b8-b7b2-ae241b99fcd4",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011267",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35.7,
+                            12.14,
+                            865.1,
+                            73.94
+                        ]
+                    ],
+                    "text_description": "68. 모눈의 수를 세어 지름이 12cm 인 원의 넓이를 어림한 것으로 알맞은 수를 선택해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            700.7,
+                            301.4,
+                            865.1,
+                            328.8
+                        ]
+                    ],
+                    "text_description": "$(80, 110) \\mathrm{cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            333.5,
+                            81.14,
+                            569.1,
+                            293.94
+                        ]
+                    ],
+                    "text_description": "이미지에는 한칸이 $1cm^2$인 모눈종이에 원과 보라색 선, 노란색 모눈이 칠해져있습니다. 배경에는 1cm 간격의 격자가 그려져 있습니다. 원 내부의 모눈의 수는 88개로 노란색으로 채워져 있으며, 원의 가장자리에 보라색 선으로 표시되어 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58.7,
+                            348.8,
+                            90.7,
+                            368.8
+                        ]
+                    ],
+                    "text_description": "$110$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            15.5,
+                            388,
+                            865.1,
+                            520.8
+                        ]
+                    ],
+                    "text_description": "- 노란색 모눈의 수: 88 개 - 보라색 선 안쪽 모눈의 수: 132 개 원의 넓이는 노란색 모눈의 넓이인 $88 \\mathrm{~cm}^{2}$보다 넓고, 보라색 선 안쪽 모눈의 넓이인 $132 \\mathrm{~cm}^{2}$보다 좁습니다."
+                }
+            ]
+        }
+    ]
+}

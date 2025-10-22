@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "0b66bf97-e47f-48e5-8f5e-e78e4760df08",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008469",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            34.26,
+                            6.640000000000001,
+                            936.76,
+                            79.39
+                        ]
+                    ],
+                    "text_description": "어느 마을의 연도별 출생아 수를 조사하여 나타낸 막대그래프입니다. 막대그래프에 대해 바르게 이야기한 사람은 누구인지 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.76,
+                            85.14,
+                            783.76,
+                            623.14
+                        ]
+                    ],
+                    "text_description": "연도별 출생아 수가 막대그래프이다 가로는 연도, 세로는 출생아 수(명)이다. 2014년도에는 26명, 2015년도에는 24명, 2016년도에는 18명이, 2017년도에는 12명이 표시되어있다. 미진이는이 마을의 2014년의 출생아 수는 24명이야라고 말하고 있다. 지영이는 2016년은 2015년도보다 출생아 수가 많아라고 말하고 있다. 상제는 2015년의 출생아 수는 2017년의 출생아 수의 2배야라고 말하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.51,
+                            631.37,
+                            115.51,
+                            670.12
+                        ]
+                    ],
+                    "text_description": "상제"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.759999999999998,
+                            676.37,
+                            588.01,
+                            782.62
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}\\text { (해설)세로 눈금 한 칸은 } 2 \\text { 명을 나타냅니다. } \\\\ \\text { 미진: 이 마을의 } 2014 \\text { 년의 출생아 수는 } 26 \\text { 명입니다. } \\\\ \\text { 지영: } 2016 \\text { 년은 } 2015 \\text { 년보다 출생아 수가 적습니다. }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

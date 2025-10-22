@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "fb4c95fc-03f3-4fff-9d3e-1723ae7d7066",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010108",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-05] 실생활에서 가능성과 관련된 상황을 ‘불가능하다’, ‘~아닐 것 같다’, ‘반반이다’, ‘~일 것 같다’, ‘확실하다’ 등으로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-04] 사건이 일어날 가능성을 말로 표현하고 비교할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.07,
+                            3.01,
+                            671.62,
+                            56.37
+                        ]
+                    ],
+                    "text_description": "친구들이 말한 일이 일어날 가능성을 비교하려고 합니다. 일이 일어날 가능성이 ‘불가능하다’인 경우를 말한 친구의 이름을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            180.37,
+                            59.37,
+                            521.7,
+                            282.97
+                        ]
+                    ],
+                    "text_description": "현선: 오늘은 화요일이니까 내일은 윌요일일 거야. 지은: 지금은 오후 2시니깐 1시간 후에는 3시가 될 거야."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.25,
+                            293.13,
+                            82.13,
+                            315.16
+                        ]
+                    ],
+                    "text_description": "현선"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.83,
+                            323.78,
+                            673.31,
+                            371.9
+                        ]
+                    ],
+                    "text_description": "오늘이 화요일이면 내일은 수요일이므로 일이 일어날 가능성이 '불가능하다'인 경우를 말한 친구는 현선입니다."
+                }
+            ]
+        }
+    ]
+}

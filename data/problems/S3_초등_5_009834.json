@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "5a898d22-bc53-4eae-bd06-125fd41fe8d8",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_009834",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-13] 소수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.2,
+                            8.21,
+                            642,
+                            30.61
+                        ]
+                    ],
+                    "text_description": "다음 계산식이 맞도록 소수점을 바르게 찍은 것은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            324.8,
+                            39.81,
+                            412.4,
+                            189.81
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}5. 17 \\\\ \\times \\quad 0. 38 \\\\ \\hline 4136 \\\\ 1551 \\\\ \\hline 19646\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22,
+                            202.3,
+                            128.4,
+                            227.1
+                        ]
+                    ],
+                    "text_description": "1. ①① 1. 9646"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.8,
+                            227.3,
+                            128.4,
+                            311.9
+                        ]
+                    ],
+                    "text_description": "2. ②② 19. 646 3. ③③ 196. 46 4. ④④ 1964. 6 5. ⑤⑤ 19646"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.8,
+                            335.7,
+                            599.6,
+                            381.5
+                        ]
+                    ],
+                    "text_description": "5. 17과 0. 38 모두 소수 두 자리 수이므로 곱은 소수 네 자리 수입니다. $5. 17 \\times 0. 38=1. 9646$"
+                }
+            ]
+        }
+    ]
+}

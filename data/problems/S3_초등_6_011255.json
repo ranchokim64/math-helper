@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "ce4aa713-80d7-4c7d-905b-e943d0314d2b",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_011255",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-08] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-16] 원주와 원의 넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61,
+                            5.42,
+                            829,
+                            31.42
+                        ]
+                    ],
+                    "text_description": "반지름이 $4cm$ 인 원의 넓이를 어림하였을 때, 알맞은 수를 선택해 보세요 $. $"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            173,
+                            245,
+                            714,
+                            321
+                        ]
+                    ],
+                    "text_description": "$32 \\mathrm{~cm}^{2}<($ 원의 넓이 $)<60 \\mathrm{~cm}^{2}$ 이므로 원의 넓이는 $(30, 46, 62) \\mathrm{cm}^{2}$ 쯤 될 것 같습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            356,
+                            37.42,
+                            533,
+                            241.42
+                        ]
+                    ],
+                    "text_description": "8x8 모눈 종이에 꼭 맞게 들어간 원이 있고 $1$칸에 $1cm^2$ 이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            47,
+                            335,
+                            78,
+                            366
+                        ]
+                    ],
+                    "text_description": "$46$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            383,
+                            557,
+                            450
+                        ]
+                    ],
+                    "text_description": "원의 넓이는 초록색 모눈의 넓이인 $32 \\mathrm{~cm}^{2}$보다 넓고, 빨간색 선 안쪽 모눈의 넓이인 $60 \\mathrm{~cm}^{2}$보다 좁습니다."
+                }
+            ]
+        }
+    ]
+}

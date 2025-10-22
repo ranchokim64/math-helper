@@ -1,0 +1,119 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1174d05f-7660-4546-8ef8-060a30b08201",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010532",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-03] 주어진 자료를 띠그래프와 원그래프로 나타낼 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-02] 자료를 수집하여 띠그래프나 원그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            35,
+                            4.15,
+                            957.5,
+                            74.65
+                        ]
+                    ],
+                    "text_description": "다음은 어느 대학교 학생들 800 명의 출생지를 조사하여 나타낸 띠그래프입니다. 이 대학교 학생 중 셋째로 학생 수가 많은 출생지는 어디인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            192.5,
+                            83.4,
+                            800,
+                            258.4
+                        ]
+                    ],
+                    "text_description": "출생지별 학생 수의 띠그래프이다 0부터 100(%)의 눈금이 표시되어 있다. 왼쪽부터 전라도는 30%, 경상도는 25%, 경기도는 20%, 충청도는 15%, 제주도는 10% 차지하고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            642.5,
+                            270.37,
+                            760,
+                            304.12
+                        ]
+                    ],
+                    "text_description": "③ 경기도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            32.5,
+                            271.62,
+                            462.5,
+                            347.87
+                        ]
+                    ],
+                    "text_description": "① 전라도 ② 경상도 ④ 충정도 ⑤ 제주도"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            13.75,
+                            410.37,
+                            962.5,
+                            511.62
+                        ]
+                    ],
+                    "text_description": "(해설) 비율이 높은 출생지부터 차례대로 써 보면 전라도($30 \\%)$, 경상도($25 \\%$), 경기도($20 \\%)$, 충청도 $(15 \\%)$, 제주도 $(10 \\%)$ 입니다. 따라서 학생 수가 셋째로 많은 출생지는 경기도입니다."
+                }
+            ]
+        }
+    ]
+}

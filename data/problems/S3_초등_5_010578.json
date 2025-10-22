@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "788ea0ab-5b0d-4375-af5a-e9cee9e18e81",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010578",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-01] 덧셈, 뺄셈, 곱셈, 나눗셈의 혼합 계산에서 계산하는 순서를 알고, 혼합 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            61.5,
+                            4.91,
+                            765.5,
+                            36.91
+                        ]
+                    ],
+                    "text_description": "먼저 계산해야 하는 부분의 연산 기호를 각각 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            14.5,
+                            174.5,
+                            964.5,
+                            242.5
+                        ]
+                    ],
+                    "text_description": "곱셈과 나눗셈이 섞여 있는 식은 앞에서부터 차례로 계산하고, 곱셈과 나눗셈이 섞여 있고 ()가 있는 식에서는 () 안을 먼저 계산합니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            275.0,
+                            59.0,
+                            744.0,
+                            100.0
+                        ]
+                    ],
+                    "text_description": "$16 \\div 4 \\times 2 \\quad 16 \\div(4 \\times 2)$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            66.0,
+                            131.0,
+                            223.0,
+                            162.0
+                        ]
+                    ],
+                    "text_description": "$16 \\div 4 $, $ \\times 2$"
+                }
+            ]
+        }
+    ]
+}

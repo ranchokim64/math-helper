@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b5558ba9-3235-4cc0-be25-329b35732570",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_004717",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수02-02] 합동인 두 도형에서 대응점, 대응변, 대응각을 각각 찾고, 그 성질을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-01] 도형의 합동을 이해하고, 합동인 도형의 성질을 탐구하고 설명할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5,
+                            12.64,
+                            393,
+                            62.24
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ과 삼각형 ㄷㄹㄱ은 서로 합동입니다. 각 ㄴㅁㄹ은 몇 도인지 구해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            -0.6,
+                            215.5,
+                            193,
+                            242.7
+                        ]
+                    ],
+                    "text_description": "각 ㄴㅁㄹ은 몇 도인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            9,
+                            87.5,
+                            254.6,
+                            204.3
+                        ]
+                    ],
+                    "text_description": "삼각형 ㄱㄴㄷ과 삼각형 ㄷㄹㄱ은 서로 합동인 상황입니다. 이 이미지는 두 개의 삼각형이 교차하는 도형을 나타내고 있습니다. 한 삼각형의 각은 120도이며, 다른 삼각형의 각은 30도입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            329.8,
+                            311.5,
+                            370.6,
+                            335.5
+                        ]
+                    ],
+                    "text_description": "$120^{\\circ}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.2,
+                            261.9,
+                            327.4,
+                            316.3
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 각 ㄷㄱㄹ })=(\\text { 각 ㄱㄷㄴ })=30^{\\circ} \\text { 이므로 } \\\\ \\text { 삼각형 ㄱㅁㄷㄷ에서 }(\\text { 각 ㄱㅁㄷㄷ })=180^{\\circ}-30^{\\circ}-30^{\\circ}=120^{\\circ} \\text {, } \\\\ \\text { 일직선은 } 180^{\\circ} \\text { 이므로 }(\\text { 각 ㄱㅁㄴㄴ })=180^{\\circ}-120^{\\circ}=60^{\\circ}, \\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            22.6,
+                            315.5,
+                            232.2,
+                            333.9
+                        ]
+                    ],
+                    "text_description": "(각 ㄴㅁㄹ)= $180^{\\circ}-60^{\\circ}=120^{\\circ}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

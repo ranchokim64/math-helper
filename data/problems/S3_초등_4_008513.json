@@ -1,0 +1,149 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "35f9b487-a66c-41a2-a100-b50055384f39",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008513",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수04-02] 규칙적인 계산식의 배열에서 계산 결과의 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수02-02] 계산식의 배열에서 규칙을 찾고, 계산 결과를 추측할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            73.8,
+                            4.72,
+                            928.97,
+                            37.12
+                        ]
+                    ],
+                    "text_description": "계산식을 보고 국진이의 생각과 같은 규칙적인 계산식을 찾아 기호를 선"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            31.96,
+                            44.55,
+                            150.75,
+                            74.25
+                        ]
+                    ],
+                    "text_description": "택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 3,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            182.47,
+                            89.14,
+                            475.4,
+                            306.43
+                        ]
+                    ],
+                    "text_description": "㉠$\\begin{array}{l}953-651=302 \\\\ 853-551=302 \\\\ 753-451=302 \\\\ 653-351=302\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            488.25,
+                            88.14,
+                            783.18,
+                            304.41
+                        ]
+                    ],
+                    "text_description": "㉡$\\begin{array}{l}6050 \\div 55=110 \\\\ 4840 \\div 44=110 \\\\ 3630 \\div 33=110 \\\\ 2420 \\div 22=110\\end{array}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            259.03,
+                            307.58,
+                            703.99,
+                            439.8
+                        ]
+                    ],
+                    "text_description": "국진: 다음에 올 계산식은 \\[ 1210 \\div 11=110 \\text { 일 거야. } \\]"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            58,
+                            453.9,
+                            84,
+                            479.9
+                        ]
+                    ],
+                    "text_description": "㉡"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            60.3,
+                            499.47,
+                            931.67,
+                            531.19
+                        ]
+                    ],
+                    "text_description": "㉡의 규칙: 나누어지는 수가 1210 씩 작아지는 수를 11 씩 작아지는 수로 나누면 몫"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            33.3,
+                            537.27,
+                            660.34,
+                            600.71
+                        ]
+                    ],
+                    "text_description": "은 110 입니다. 따라서 ㉡에서 다음에 올 계산식은 $1210 \\div 11=110$ 입니다."
+                }
+            ]
+        }
+    ]
+}

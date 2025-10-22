@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "bec1f2fa-c838-4382-a20f-8b37f9b0bca5",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002880",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-09] 분수의 곱셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            2.8,
+                            -0.76,
+                            398.8,
+                            69.64
+                        ]
+                    ],
+                    "text_description": "하루는 24시간입니다. 예지네 강아지가 하루의 $\\frac{5}{8}$만큼 잠을 잔다면 하루에 잠을 자는 시간은 몇 시간일까요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            411.6,
+                            2.1,
+                            626,
+                            118.9
+                        ]
+                    ],
+                    "text_description": "강아지가 자고 있는 그림"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.200000000000003,
+                            194.1,
+                            194,
+                            226.1
+                        ]
+                    ],
+                    "text_description": "15시간"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37.2,
+                            118.9,
+                            366.8,
+                            184.5
+                        ]
+                    ],
+                    "text_description": "$($ 강아지가 잠을 자는 시간 $)=2 4 \\times \\frac{5}{8}=15$ (시간)"
+                }
+            ]
+        }
+    ]
+}

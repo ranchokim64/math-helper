@@ -1,0 +1,155 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "10a6230e-9fa8-4ede-a3cf-e370f964a0f1",
+        "date": "2024-11-12",
+        "publisher": "2차 저작",
+        "publication_year": "2024-11-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_017832",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-11] 분수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.88,
+                            12.36,
+                            162.5,
+                            39.51
+                        ]
+                    ],
+                    "text_description": "계산해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            18.52,
+                            58.43,
+                            93.39,
+                            96.28
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{15} \\div \\frac{3}{5}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            43.35,
+                            146.47,
+                            62.95,
+                            181.02
+                        ]
+                    ],
+                    "text_description": "$\\frac{2}{3}$"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.7,
+                            107.49,
+                            62.95,
+                            142.87
+                        ]
+                    ],
+                    "text_description": "① $\\frac{6}{5}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            16.88,
+                            184.01,
+                            62.13,
+                            295.08
+                        ]
+                    ],
+                    "text_description": "③ $\\frac{1}{5}$ ④ $\\frac{3}{5}$ ⑤ $\\frac{1}{3}$"
+                }
+            ]
+        },
+        {
+            "class_num": "3",
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            20.99,
+                            327.17,
+                            225.86,
+                            393.81
+                        ]
+                    ],
+                    "text_description": "$\\frac{6}{15} \\div \\frac{3}{5}=\\frac{6}{15} \\times \\frac{5}{3}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            52.26,
+                            402.86,
+                            194.59,
+                            463.74
+                        ]
+                    ],
+                    "text_description": "$\\frac{6 \\times 5}{15 \\times 3}=\\frac{30}{45}$"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            76.94,
+                            476.08,
+                            164.97,
+                            537.79
+                        ]
+                    ],
+                    "text_description": "$\\frac{30}{45}=\\frac{2}{3}$"
+                }
+            ]
+        }
+    ]
+}

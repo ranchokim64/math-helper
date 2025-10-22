@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "83ad3166-eca3-4ce1-bee2-86f2676fb451",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009184",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-03] 길이를 나타내는 새로운 단위의 필요성을 인식하여 1mm와 1km의 단위를 알고, 이를 이용하여 길이를 측정하고 어림할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-15] 길이 단위 1mm와 1km를 알고, 이를 이용하여 길이를 측정하고 어림하며 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            6.92,
+                            456.5,
+                            30.92
+                        ]
+                    ],
+                    "text_description": "길이가 $1km$보다 긴 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            67.5,
+                            37.92,
+                            365.5,
+                            90.92
+                        ]
+                    ],
+                    "text_description": "보라색 상자에 다음과 같은 텍스트가 쓰여져 있다. 에어컨의 높이"
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            409.5,
+                            38.5,
+                            706.5,
+                            91.5
+                        ]
+                    ],
+                    "text_description": "보라색 상자에 다음과 같은 텍스트가 쓰여져 있다.서울에서 부산까지의 거리"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            48.5,
+                            104.5,
+                            301.5,
+                            129.5
+                        ]
+                    ],
+                    "text_description": "서울에서 부산까지의 거리"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            46.5,
+                            145.5,
+                            566.5,
+                            168.5
+                        ]
+                    ],
+                    "text_description": "서울에서 부산까지의 거리는 약 $430km$로 $1km$보다 깁니다."
+                }
+            ]
+        }
+    ]
+}

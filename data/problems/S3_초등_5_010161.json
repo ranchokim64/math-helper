@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "90f2cf06-8527-4128-bcbb-feca14d97bbd",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_010161",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수05-07] 사건이 일어날 가능성을 수로 표현할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수04-05] 사건이 일어날 가능성을 수로 나타낼 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            21,
+                            8.41,
+                            663,
+                            60.41
+                        ]
+                    ],
+                    "text_description": "동전 한 개를 던질 때 일이 일어날 가능성을 알아보려고 합니다. 그림 면이 나올 가능성에 $\\downarrow$로 알맞게 나타낸 것을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.0,
+                            66.0,
+                            640.0,
+                            134.0
+                        ]
+                    ],
+                    "text_description": "두 개의 수직선으로 구성되어 있으며, 각 수직선에는 0과 1 사이의 값이 표시되어 있습니다. 첫 번째 수직선은 절반 지점$\\frac{1}{2}$에 $\\downarrow$가 있는 형태이고, 두 번째 수직선은 1 지점에 $\\downarrow$가 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38.0,
+                            143.41,
+                            304.0,
+                            204.41
+                        ]
+                    ],
+                    "text_description": "수직선으로 구성되어 있으며, 각 수직선에는 0과 1 사이의 값이 표시되어 있습니다. 수직선은 절반 지점$\\frac{1}{2}$에 $\\downarrow$가 있는 형태이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            6,
+                            210,
+                            663,
+                            276
+                        ]
+                    ],
+                    "text_description": "동전 한 개들 던질 때 그림 면이 나올 가능성은 '반반이다'이고, 수로 표현하면 $\\frac{1}{2}$ 입니다."
+                }
+            ]
+        }
+    ]
+}

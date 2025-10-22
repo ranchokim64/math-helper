@@ -1,0 +1,131 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "b5f90a75-9825-4b62-93c6-05dd0ddf867c",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008338",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            70.5,
+                            7.42,
+                            761.5,
+                            39.42
+                        ]
+                    ],
+                    "text_description": "다음 도형을 왼쪽으로 밀었을 때의 도형은 어느 것인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            428.5,
+                            42.42,
+                            531.5,
+                            147.42
+                        ]
+                    ],
+                    "text_description": "모눈종이위에 '9'와 비슷한 도형이 나타나 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            29.5,
+                            248,
+                            156.5,
+                            354
+                        ]
+                    ],
+                    "text_description": "④모눈종이위에 '9'와 비슷한 도형이 나타나 있으며, 문항과 동일한 모습이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            409,
+                            721.5,
+                            437
+                        ]
+                    ],
+                    "text_description": "도형을 어느 방향으로 밀어도 도형의 모양은 변하지 않습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "오답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            145,
+                            747.5,
+                            250
+                        ]
+                    ],
+                    "text_description": "① 9자도형이 시계방향으로 90도 돌아간 모습이다. ② 9자도형이 상하 뒤집기 된 모습이다. ③9자도형이 좌우 반전된 모습이다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            325.5,
+                            250,
+                            453.5,
+                            354
+                        ]
+                    ],
+                    "text_description": "⑤9자도형이 상하반전되고, 뒤집기 된 모습니다."
+                }
+            ]
+        }
+    ]
+}

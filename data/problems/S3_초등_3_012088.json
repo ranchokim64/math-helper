@@ -1,0 +1,95 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "786b9158-c99f-4dbc-b35a-0a77911f992a",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_012088",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            156.82,
+                            9.83,
+                            336.82,
+                            48.83
+                        ]
+                    ],
+                    "text_description": "곱셈을 하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            51.82,
+                            77.83,
+                            173.82,
+                            186.83
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}28 \\\\ \\times \\quad 3\\end{array}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17.82,
+                            323.44,
+                            69.82,
+                            351.44
+                        ]
+                    ],
+                    "text_description": "$84$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.82,
+                            196.83,
+                            91.82,
+                            290.83
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{r}2 \\\\ 28 \\\\ \\times \\quad 3 \\\\ \\hline 84\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

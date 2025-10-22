@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a486b2e3-e3ae-415f-8a15-164a45c59cab",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009237",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수03-01] 1분은 60초임을 알고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-13] 1분과 1초의 관계를 이해하고, 초 단위까지 시각을 읽을 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            41.81,
+                            3.75,
+                            564.61,
+                            26.43
+                        ]
+                    ],
+                    "text_description": "주어진 시각에 알맞게 초바늘을 그려 넣은 것을 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            239.62,
+                            31.22,
+                            497.42,
+                            222.62
+                        ]
+                    ],
+                    "text_description": "전자 시계가 8:35:46을 표시하고 있다. 아래 두 원형 시계가 왼쪽은 8시 35분 25초를 보여주고, 오른쪽은 8시 35분 46초를 보여주고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.82,
+                            226.42,
+                            118.22,
+                            302.42
+                        ]
+                    ],
+                    "text_description": "시계가 8시 35분 46초를 보여주고 있다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            42.62,
+                            311.22,
+                            481.42,
+                            330.02
+                        ]
+                    ],
+                    "text_description": "초바늘이 숫자 9에서 1칸 더 간 곳을 가리키게 그립니다."
+                }
+            ]
+        }
+    ]
+}

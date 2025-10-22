@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1a2eef9e-3b68-44ac-a923-3782cf303b6e",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "3학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_3_009054",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-09] 여러 가지 모양의 삼각형에 대한 분류 활동을 통하여 직각삼각형, 예각삼각형, 둔각삼각형을 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            65.78999999999999,
+                            0.69,
+                            487.79,
+                            24.76
+                        ]
+                    ],
+                    "text_description": "직각이 없는 삼각형을 모두 선택하세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            166,
+                            33.4,
+                            698,
+                            301.4
+                        ]
+                    ],
+                    "text_description": "모눈종이에가: 세 변의 길이가 모두 다른 삼각형 나: 한 각이 직각인 삼각형 다: 한 각이 둔각인 삼각형 라: 두 변의 길이가 같은 삼각형 마: 세 변의 길이가 모두 다른 삼각형 바: 한 각이 직각인 삼각형"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            54,
+                            315.4,
+                            181,
+                            342.4
+                        ]
+                    ],
+                    "text_description": "가, 다, 라, 마"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.85,
+                            352.8,
+                            479.54,
+                            568.05
+                        ]
+                    ],
+                    "text_description": "모눈종이에가: 세 변의 길이가 모두 다른 삼각형 나: 한 각이 직각인 삼각형 다: 한 각이 둔각인 삼각형 라: 두 변의 길이가 같은 삼각형 마: 세 변의 길이가 모두 다른 삼각형 바: 한 각이 직각인 삼각형"
+                }
+            ]
+        }
+    ]
+}

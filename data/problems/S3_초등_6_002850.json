@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "98dba096-9b1f-4d61-bfd6-476c7a89d426",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_002850",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-10] 부피를 이해하고, 1cm³, 1m³의 단위를 알며, 그 관계를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-18] 부피 단위 1cm³, 1m³를 알며, 그 관계를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            7.4,
+                            3.83,
+                            730.6,
+                            28.63
+                        ]
+                    ],
+                    "text_description": "상자 가와 나에 크기가 같은 사전을 담아 부피를 비교하려고 합니다. 물음에 답해 보세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.6,
+                            376.63,
+                            322.6,
+                            399.83
+                        ]
+                    ],
+                    "text_description": "상자 나에 담을 수 있는 사전은 몇 권인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            110.4,
+                            54.7,
+                            665.8,
+                            313.1
+                        ]
+                    ],
+                    "text_description": "가 상자에는 가로 1권 x 세로 2권을 총 5층으로 담을 수 있는 그림이다. 나 상자에는 가로 2권 x 세로 2권을 총 3층으로 담을 수 있는 그림이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            68,
+                            473.9,
+                            182.6,
+                            503.5
+                        ]
+                    ],
+                    "text_description": "12권"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            37,
+                            413.9,
+                            625,
+                            462.7
+                        ]
+                    ],
+                    "text_description": "상자 나에는 사전을 4권씩(가로 2권 $\\times$ 세로 2권) 3층으로 담을 수 있으므로 12권을 담을 수 있습니다."
+                }
+            ]
+        }
+    ]
+}

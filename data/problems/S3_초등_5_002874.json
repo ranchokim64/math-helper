@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "1f85ed65-4f82-4e10-957e-21401f426dd2",
+        "date": "2024-10-02",
+        "publisher": "대교",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "5학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_5_002874",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-02] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-03] 어림값을 구하기 위한 방법으로 올림, 버림, 반올림의 의미와 필요성을 알고, 이를 실생활에 활용함으로써 수학의 유용성을 인식할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            10.22,
+                            7.99,
+                            747.82,
+                            66.39
+                        ]
+                    ],
+                    "text_description": "수 카드 5장을 한 번씩만 사용하여 가장 큰 다섯 자리 수를 만들고, 만든 수를 반올림하여 천의 자리까지 나타내어 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            171.82,
+                            81.22,
+                            583.82,
+                            178.02
+                        ]
+                    ],
+                    "text_description": "5, 2, 8, 3, 6 순서로 정렬된 숫자카드 5장."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            71.82,
+                            267.62,
+                            155.02,
+                            298.02
+                        ]
+                    ],
+                    "text_description": "$87000$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            55.02,
+                            185.22,
+                            547.82,
+                            262.02
+                        ]
+                    ],
+                    "text_description": "$5, 2, 8, 3, 6$으로 만들 수 있는 가장 큰 다섯 자리 수는 86532입니다. 86532를 반올림하여 천의 자리까지 나타내면 87000입니다."
+                }
+            ]
+        }
+    ]
+}

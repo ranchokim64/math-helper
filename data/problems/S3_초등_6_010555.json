@@ -1,0 +1,125 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "a901f1c7-7ef0-4b8a-ae2e-ee45fdb79d13",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_010555",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-11] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-19] 직육면체와 정육면체의 부피를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            30.5,
+                            7.42,
+                            954.5,
+                            80.42
+                        ]
+                    ],
+                    "text_description": "크기가 같은 쌓기나무를 다음과 같이 사용하여 직육면체를 만들었습니다. 만든 직육면체의 부피가 가장 큰 것을 선택하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            218.5,
+                            102.42,
+                            725.5,
+                            218.42
+                        ]
+                    ],
+                    "text_description": "가: 가로에 9 개씩, 세로에 5 개씩, 높이 8 층 나: 가로에 6 개씩, 세로에 7 개씩, 높이 9 층 다: 가로에 10 개씩, 세로에 4 개씩, 높이 6 층"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            53.5,
+                            244,
+                            549.5,
+                            282
+                        ]
+                    ],
+                    "text_description": "나: 가로에 6 개씩, 세로에 7 개씩, 높이 9 층"
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            56.5,
+                            293,
+                            587.5,
+                            322
+                        ]
+                    ],
+                    "text_description": "사용한 쌍기나무의 수가 많을수록 부피가 큽니다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            27.5,
+                            441,
+                            775.5,
+                            470
+                        ]
+                    ],
+                    "text_description": "$378>360>240$ 이므로 만든 직육면체의 부피가 가장 큰 것은 나입니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            28.5,
+                            328,
+                            488.5,
+                            439
+                        ]
+                    ],
+                    "text_description": "$\\begin{array}{l}(\\text { 가의 쌓기나무 수 })=9 \\times 5 \\times 8=360 \\text { (개) } \\\\ (\\text { 나의 쌓기나무 수 })=6 \\times 7 \\times 9=378 \\text { (개) } \\\\ (\\text { 다의 쌓기나무 수 })=10 \\times 4 \\times 6=240 \\text { (개) }\\end{array}$"
+                }
+            ]
+        }
+    ]
+}

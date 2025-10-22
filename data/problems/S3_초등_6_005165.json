@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "76e796e6-773a-46da-9c54-52de309e0dea",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005165",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수01-15] 나누는 수가 소수인 나눗셈의 계산 원리를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[6수01-15] 소수의 나눗셈의 계산 원리를 탐구하고 그 계산을 할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.5,
+                            18.42,
+                            680.5,
+                            62.42
+                        ]
+                    ],
+                    "text_description": "큰 수를 작은 수로 나누어 빈칸에 써넣으세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            59.5,
+                            214,
+                            424.5,
+                            467
+                        ]
+                    ],
+                    "text_description": "이미지에는 두 개의 숫자가 있습니다: 3. 5와 21. 이 숫자들은 분할된 타원형 영역 안에 위치해 있습니다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            25.5,
+                            156,
+                            55.5,
+                            192
+                        ]
+                    ],
+                    "text_description": "$6$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            45.5,
+                            88,
+                            210.5,
+                            121
+                        ]
+                    ],
+                    "text_description": "$21 \\div 3. 5=6$"
+                }
+            ]
+        }
+    ]
+}

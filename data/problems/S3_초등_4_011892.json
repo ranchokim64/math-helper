@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "47b53597-e649-47d7-ad78-72b9c4bf3e6b",
+        "date": "2024-10-23",
+        "publisher": "교학사",
+        "publication_year": "2019-11-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "2학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_011892",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수05-03] 여러 가지 자료를 수집, 분류, 정리하여 자료의 특성에 맞는 그래프로 나타내고, 그래프를 해석할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[4수04-03] 탐구 문제를 해결하기 위해 자료를 수집, 정리하여 막대그래프나 꺾은선그래프로 나타내고 해석할 수 있다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 2,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            0.25,
+                            2.5,
+                            487.75,
+                            120
+                        ]
+                    ],
+                    "text_description": "6~9 혜성이가 할아버지네 과수원의 연도 별 사과 생산량을 조사하여 나타낸 꺾은선그래프입니다. 물음에 답하세요."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            5.25,
+                            408.75,
+                            489,
+                            480
+                        ]
+                    ],
+                    "text_description": "9 사과 생산량이 가장 적었던 해와 그 때의 사과 생산량을 쓰세요."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            87.75,
+                            136,
+                            446.5,
+                            400
+                        ]
+                    ],
+                    "text_description": "사과 생산량의 꺾은선그래프이다. 가로는 연도(년) 세로는 생산량(상자)이다. 2012년도에서 2013년까지 상승하다 2014년도에 하락하며 2016년까지 다시 상승하다가 2017년에 하락한다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            201.5,
+                            492.5,
+                            443.75,
+                            523.5
+                        ]
+                    ],
+                    "text_description": "2012년, 700상자"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            75.25,
+                            528.75,
+                            337.75,
+                            553.25
+                        ]
+                    ],
+                    "text_description": "2012년에 700상자로 가장 낮습니다."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "97d4a6bd-ea1d-4c25-9064-152201b9fc47",
+        "date": "2024-08-27",
+        "publisher": "교학사",
+        "publication_year": "2015-01-01",
+        "school": "초등학교",
+        "grade": "6학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_6_005808",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[6수03-09] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "2022_achievement_standard": [
+            "[6수03-17] 직육면체와 정육면체의 겉넓이를 구하는 방법을 이해하고, 이를 구할 수 있다."
+        ],
+        "level_of_difficulty": "중",
+        "types_of_problems": "주관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            4,
+                            7.92,
+                            429,
+                            66.92
+                        ]
+                    ],
+                    "text_description": "다음 직육면체에서 색칠한 면의 넓이는 $48 \\mathrm{~cm}^{2}$입니다. 이 직육면체의 겉넓이는 몇 $\\mathrm{cm}^{2}$인가요?"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            97,
+                            73.92,
+                            337,
+                            230.92
+                        ]
+                    ],
+                    "text_description": "가로 8cm, 세로 3cm의 직육면체의 전개도이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            282,
+                            245.5,
+                            361,
+                            274.5
+                        ]
+                    ],
+                    "text_description": "$180 \\mathrm{~cm}^{2}$"
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            24,
+                            283.5,
+                            428,
+                            392.5
+                        ]
+                    ],
+                    "text_description": "색칠한 면의 넓이는 $48 \\mathrm{~cm}^{2}$이므로 색칠한 면에서 나머지 한 변의 길이는 $48 \\div 8=6(\\mathrm{~cm})$입니다. \\[ \\begin{aligned} (\\text { 직육면체의 겉넓이) } & =(8 \\times 6+6 \\times 3+8 \\times 3) \\times 2 \\\\ & =(48+18+24) \\times 2 \\\\ & =90 \\times 2=180\\left(\\mathrm{~cm}^{2}\\right) \\end{aligned} \\]"
+                }
+            ]
+        }
+    ]
+}

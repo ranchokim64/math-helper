@@ -1,0 +1,113 @@
+{
+    "raw_data_info": {
+        "raw_data_name": "3d0f57cc-250b-42b5-bc0a-573f264b4330",
+        "date": "2024-10-18",
+        "publisher": "2차 저작",
+        "publication_year": "2022-08-01",
+        "school": "초등학교",
+        "grade": "4학년",
+        "semester": "1학기",
+        "subject": "수학",
+        "revision_year": "2015"
+    },
+    "source_data_info": {
+        "source_data_name": "S3_초등_4_008231",
+        "2009_achievement_standard": [
+            " "
+        ],
+        "2015_achievement_standard": [
+            "[4수02-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "2022_achievement_standard": [
+            "[4수03-04] 구체물이나 평면도형의 밀기, 뒤집기, 돌리기 활동을 통하여 그 변화를 이해한다."
+        ],
+        "level_of_difficulty": "하",
+        "types_of_problems": "객관식"
+    },
+    "learning_data_info": [
+        {
+            "class_num": 1,
+            "class_name": "문항(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            38,
+                            5.42,
+                            935,
+                            72.42
+                        ]
+                    ],
+                    "text_description": "모양 조각을 시계 방향으로 $90^{\\circ}$만큼 돌리고 오른쪽으로 뒤집었을 때 $\\square$ 안에 알맞은 모양을 선택해 보세요."
+                }
+            ]
+        },
+        {
+            "class_num": 2,
+            "class_name": "문항(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            244,
+                            80.42,
+                            716,
+                            196.42
+                        ]
+                    ],
+                    "text_description": "빨간 직사각형과 노란 직사각형이 붙어 만들어진 도형이다. 시계 방향으로 90도 돌린 그림이 있고 오른쪽으로 뒤집으라는 표시가 있고 $\\square$가 있다."
+                },
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            379.22,
+                            197.72,
+                            591.42,
+                            296.12
+                        ]
+                    ],
+                    "text_description": "빨간 직사각형과 노란 직사각형이 붙어 만들어진 도형이 2개가 있고 서로 대칭인 모습을 보여준다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "정답(이미지)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            62.8,
+                            304.5,
+                            121.16,
+                            380.14
+                        ]
+                    ],
+                    "text_description": "빨간 직사각형과 노란 직사각형이 붙어 만들어진 도형이다."
+                }
+            ]
+        },
+        {
+            "class_num": 1,
+            "class_name": "해설(텍스트)",
+            "class_info_list": [
+                {
+                    "Type": "Bounding_Box",
+                    "Type_value": [
+                        [
+                            17,
+                            393,
+                            936,
+                            457
+                        ]
+                    ],
+                    "text_description": "모양 조각을 시계 방향으로 $90^{\\circ}$만큼 돌리면 위쪽 부분이 오른쪽으로 이동하고, 모양 조각을 오른쪽으로 뒤집으면 왼쪽과 오른쪽이 서로 바뀝니다."
+                }
+            ]
+        }
+    ]
+}
