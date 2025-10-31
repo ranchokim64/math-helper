@@ -116,18 +116,37 @@ export function ProblemViewer({
     }
   }, [])
 
-  // 캔버스 크기 조정
+  // 캔버스 크기 조정 (고해상도 디스플레이 지원)
   const resizeCanvas = useCallback(() => {
     const canvas = canvasRef.current
     const container = imageContainerRef.current
-    if (canvas && container && enableDrawing) {
+    if (canvas && container) {
       const rect = container.getBoundingClientRect()
-      canvas.width = rect.width
-      canvas.height = rect.height
+      const dpr = window.devicePixelRatio || 1
+
+      // 실제 픽셀 크기 설정 (고해상도 디스플레이 지원)
+      canvas.width = rect.width * dpr
+      canvas.height = rect.height * dpr
+
+      // CSS 크기는 논리적 픽셀로 설정
       canvas.style.width = rect.width + 'px'
       canvas.style.height = rect.height + 'px'
+
+      // Canvas context를 dpr로 스케일링
+      const ctx = canvas.getContext('2d')
+      if (ctx) {
+        ctx.scale(dpr, dpr)
+      }
+
+      console.log('📐 Canvas 크기 조정:', {
+        cssWidth: rect.width,
+        cssHeight: rect.height,
+        canvasWidth: canvas.width,
+        canvasHeight: canvas.height,
+        dpr
+      })
     }
-  }, [enableDrawing])
+  }, [])
 
   // 10초 타이머 초기화
   const resetPauseTimer = () => {
@@ -176,17 +195,22 @@ export function ProblemViewer({
   const redrawCanvas = useCallback(() => {
     const canvas = canvasRef.current
     const ctx = canvas?.getContext('2d')
-    if (!canvas || !ctx) return
+    const container = imageContainerRef.current
+    if (!canvas || !ctx || !container) return
 
-    // 캔버스 클리어
-    ctx.clearRect(0, 0, canvas.width, canvas.height)
+    // CSS 크기 가져오기 (논리적 픽셀)
+    const rect = container.getBoundingClientRect()
+    const canvasWidth = rect.width
+    const canvasHeight = rect.height
+
+    // 캔버스 클리어 (전체 픽셀 크기로)
+    const dpr = window.devicePixelRatio || 1
+    ctx.clearRect(0, 0, canvasWidth * dpr, canvasHeight * dpr)
 
     // 1. 배경 이미지 그리기
     const img = loadedImageRef.current
     if (img && img.complete && imageDimensions) {
-      // 이미지를 Canvas 크기에 맞춰 그리기
-      const canvasWidth = canvas.width
-      const canvasHeight = canvas.height
+      // 이미지를 Canvas 크기에 맞춰 그리기 (논리적 픽셀 사용)
       const imgWidth = imageDimensions.width
       const imgHeight = imageDimensions.height
 
@@ -378,18 +402,24 @@ export function ProblemViewer({
       currentStrokeRef.current = null // ref도 초기화
 
       // 즉시 Canvas 재렌더링 (깜빡임 방지)
-      // 새로운 스트로크를 포함하여 즉시 그리기
+      // redrawCanvas를 사용하여 일관성 유지
       const canvas = canvasRef.current
       const ctx = canvas?.getContext('2d')
-      if (canvas && ctx) {
-        // Canvas 클리어
-        ctx.clearRect(0, 0, canvas.width, canvas.height)
+      const container = imageContainerRef.current
+
+      if (canvas && ctx && container) {
+        // CSS 크기 가져오기 (논리적 픽셀)
+        const rect = container.getBoundingClientRect()
+        const canvasWidth = rect.width
+        const canvasHeight = rect.height
+
+        // 캔버스 클리어
+        const dpr = window.devicePixelRatio || 1
+        ctx.clearRect(0, 0, canvasWidth * dpr, canvasHeight * dpr)
 
         // 배경 이미지 + 마스킹 그리기
         const img = loadedImageRef.current
         if (img && img.complete && imageDimensions) {
-          const canvasWidth = canvas.width
-          const canvasHeight = canvas.height
           const imgWidth = imageDimensions.width
           const imgHeight = imageDimensions.height
 

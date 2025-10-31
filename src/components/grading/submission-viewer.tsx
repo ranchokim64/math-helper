@@ -40,6 +40,7 @@ interface ProblemRecording {
   problemId: string
   problemIndex: number
   recordingUrl: string
+  capturedImageUrl?: string  // 학생 필기가 포함된 캡처 이미지
   duration: number
   segments?: ActivitySegment[]
 }
@@ -94,6 +95,20 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
         }
 
         const data = await response.json()
+
+        console.log('📥 제출물 데이터 수신:', {
+          submissionId: data.id,
+          problemRecordingsCount: data.problemRecordings?.length || 0,
+          problemRecordings: data.problemRecordings?.map((rec: any) => ({
+            problemId: rec.problemId,
+            problemIndex: rec.problemIndex,
+            hasSegments: !!rec.segments,
+            segmentsCount: Array.isArray(rec.segments) ? rec.segments.length : 0,
+            segmentsType: typeof rec.segments,
+            segments: rec.segments
+          }))
+        })
+
         setSubmission(data)
         setFeedback(data.feedback || "")
 
@@ -417,14 +432,41 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
                   </div>
                 </div>
 
-                {/* 문제 내용 (정답/해설 포함) */}
-                {currentProblem && (
-                  <ProblemViewer
-                    problem={currentProblem}
-                    showMetadata={true}
-                    showAnswerKey={true}
-                  />
-                )}
+                {/* 문제 내용 - 학생의 필기가 포함된 캡처 이미지 또는 원본 문제 */}
+                {(() => {
+                  const currentProblemRecording = submission.problemRecordings?.find(
+                    rec => rec.problemId === currentProblem?.id || rec.problemIndex === currentProblemIndex
+                  )
+
+                  return currentProblemRecording?.capturedImageUrl ? (
+                    <Card>
+                      <CardHeader>
+                        <CardTitle className="flex items-center justify-between">
+                          <span>학생 제출 답안 (필기 포함)</span>
+                          <Badge variant="secondary">캡처 이미지</Badge>
+                        </CardTitle>
+                        <CardDescription>
+                          학생이 문제를 풀면서 작성한 필기가 포함된 실제 제출 화면입니다.
+                        </CardDescription>
+                      </CardHeader>
+                      <CardContent>
+                        <div className="relative w-full bg-gray-50 rounded-lg border">
+                          <img
+                            src={currentProblemRecording.capturedImageUrl}
+                            alt={`문제 ${currentProblemIndex + 1} 학생 답안`}
+                            className="w-full h-auto rounded-lg"
+                          />
+                        </div>
+                      </CardContent>
+                    </Card>
+                  ) : currentProblem ? (
+                    <ProblemViewer
+                      problem={currentProblem}
+                      showMetadata={true}
+                      showAnswerKey={true}
+                    />
+                  ) : null
+                })()}
               </div>
 
               {/* 문제별 채점 */}
@@ -504,12 +546,22 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
               return (
                 <>
                   {/* 활동 타임라인 - 현재 문제의 세그먼트 */}
-                  {currentRecording?.segments && currentRecording.segments.length > 0 && (
-                    <ActivityTimeline
-                      segments={currentRecording.segments}
-                      totalDuration={currentRecording.duration || 0}
-                    />
-                  )}
+                  {(() => {
+                    console.log(`🎯 문제 ${currentProblemIndex + 1} 타임라인 렌더링 체크:`, {
+                      hasRecording: !!currentRecording,
+                      hasSegments: !!currentRecording?.segments,
+                      segmentsCount: Array.isArray(currentRecording?.segments) ? currentRecording.segments.length : 0,
+                      segmentsType: typeof currentRecording?.segments,
+                      segments: currentRecording?.segments
+                    })
+
+                    return currentRecording?.segments && currentRecording.segments.length > 0 && (
+                      <ActivityTimeline
+                        segments={currentRecording.segments}
+                        totalDuration={currentRecording.duration || 0}
+                      />
+                    )
+                  })()}
 
                   {/* 녹화 영상 - 현재 문제의 녹화 */}
                   <Card>

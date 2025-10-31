@@ -68,7 +68,7 @@ export async function GET(
     }
 
     // 문제 ID 배열 추출
-    const problemIds = submission.assignment.problems as string[]
+    const problemIds = (submission.assignment.problems as any[])?.map(p => p.id) || []
 
     // 문제 데이터 조회
     const problems = await prisma.problem.findMany({
@@ -119,10 +119,24 @@ export async function GET(
         problemId: rec.problemId,
         problemIndex: rec.problemIndex,
         recordingUrl: rec.recordingUrl,
+        capturedImageUrl: rec.capturedImageUrl, // 학생 필기가 포함된 캡처 이미지
         duration: rec.duration,
         segments: rec.segments
       }))
     }
+
+    console.log('📤 제출물 조회 응답:', {
+      submissionId: responseData.id,
+      problemRecordingsCount: responseData.problemRecordings.length,
+      segmentsInfo: responseData.problemRecordings.map(rec => ({
+        problemId: rec.problemId,
+        problemIndex: rec.problemIndex,
+        hasSegments: !!rec.segments,
+        segmentsCount: Array.isArray(rec.segments) ? rec.segments.length : 0,
+        segmentsType: typeof rec.segments,
+        segmentsPreview: Array.isArray(rec.segments) ? rec.segments.slice(0, 2) : rec.segments
+      }))
+    })
 
     return NextResponse.json(responseData)
 

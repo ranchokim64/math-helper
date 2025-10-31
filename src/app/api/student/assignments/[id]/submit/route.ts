@@ -1,6 +1,12 @@
 import { auth } from "@/lib/auth/auth"
 import { NextRequest, NextResponse } from "next/server"
 import { prisma } from "@/lib/prisma"
+import {
+  saveRecordingFile,
+  generateRecordingFilename,
+  saveSubmissionImage,
+  generateSubmissionImageFilename
+} from "@/lib/storage"
 
 export async function POST(
   request: NextRequest,
@@ -36,6 +42,7 @@ export async function POST(
       duration: number
       segments: any
       file: File
+      capturedImage?: File  // 학생 필기가 포함된 캡처 이미지
     }> = []
 
     for (let i = 0; i < recordedProblemsCount; i++) {
@@ -44,6 +51,7 @@ export async function POST(
       const problemIndex = formData.get(`recording_${i}_problemIndex`) as string | null
       const duration = formData.get(`recording_${i}_duration`) as string | null
       const segmentsJson = formData.get(`recording_${i}_segments`) as string | null
+      const capturedImage = formData.get(`captured_image_${i}`) as File | null
 
       if (file && problemId && problemIndex !== null && duration) {
         problemRecordings.push({
@@ -51,14 +59,21 @@ export async function POST(
           problemIndex: parseInt(problemIndex),
           duration: parseInt(duration),
           segments: segmentsJson ? JSON.parse(segmentsJson) : null,
-          file
+          file,
+          capturedImage: capturedImage || undefined
         })
       }
     }
 
     console.log('📊 파싱된 녹화 데이터:', {
       count: problemRecordings.length,
-      problemIds: problemRecordings.map(r => r.problemId)
+      problemIds: problemRecordings.map(r => r.problemId),
+      segmentsInfo: problemRecordings.map(r => ({
+        problemId: r.problemId,
+        hasSegments: !!r.segments,
+        segmentsCount: r.segments ? r.segments.length : 0,
+        segments: r.segments
+      }))
     })
 
     // 제출물 생성 또는 업데이트
@@ -90,12 +105,33 @@ export async function POST(
 
     // 새 녹화 데이터 생성
     for (const recording of problemRecordings) {
-      // 파일 저장 처리
-      // TODO: 실제로는 파일을 S3나 로컬 스토리지에 저장하고 URL을 반환
-      const recordingUrl = `/recordings/${studentId}-${assignmentId}-problem_${recording.problemIndex}-${Date.now()}.webm`
-      // 실제 구현:
-      // const buffer = await recording.file.arrayBuffer()
-      // const recordingUrl = await uploadToStorage(buffer, recording.file.name)
+      // 녹화 파일 저장 처리
+      const filename = generateRecordingFilename(
+        studentId,
+        assignmentId,
+        recording.problemIndex
+      )
+
+      // 파일을 디스크에 저장
+      const buffer = await recording.file.arrayBuffer()
+      const recordingUrl = await saveRecordingFile(buffer, filename)
+
+      // 캡처 이미지 저장 처리
+      let capturedImageUrl: string | null = null
+      if (recording.capturedImage) {
+        const imageFilename = generateSubmissionImageFilename(
+          studentId,
+          assignmentId,
+          recording.problemIndex
+        )
+        const imageBuffer = await recording.capturedImage.arrayBuffer()
+        capturedImageUrl = await saveSubmissionImage(imageBuffer, imageFilename)
+
+        console.log(`📸 문제 ${recording.problemIndex + 1} 캡처 이미지 저장:`, {
+          url: capturedImageUrl,
+          fileSize: imageBuffer.byteLength
+        })
+      }
 
       await prisma.problemRecording.create({
         data: {
@@ -103,6 +139,7 @@ export async function POST(
           problemId: recording.problemId,
           problemIndex: recording.problemIndex,
           recordingUrl,
+          capturedImageUrl,
           duration: recording.duration,
           segments: recording.segments
         }
@@ -111,7 +148,12 @@ export async function POST(
       console.log(`💾 문제 ${recording.problemIndex + 1} 녹화 저장:`, {
         problemId: recording.problemId,
         duration: recording.duration,
-        url: recordingUrl
+        url: recordingUrl,
+        capturedImageUrl,
+        fileSize: buffer.byteLength,
+        hasSegments: !!recording.segments,
+        segmentsCount: recording.segments ? recording.segments.length : 0,
+        segmentsPreview: recording.segments ? recording.segments.slice(0, 2) : null
       })
     }
 

@@ -121,37 +121,25 @@ export function TeacherDashboard() {
         // 네트워크 오류 등의 경우 빈 배열 유지
       }
 
-      const mockSubmissions: Submission[] = [
-        {
-          id: "sub1",
-          studentName: "김학생",
-          assignmentTitle: "곱셈 문제 풀이",
-          submittedAt: "2024-01-15T14:30:00Z",
-          status: "submitted",
-          recordingDuration: 1847
-        },
-        {
-          id: "sub2",
-          studentName: "이학생",
-          assignmentTitle: "곱셈 문제 풀이",
-          submittedAt: "2024-01-15T16:15:00Z",
-          status: "graded",
-          score: 85,
-          recordingDuration: 2156
-        },
-        {
-          id: "sub3",
-          studentName: "박학생",
-          assignmentTitle: "곱셈 문제 풀이",
-          submittedAt: "2024-01-16T09:20:00Z",
-          status: "submitted",
-          recordingDuration: 1623
+      // 실제 제출물 데이터 가져오기
+      let submissions: Submission[] = []
+
+      try {
+        const submissionResponse = await fetch('/api/teacher/submissions')
+
+        if (submissionResponse.ok) {
+          const fetchedSubmissions = await submissionResponse.json()
+          submissions = fetchedSubmissions
+        } else {
+          console.error('제출물 데이터를 가져오는데 실패했습니다:', submissionResponse.status)
         }
-      ]
+      } catch (submissionError) {
+        console.error('제출물 API 호출 중 오류:', submissionError)
+      }
 
       setClasses(classes)
       setAssignments(assignments)
-      setSubmissions(mockSubmissions)
+      setSubmissions(submissions)
 
       // 첫 번째 클래스를 기본으로 선택 (클래스가 있는 경우)
       if (classes.length > 0 && !selectedClassId) {

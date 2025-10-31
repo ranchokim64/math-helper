@@ -41,6 +41,7 @@ export function useAutoRecording({
   const hasStartedRef = useRef(false)
   const problemIdRef = useRef<string | null>(null)
   const problemIndexRef = useRef<number | null>(null)
+  const stopPromiseResolveRef = useRef<((data: RecordingData) => void) | null>(null)
 
   // 활동 세그먼트 추적
   const segmentsRef = useRef<ActivitySegment[]>([])
@@ -162,6 +163,13 @@ export function useAutoRecording({
         })
 
         toast.success(`문제 풀이 과정이 녹화되었습니다! (${Math.floor(finalDuration / 60)}분 ${finalDuration % 60}초)`)
+
+        // stopRecording Promise resolve
+        if (stopPromiseResolveRef.current) {
+          console.log('✅ stopRecording Promise resolve')
+          stopPromiseResolveRef.current(data)
+          stopPromiseResolveRef.current = null
+        }
       }
 
       mediaRecorder.onerror = (event) => {
@@ -282,22 +290,30 @@ export function useAutoRecording({
   }, [recordingState, startNewSegment])
 
   // 녹화 중지
-  const stopRecording = useCallback(() => {
-    if (!mediaRecorderRef.current || (recordingState !== "recording" && recordingState !== "paused")) {
-      console.log('녹화 중지 불가:', { state: recordingState, hasRecorder: !!mediaRecorderRef.current })
-      return
-    }
+  const stopRecording = useCallback((): Promise<RecordingData | null> => {
+    return new Promise((resolve) => {
+      if (!mediaRecorderRef.current || (recordingState !== "recording" && recordingState !== "paused")) {
+        console.log('녹화 중지 불가:', { state: recordingState, hasRecorder: !!mediaRecorderRef.current })
+        resolve(null)
+        return
+      }
 
-    console.log('🛑 녹화 중지 요청:', {
-      state: recordingState,
-      segments: segmentsRef.current.length
+      console.log('🛑 녹화 중지 요청:', {
+        state: recordingState,
+        segments: segmentsRef.current.length
+      })
+
+      // Promise resolve 함수 저장
+      stopPromiseResolveRef.current = (data) => {
+        resolve(data)
+      }
+
+      // 현재 세그먼트 종료
+      endCurrentSegment()
+
+      setRecordingState("stopping")
+      mediaRecorderRef.current.stop()
     })
-
-    // 현재 세그먼트 종료
-    endCurrentSegment()
-
-    setRecordingState("stopping")
-    mediaRecorderRef.current.stop()
   }, [recordingState, endCurrentSegment])
 
   // 초기화

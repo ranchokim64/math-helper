@@ -19,6 +19,7 @@ interface RecordingData {
   segments?: any[]
   problemId?: string
   problemIndex?: number
+  capturedImageBlob?: Blob  // 학생 필기가 포함된 캡처 이미지
 }
 import {
   ArrowLeft,
@@ -212,6 +213,23 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
     }
   }
 
+  // Canvas를 이미지로 캡처
+  const captureCanvasImage = (canvas: HTMLCanvasElement): Promise<Blob | null> => {
+    return new Promise((resolve) => {
+      canvas.toBlob((blob) => {
+        if (blob) {
+          console.log('📸 Canvas 캡처 완료:', {
+            size: blob.size,
+            type: blob.type
+          })
+        } else {
+          console.error('❌ Canvas 캡처 실패')
+        }
+        resolve(blob)
+      }, 'image/jpeg', 0.85) // JPEG 85% 품질
+    })
+  }
+
   // 첫 번째 그리기 시 자동 녹화 시작 (폴백)
   const handleFirstDraw = () => {
     if (!recordingStarted && canvasElement && currentProblem) {
@@ -234,30 +252,82 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
 
     try {
       // 1. 현재 녹화 중이면 중지
+      let stoppedRecordingData: RecordingData | null = null
       if (isRecording || isPaused) {
         console.log('🛑 녹화 중지 (문제 전환):', {
           from: currentProblemIndex,
-          to: targetIndex
+          to: targetIndex,
+          currentRecordedData: recordedData ? {
+            duration: recordedData.duration,
+            hasSegments: !!recordedData.segments,
+            segmentsCount: recordedData.segments?.length || 0
+          } : null
         })
-        stopRecording()
 
-        // stopRecording이 비동기적으로 완료되기를 기다림 (녹화 완료 콜백 후)
-        // recordedData가 설정될 때까지 짧은 대기
-        await new Promise(resolve => setTimeout(resolve, 300))
+        // stopRecording은 이제 Promise를 반환하며, onstop 완료 시 RecordingData를 반환
+        stoppedRecordingData = await stopRecording()
+
+        console.log('⏹️ 녹화 중지 완료 후:', {
+          hasStoppedData: !!stoppedRecordingData,
+          stoppedDataInfo: stoppedRecordingData ? {
+            duration: stoppedRecordingData.duration,
+            hasSegments: !!stoppedRecordingData.segments,
+            segmentsCount: stoppedRecordingData.segments?.length || 0,
+            segments: stoppedRecordingData.segments
+          } : null
+        })
       }
 
       // 2. 현재 문제의 녹화 데이터 저장 (있다면)
-      if (recordedData && currentProblem) {
+      // stopRecording()이 반환한 데이터 사용 (recordedData가 아직 업데이트되지 않았을 수 있음)
+      let dataToSave = stoppedRecordingData || recordedData
+
+      // Canvas 캡처 (학생이 본 화면 그대로)
+      if (dataToSave && canvasElement) {
+        const capturedBlob = await captureCanvasImage(canvasElement)
+        if (capturedBlob) {
+          dataToSave = {
+            ...dataToSave,
+            capturedImageBlob: capturedBlob
+          }
+        }
+      }
+
+      console.log('🔍 녹화 데이터 저장 체크:', {
+        hasStoppedData: !!stoppedRecordingData,
+        hasRecordedData: !!recordedData,
+        hasDataToSave: !!dataToSave,
+        currentProblemId: currentProblem?.id,
+        dataToSaveDetails: dataToSave ? {
+          duration: dataToSave.duration,
+          hasBlob: !!dataToSave.blob,
+          blobSize: dataToSave.blob?.size || 0,
+          hasSegments: !!dataToSave.segments,
+          segmentsCount: dataToSave.segments?.length || 0,
+          segments: dataToSave.segments,
+          hasCapturedImage: !!dataToSave.capturedImageBlob,
+          capturedImageSize: dataToSave.capturedImageBlob?.size || 0
+        } : null
+      })
+
+      if (dataToSave && currentProblem) {
         setProblemRecordings(prev => {
           const newMap = new Map(prev)
-          newMap.set(currentProblem.id, recordedData)
+          newMap.set(currentProblem.id, dataToSave)
           console.log('💾 문제 녹화 저장:', {
             problemId: currentProblem.id,
             problemIndex: currentProblemIndex,
-            duration: recordedData.duration
+            duration: dataToSave.duration,
+            hasSegments: !!dataToSave.segments,
+            segmentsCount: dataToSave.segments?.length || 0,
+            segments: dataToSave.segments,
+            hasCapturedImage: !!dataToSave.capturedImageBlob,
+            totalRecordings: newMap.size
           })
           return newMap
         })
+      } else {
+        console.warn('⚠️ 녹화 데이터 저장 실패 - dataToSave 또는 currentProblem 없음')
       }
 
       // 3. 목표 문제에 이미 녹화 기록이 있는지 확인
@@ -323,31 +393,101 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
     setIsSubmitting(true)
     try {
       // 녹화 중이면 중지하고 현재 문제 녹화 저장
-      if (isRecording || isPaused) {
-        stopRecording()
-        // 중지 완료 대기
-        await new Promise(resolve => setTimeout(resolve, 300))
-      }
+      console.log('📤 제출 시작:', {
+        isRecording,
+        isPaused,
+        hasRecordedData: !!recordedData,
+        currentProblemId: currentProblem?.id
+      })
 
-      // 현재 문제의 최종 녹화 데이터 저장
-      if (recordedData && currentProblem) {
-        setProblemRecordings(prev => {
-          const newMap = new Map(prev)
-          newMap.set(currentProblem.id, recordedData)
-          return newMap
+      let stoppedRecordingData: RecordingData | null = null
+      if (isRecording || isPaused) {
+        console.log('🛑 제출 전 녹화 중지')
+        // stopRecording은 이제 Promise를 반환하며, onstop 완료 시 RecordingData를 반환
+        stoppedRecordingData = await stopRecording()
+
+        console.log('⏹️ 제출 전 녹화 중지 완료:', {
+          hasStoppedData: !!stoppedRecordingData,
+          stoppedDataInfo: stoppedRecordingData ? {
+            duration: stoppedRecordingData.duration,
+            hasBlob: !!stoppedRecordingData.blob,
+            hasSegments: !!stoppedRecordingData.segments,
+            segmentsCount: stoppedRecordingData.segments?.length || 0,
+            segments: stoppedRecordingData.segments
+          } : null
         })
       }
 
+      // 현재 문제의 최종 녹화 데이터 저장
+      // stopRecording()이 반환한 데이터 사용 (recordedData가 아직 업데이트되지 않았을 수 있음)
+      let dataToSave = stoppedRecordingData || recordedData
+
+      // Canvas 캡처 (마지막 문제)
+      if (dataToSave && canvasElement) {
+        const capturedBlob = await captureCanvasImage(canvasElement)
+        if (capturedBlob) {
+          dataToSave = {
+            ...dataToSave,
+            capturedImageBlob: capturedBlob
+          }
+        }
+      }
+
+      if (dataToSave && currentProblem) {
+        console.log('💾 제출 시 현재 문제 녹화 저장:', {
+          problemId: currentProblem.id,
+          hasSegments: !!dataToSave.segments,
+          segmentsCount: dataToSave.segments?.length || 0,
+          segments: dataToSave.segments,
+          hasCapturedImage: !!dataToSave.capturedImageBlob
+        })
+        setProblemRecordings(prev => {
+          const newMap = new Map(prev)
+          newMap.set(currentProblem.id, dataToSave)
+          return newMap
+        })
+      } else {
+        console.warn('⚠️ 제출 시 녹화 데이터 없음')
+      }
+
       // 모든 문제별 녹화 데이터 수집
+      console.log('🔍 제출 전 상태 확인:', {
+        problemRecordingsSize: problemRecordings.size,
+        problemRecordingsKeys: Array.from(problemRecordings.keys()),
+        hasStoppedData: !!stoppedRecordingData,
+        hasRecordedData: !!recordedData,
+        hasDataToSave: !!dataToSave,
+        currentProblemId: currentProblem?.id,
+        dataToSaveInfo: dataToSave ? {
+          duration: dataToSave.duration,
+          hasBlob: !!dataToSave.blob,
+          hasSegments: !!dataToSave.segments,
+          segmentsCount: dataToSave.segments?.length || 0
+        } : null
+      })
+
       const finalRecordings = new Map(problemRecordings)
-      if (recordedData && currentProblem) {
-        finalRecordings.set(currentProblem.id, recordedData)
+      if (dataToSave && currentProblem) {
+        finalRecordings.set(currentProblem.id, dataToSave)
+        console.log('✅ 현재 문제 녹화 데이터 finalRecordings에 추가:', {
+          problemId: currentProblem.id,
+          hasSegments: !!dataToSave.segments,
+          segmentsCount: dataToSave.segments?.length || 0
+        })
       }
 
       console.log('📤 제출할 녹화 데이터:', {
         totalProblems: assignment.problems.length,
         recordedProblems: finalRecordings.size,
-        problemIds: Array.from(finalRecordings.keys())
+        problemIds: Array.from(finalRecordings.keys()),
+        finalRecordingsDetails: Array.from(finalRecordings.entries()).map(([id, data]) => ({
+          problemId: id,
+          duration: data.duration,
+          hasBlob: !!data.blob,
+          blobSize: data.blob?.size || 0,
+          hasSegments: !!data.segments,
+          segmentsCount: data.segments?.length || 0
+        }))
       })
 
       // API 호출 - FormData에 문제별 녹화 추가
@@ -362,6 +502,16 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
         }))
         .filter(item => item.recording) // 녹화가 있는 것만
 
+      console.log('📋 sortedRecordings 필터링 결과:', {
+        totalProblems: assignment.problems.length,
+        recordedCount: sortedRecordings.length,
+        details: assignment.problems.map((problem, index) => ({
+          index,
+          problemId: problem.id,
+          hasRecording: !!finalRecordings.get(problem.id)
+        }))
+      })
+
       sortedRecordings.forEach(({ problem, index, recording }) => {
         if (recording) {
           // 문제별 녹화 파일 추가
@@ -374,6 +524,28 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
 
           if (recording.segments) {
             formData.append(`recording_${index}_segments`, JSON.stringify(recording.segments))
+
+            console.log(`📋 문제 ${index + 1} Segments 추가:`, {
+              hasSegments: true,
+              segmentsCount: recording.segments.length,
+              segments: recording.segments,
+              jsonString: JSON.stringify(recording.segments)
+            })
+          } else {
+            console.warn(`⚠️ 문제 ${index + 1} Segments 없음!`)
+          }
+
+          // 캡처 이미지 추가
+          if (recording.capturedImageBlob) {
+            formData.append(`captured_image_${index}`, recording.capturedImageBlob, `problem_${index}.jpg`)
+
+            console.log(`📸 문제 ${index + 1} 캡처 이미지 추가:`, {
+              hasCapturedImage: true,
+              imageSize: recording.capturedImageBlob.size,
+              imageType: recording.capturedImageBlob.type
+            })
+          } else {
+            console.warn(`⚠️ 문제 ${index + 1} 캡처 이미지 없음!`)
           }
 
           // 세그먼트 정보 로깅
