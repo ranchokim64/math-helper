@@ -36,7 +36,7 @@ export function PWAInstaller() {
     // PWA 설치 프롬프트 캐치
     const handleBeforeInstallPrompt = (e: Event) => {
       e.preventDefault()
-      setDeferredPrompt(e)
+      setDeferredPrompt(e as BeforeInstallPromptEvent)
 
       // 이미 설치되어 있지 않으면 프롬프트 표시
       if (!isAppInstalled()) {
