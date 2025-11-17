@@ -169,14 +169,22 @@ export function StudentSubmissionViewer({ submissionId }: StudentSubmissionViewe
 
             {/* 문제 뷰어 - 읽기 전용 */}
             <div className="flex-1 overflow-hidden mb-3">
-              <ProblemViewer
-                problem={currentProblem}
-                showMetadata={false}
-                showAnswerKey={false}
-                className="h-full w-full"
-                enableDrawing={false}
-                disabled={true}
-              />
+                {currentProblem ? (
+                    <ProblemViewer
+                        problem={currentProblem}
+                        showMetadata={false}
+                        showAnswerKey={false}
+                        className="h-full w-full"
+                        enableDrawing={false}
+                        disabled={true}
+                    />
+                ) : (
+                    <div className="flex items-center justify-center h-full">
+                       <p>문제를 불러오는 중...</p>
+                    </div>
+                )}
+
+
             </div>
 
             {/* 내가 작성한 필기 표시 */}
