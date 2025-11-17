@@ -24,7 +24,7 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
         email: { label: "Email", type: "email" },
         password: { label: "Password", type: "password" }
       },
-      async authorize(credentials) {
+      async authorize(credentials, request) {
         try {
           console.log('[Auth] authorize 시작:', { email: credentials?.email })
 
@@ -51,13 +51,18 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
           }
 
           console.log('[Auth] 로그인 성공:', { id: user.id, email: user.email, role: user.role })
-          return {
-            id: user.id,
-            email: user.email,
-            name: user.name,
-            role: user.role,
-            classId: user.classId,
-          }
+
+          // return {
+          //   id: user.id,
+          //   email: user.email,
+          //   name: user.name,
+          //   role: user.role,
+          //   classId: user.classId,
+          // }
+            return {
+                ...user,
+                classId: user.classId === null ? undefined : user.classId,
+            };
         } catch (error) {
           console.error('[Auth] authorize 에러:', error)
           return null

@@ -196,10 +196,13 @@ export function processMathProblem(apiProblem: MathProblemAPI): ProcessedProblem
                        dataInfo.class_name.includes('문항(이미지)') ? 'image' :
                        dataInfo.class_name.includes('해설') ? 'explanation' : 'choices'
 
-    return {
+      const box = dataInfo.class_info_list[0]?.Type_value[0];
+
+
+      return {
       type: sectionType as 'question' | 'choices' | 'explanation' | 'image',
       content: dataInfo.class_info_list.map(info => info.text_description).join('\n'),
-      boundingBox: dataInfo.class_info_list[0]?.Type_value[0],
+      boundingBox: box ? [box] : undefined,
       position: index
     }
   })
