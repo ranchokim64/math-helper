@@ -40,9 +40,10 @@ export async function POST(
       problemId: string
       problemIndex: number
       duration: number
-      segments: any
+      segments: unknown
       file: File
       capturedImage?: File  // 학생 필기가 포함된 캡처 이미지
+      firstReactionTime?: number  // 최초 반응 시간 (초)
     }> = []
 
     for (let i = 0; i < recordedProblemsCount; i++) {
@@ -52,6 +53,7 @@ export async function POST(
       const duration = formData.get(`recording_${i}_duration`) as string | null
       const segmentsJson = formData.get(`recording_${i}_segments`) as string | null
       const capturedImage = formData.get(`captured_image_${i}`) as File | null
+      const firstReaction = formData.get(`recording_${i}_firstReaction`) as string | null
 
       if (file && problemId && problemIndex !== null && duration) {
         problemRecordings.push({
@@ -60,7 +62,8 @@ export async function POST(
           duration: parseInt(duration),
           segments: segmentsJson ? JSON.parse(segmentsJson) : null,
           file,
-          capturedImage: capturedImage || undefined
+          capturedImage: capturedImage || undefined,
+          firstReactionTime: firstReaction ? parseFloat(firstReaction) : undefined
         })
       }
     }
@@ -71,7 +74,7 @@ export async function POST(
       segmentsInfo: problemRecordings.map(r => ({
         problemId: r.problemId,
         hasSegments: !!r.segments,
-        segmentsCount: r.segments ? r.segments.length : 0,
+        segmentsCount: Array.isArray(r.segments) ? r.segments.length : 0,
         segments: r.segments
       }))
     })
@@ -141,7 +144,8 @@ export async function POST(
           recordingUrl,
           capturedImageUrl,
           duration: recording.duration,
-          segments: recording.segments
+          segments: (recording.segments ?? undefined) as never,
+          firstReactionTime: recording.firstReactionTime
         }
       })
 
@@ -152,8 +156,8 @@ export async function POST(
         capturedImageUrl,
         fileSize: buffer.byteLength,
         hasSegments: !!recording.segments,
-        segmentsCount: recording.segments ? recording.segments.length : 0,
-        segmentsPreview: recording.segments ? recording.segments.slice(0, 2) : null
+        segmentsCount: Array.isArray(recording.segments) ? recording.segments.length : 0,
+        segmentsPreview: Array.isArray(recording.segments) ? recording.segments.slice(0, 2) : null
       })
     }
 

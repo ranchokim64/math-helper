@@ -1,38 +1,41 @@
-import { writeFile, mkdir } from 'fs/promises'
-import { join } from 'path'
-import { existsSync } from 'fs'
+import { supabaseAdmin, STORAGE_BUCKETS } from './supabase'
 
 /**
- * Save a recording file to the public/recordings directory
+ * Save a recording file to Supabase Storage
  * @param buffer - File buffer (from file.arrayBuffer())
  * @param filename - Desired filename (will be sanitized)
- * @returns URL path to access the saved file
+ * @returns Public URL to access the saved file
  */
 export async function saveRecordingFile(
   buffer: ArrayBuffer,
   filename: string
 ): Promise<string> {
+  if (!supabaseAdmin) {
+    throw new Error('Supabase admin client is not initialized')
+  }
+
   try {
-    // Define the recordings directory path
-    const recordingsDir = join(process.cwd(), 'public', 'recordings')
-
-    // Create directory if it doesn't exist
-    if (!existsSync(recordingsDir)) {
-      await mkdir(recordingsDir, { recursive: true })
-    }
-
     // Sanitize filename to prevent path traversal
     const sanitizedFilename = filename.replace(/[^a-zA-Z0-9._-]/g, '_')
 
-    // Full file path
-    const filePath = join(recordingsDir, sanitizedFilename)
+    // Upload to Supabase Storage
+    const { data, error } = await supabaseAdmin.storage
+      .from(STORAGE_BUCKETS.RECORDINGS)
+      .upload(sanitizedFilename, buffer, {
+        contentType: 'video/webm',
+        upsert: false, // Prevent overwriting existing files
+      })
 
-    // Convert ArrayBuffer to Buffer and write to disk
-    const nodeBuffer = Buffer.from(buffer)
-    await writeFile(filePath, nodeBuffer)
+    if (error) {
+      throw error
+    }
 
-    // Return the public URL path
-    return `/recordings/${sanitizedFilename}`
+    // Get public URL
+    const { data: urlData } = supabaseAdmin.storage
+      .from(STORAGE_BUCKETS.RECORDINGS)
+      .getPublicUrl(data.path)
+
+    return urlData.publicUrl
   } catch (error) {
     console.error('Error saving recording file:', error)
     throw new Error(`Failed to save recording file: ${error instanceof Error ? error.message : 'Unknown error'}`)
@@ -56,36 +59,41 @@ export function generateRecordingFilename(
 }
 
 /**
- * Save a submission image file to the public/submissions directory
+ * Save a submission image file to Supabase Storage
  * @param buffer - Image buffer (from blob.arrayBuffer())
  * @param filename - Desired filename (will be sanitized)
- * @returns URL path to access the saved image
+ * @returns Public URL to access the saved image
  */
 export async function saveSubmissionImage(
   buffer: ArrayBuffer,
   filename: string
 ): Promise<string> {
+  if (!supabaseAdmin) {
+    throw new Error('Supabase admin client is not initialized')
+  }
+
   try {
-    // Define the submissions directory path
-    const submissionsDir = join(process.cwd(), 'public', 'submissions')
-
-    // Create directory if it doesn't exist
-    if (!existsSync(submissionsDir)) {
-      await mkdir(submissionsDir, { recursive: true })
-    }
-
     // Sanitize filename to prevent path traversal
     const sanitizedFilename = filename.replace(/[^a-zA-Z0-9._-]/g, '_')
 
-    // Full file path
-    const filePath = join(submissionsDir, sanitizedFilename)
+    // Upload to Supabase Storage
+    const { data, error } = await supabaseAdmin.storage
+      .from(STORAGE_BUCKETS.SUBMISSIONS)
+      .upload(sanitizedFilename, buffer, {
+        contentType: 'image/jpeg',
+        upsert: false, // Prevent overwriting existing files
+      })
 
-    // Convert ArrayBuffer to Buffer and write to disk
-    const nodeBuffer = Buffer.from(buffer)
-    await writeFile(filePath, nodeBuffer)
+    if (error) {
+      throw error
+    }
 
-    // Return the public URL path
-    return `/submissions/${sanitizedFilename}`
+    // Get public URL
+    const { data: urlData } = supabaseAdmin.storage
+      .from(STORAGE_BUCKETS.SUBMISSIONS)
+      .getPublicUrl(data.path)
+
+    return urlData.publicUrl
   } catch (error) {
     console.error('Error saving submission image:', error)
     throw new Error(`Failed to save submission image: ${error instanceof Error ? error.message : 'Unknown error'}`)

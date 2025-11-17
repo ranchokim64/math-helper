@@ -44,7 +44,7 @@ export async function GET(
 
     // 문제 ID들 추출
     const problemIds = Array.isArray(assignment.problems)
-      ? assignment.problems.map((p: any) => p.id)
+      ? assignment.problems.map((p) => String((p as { id: number }).id))
       : []
 
     // 실제 문제 데이터들 가져오기
@@ -63,7 +63,7 @@ export async function GET(
       }
 
       // 디버깅: sections 데이터 확인
-      const sections = problem.sections as any[]
+      const sections = problem.sections as Array<Record<string, unknown>>
       const answerSections = sections?.filter(s => s.type === 'answer' || s.type === 'explanation') || []
       console.log(`\n[DEBUG] Problem: ${problem.sourceId}`)
       console.log(`[DEBUG] Total sections: ${sections?.length || 0}`)

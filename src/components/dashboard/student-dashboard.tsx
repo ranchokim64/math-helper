@@ -128,22 +128,22 @@ export function StudentDashboard() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">학생 대시보드</h1>
-              <p className="text-gray-600">안녕하세요, {session?.user?.name}님!</p>
+              <h1 className="text-3xl md:text-4xl font-bold text-gray-900">학생 대시보드</h1>
+              <p className="text-xl text-gray-600 mt-1">안녕하세요, {session?.user?.name}님!</p>
               {classes.length > 0 && (
-                <p className="text-sm text-gray-500">
+                <p className="text-base text-gray-500 mt-1">
                   {classes.map(c => `${c.name} (${c.teacherName})`).join(', ')}
                 </p>
               )}
             </div>
             <div className="flex items-center space-x-4">
-              <Button variant="outline" size="sm">
-                <Settings className="w-4 h-4 mr-2" />
-                설정
+              <Button variant="outline" size="default">
+                <Settings className="w-5 h-5 mr-2" />
+                <span className="text-base">설정</span>
               </Button>
-              <Button variant="outline" size="sm" onClick={handleSignOut}>
-                <LogOut className="w-4 h-4 mr-2" />
-                로그아웃
+              <Button variant="outline" size="default" onClick={handleSignOut}>
+                <LogOut className="w-5 h-5 mr-2" />
+                <span className="text-base">로그아웃</span>
               </Button>
             </div>
           </div>
@@ -153,53 +153,53 @@ export function StudentDashboard() {
       {/* Main Content */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Tabs defaultValue="assignments" className="space-y-6">
-          <TabsList>
-            <TabsTrigger value="assignments">과제</TabsTrigger>
-            <TabsTrigger value="submissions">제출 기록</TabsTrigger>
-            <TabsTrigger value="progress">학습 진도</TabsTrigger>
+          <TabsList className="h-12">
+            <TabsTrigger value="assignments" className="text-lg px-6">과제</TabsTrigger>
+            <TabsTrigger value="submissions" className="text-lg px-6">제출 기록</TabsTrigger>
+            <TabsTrigger value="progress" className="text-lg px-6">학습 진도</TabsTrigger>
           </TabsList>
 
           <TabsContent value="assignments" className="space-y-6">
             {/* Stats Cards */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Card>
-                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                  <CardTitle className="text-sm font-medium">미제출 과제</CardTitle>
-                  <Clock className="h-4 w-4 text-muted-foreground" />
+                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-3">
+                  <CardTitle className="text-lg font-medium">미제출 과제</CardTitle>
+                  <Clock className="h-6 w-6 text-muted-foreground" />
                 </CardHeader>
                 <CardContent>
-                  <div className="text-2xl font-bold text-red-600">{pendingAssignments.length}</div>
-                  <p className="text-xs text-muted-foreground">
+                  <div className="text-4xl font-bold text-red-600">{pendingAssignments.length}</div>
+                  <p className="text-base text-muted-foreground mt-1">
                     빨리 제출해주세요!
                   </p>
                 </CardContent>
               </Card>
 
               <Card>
-                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                  <CardTitle className="text-sm font-medium">제출 완료</CardTitle>
-                  <CheckCircle className="h-4 w-4 text-muted-foreground" />
+                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-3">
+                  <CardTitle className="text-lg font-medium">제출 완료</CardTitle>
+                  <CheckCircle className="h-6 w-6 text-muted-foreground" />
                 </CardHeader>
                 <CardContent>
-                  <div className="text-2xl font-bold text-blue-600">{submittedAssignments.length}</div>
-                  <p className="text-xs text-muted-foreground">
+                  <div className="text-4xl font-bold text-blue-600">{submittedAssignments.length}</div>
+                  <p className="text-base text-muted-foreground mt-1">
                     채점 대기 중
                   </p>
                 </CardContent>
               </Card>
 
               <Card>
-                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                  <CardTitle className="text-sm font-medium">평균 점수</CardTitle>
-                  <Star className="h-4 w-4 text-muted-foreground" />
+                <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-3">
+                  <CardTitle className="text-lg font-medium">평균 점수</CardTitle>
+                  <Star className="h-6 w-6 text-muted-foreground" />
                 </CardHeader>
                 <CardContent>
-                  <div className="text-2xl font-bold text-green-600">
+                  <div className="text-4xl font-bold text-green-600">
                     {gradedAssignments.length > 0
                       ? Math.round(gradedAssignments.reduce((sum, a) => sum + (a.score || 0), 0) / gradedAssignments.length)
                       : "--"}점
                   </div>
-                  <p className="text-xs text-muted-foreground">
+                  <p className="text-base text-muted-foreground mt-1">
                     {gradedAssignments.length}개 과제 기준
                   </p>
                 </CardContent>
@@ -209,19 +209,19 @@ export function StudentDashboard() {
             {/* Pending Assignments */}
             {pendingAssignments.length > 0 && (
               <div className="space-y-4">
-                <h3 className="text-lg font-semibold text-red-600">📋 미제출 과제</h3>
+                <h3 className="text-2xl font-semibold text-red-600">📋 미제출 과제</h3>
                 <div className="grid gap-4">
                   {pendingAssignments.map((assignment) => (
                     <Card key={assignment.id} className="border-l-4 border-l-red-500">
                       <CardHeader>
                         <div className="flex justify-between items-start">
                           <div>
-                            <CardTitle className="flex items-center space-x-2">
+                            <CardTitle className="flex items-center space-x-2 text-xl">
                               <span>{assignment.title}</span>
                               {getStatusBadge(assignment.status, assignment.score)}
                             </CardTitle>
-                            <CardDescription>{assignment.description}</CardDescription>
-                            <p className="text-sm text-gray-500 mt-1">{assignment.className}</p>
+                            <CardDescription className="text-base mt-2">{assignment.description}</CardDescription>
+                            <p className="text-base text-gray-500 mt-2">{assignment.className}</p>
                           </div>
                           {assignment.dueDate && (
                             <Badge variant="outline" className="text-red-600">
@@ -233,10 +233,11 @@ export function StudentDashboard() {
                       </CardHeader>
                       <CardContent>
                         <Button
-                          className="w-full sm:w-auto"
+                          className="w-full sm:w-auto text-lg py-6"
+                          size="lg"
                           onClick={() => router.push(`/student/assignment/${assignment.id}`)}
                         >
-                          <Play className="w-4 h-4 mr-2" />
+                          <Play className="w-5 h-5 mr-2" />
                           과제 시작하기
                         </Button>
                       </CardContent>
@@ -248,7 +249,7 @@ export function StudentDashboard() {
 
             {/* Other Assignments */}
             <div className="space-y-4">
-              <h3 className="text-lg font-semibold">📚 전체 과제</h3>
+              <h3 className="text-2xl font-semibold">📚 전체 과제</h3>
               <div className="grid gap-4">
                 {assignments.filter(a => a.status !== "pending").map((assignment) => (
                   <Card key={assignment.id}>
@@ -275,12 +276,12 @@ export function StudentDashboard() {
                         )}
                       </div>
                     </CardHeader>
-                    {assignment.status === "submitted" && (
+                    {assignment.status === "submitted" && assignment.submissionId && (
                       <CardContent>
                         <Button
                           variant="outline"
                           size="sm"
-                          onClick={() => router.push(`/student/assignment/${assignment.id}`)}
+                          onClick={() => router.push(`/student/submission/${assignment.submissionId}`)}
                         >
                           제출물 확인
                         </Button>
@@ -335,13 +336,23 @@ export function StudentDashboard() {
                     </div>
                   </CardHeader>
                   <CardContent>
-                    <Button
-                      variant="outline"
-                      size="sm"
-                      onClick={() => router.push(`/student/assignment/${assignment.id}`)}
-                    >
-                      제출물 다시 보기
-                    </Button>
+                    {assignment.submissionId ? (
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => router.push(`/student/submission/${assignment.submissionId}`)}
+                      >
+                        제출물 다시 보기
+                      </Button>
+                    ) : (
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => router.push(`/student/assignment/${assignment.id}`)}
+                      >
+                        과제 시작하기
+                      </Button>
+                    )}
                   </CardContent>
                 </Card>
               ))}

@@ -72,118 +72,106 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
 
   const [isLoading, setIsLoading] = useState(false)
 
-  // 필터 옵션 로드
+  // 초기 로드: 학년/학기 옵션만 가져오기
   useEffect(() => {
-    const loadFilters = async () => {
+    const loadInitialFilters = async () => {
       try {
-        // 선택된 학년/학기가 있으면 쿼리 파라미터로 전달
-        const params = new URLSearchParams()
-        if (selectedFilters.grades.length > 0) {
-          params.append('grade', selectedFilters.grades[0])
-        }
-        if (selectedFilters.semesters.length > 0) {
-          params.append('semester', selectedFilters.semesters[0])
-        }
-
-        const url = params.toString()
-          ? `/api/problems/filters?${params.toString()}`
-          : '/api/problems/filters'
-
-        const response = await fetch(url)
+        const response = await fetch('/api/problems/filters')
         const data = await response.json()
 
         if (response.ok) {
-          // 서버에서 받은 데이터 구조에 맞게 처리
-          const processedFilters: ProblemFilter = {
-            schools: data.schools || [],
+          setFilters({
+            schools: data.schools || ["초등학교"],
             grades: data.grades || [],
             semesters: data.semesters || [],
-            areas: data.areas || [],
-            contentElements: data.contentElements || {},
-            achievementStandards: data.achievementStandards || []
-          }
-          setFilters(processedFilters)
-
-          // 총 문제 수 정보 표시
-          if (data.totalProblems !== undefined) {
-            console.log(`문제은행에 총 ${data.totalProblems}개의 문제가 있습니다.`)
-            if (data.totalProblems === 0) {
-              toast.info("문제은행에 데이터가 없습니다. 관리자에게 문의하세요.")
-            }
-          }
-
-        } else {
-          // API 오류 시 기본값 사용
-          const defaultFilters: ProblemFilter = {
-            schools: ["초등학교", "중학교", "고등학교"],
-            grades: ["1학년", "2학년", "3학년", "4학년", "5학년", "6학년"],
-            semesters: ["1학기", "2학기"],
-            areas: [
-              "수와 연산",
-              "변화와 관계",
-              "도형과 측정",
-              "자료와 가능성"
-            ],
-            contentElements: {
-              "수와 연산": ["네 자리 이하의 수", "분수", "소수"],
-              "변화와 관계": ["규칙 찾기", "비와 비율"],
-              "도형과 측정": ["평면도형", "시각과 시간", "길이"],
-              "자료와 가능성": ["자료의 정리", "가능성"]
-            },
-            achievementStandards: [
-              "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다.",
-              "[4수02-01] 분수의 의미와 표현을 이해한다.",
-              "[6수02-03] 비율을 이해하고, 비율을 분수, 소수, 백분율로 나타낼 수 있다."
-            ]
-          }
-          setFilters(defaultFilters)
+            areas: [],
+            contentElements: {},
+            achievementStandards: []
+          })
         }
       } catch (error) {
         console.error("필터 로드 오류:", error)
-        // 네트워크 오류 시 기본값 사용
-        const defaultFilters: ProblemFilter = {
-          schools: ["초등학교", "중학교", "고등학교"],
-          grades: ["1학년", "2학년", "3학년", "4학년", "5학년", "6학년"],
-          semesters: ["1학기", "2학기"],
-          areas: [
-            "수와 연산",
-            "변화와 관계",
-            "도형과 측정",
-            "자료와 가능성"
-          ],
-          contentElements: {
-            "수와 연산": ["네 자리 이하의 수", "분수", "소수"],
-            "변화와 관계": ["규칙 찾기", "비와 비율"],
-            "도형과 측정": ["평면도형", "시각과 시간", "길이"],
-            "자료와 가능성": ["자료의 정리", "가능성"]
-          },
-          achievementStandards: [
-            "[4수01-04] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다.",
-            "[4수01-05] 곱하는 수가 한 자리 수 또는 두 자리 수인 곱셈의 계산 원리를 이해하고 그 계산을 할 수 있다.",
-            "[4수02-01] 분수의 의미와 표현을 이해한다.",
-            "[4수03-01] 소수의 의미와 표현을 이해한다."
-          ]
-        }
-        setFilters(defaultFilters)
-        toast.error("필터 옵션을 불러오는 중 오류가 발생했습니다. 기본값을 사용합니다.")
+        toast.error("필터 옵션을 불러오는 중 오류가 발생했습니다.")
       }
     }
 
-    loadFilters()
+    loadInitialFilters()
+  }, [])
+
+  // 학년/학기 선택 시 해당 조건에 맞는 영역 및 내용요소 로드
+  useEffect(() => {
+    // 학년과 학기가 모두 선택되지 않은 경우
+    if (selectedFilters.grades.length === 0 || selectedFilters.semesters.length === 0) {
+      setFilters(prev => ({
+        ...prev,
+        areas: [],
+        contentElements: {},
+        achievementStandards: []
+      }))
+      return
+    }
+
+    // 선택된 학년/학기 조합에 맞는 데이터 로드
+    const loadFilteredData = async () => {
+      try {
+        // 모든 학년/학기 조합으로 API 호출
+        const queries = selectedFilters.grades.flatMap(grade =>
+          selectedFilters.semesters.map(semester => {
+            const params = new URLSearchParams({ grade, semester })
+            return fetch(`/api/problems/filters?${params}`).then(res => res.json())
+          })
+        )
+
+        const results = await Promise.all(queries)
+
+        // 결과 병합
+        const mergedAreas = new Set<string>()
+        const mergedContentElements: Record<string, Set<string>> = {}
+        const mergedAchievementStandards = new Set<string>()
+
+        results.forEach(data => {
+          data.areas?.forEach((area: string) => mergedAreas.add(area))
+
+          Object.entries(data.contentElements || {}).forEach(([area, elements]) => {
+            if (!mergedContentElements[area]) {
+              mergedContentElements[area] = new Set()
+            }
+            (elements as string[]).forEach(el => mergedContentElements[area]!.add(el))
+          })
+
+          data.achievementStandards?.forEach((std: string) => mergedAchievementStandards.add(std))
+        })
+
+        // Set을 배열로 변환
+        const finalContentElements: Record<string, string[]> = {}
+        Object.entries(mergedContentElements).forEach(([area, elements]) => {
+          finalContentElements[area] = Array.from(elements).sort()
+        })
+
+        setFilters(prev => ({
+          ...prev,
+          areas: Array.from(mergedAreas).sort(),
+          contentElements: finalContentElements,
+          achievementStandards: Array.from(mergedAchievementStandards).sort()
+        }))
+      } catch (error) {
+        console.error("필터 데이터 로드 오류:", error)
+        toast.error("필터 데이터를 불러오는 중 오류가 발생했습니다.")
+      }
+    }
+
+    loadFilteredData()
   }, [selectedFilters.grades, selectedFilters.semesters])
 
   const handleFilterChange = (category: keyof ProblemFilter, value: string, checked: boolean) => {
-    // 학년이나 학기가 변경되면 영역과 내용요소 선택 초기화
+    // 학년이나 학기 변경 시에도 유효한 선택은 유지 (스마트 필터링은 useEffect에서 처리)
     if (category === 'grades' || category === 'semesters') {
       setSelectedFilters(prev => ({
         ...prev,
         [category]: checked
           ? [...(prev[category] as string[]), value]
           : (prev[category] as string[]).filter(item => item !== value),
-        areas: [], // 영역 선택 초기화
       }))
-      setSelectedContentElements([]) // 내용요소 선택 초기화
-      setExpandedAreas(new Set()) // 펼침 상태도 초기화
       return
     }
 
@@ -224,11 +212,51 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
   }
 
   const handleContentElementChange = (contentElement: string, checked: boolean) => {
-    setSelectedContentElements(prev =>
-      checked
-        ? [...prev, contentElement]
-        : prev.filter(item => item !== contentElement)
-    )
+    const newContentElements = checked
+      ? [...selectedContentElements, contentElement]
+      : selectedContentElements.filter(item => item !== contentElement)
+
+    setSelectedContentElements(newContentElements)
+
+    // 해당 내용요소가 속한 영역 찾기
+    let parentArea: string | null = null
+    for (const [area, elements] of Object.entries(filters.contentElements)) {
+      if (elements.includes(contentElement)) {
+        parentArea = area
+        break
+      }
+    }
+
+    if (parentArea) {
+      const areaElements = filters.contentElements[parentArea] || []
+
+      // 해당 영역의 모든 내용요소가 선택되었는지 확인
+      const allSelected = areaElements.every(el => newContentElements.includes(el))
+
+      // 해당 영역의 내용요소가 하나도 선택되지 않았는지 확인
+      const noneSelected = areaElements.every(el => !newContentElements.includes(el))
+
+      setSelectedFilters(prev => {
+        const currentAreas = prev.areas
+        const areaIsSelected = currentAreas.includes(parentArea!)
+
+        if (allSelected && !areaIsSelected) {
+          // 모든 하위 내용요소가 체크되었으면 영역도 체크
+          return {
+            ...prev,
+            areas: [...currentAreas, parentArea!]
+          }
+        } else if (noneSelected && areaIsSelected) {
+          // 모든 하위 내용요소가 해제되었으면 영역도 해제
+          return {
+            ...prev,
+            areas: currentAreas.filter(area => area !== parentArea)
+          }
+        }
+
+        return prev
+      })
+    }
   }
 
   // 영역 펼치기/접기 토글
@@ -268,12 +296,11 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
       return
     }
 
-    if (selectedFilters.areas.length === 0) {
-      toast.error("영역을 선택해주세요.")
+    // 영역이나 내용요소 중 하나는 반드시 선택되어야 함
+    if (selectedFilters.areas.length === 0 && selectedContentElements.length === 0) {
+      toast.error("영역 또는 내용요소를 선택해주세요.")
       return
     }
-
-    // 내용요소는 선택사항으로 변경 (영역만 선택해도 가능)
 
     setIsLoading(true)
 
@@ -287,25 +314,43 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
 
       const newProblems: ProcessedProblem[] = []
 
-      // 더 효과적인 검색 전략: 여러 번 검색하여 필요한 문제 수 확보
+      // 난이도별로 문제 수집
       for (const { level, count } of difficulties) {
         if (count > 0) {
           let collectedProblems: ProcessedProblem[] = []
-          let remainingCount = count
 
-          // 내용요소가 선택된 경우 각 내용요소별로 검색
+          // 내용요소가 선택된 경우 각 내용요소별로 균등하게 검색
           if (selectedContentElements.length > 0) {
+            // 각 내용요소에서 가져올 문제 수 계산 (균등 배분)
+            const problemsPerElement = Math.ceil(count / selectedContentElements.length)
+
+            // 모든 내용요소에서 문제 수집
+            const problemsByElement: ProcessedProblem[][] = []
+
             for (const contentElement of selectedContentElements) {
-              if (remainingCount <= 0) break
+              // 해당 내용요소의 실제 영역 찾기 (항상 내용요소로부터 추출)
+              let areaForContentElement: string | undefined = undefined
+              for (const [area, elements] of Object.entries(filters.contentElements)) {
+                if (elements.includes(contentElement)) {
+                  areaForContentElement = area
+                  break
+                }
+              }
+
+              // 영역을 찾지 못한 경우 스킵
+              if (!areaForContentElement) {
+                console.warn(`내용요소 "${contentElement}"의 영역을 찾을 수 없습니다.`)
+                continue
+              }
 
               const requestData = {
                 school: "초등학교",
                 grade: selectedFilters.grades[0],
                 semester: selectedFilters.semesters[0],
-                area: selectedFilters.areas[0],
+                area: areaForContentElement,
                 contentElement: contentElement,
                 difficulty: level,
-                limit: Math.min(remainingCount, 10) // 한 번에 최대 10개씩
+                limit: problemsPerElement * 2 // 넉넉하게 요청
               }
 
               console.log('문제 검색 요청:', requestData)
@@ -321,15 +366,33 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
 
                 if (response.ok) {
                   const data = await response.json()
-                  const problemsForContentElement = data.problems.slice(0, remainingCount)
-                  collectedProblems.push(...problemsForContentElement)
-                  remainingCount -= problemsForContentElement.length
-                  console.log(`${contentElement} (${level}): ${problemsForContentElement.length}개 수집`)
+                  if (data.problems.length > 0) {
+                    problemsByElement.push(data.problems)
+                    console.log(`${contentElement} (${level}): ${data.problems.length}개 수집`)
+                  }
                 }
               } catch (error) {
                 console.error(`${contentElement} 검색 오류:`, error)
               }
             }
+
+            // 각 내용요소에서 균등하게 문제 선택
+            let selectedCount = 0
+            let roundRobinIndex = 0
+
+            while (selectedCount < count && problemsByElement.some(arr => arr.length > 0)) {
+              // 현재 내용요소 배열에서 문제 가져오기
+              if (problemsByElement[roundRobinIndex] && problemsByElement[roundRobinIndex]!.length > 0) {
+                const problem = problemsByElement[roundRobinIndex]!.shift()!
+                collectedProblems.push(problem)
+                selectedCount++
+              }
+
+              // 다음 내용요소로 이동 (라운드 로빈)
+              roundRobinIndex = (roundRobinIndex + 1) % problemsByElement.length
+            }
+
+            console.log(`${level} 난이도: ${selectedContentElements.length}개 내용요소에서 균등하게 ${collectedProblems.length}개 수집`)
           } else {
             // 내용요소가 선택되지 않은 경우 영역 전체에서 검색
             const requestData = {
@@ -338,7 +401,7 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
               semester: selectedFilters.semesters[0],
               area: selectedFilters.areas[0],
               difficulty: level,
-              limit: count * 2 // 넉넉하게 검색
+              limit: count * 3 // 넉넉하게 검색 (랜덤 선택용)
             }
 
             console.log('영역 전체 검색 요청:', requestData)
@@ -355,8 +418,12 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
               if (response.ok) {
                 const data = await response.json()
                 console.log(`${level} 난이도 전체 검색 응답:`, data)
-                collectedProblems = data.problems.slice(0, count)
-                console.log(`영역 전체에서 ${collectedProblems.length}개 문제 수집`)
+
+                // 랜덤하게 섞은 후 필요한 만큼 선택
+                const shuffled = [...data.problems].sort(() => Math.random() - 0.5)
+                collectedProblems = shuffled.slice(0, count)
+
+                console.log(`영역 전체에서 ${collectedProblems.length}개 문제 수집 (랜덤)`)
               } else {
                 console.error(`${level} 난이도 영역 전체 검색 실패:`, response.status, await response.text())
               }
@@ -365,8 +432,11 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
             }
           }
 
-          newProblems.push(...collectedProblems)
-          console.log(`${level} 난이도 최종 수집: ${collectedProblems.length}/${count}개`)
+          // 수집한 문제들을 랜덤하게 섞기
+          const shuffledProblems = [...collectedProblems].sort(() => Math.random() - 0.5)
+          newProblems.push(...shuffledProblems)
+
+          console.log(`${level} 난이도 최종 수집: ${collectedProblems.length}/${count}개 (랜덤 섞기 완료)`)
         }
       }
 
@@ -471,8 +541,20 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
           {/* 영역 및 내용요소 */}
           <div>
             <Label className="text-sm font-medium">영역 및 내용요소</Label>
-            <div className="mt-2 space-y-4">
-              {filters.areas.map((area) => (
+
+            {/* 학년/학기 미선택 시 안내 메시지 */}
+            {(selectedFilters.grades.length === 0 || selectedFilters.semesters.length === 0) && (
+              <div className="mt-2 p-4 bg-gray-50 rounded-lg border border-gray-200">
+                <p className="text-sm text-gray-600 text-center">
+                  먼저 학년과 학기를 선택해주세요
+                </p>
+              </div>
+            )}
+
+            {/* 학년/학기 선택 시 영역 및 내용요소 표시 */}
+            {selectedFilters.grades.length > 0 && selectedFilters.semesters.length > 0 && (
+              <div className="mt-2 space-y-4">
+                {filters.areas.map((area) => (
                 <div key={area} className="border rounded-lg p-3">
                   {/* 영역 헤더: 체크박스와 펼치기 버튼 분리 */}
                   <div className="flex items-center justify-between mb-3">
@@ -538,6 +620,7 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
                 </div>
               ))}
             </div>
+                )}
           </div>
 
           <Separator />

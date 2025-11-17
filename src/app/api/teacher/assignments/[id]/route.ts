@@ -48,7 +48,7 @@ export async function GET(
     }
 
     // problems는 Json 필드에서 문제 ID 배열을 가져옴
-    const problemIds = (assignment.problems as any[])?.map(p => p.id) || []
+    const problemIds = (assignment.problems as Array<{ id: number }>)?.map(p => String(p.id)) || []
 
     // 실제 문제 데이터를 가져옴
     const problems = await prisma.problem.findMany({
@@ -141,7 +141,7 @@ export async function PUT(
         title: validatedData.title,
         description: validatedData.description || null,
         dueDate: validatedData.dueDate ? new Date(validatedData.dueDate) : null,
-        problems: validatedData.problems || existingAssignment.problems,
+        problems: (validatedData.problems || existingAssignment.problems) as never,
         updatedAt: new Date()
       }
     })

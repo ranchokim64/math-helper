@@ -71,7 +71,8 @@ export async function GET(
           studentId: true,
           assignment: {
             select: {
-              id: true
+              id: true,
+              problems: true
             }
           }
         }
@@ -105,10 +106,15 @@ export async function GET(
       ? (completedSubmissions.length / totalPossibleSubmissions) * 100
       : 0
 
-    // 평균 점수 계산
-    const gradedSubmissions = submissions.filter(s => s.score !== null)
+    // 평균 점수 계산 (100점 만점으로 환산)
+    const gradedSubmissions = submissions.filter(s => s.score !== null && s.assignment.problems)
     const averageScore = gradedSubmissions.length > 0
-      ? gradedSubmissions.reduce((sum, s) => sum + (s.score || 0), 0) / gradedSubmissions.length
+      ? gradedSubmissions.reduce((sum, s) => {
+          const problemCount = Array.isArray(s.assignment.problems) ? s.assignment.problems.length : 1
+          const maxScore = problemCount * 100
+          const normalizedScore = ((s.score || 0) / maxScore) * 100
+          return sum + normalizedScore
+        }, 0) / gradedSubmissions.length
       : 0
 
     const stats = {

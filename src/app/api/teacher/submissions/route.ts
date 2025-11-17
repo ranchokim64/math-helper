@@ -37,6 +37,7 @@ export async function GET() {
           select: {
             id: true,
             title: true,
+            problems: true,
             classId: true,
             class: {
               select: {
@@ -64,6 +65,10 @@ export async function GET() {
         0
       )
 
+      const problemCount = Array.isArray(submission.assignment.problems)
+        ? submission.assignment.problems.length
+        : 1
+
       return {
         id: submission.id,
         studentId: submission.student.id,
@@ -72,8 +77,9 @@ export async function GET() {
         assignmentTitle: submission.assignment.title,
         className: submission.assignment.class.name,
         submittedAt: submission.submittedAt?.toISOString() || null,
-        status: submission.feedback ? 'graded' : 'submitted',
+        status: submission.gradedAt ? 'graded' : 'submitted',
         score: submission.score,
+        problemCount,
         recordingDuration: submission.recordingDuration || totalRecordingDuration, // 레거시 지원
         feedback: submission.feedback
       }

@@ -56,6 +56,7 @@ interface Submission {
   submittedAt: string
   status: "submitted" | "graded" | "returned"
   score?: number
+  problemCount?: number
   recordingDuration?: number
 }
 
@@ -78,12 +79,12 @@ export function TeacherDashboard() {
         if (classResponse.ok) {
           const fetchedClasses = await classResponse.json()
           // API 응답을 Class 인터페이스에 맞게 변환
-          classes = fetchedClasses.map((cls: { id: string; name: string; code: string; teacherId: string; createdAt: string; updatedAt: string; _count?: { students: number } }) => ({
+          classes = fetchedClasses.map((cls: { id: string; name: string; code: string; teacherId: string; createdAt: string; updatedAt: string; _count?: { students: number; assignments: number } }) => ({
             id: cls.id,
             name: cls.name,
             code: cls.code,
-            studentCount: cls.studentCount || cls.students?.length || 0,
-            assignmentCount: cls.assignmentCount || cls.assignments?.length || 0
+            studentCount: cls._count?.students || 0,
+            assignmentCount: cls._count?.assignments || 0
           }))
         } else {
           console.error('클래스 데이터를 가져오는데 실패했습니다:', classResponse.status)
@@ -103,14 +104,14 @@ export function TeacherDashboard() {
         if (assignmentResponse.ok) {
           const fetchedAssignments = await assignmentResponse.json()
           // API 응답을 Assignment 인터페이스에 맞게 변환
-          assignments = fetchedAssignments.map((assignment: any) => ({
-            id: assignment.id,
-            title: assignment.title,
-            dueDate: assignment.dueDate,
-            submissionCount: assignment.submissionCount || assignment.submissions?.length || 0,
-            totalStudents: assignment.studentCount || assignment.class?.students?.length || 0,
-            classId: assignment.classId,
-            className: assignment.className || assignment.class?.name || '알 수 없음'
+          assignments = fetchedAssignments.map((assignment: Record<string, unknown>) => ({
+            id: assignment.id as string,
+            title: assignment.title as string,
+            dueDate: assignment.dueDate as string,
+            submissionCount: (assignment.submissionCount || (assignment.submissions as Array<unknown> | undefined)?.length || 0) as number,
+            totalStudents: (assignment.studentCount || ((assignment.class as Record<string, unknown> | undefined)?.students as Array<unknown> | undefined)?.length || 0) as number,
+            classId: assignment.classId as string,
+            className: (assignment.className || ((assignment.class as Record<string, unknown> | undefined)?.name) || '알 수 없음') as string
           }))
         } else {
           console.error('과제 데이터를 가져오는데 실패했습니다:', assignmentResponse.status)
@@ -426,8 +427,10 @@ export function TeacherDashboard() {
                   </CardHeader>
                   <CardContent>
                     <div className="flex space-x-2">
-                      <Button variant="outline" size="sm">
-                        제출물 확인
+                      <Button variant="outline" size="sm" asChild>
+                        <Link href={`/teacher/assignments/${assignment.id}/submissions`}>
+                          제출물 확인
+                        </Link>
                       </Button>
                       <Button variant="outline" size="sm" asChild>
                         <Link href={`/teacher/assignments/${assignment.id}/edit`}>
@@ -517,14 +520,19 @@ export function TeacherDashboard() {
                 </CardHeader>
                 <CardContent>
                   <div className="text-2xl font-bold text-yellow-600">
-                    {submissions.filter(s => s.score).length > 0
-                      ? Math.round(
-                          submissions
-                            .filter(s => s.score)
-                            .reduce((sum, s) => sum + (s.score || 0), 0) /
-                          submissions.filter(s => s.score).length
-                        )
-                      : '--'}점
+                    {(() => {
+                      const gradedSubmissions = submissions.filter(s => s.score && s.problemCount)
+                      if (gradedSubmissions.length === 0) return '--'
+
+                      // 각 제출물을 100점 만점으로 환산한 후 평균 계산
+                      const normalizedScores = gradedSubmissions.map(s => {
+                        const maxScore = (s.problemCount || 1) * 100
+                        return ((s.score || 0) / maxScore) * 100
+                      })
+
+                      const average = normalizedScores.reduce((sum, score) => sum + score, 0) / normalizedScores.length
+                      return Math.round(average)
+                    })()}점
                   </div>
                 </CardContent>
               </Card>

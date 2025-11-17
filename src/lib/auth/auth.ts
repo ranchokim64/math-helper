@@ -26,29 +26,40 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
       },
       async authorize(credentials) {
         try {
+          console.log('[Auth] authorize 시작:', { email: credentials?.email })
+
           const { email, password } = loginSchema.parse(credentials)
+          console.log('[Auth] Schema 파싱 성공')
 
           const user = await prisma.user.findUnique({
             where: { email },
           })
+          console.log('[Auth] 사용자 조회 결과:', { found: !!user, hasPassword: !!user?.password })
 
           if (!user || !user.email || !user.password) {
+            console.log('[Auth] 사용자 없음 또는 비밀번호 없음')
             return null
           }
 
           // 비밀번호 검증
           const isPasswordValid = await compare(password, user.password)
+          console.log('[Auth] 비밀번호 검증 결과:', isPasswordValid)
+
           if (!isPasswordValid) {
+            console.log('[Auth] 비밀번호 불일치')
             return null
           }
 
+          console.log('[Auth] 로그인 성공:', { id: user.id, email: user.email, role: user.role })
           return {
             id: user.id,
             email: user.email,
             name: user.name,
             role: user.role,
+            classId: user.classId,
           }
         } catch (error) {
+          console.error('[Auth] authorize 에러:', error)
           return null
         }
       },

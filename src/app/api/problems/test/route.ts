@@ -107,7 +107,7 @@ export async function POST(request: NextRequest) {
     return NextResponse.json(
       {
         message: "문제를 불러오는 중 오류가 발생했습니다.",
-        debug: { error: error.message }
+        debug: { error: error instanceof Error ? error.message : String(error) }
       },
       { status: 500 }
     )

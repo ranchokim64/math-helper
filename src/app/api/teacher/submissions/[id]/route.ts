@@ -68,7 +68,7 @@ export async function GET(
     }
 
     // 문제 ID 배열 추출
-    const problemIds = (submission.assignment.problems as any[])?.map(p => p.id) || []
+    const problemIds = (submission.assignment.problems as Array<{ id: number }>)?.map(p => String(p.id)) || []
 
     // 문제 데이터 조회
     const problems = await prisma.problem.findMany({
@@ -99,8 +99,9 @@ export async function GET(
       feedback: submission.feedback,
       score: submission.score,
       status: submission.submittedAt ?
-        (submission.feedback ? 'graded' : 'submitted') :
+        (submission.gradedAt ? 'graded' : 'submitted') :
         'draft',
+      gradedAt: submission.gradedAt?.toISOString() || null,
       problems: orderedProblems.map(problem => ({
         id: problem!.sourceId,
         imageUrl: problem!.imageUrl,
@@ -166,7 +167,7 @@ export async function PATCH(
     }
 
     const body = await request.json()
-    const { feedback, score, problemScores } = body
+    const { feedback, score, problemScores, isSubmit } = body
 
     // 제출물 조회 (권한 확인용)
     const submission = await prisma.submission.findUnique({
@@ -203,6 +204,7 @@ export async function PATCH(
       data: {
         feedback,
         score,
+        gradedAt: isSubmit ? new Date() : null,  // 채점 완료 시에만 gradedAt 설정
         updatedAt: new Date()
       }
     })

@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { useRouter } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -43,6 +44,7 @@ interface ProblemRecording {
   capturedImageUrl?: string  // 학생 필기가 포함된 캡처 이미지
   duration: number
   segments?: ActivitySegment[]
+  firstReactionTime?: number  // 최초 반응 시간 (초)
 }
 
 interface SubmissionData {
@@ -70,6 +72,7 @@ interface SubmissionViewerProps {
 }
 
 export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps) {
+  const router = useRouter()
   const [submission, setSubmission] = useState<SubmissionData | null>(null)
   const [currentProblemIndex, setCurrentProblemIndex] = useState(0)
   const [isLoading, setIsLoading] = useState(true)
@@ -78,10 +81,6 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
   // 채점 상태
   const [feedback, setFeedback] = useState("")
   const [problemScores, setProblemScores] = useState<Record<string, number>>({})
-
-  // 녹화 재생 상태
-  const [currentTime, setCurrentTime] = useState(0)
-  const [duration, setDuration] = useState(0)
 
   // 제출물 데이터 로드
   useEffect(() => {
@@ -95,19 +94,6 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
         }
 
         const data = await response.json()
-
-        console.log('📥 제출물 데이터 수신:', {
-          submissionId: data.id,
-          problemRecordingsCount: data.problemRecordings?.length || 0,
-          problemRecordings: data.problemRecordings?.map((rec: any) => ({
-            problemId: rec.problemId,
-            problemIndex: rec.problemIndex,
-            hasSegments: !!rec.segments,
-            segmentsCount: Array.isArray(rec.segments) ? rec.segments.length : 0,
-            segmentsType: typeof rec.segments,
-            segments: rec.segments
-          }))
-        })
 
         setSubmission(data)
         setFeedback(data.feedback || "")
@@ -126,21 +112,21 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
         const baseTime = Date.now() - 1847000 // 30분 47초 전
         const mockSegments: ActivitySegment[] = [
           // 첫 번째 필기 (3분 25초)
-          { type: 'drawing', startTime: baseTime, endTime: baseTime + 205000, duration: 205 },
+          { type: 'writing', startTime: baseTime, endTime: baseTime + 205000, duration: 205 },
           // 첫 번째 고민 (2분 15초)
           { type: 'paused', startTime: baseTime + 205000, endTime: baseTime + 340000, duration: 135 },
           // 두 번째 필기 (2분 35초)
-          { type: 'drawing', startTime: baseTime + 340000, endTime: baseTime + 495000, duration: 155 },
+          { type: 'writing', startTime: baseTime + 340000, endTime: baseTime + 495000, duration: 155 },
           // 두 번째 고민 (4분 15초)
           { type: 'paused', startTime: baseTime + 495000, endTime: baseTime + 750000, duration: 255 },
           // 세 번째 필기 (5분 10초)
-          { type: 'drawing', startTime: baseTime + 750000, endTime: baseTime + 1060000, duration: 310 },
+          { type: 'writing', startTime: baseTime + 750000, endTime: baseTime + 1060000, duration: 310 },
           // 세 번째 고민 (3분 50초)
           { type: 'paused', startTime: baseTime + 1060000, endTime: baseTime + 1290000, duration: 230 },
           // 네 번째 필기 (8분 25초)
-          { type: 'drawing', startTime: baseTime + 1290000, endTime: baseTime + 1795000, duration: 505 },
+          { type: 'writing', startTime: baseTime + 1290000, endTime: baseTime + 1795000, duration: 505 },
           // 답안 작성 (52초)
-          { type: 'answering', startTime: baseTime + 1795000, endTime: baseTime + 1847000, duration: 52 }
+          { type: 'writing', startTime: baseTime + 1795000, endTime: baseTime + 1847000, duration: 52 }
         ]
 
         const mockSubmission: SubmissionData = {
@@ -275,7 +261,8 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
         body: JSON.stringify({
           feedback,
           score: totalScore,
-          problemScores
+          problemScores,
+          isSubmit  // 채점 완료 여부 전달
         })
       })
 
@@ -284,14 +271,9 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
       }
 
       if (isSubmit) {
-        setSubmission(prev => prev ? {
-          ...prev,
-          feedback,
-          score: totalScore,
-          status: "graded",
-          gradedAt: new Date().toISOString()
-        } : null)
         toast.success("채점이 완료되었습니다!")
+        // 과제별 제출물 확인 페이지로 리다이렉트
+        router.push(`/teacher/assignments/${submission.assignmentId}/submissions`)
       } else {
         toast.success("임시 저장되었습니다.")
       }
@@ -351,12 +333,19 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between py-4">
             <div className="flex items-center space-x-4">
-              {onBack && (
-                <Button variant="ghost" onClick={onBack}>
-                  <ArrowLeft className="h-4 w-4 mr-2" />
-                  돌아가기
-                </Button>
-              )}
+              <Button
+                variant="ghost"
+                onClick={() => {
+                  if (onBack) {
+                    onBack()
+                  } else {
+                    router.push(`/teacher/assignments/${submission.assignmentId}/submissions`)
+                  }
+                }}
+              >
+                <ArrowLeft className="h-4 w-4 mr-2" />
+                돌아가기
+              </Button>
               <div>
                 <h1 className="text-2xl font-bold text-gray-900">{submission.assignmentTitle}</h1>
                 <div className="flex items-center space-x-4 text-sm text-gray-600">
@@ -546,19 +535,18 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
               return (
                 <>
                   {/* 활동 타임라인 - 현재 문제의 세그먼트 */}
-                  {(() => {
-                    console.log(`🎯 문제 ${currentProblemIndex + 1} 타임라인 렌더링 체크:`, {
-                      hasRecording: !!currentRecording,
-                      hasSegments: !!currentRecording?.segments,
-                      segmentsCount: Array.isArray(currentRecording?.segments) ? currentRecording.segments.length : 0,
-                      segmentsType: typeof currentRecording?.segments,
-                      segments: currentRecording?.segments
-                    })
+                  {currentRecording?.segments && currentRecording.segments.length > 0 && (() => {
+                    // 세그먼트들의 총 시간 계산 (최초 반응 시간이 첫 세그먼트에 포함됨)
+                    const totalSegmentDuration = currentRecording.segments.reduce(
+                      (sum, seg) => sum + (seg.duration || 0),
+                      0
+                    )
 
-                    return currentRecording?.segments && currentRecording.segments.length > 0 && (
+                    return (
                       <ActivityTimeline
                         segments={currentRecording.segments}
-                        totalDuration={currentRecording.duration || 0}
+                        totalDuration={totalSegmentDuration}
+                        firstReactionTime={currentRecording.firstReactionTime}
                       />
                     )
                   })()}
@@ -582,8 +570,6 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
                             key={currentRecording.recordingUrl} // URL이 바뀔 때 비디오 재로드
                             className="w-full max-w-4xl mx-auto rounded-lg border"
                             controls
-                            onTimeUpdate={(e) => setCurrentTime(e.currentTarget.currentTime)}
-                            onLoadedMetadata={(e) => setDuration(e.currentTarget.duration)}
                           >
                             <source src={currentRecording.recordingUrl} type="video/webm" />
                             브라우저가 동영상을 지원하지 않습니다.
@@ -613,8 +599,6 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
                           <video
                             className="w-full max-w-4xl mx-auto rounded-lg border"
                             controls
-                            onTimeUpdate={(e) => setCurrentTime(e.currentTarget.currentTime)}
-                            onLoadedMetadata={(e) => setDuration(e.currentTarget.duration)}
                           >
                             <source src={submission.recordingUrl} type="video/webm" />
                             브라우저가 동영상을 지원하지 않습니다.

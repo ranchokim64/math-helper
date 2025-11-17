@@ -104,7 +104,7 @@ export default function RegisterPage() {
         <CardHeader className="space-y-1">
           <CardTitle className="text-2xl font-bold text-center">회원가입</CardTitle>
           <CardDescription className="text-center">
-            Math Helper에 가입하여 시작해보세요
+            쌤스케치에 가입하여 시작해보세요
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">

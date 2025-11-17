@@ -11,9 +11,14 @@ interface RecordingData {
   segments?: ActivitySegment[]
   problemId?: string
   problemIndex?: number
+  capturedImageBlob?: Blob  // 학생 필기가 포함된 캡처 이미지
+  firstReactionTime?: number  // 최초 반응 시간 (초)
 }
 
 type RecordingState = "idle" | "starting" | "recording" | "paused" | "stopping" | "completed" | "error"
+
+// 재풀이 판단 임계값 (초)
+const REWORK_THRESHOLD_SECONDS = 3
 
 interface UseAutoRecordingOptions {
   maxDuration?: number
@@ -159,7 +164,11 @@ export function useAutoRecording({
         console.log('🎬 녹화 완료:', {
           duration: finalDuration,
           segments: segmentsRef.current.length,
-          blobSize: blob.size
+          blobSize: blob.size,
+          세그먼트상세: segmentsRef.current.map(s => ({
+            타입: s.type,
+            시간: s.duration + '초'
+          }))
         })
 
         toast.success(`문제 풀이 과정이 녹화되었습니다! (${Math.floor(finalDuration / 60)}분 ${finalDuration % 60}초)`)
@@ -186,9 +195,10 @@ export function useAutoRecording({
       startTimeRef.current = Date.now()
       setRecordingDuration(0)
 
-      // 첫 번째 drawing 세그먼트 시작
+      // 녹화 시작 시 즉시 'paused' 세그먼트 생성 (최초 반응 시간 기록용)
+      // 첫 드로잉 시작 시 이 세그먼트가 종료되고 'writing' 세그먼트가 시작됨
       currentSegmentRef.current = {
-        type: 'drawing',
+        type: 'paused',
         startTime: Date.now()
       }
 
@@ -228,8 +238,23 @@ export function useAutoRecording({
       const completedSegment: ActivitySegment = {
         ...currentSegmentRef.current,
         endTime,
-        duration
+        duration,
+        metadata: currentSegmentRef.current.metadata
       }
+
+      // 지우기 세그먼트이고 임계값 이상이면 재풀이로 표시
+      if (completedSegment.type === 'erasing' && duration >= REWORK_THRESHOLD_SECONDS) {
+        completedSegment.metadata = {
+          ...completedSegment.metadata,
+          isRework: true
+        }
+      }
+
+      console.log('✅ 세그먼트 종료:', {
+        타입: completedSegment.type,
+        시간: duration + '초',
+        전체세그먼트수: segmentsRef.current.length + 1
+      })
 
       segmentsRef.current.push(completedSegment)
       currentSegmentRef.current = null
@@ -237,7 +262,13 @@ export function useAutoRecording({
   }, [])
 
   // 새 세그먼트 시작
-  const startNewSegment = useCallback((type: 'drawing' | 'paused' | 'answering') => {
+  const startNewSegment = useCallback((type: 'writing' | 'erasing' | 'paused') => {
+    console.log('📌 세그먼트 전환:', {
+      이전세그먼트: currentSegmentRef.current?.type,
+      새세그먼트: type,
+      현재시간: new Date().toISOString()
+    })
+
     // 기존 세그먼트가 있으면 종료
     endCurrentSegment()
 
@@ -280,8 +311,8 @@ export function useAutoRecording({
       mediaRecorder.resume()
       setRecordingState("recording")
 
-      // paused 세그먼트 종료하고 drawing 세그먼트 시작
-      startNewSegment('drawing')
+      // paused 세그먼트 종료하고 writing 세그먼트 시작
+      startNewSegment('writing')
 
       console.log("녹화 재개")
     } catch (error) {

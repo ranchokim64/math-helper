@@ -38,11 +38,12 @@ interface ProblemViewerProps {
   enableDrawing?: boolean
   onDrawingChange?: (hasDrawing: boolean) => void
   onFirstDraw?: () => void
+  onFirstReaction?: (seconds: number) => void  // 최초 반응 시간 콜백
   disabled?: boolean
   isAnswering?: boolean
   onRecordingPause?: () => void
   onRecordingResume?: () => void
-  onSegmentChange?: (type: 'drawing' | 'paused' | 'answering') => void
+  onSegmentChange?: (type: 'writing' | 'erasing' | 'paused') => void
   onCanvasReady?: (canvas: HTMLCanvasElement) => void
 }
 
@@ -51,7 +52,7 @@ interface MathContent {
   content: string
 }
 
-type DrawingStatus = 'idle' | 'drawing' | 'paused' | 'completed'
+type DrawingStatus = 'idle' | 'writing' | 'erasing' | 'paused' | 'completed'
 
 interface Stroke {
   tool: DrawingTool
@@ -68,6 +69,7 @@ export function ProblemViewer({
   enableDrawing = false,
   onDrawingChange,
   onFirstDraw,
+  onFirstReaction,
   disabled = false,
   isAnswering = false,
   onRecordingPause,
@@ -89,6 +91,11 @@ export function ProblemViewer({
   const loadedImageRef = useRef<HTMLImageElement | null>(null)
   const pauseTimerRef = useRef<NodeJS.Timeout | null>(null)
   const currentStrokeRef = useRef<Stroke | null>(null) // 실시간 그리기용 ref
+
+  // 최초 반응 시간 추적용 ref
+  const problemLoadTimeRef = useRef<number>(0)
+  const firstDrawTimeRef = useRef<number>(0)
+  const hasReportedFirstReaction = useRef<boolean>(false)
 
   // 드로잉 툴바 상태
   const [currentTool, setCurrentTool] = useState<DrawingTool>('pen')
@@ -266,8 +273,9 @@ export function ProblemViewer({
           ctx.font = 'bold 14px sans-serif'
           ctx.textAlign = 'center'
           ctx.textBaseline = 'middle'
+          const label = section.className || (section.type === 'answer' ? '정답' : '해설')
           ctx.fillText(
-            section.type === 'answer' ? '정답' : '해설',
+            label,
             maskX + maskWidth / 2,
             maskY + maskHeight / 2
           )
@@ -316,12 +324,26 @@ export function ProblemViewer({
     if (!enableDrawing || disabled) return
 
     setIsDrawing(true)
-    setDrawingStatus('drawing')
+
+    // 현재 도구에 따라 상태 구분
+    const newStatus = currentTool === 'eraser' ? 'erasing' : 'writing'
+    setDrawingStatus(newStatus)
     resetPauseTimer()
 
     // 첫 번째 드로잉 시
-    if (drawingStatus === 'idle' && onFirstDraw) {
-      onFirstDraw()
+    if (drawingStatus === 'idle') {
+      // 최초 반응 시간 계산 및 콜백 호출
+      if (problemLoadTimeRef.current > 0 && !hasReportedFirstReaction.current && onFirstReaction) {
+        firstDrawTimeRef.current = Date.now()
+        const firstReactionSeconds = (firstDrawTimeRef.current - problemLoadTimeRef.current) / 1000
+        onFirstReaction(firstReactionSeconds)
+        hasReportedFirstReaction.current = true
+      }
+
+      // 녹화 시작 콜백
+      if (onFirstDraw) {
+        onFirstDraw()
+      }
     }
 
     const canvas = canvasRef.current
@@ -485,56 +507,56 @@ export function ProblemViewer({
         }
       }
 
-      // 10초 타이머 시작
+      // 드로잉 중지 시 즉시 paused 상태로 전환 (세그먼트 기록용)
+      setDrawingStatus('paused')
+
+      // 10초 타이머 시작 (UI 표시용)
       startPauseTimer()
     }
   }, [isDrawing, currentStroke, strokes, historyStep, showAnswerKey, problem.sections, imageDimensions])
 
-  // isAnswering 변경 시 상태 업데이트
-  useEffect(() => {
-    if (isAnswering && drawingStatus !== 'idle') {
-      setDrawingStatus('completed')
-      resetPauseTimer()
-      // answering 세그먼트 시작
-      if (onSegmentChange) {
-        onSegmentChange('answering')
-      }
-    }
-  }, [isAnswering, drawingStatus, onSegmentChange])
-
-  // drawingStatus 변경 시 녹화 제어
+  // drawingStatus 변경 시 세그먼트 전환 (녹화는 계속 진행)
   useEffect(() => {
     if (!enableDrawing) return
 
     switch (drawingStatus) {
-      case 'drawing':
-        // 필기 중 - 녹화 재개
-        if (onRecordingResume) {
-          onRecordingResume()
-        }
+      case 'writing':
+        // 펜으로 필기 중
         if (onSegmentChange) {
-          onSegmentChange('drawing')
+          onSegmentChange('writing')
+        }
+        break
+
+      case 'erasing':
+        // 지우개 사용 중
+        if (onSegmentChange) {
+          onSegmentChange('erasing')
         }
         break
 
       case 'paused':
-        // 일시 정지 - 녹화 일시정지
-        if (onRecordingPause) {
-          onRecordingPause()
-        }
+        // 고민 시간 (드로잉 안 함)
         if (onSegmentChange) {
           onSegmentChange('paused')
         }
         break
 
+      case 'idle':
       case 'completed':
-        // 완료 - 녹화 일시정지 (답안 입력 중)
-        if (onRecordingPause) {
-          onRecordingPause()
-        }
+        // 아무 작업도 하지 않음
         break
     }
-  }, [drawingStatus, enableDrawing, onRecordingPause, onRecordingResume, onSegmentChange])
+  }, [drawingStatus, enableDrawing, onSegmentChange])
+
+  // 드로잉 중 도구 변경 시 세그먼트 전환
+  useEffect(() => {
+    if (isDrawing && drawingStatus !== 'paused' && drawingStatus !== 'idle' && drawingStatus !== 'completed') {
+      const newStatus = currentTool === 'eraser' ? 'erasing' : 'writing'
+      if (drawingStatus !== newStatus) {
+        setDrawingStatus(newStatus)
+      }
+    }
+  }, [currentTool, isDrawing, drawingStatus])
 
   // 히스토리 스텝 변경 시 캔버스 다시 그리기
   useEffect(() => {
@@ -620,6 +642,10 @@ export function ProblemViewer({
         // 마스킹까지 모두 그려진 후에 Canvas 표시 (정답 노출 방지)
         requestAnimationFrame(() => {
           setImageLoaded(true)
+
+          // 문제 로드 완료 시점 기록 (최초 반응 시간 측정용)
+          problemLoadTimeRef.current = Date.now()
+          hasReportedFirstReaction.current = false
 
           // Canvas가 준비되면 콜백 호출
           if (onCanvasReady && canvasRef.current) {
@@ -914,14 +940,14 @@ export function ProblemViewer({
                     <Badge
                       variant={
                         drawingStatus === 'completed' ? "default" :
-                        drawingStatus === 'drawing' ? "default" :
+                        drawingStatus === 'writing' ? "default" :
                         drawingStatus === 'paused' ? "secondary" :
                         "outline"
                       }
                       className="text-xs"
                     >
                       {drawingStatus === 'idle' && "터치하여 필기"}
-                      {drawingStatus === 'drawing' && "필기 중"}
+                      {drawingStatus === 'writing' && "필기 중"}
                       {drawingStatus === 'paused' && "필기 일시 정지"}
                       {drawingStatus === 'completed' && "필기 완료"}
                     </Badge>
@@ -930,65 +956,6 @@ export function ProblemViewer({
               </div>
             </div>
           )}
-
-          {/* 문제 섹션들 렌더링 (텍스트 내용) */}
-          {problem.sections
-            ?.sort((a, b) => a.position - b.position)
-            .filter((section) => {
-              // showAnswerKey가 false인 경우 정답 관련 섹션 필터링
-              if (!showAnswerKey) {
-                // 'explanation' 섹션은 정답 해설로 간주하여 학생에게 숨김
-                if (section.type === 'explanation') {
-                  return false
-                }
-                // 'answer' 섹션도 학생에게 숨김
-                if (section.type === 'answer') {
-                  return false
-                }
-                // 내용에 정답 관련 키워드가 있는 텍스트 섹션도 필터링
-                if (section.type === 'text' &&
-                    (section.content.includes('정답') ||
-                     section.content.includes('해답') ||
-                     section.content.includes('답:') ||
-                     section.content.includes('해설'))) {
-                  return false
-                }
-              }
-              return true
-            })
-            .map((section, index) => (
-              <div key={index} className="space-y-3">
-                {section.type === 'question' && (
-                  <div className="text-lg font-medium leading-relaxed">
-                    {renderTextContent(section.content)}
-                  </div>
-                )}
-
-                {section.type === 'choices' && (
-                  <div className="bg-blue-50 p-4 rounded-lg border border-blue-200">
-                    <div className="text-sm font-medium text-blue-800 mb-2">선택지</div>
-                    <div className="text-gray-700 leading-relaxed whitespace-pre-line">
-                      {renderTextContent(section.content)}
-                    </div>
-                  </div>
-                )}
-
-                {section.type === 'question_image' && (
-                  <div className="bg-amber-50 p-4 rounded-lg border border-amber-200">
-                    <div className="text-sm font-medium text-amber-800 mb-2">수식 내용</div>
-                    <div className="text-gray-700 leading-relaxed">
-                      {renderTextContent(section.content)}
-                    </div>
-                  </div>
-                )}
-
-                {section.type === 'text' && (
-                  <div className="text-gray-700 leading-relaxed">
-                    {renderTextContent(section.content)}
-                  </div>
-                )}
-              </div>
-            ))}
 
           {/* 문제 상세 정보 (메타데이터 표시 시) */}
           {showMetadata && problem.metadata && (

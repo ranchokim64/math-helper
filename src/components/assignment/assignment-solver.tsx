@@ -8,7 +8,7 @@ import { Progress } from "@/components/ui/progress"
 import { Badge } from "@/components/ui/badge"
 import { ProblemViewer } from "@/components/problem/problem-viewer"
 import { useAutoRecording } from "@/hooks/use-auto-recording"
-import { ProcessedProblem } from "@/types"
+import { ProcessedProblem, ActivitySegment } from "@/types"
 import { toast } from "sonner"
 
 // RecordingData 타입 import (use-auto-recording에서 export 필요)
@@ -16,10 +16,11 @@ interface RecordingData {
   blob: Blob
   duration: number
   url: string
-  segments?: any[]
+  segments?: ActivitySegment[]
   problemId?: string
   problemIndex?: number
   capturedImageBlob?: Blob  // 학생 필기가 포함된 캡처 이미지
+  firstReactionTime?: number  // 최초 반응 시간 (초)
 }
 import {
   ArrowLeft,
@@ -56,6 +57,9 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
   const [problemRecordings, setProblemRecordings] = useState<Map<string, RecordingData>>(new Map())
   const [isTransitioning, setIsTransitioning] = useState(false)
 
+  // 최초 반응 시간 추적
+  const [currentFirstReaction, setCurrentFirstReaction] = useState<number | null>(null)
+
   // 자동 녹화 훅
   const {
     isRecording,
@@ -64,8 +68,6 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
     recordedData,
     hasStarted: recordingStarted,
     startAutoRecording,
-    pauseRecording,
-    resumeRecording,
     stopRecording,
     resetRecording,
     startNewSegment,
@@ -77,8 +79,8 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
     },
     onRecordingComplete: (data) => {
       const segments = data.segments || []
-      const drawingTime = segments.filter((s: any) => s.type === 'drawing').reduce((sum: number, s: any) => sum + (s.duration || 0), 0)
-      const pausedTime = segments.filter((s: any) => s.type === 'paused').reduce((sum: number, s: any) => sum + (s.duration || 0), 0)
+      const drawingTime = segments.filter(s => s.type === 'writing').reduce((sum, s) => sum + (s.duration || 0), 0)
+      const pausedTime = segments.filter(s => s.type === 'paused').reduce((sum, s) => sum + (s.duration || 0), 0)
 
       toast.success(`문제 풀이 과정이 녹화되었습니다! (필기: ${Math.floor(drawingTime / 60)}분, 고민: ${Math.floor(pausedTime / 60)}분)`)
     }
@@ -230,6 +232,12 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
     })
   }
 
+  // 최초 반응 시간 콜백
+  const handleFirstReaction = (seconds: number) => {
+    console.log('⚡ 최초 반응 시간:', seconds)
+    setCurrentFirstReaction(seconds)
+  }
+
   // 첫 번째 그리기 시 자동 녹화 시작 (폴백)
   const handleFirstDraw = () => {
     if (!recordingStarted && canvasElement && currentProblem) {
@@ -282,14 +290,25 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
       // stopRecording()이 반환한 데이터 사용 (recordedData가 아직 업데이트되지 않았을 수 있음)
       let dataToSave = stoppedRecordingData || recordedData
 
-      // Canvas 캡처 (학생이 본 화면 그대로)
+      // Canvas 캡처 및 firstReaction 추가 (학생이 본 화면 그대로)
       if (dataToSave && canvasElement) {
         const capturedBlob = await captureCanvasImage(canvasElement)
         if (capturedBlob) {
           dataToSave = {
             ...dataToSave,
-            capturedImageBlob: capturedBlob
+            capturedImageBlob: capturedBlob,
+            firstReactionTime: currentFirstReaction || undefined
           }
+        } else {
+          dataToSave = {
+            ...dataToSave,
+            firstReactionTime: currentFirstReaction || undefined
+          }
+        }
+      } else if (dataToSave) {
+        dataToSave = {
+          ...dataToSave,
+          firstReactionTime: currentFirstReaction || undefined
         }
       }
 
@@ -367,6 +386,7 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
 
       // 4. 녹화 상태 초기화 (새 문제 녹화 준비)
       resetRecording()
+      setCurrentFirstReaction(null)  // 최초 반응 시간도 초기화
 
       // 5. 문제 전환
       console.log('➡️ 문제 전환:', {
@@ -422,14 +442,25 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
       // stopRecording()이 반환한 데이터 사용 (recordedData가 아직 업데이트되지 않았을 수 있음)
       let dataToSave = stoppedRecordingData || recordedData
 
-      // Canvas 캡처 (마지막 문제)
+      // Canvas 캡처 및 firstReaction 추가 (마지막 문제)
       if (dataToSave && canvasElement) {
         const capturedBlob = await captureCanvasImage(canvasElement)
         if (capturedBlob) {
           dataToSave = {
             ...dataToSave,
-            capturedImageBlob: capturedBlob
+            capturedImageBlob: capturedBlob,
+            firstReactionTime: currentFirstReaction || undefined
           }
+        } else {
+          dataToSave = {
+            ...dataToSave,
+            firstReactionTime: currentFirstReaction || undefined
+          }
+        }
+      } else if (dataToSave) {
+        dataToSave = {
+          ...dataToSave,
+          firstReactionTime: currentFirstReaction || undefined
         }
       }
 
@@ -535,6 +566,12 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
             console.warn(`⚠️ 문제 ${index + 1} Segments 없음!`)
           }
 
+          // firstReactionTime 추가
+          if (recording.firstReactionTime !== undefined) {
+            formData.append(`recording_${index}_firstReaction`, recording.firstReactionTime.toString())
+            console.log(`⚡ 문제 ${index + 1} 최초 반응 시간:`, recording.firstReactionTime)
+          }
+
           // 캡처 이미지 추가
           if (recording.capturedImageBlob) {
             formData.append(`captured_image_${index}`, recording.capturedImageBlob, `problem_${index}.jpg`)
@@ -550,13 +587,17 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
 
           // 세그먼트 정보 로깅
           const segments = recording.segments || []
-          const drawingTime = segments.filter((s: any) => s.type === 'drawing').reduce((sum: number, s: any) => sum + (s.duration || 0), 0)
-          const pausedTime = segments.filter((s: any) => s.type === 'paused').reduce((sum: number, s: any) => sum + (s.duration || 0), 0)
+          const writingTime = segments.filter(s => s.type === 'writing').reduce((sum, s) => sum + (s.duration || 0), 0)
+          const erasingTime = segments.filter(s => s.type === 'erasing').reduce((sum, s) => sum + (s.duration || 0), 0)
+          const thinkingTime = segments.filter((s, idx) => s.type === 'paused' && idx !== 0).reduce((sum, s) => sum + (s.duration || 0), 0)
+          const firstReaction = segments.length > 0 && segments[0]!.type === 'paused' ? (segments[0]!.duration || 0) : 0
 
           console.log(`📊 문제 ${index + 1} 학습 활동:`)
           console.log('- 총 시간:', formatTime(recording.duration))
-          console.log('- 필기 시간:', formatTime(drawingTime))
-          console.log('- 고민 시간:', formatTime(pausedTime))
+          console.log('- 최초 반응:', formatTime(firstReaction))
+          console.log('- 필기 시간:', formatTime(writingTime))
+          console.log('- 고민 시간:', formatTime(thinkingTime))
+          console.log('- 지우기:', formatTime(erasingTime))
         }
       })
 
@@ -616,7 +657,7 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
   if (isLoading) {
     return (
       <div className="min-h-screen flex items-center justify-center">
-        <div className="text-lg">과제를 불러오는 중...</div>
+        <div className="text-2xl">과제를 불러오는 중...</div>
       </div>
     )
   }
@@ -624,7 +665,7 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
   if (!assignment || !currentProblem) {
     return (
       <div className="min-h-screen flex items-center justify-center">
-        <div className="text-lg text-red-600">과제를 찾을 수 없습니다.</div>
+        <div className="text-2xl text-red-600">과제를 찾을 수 없습니다.</div>
       </div>
     )
   }
@@ -632,99 +673,86 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
   const progress = ((currentProblemIndex + 1) / assignment.problems.length) * 100
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      {/* Header */}
-      <div className="bg-white shadow-sm border-b">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between py-4">
-            <div className="flex items-center space-x-4">
-              <Button
-                variant="ghost"
-                onClick={() => router.back()}
-                className="flex items-center space-x-2"
-              >
-                <ArrowLeft className="h-4 w-4" />
-                <span>돌아가기</span>
-              </Button>
-              <div>
-                <h1 className="text-2xl font-bold text-gray-900">{assignment.title}</h1>
-                <p className="text-gray-600">{assignment.className}</p>
+    <div className="h-screen flex flex-col bg-gray-50 overflow-hidden">
+      {/* Compact Header */}
+      <div className="bg-white shadow-sm border-b flex-shrink-0">
+        <div className="flex items-center justify-between px-4 py-3">
+          <div className="flex items-center space-x-3">
+            <Button
+              variant="ghost"
+              size="default"
+              onClick={() => router.back()}
+              className="h-10 px-3"
+            >
+              <ArrowLeft className="h-5 w-5" />
+            </Button>
+            <div className="flex flex-col">
+              <h1 className="text-xl md:text-2xl font-bold text-gray-900 leading-tight">{assignment.title}</h1>
+              <p className="text-base text-gray-500">{assignment.className}</p>
+            </div>
+          </div>
+          <div className="flex items-center space-x-2">
+            {assignment.dueDate && (
+              <div className="hidden sm:flex items-center space-x-1 text-sm text-gray-600">
+                <Clock className="h-4 w-4" />
+                <span>{new Date(assignment.dueDate).toLocaleDateString('ko-KR')}</span>
               </div>
-            </div>
-            <div className="flex items-center space-x-4">
-              {assignment.dueDate && (
-                <div className="flex items-center space-x-2 text-sm text-gray-600">
-                  <Clock className="h-4 w-4" />
-                  <span>마감: {new Date(assignment.dueDate).toLocaleString('ko-KR')}</span>
-                </div>
-              )}
-            </div>
+            )}
+            <Badge variant="outline" className="text-base px-3 py-1">
+              {currentProblemIndex + 1} / {assignment.problems.length}
+            </Badge>
           </div>
         </div>
-      </div>
 
-      {/* Progress Bar */}
-      <div className="bg-white border-b px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto py-4">
-          <div className="flex items-center justify-between mb-2">
-            <span className="text-sm font-medium">진행률</span>
-            <span className="text-sm text-gray-600">{Math.round(progress)}%</span>
-          </div>
+        {/* Compact Progress Bar */}
+        <div className="px-4 pb-2">
           <Progress value={progress} className="h-2" />
         </div>
       </div>
 
-      {/* Main Content */}
-      <div className="max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
-          {/* 문제 영역 - 더 넓게 */}
-          <div className="lg:col-span-4 space-y-6">
-            {/* 문제 헤더 */}
-            <div className="flex items-center justify-between">
-              <h2 className="text-xl font-semibold flex items-center space-x-2">
-                <BookOpen className="h-5 w-5" />
-                <span>문제 {currentProblemIndex + 1}</span>
-              </h2>
-              <Badge variant="outline" className="text-sm">
-                {currentProblemIndex + 1} / {assignment.problems.length}
-              </Badge>
+      {/* Main Content - 스크롤 없이 꽉 채우기 */}
+      <div className="flex-1 flex overflow-hidden">
+        <div className="flex-1 flex flex-col lg:flex-row">
+          {/* 문제 영역 - 전체 화면 활용 */}
+          <div className="flex-1 flex flex-col px-2 py-2 overflow-hidden">
+            {/* 문제 뷰어 (필기 기능 통합) - flex-1로 남은 공간 모두 차지 */}
+            <div className="flex-1 overflow-hidden mb-2">
+              <ProblemViewer
+                problem={currentProblem}
+                showMetadata={false}
+                showAnswerKey={false}
+                className="h-full w-full"
+                enableDrawing={true}
+                onFirstDraw={handleFirstDraw}
+                onFirstReaction={handleFirstReaction}
+                disabled={isSubmitting}
+                onSegmentChange={startNewSegment}
+                onCanvasReady={handleCanvasReady}
+              />
             </div>
 
-            {/* 문제 뷰어 (필기 기능 통합) */}
-            <ProblemViewer
-              problem={currentProblem}
-              showMetadata={true}
-              showAnswerKey={false}
-              className="border-2 border-blue-100"
-              enableDrawing={true}
-              onFirstDraw={handleFirstDraw}
-              disabled={isSubmitting}
-              onRecordingPause={pauseRecording}
-              onRecordingResume={resumeRecording}
-              onSegmentChange={startNewSegment}
-              onCanvasReady={handleCanvasReady}
-            />
-
-            {/* 네비게이션 */}
-            <div className="flex justify-between items-center">
+            {/* 하단 네비게이션 - 컴팩트 */}
+            <div className="flex items-center justify-between flex-shrink-0 gap-3">
               <Button
                 variant="outline"
+                size="default"
                 onClick={goToPrevious}
                 disabled={currentProblemIndex === 0 || isTransitioning}
+                className="h-11 text-base"
               >
-                <ArrowLeft className="h-4 w-4 mr-2" />
-                이전 문제
+                <ArrowLeft className="h-5 w-5" />
+                <span className="hidden sm:inline ml-1">이전</span>
               </Button>
 
-              <div className="flex space-x-2">
+              <div className="flex space-x-2 overflow-x-auto max-w-[400px]">
                 {assignment.problems.map((_, index) => (
                   <button
                     key={index}
                     onClick={() => handleProblemTransition(index)}
                     disabled={isTransitioning}
-                    className={`w-8 h-8 rounded-full border-2 flex items-center justify-center text-sm cursor-pointer hover:opacity-80 transition-opacity disabled:opacity-50 disabled:cursor-not-allowed ${
+                    className={`w-10 h-10 rounded-full border flex items-center justify-center text-base cursor-pointer hover:opacity-80 transition-opacity disabled:opacity-50 disabled:cursor-not-allowed flex-shrink-0 ${
                       index === currentProblemIndex
-                        ? 'border-blue-500 bg-blue-500 text-white'
+                        ? 'border-blue-500 bg-blue-500 text-white font-semibold'
                         : 'border-gray-300 bg-white text-gray-600'
                     }`}
                   >
@@ -735,27 +763,29 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
 
               <Button
                 variant="outline"
+                size="default"
                 onClick={goToNext}
                 disabled={currentProblemIndex === assignment.problems.length - 1 || isTransitioning}
+                className="h-11 text-base"
               >
-                다음 문제
-                <ArrowRight className="h-4 w-4 ml-2" />
+                <span className="hidden sm:inline mr-1">다음</span>
+                <ArrowRight className="h-5 w-5" />
               </Button>
             </div>
           </div>
 
-          {/* 정답 입력 및 제출 패널 */}
-          <div className="lg:col-span-1 space-y-4">
+          {/* 사이드바 - 모바일에서는 하단, 태블릿 이상에서는 우측 */}
+          <div className="lg:w-72 lg:border-l border-t lg:border-t-0 flex-shrink-0 p-3 space-y-3 overflow-y-auto">
             {/* 녹화 상태 표시 */}
             {(isRecording || isPaused || recordedData) && (
               <Card className="border-2 border-red-100">
                 <CardHeader className="pb-3">
-                  <CardTitle className="flex items-center space-x-2 text-sm">
+                  <CardTitle className="flex items-center space-x-2 text-base">
                     {isRecording ? (
                       <>
-                        <div className="w-3 h-3 bg-red-500 rounded-full animate-pulse" />
+                        <div className="w-4 h-4 bg-red-500 rounded-full animate-pulse" />
                         <span>녹화 중</span>
-                        <Badge variant="destructive" className="text-xs">
+                        <Badge variant="destructive" className="text-sm">
                           {formatTime(recordingDuration)}
                         </Badge>
                       </>
@@ -789,8 +819,8 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
                   </p>
                   {recordedData?.segments && (
                     <div className="mt-2 text-xs text-gray-400">
-                      <div>필기: {Math.floor(recordedData.segments.filter((s: any) => s.type === 'drawing').reduce((sum: number, s: any) => sum + (s.duration || 0), 0) / 60)}분</div>
-                      <div>고민: {Math.floor(recordedData.segments.filter((s: any) => s.type === 'paused').reduce((sum: number, s: any) => sum + (s.duration || 0), 0) / 60)}분</div>
+                      <div>필기: {Math.floor(recordedData.segments.filter(s => s.type === 'writing').reduce((sum, s) => sum + (s.duration || 0), 0) / 60)}분</div>
+                      <div>고민: {Math.floor(recordedData.segments.filter(s => s.type === 'paused').reduce((sum, s) => sum + (s.duration || 0), 0) / 60)}분</div>
                     </div>
                   )}
                 </CardContent>

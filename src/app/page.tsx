@@ -10,7 +10,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-            Math Helper
+            쌤스케치
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             학생들의 수학 문제 풀이 과정을 녹화하여 교사가 피드백을 제공하는

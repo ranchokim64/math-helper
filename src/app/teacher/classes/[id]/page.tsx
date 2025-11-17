@@ -61,6 +61,8 @@ interface ClassStats {
   averageCompletionRate: number
   averageScore: number
   weeklyActivity: number
+  totalSubmissions: number
+  gradedSubmissions: number
 }
 
 export default function ClassDetailPage() {

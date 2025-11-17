@@ -107,6 +107,7 @@ export interface ProblemSection {
   content: string;
   boundingBox?: number[][]; // [[x1, y1, x2, y2]]
   position: number;
+  className?: string; // 원본 class_name (예: "정답(이미지)", "해설(텍스트)")
 }
 
 export interface ProblemFilter {
@@ -121,10 +122,25 @@ export interface ProblemFilter {
 
 // 활동 세그먼트 타입
 export interface ActivitySegment {
-  type: 'drawing' | 'paused' | 'answering';
+  type: 'writing' | 'erasing' | 'paused';
   startTime: number;  // timestamp (ms)
   endTime?: number;   // timestamp (ms)
   duration?: number;  // seconds
+  metadata?: {
+    strokesErased?: number;  // 지운 스트로크 개수
+    isRework?: boolean;      // 재풀이 여부 (3초 이상 지우기)
+  };
+}
+
+// 문제 풀이 분석 통계
+export interface ProblemSolvingAnalytics {
+  writingTime: number;       // 1. 필기 시간 (초)
+  thinkingTime: number;      // 2. 고민 시간 (초)
+  erasingTime: number;       // 3. 지우기 시간 (초)
+  firstReactionTime: number; // 4. 최초 반응 (초)
+  maxPauseTime: number;      // 5. 최대 정지 (초)
+  reworkCount: number;       // 6. 재풀이 횟수 (3초 이상 지우기)
+  totalTime: number;         // 총 활동 시간 (초)
 }
 
 // 문제별 활동 메타데이터

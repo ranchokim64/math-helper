@@ -44,7 +44,7 @@ export async function GET(request: NextRequest) {
       }
 
       // 동적 필터 조건 생성
-      const dynamicFilter: any = {}
+      const dynamicFilter: Record<string, string> = {}
       if (selectedGrade) {
         dynamicFilter.grade = selectedGrade
       }
@@ -174,15 +174,15 @@ export async function GET(request: NextRequest) {
           if (!contentElementsByArea[item.area]) {
             contentElementsByArea[item.area] = []
           }
-          if (!contentElementsByArea[item.area].includes(item.contentElement)) {
-            contentElementsByArea[item.area].push(item.contentElement)
+          if (!contentElementsByArea[item.area]!.includes(item.contentElement)) {
+            contentElementsByArea[item.area]!.push(item.contentElement)
           }
         }
       })
 
       // 각 영역의 내용요소 정렬
       Object.keys(contentElementsByArea).forEach(area => {
-        contentElementsByArea[area].sort()
+        contentElementsByArea[area]!.sort()
       })
 
       const filters = {
@@ -205,7 +205,7 @@ export async function GET(request: NextRequest) {
       console.log(`- 학년: ${filters.grades.length}개`)
       console.log(`- 학기: ${filters.semesters.length}개`)
       console.log(`- 영역: ${filters.areas.length}개`)
-      console.log(`- 내용요소: ${Object.keys(filters.contentElements).reduce((sum, area) => sum + filters.contentElements[area].length, 0)}개`)
+      console.log(`- 내용요소: ${Object.keys(filters.contentElements).reduce((sum, area) => sum + filters.contentElements[area]!.length, 0)}개`)
       console.log(`- 성취기준: ${filters.achievementStandards.length}개`)
       console.log(`- 총 문제 수: ${filters.totalProblems}개`)
 

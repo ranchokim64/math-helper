@@ -49,7 +49,7 @@ export function CreateAssignment({ assignmentId, mode = 'create' }: CreateAssign
   const [classes, setClasses] = useState<ClassInfo[]>([])
   const [isLoading, setIsLoading] = useState(false)
   const [isDeleting, setIsDeleting] = useState(false)
-  const [originalAssignment, setOriginalAssignment] = useState<any>(null)
+  const [originalAssignment, setOriginalAssignment] = useState<Record<string, unknown> | null>(null)
 
   // 클래스 목록 및 기존 과제 데이터 로드
   useEffect(() => {
@@ -303,7 +303,7 @@ export function CreateAssignment({ assignmentId, mode = 'create' }: CreateAssign
                     <div className="mt-1 p-3 bg-gray-50 rounded-md">
                       <div className="flex items-center space-x-2">
                         <Users className="h-4 w-4 text-gray-500" />
-                        <span className="font-medium">{originalAssignment.className || '알 수 없음'}</span>
+                        <span className="font-medium">{(originalAssignment.className as string) || '알 수 없음'}</span>
                         <span className="text-sm text-gray-500">
                           (편집 시 클래스는 변경할 수 없습니다)
                         </span>

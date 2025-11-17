@@ -33,7 +33,9 @@ export async function GET() {
           }
         },
         assignments: {
-          include: {
+          select: {
+            id: true,
+            problems: true,
             submissions: {
               where: {
                 studentId: studentId
@@ -53,16 +55,24 @@ export async function GET() {
     const classesWithStats = classes.map(classData => {
       const totalAssignments = classData._count.assignments
       const submittedAssignments = classData.assignments.filter(
-        assignment => assignment.submissions.length > 0 && assignment.submissions[0].submittedAt
+        assignment => assignment.submissions.length > 0 && assignment.submissions[0]!.submittedAt
       ).length
       const gradedAssignments = classData.assignments.filter(
-        assignment => assignment.submissions.length > 0 && assignment.submissions[0].score !== null
+        assignment => assignment.submissions.length > 0 && assignment.submissions[0]!.score !== null
       ).length
 
-      const averageScore = gradedAssignments > 0
-        ? classData.assignments
-            .filter(assignment => assignment.submissions.length > 0 && assignment.submissions[0].score !== null)
-            .reduce((sum, assignment) => sum + (assignment.submissions[0].score || 0), 0) / gradedAssignments
+      // 평균 점수 계산 (100점 만점으로 환산)
+      const gradedAssignmentsWithScore = classData.assignments.filter(
+        assignment => assignment.submissions.length > 0 && assignment.submissions[0]!.score !== null && assignment.problems
+      )
+
+      const averageScore = gradedAssignmentsWithScore.length > 0
+        ? gradedAssignmentsWithScore.reduce((sum, assignment) => {
+            const problemCount = Array.isArray(assignment.problems) ? assignment.problems.length : 1
+            const maxScore = problemCount * 100
+            const normalizedScore = ((assignment.submissions[0]!.score || 0) / maxScore) * 100
+            return sum + normalizedScore
+          }, 0) / gradedAssignmentsWithScore.length
         : 0
 
       return {

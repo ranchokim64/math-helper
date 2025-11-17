@@ -54,7 +54,8 @@ export async function GET(
             submittedAt: true,
             assignment: {
               select: {
-                classId: true
+                classId: true,
+                problems: true
               }
             }
           },
@@ -70,11 +71,18 @@ export async function GET(
     // 각 학생의 통계 계산
     const studentsWithStats = students.map(student => {
       const completedSubmissions = student.submissions.filter(s => s.submittedAt !== null)
-      const gradedSubmissions = student.submissions.filter(s => s.score !== null)
+      const gradedSubmissions = student.submissions.filter(s => s.score !== null && s.assignment.problems)
 
       const completedAssignments = completedSubmissions.length
+
+      // 평균 점수 계산 (100점 만점으로 환산)
       const averageScore = gradedSubmissions.length > 0
-        ? Math.round(gradedSubmissions.reduce((sum, s) => sum + (s.score || 0), 0) / gradedSubmissions.length)
+        ? Math.round(gradedSubmissions.reduce((sum, s) => {
+            const problemCount = Array.isArray(s.assignment.problems) ? s.assignment.problems.length : 1
+            const maxScore = problemCount * 100
+            const normalizedScore = ((s.score || 0) / maxScore) * 100
+            return sum + normalizedScore
+          }, 0) / gradedSubmissions.length)
         : 0
 
       // 가장 최근 제출일을 최근 활동으로 간주

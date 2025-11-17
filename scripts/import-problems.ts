@@ -4,8 +4,32 @@ import { join } from 'path'
 import { getUnitFromAchievement } from './achievement-unit-mapping.js'
 import { extractAreaFromAchievements, extractContentElementFromAchievements } from './achievement-area-mapping.js'
 import { preprocessAchievementStandards, logAchievementProcessing } from './utils/achievement-standards-validator'
+import * as dotenv from 'dotenv'
+
+// Load environment variables
+dotenv.config()
 
 const prisma = new PrismaClient()
+
+// Supabase Storage URL 생성 헬퍼 함수
+function generateSupabaseImageUrl(filename: string): string | null {
+  if (!filename) return null
+
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
+  if (!supabaseUrl) {
+    console.warn('⚠️  NEXT_PUBLIC_SUPABASE_URL not found, using local path')
+    return `/problems/${filename}.png`
+  }
+
+  // 파일명을 Base64로 인코딩 (업로드 스크립트와 동일한 방식)
+  const nameWithoutExt = `${filename}`
+  const base64Name = Buffer.from(nameWithoutExt).toString('base64')
+    .replace(/\+/g, '-')  // Make URL-safe
+    .replace(/\//g, '_')  // Make URL-safe
+    .replace(/=/g, '')    // Remove padding
+
+  return `${supabaseUrl}/storage/v1/object/public/problems/${base64Name}.png`
+}
 
 // 실제 JSON 구조에 맞춘 인터페이스
 interface RawDataInfo {
@@ -168,7 +192,8 @@ function createProblemSectionsFromLearningData(learningData: LearningDataInfo[])
         type: sectionType,
         content: textDescription,
         position: position++,
-        boundingBox: boundingBox // Bounding Box 좌표 추가
+        boundingBox: boundingBox, // Bounding Box 좌표 추가
+        className: className // 원본 class_name 저장 (예: "정답(이미지)", "해설(텍스트)")
       })
     })
   })
@@ -304,15 +329,6 @@ async function processOfficialProblem(problemData: OriginalProblemData): Promise
       return false
     }
 
-    // 이미 존재하는 문제인지 확인
-    const existingProblem = await prisma.problem.findUnique({
-      where: { sourceId }
-    })
-
-    if (existingProblem) {
-      return false // 건너뜀
-    }
-
     // 성취기준에서 단원, 영역, 내용요소 및 학교 정보 추출
     const achievementStandards = parseAchievementStandards(source_data_info)
     const { unit, area, contentElement, school } = extractAreaAndSchoolInfo(achievementStandards)
@@ -332,18 +348,42 @@ async function processOfficialProblem(problemData: OriginalProblemData): Promise
     const difficulty = mapDifficulty(source_data_info.level_of_difficulty)
     const problemType = mapProblemType(source_data_info.types_of_problems)
 
-    // 이미지 URL 생성 (파일명 기반)
+    // 이미지 URL 생성 (Supabase Storage 기반)
     let imageUrl = null
     const hasImageSection = learning_data_info.some(data =>
       data.class_name.includes('이미지') || data.class_name.includes('그림')
     )
     if (hasImageSection) {
-      imageUrl = `/problems/${sourceId}.png`
+      imageUrl = generateSupabaseImageUrl(sourceId)
     }
 
-    // DB에 저장
-    await prisma.problem.create({
-      data: {
+    // DB에 저장 (upsert: 존재하면 업데이트, 없으면 생성)
+    await prisma.problem.upsert({
+      where: { sourceId },
+      update: {
+        sourceDataName: source_data_info.source_data_name,
+        grade: raw_data_info.grade,
+        semester: raw_data_info.semester,
+        subject: raw_data_info.subject,
+        difficulty: difficulty,
+        problemType: problemType,
+        imageUrl: imageUrl,
+        achievementStandards: achievementStandards,
+        unit: unit,
+        area: area,
+        contentElement: contentElement,
+        school: school || raw_data_info.school,
+        sections: sections as any,
+        metadata: {
+          publisher: raw_data_info.publisher,
+          publication_year: raw_data_info.publication_year,
+          revision_year: raw_data_info.revision_year,
+          date: raw_data_info.date,
+          raw_data_name: raw_data_info.raw_data_name,
+          imported_at: new Date().toISOString()
+        }
+      },
+      create: {
         sourceId,
         sourceDataName: source_data_info.source_data_name,
         grade: raw_data_info.grade,
@@ -386,15 +426,6 @@ async function processLegacyProblem(problemData: LegacyProblemData): Promise<boo
       return false
     }
 
-    // 이미 존재하는 문제인지 확인
-    const existingProblem = await prisma.problem.findUnique({
-      where: { sourceId: problemData.id }
-    })
-
-    if (existingProblem) {
-      return false // 건너뜀
-    }
-
     // 문제 데이터 변환
     const achievementStandards = parseAchievementStandards(problemData)
     const { unit: extractedUnit, area, contentElement } = extractAreaAndSchoolInfo(achievementStandards)
@@ -410,15 +441,35 @@ async function processLegacyProblem(problemData: LegacyProblemData): Promise<boo
     const difficulty = mapDifficulty(problemData.level_of_difficulty || '중')
     const problemType = mapProblemType(problemData.types_of_problems || '주관식')
 
-    // 이미지 경로 처리
+    // 이미지 경로 처리 (Supabase Storage 기반)
     let imageUrl = null
     if (problemData.image_path) {
-      imageUrl = `/problems/${problemData.id}.png`
+      imageUrl = generateSupabaseImageUrl(problemData.id)
     }
 
-    // DB에 저장
-    await prisma.problem.create({
-      data: {
+    // DB에 저장 (upsert: 존재하면 업데이트, 없으면 생성)
+    await prisma.problem.upsert({
+      where: { sourceId: problemData.id },
+      update: {
+        sourceDataName: problemData.source_data_name || '',
+        grade: problemData.grade || '',
+        semester: problemData.semester || '',
+        subject: problemData.subject || '수학',
+        difficulty: difficulty,
+        problemType: problemType,
+        imageUrl: imageUrl,
+        achievementStandards: achievementStandards,
+        unit: problemData.unit || extractedUnit || null,
+        area: area,
+        contentElement: contentElement,
+        school: problemData.school || null,
+        sections: sections as any,
+        metadata: {
+          original_data: problemData,
+          imported_at: new Date().toISOString()
+        }
+      },
+      create: {
         sourceId: problemData.id,
         sourceDataName: problemData.source_data_name || '',
         grade: problemData.grade || '',
@@ -521,10 +572,10 @@ async function importProblemsFromJSON(jsonFilePath: string) {
                 const difficulty = mapDifficulty(problemData.level_of_difficulty || '중')
                 const problemType = mapProblemType(problemData.types_of_problems || '주관식')
 
-                // 이미지 경로 처리
+                // 이미지 경로 처리 (Supabase Storage 기반)
                 let imageUrl = null
                 if (problemData.image_path) {
-                  imageUrl = `/problems/${problemData.id}.png`
+                  imageUrl = generateSupabaseImageUrl(problemData.id)
                 }
 
                 // DB에 저장

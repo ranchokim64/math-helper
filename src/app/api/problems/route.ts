@@ -75,10 +75,35 @@ export async function GET(request: NextRequest) {
       ]
     }
 
+    // 객관식 문제는 검증된 것만 (maskingValid=true) 반환
+    // 주관식은 maskingValid 무시
+    const maskingFilter = {
+      OR: [
+        { problemType: 'subjective' },
+        { problemType: 'multiple_choice', maskingValid: true }
+      ]
+    }
+
+    // 랜덤 샘플링: ID만 먼저 가져와서 랜덤 섞기
+    const allMatchingProblems = await prisma.problem.findMany({
+      where: {
+        ...whereConditions,
+        ...maskingFilter
+      },
+      select: { id: true }
+    })
+
+    // 랜덤하게 섞고 제한
+    const shuffledIds = allMatchingProblems
+      .map(p => p.id)
+      .sort(() => Math.random() - 0.5)
+      .slice(0, filters.limit || 50)
+
+    // 선택된 ID로 전체 데이터 가져오기
     const problems = await prisma.problem.findMany({
-      where: whereConditions,
-      take: filters.limit || 50,
-      orderBy: { createdAt: 'desc' }
+      where: {
+        id: { in: shuffledIds }
+      }
     })
 
     // ProcessedProblem 형태로 변환
@@ -158,10 +183,35 @@ export async function POST(request: NextRequest) {
       ]
     }
 
+    // 객관식 문제는 검증된 것만 (maskingValid=true) 반환
+    // 주관식은 maskingValid 무시
+    const maskingFilter = {
+      OR: [
+        { problemType: 'subjective' },
+        { problemType: 'multiple_choice', maskingValid: true }
+      ]
+    }
+
+    // 랜덤 샘플링: ID만 먼저 가져와서 랜덤 섞기
+    const allMatchingProblems = await prisma.problem.findMany({
+      where: {
+        ...whereConditions,
+        ...maskingFilter
+      },
+      select: { id: true }
+    })
+
+    // 랜덤하게 섞고 제한
+    const shuffledIds = allMatchingProblems
+      .map(p => p.id)
+      .sort(() => Math.random() - 0.5)
+      .slice(0, filters.limit || 50)
+
+    // 선택된 ID로 전체 데이터 가져오기
     const problems = await prisma.problem.findMany({
-      where: whereConditions,
-      take: filters.limit || 50,
-      orderBy: { createdAt: 'desc' }
+      where: {
+        id: { in: shuffledIds }
+      }
     })
 
     // ProcessedProblem 형태로 변환
