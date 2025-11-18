@@ -233,7 +233,8 @@ export function useAutoRecording({
   const endCurrentSegment = useCallback(() => {
     if (currentSegmentRef.current) {
       const endTime = Date.now()
-      const duration = Math.floor((endTime - currentSegmentRef.current.startTime) / 1000)
+      const durationMs = endTime - currentSegmentRef.current.startTime
+      const duration = Math.floor(durationMs / 1000)
 
       const completedSegment: ActivitySegment = {
         ...currentSegmentRef.current,
@@ -250,9 +251,30 @@ export function useAutoRecording({
         }
       }
 
+      // 1초 미만 세그먼트 병합 로직 (짧은 스트로크 반복 시 0초 세그먼트 방지)
+      if (durationMs < 1000 && segmentsRef.current.length > 0) {
+        const lastSegment = segmentsRef.current[segmentsRef.current.length - 1]
+
+        // 이전 세그먼트와 같은 타입이면 병합
+        if (lastSegment && lastSegment.type === completedSegment.type) {
+          lastSegment.endTime = endTime
+          lastSegment.duration = Math.floor((endTime - lastSegment.startTime) / 1000)
+
+          console.log('🔗 짧은 세그먼트 병합:', {
+            타입: completedSegment.type,
+            병합된시간: durationMs + 'ms',
+            새로운총시간: lastSegment.duration + '초'
+          })
+
+          currentSegmentRef.current = null
+          return
+        }
+      }
+
       console.log('✅ 세그먼트 종료:', {
         타입: completedSegment.type,
         시간: duration + '초',
+        밀리초: durationMs + 'ms',
         전체세그먼트수: segmentsRef.current.length + 1
       })
 
@@ -263,6 +285,16 @@ export function useAutoRecording({
 
   // 새 세그먼트 시작
   const startNewSegment = useCallback((type: 'writing' | 'erasing' | 'paused') => {
+    // 중복 호출 방지: 이미 같은 타입의 세그먼트가 진행 중이면 무시
+    if (currentSegmentRef.current?.type === type) {
+      console.log('⚠️ 세그먼트 중복 호출 방지:', {
+        현재세그먼트: currentSegmentRef.current?.type,
+        요청된타입: type,
+        무시됨: true
+      })
+      return
+    }
+
     console.log('📌 세그먼트 전환:', {
       이전세그먼트: currentSegmentRef.current?.type,
       새세그먼트: type,

@@ -19,6 +19,7 @@ import {
   User
 } from "lucide-react"
 import { toast } from "sonner"
+import { FullPageSpinner } from "@/components/ui/loading-spinner"
 
 interface Assignment {
   id: string
@@ -114,11 +115,7 @@ export function StudentDashboard() {
   const gradedAssignments = assignments.filter(a => a.status === "graded")
 
   if (isLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-lg">로딩 중...</div>
-      </div>
-    )
+    return <FullPageSpinner />
   }
 
   return (

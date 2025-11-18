@@ -80,7 +80,7 @@ export async function saveSubmissionImage(
     const { data, error } = await supabaseAdmin.storage
       .from(STORAGE_BUCKETS.SUBMISSIONS)
       .upload(sanitizedFilename, buffer, {
-        contentType: 'image/jpeg',
+        contentType: 'image/png', // PNG 형식으로 투명도 지원
         upsert: false, // Prevent overwriting existing files
       })
 
@@ -113,5 +113,5 @@ export function generateSubmissionImageFilename(
   problemIndex: number
 ): string {
   const timestamp = Date.now()
-  return `${studentId}-${assignmentId}-problem_${problemIndex}-${timestamp}.jpg`
+  return `${studentId}-${assignmentId}-problem_${problemIndex}-${timestamp}.png`
 }

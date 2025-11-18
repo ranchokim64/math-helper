@@ -15,6 +15,7 @@ import {
   Star,
   MessageSquare
 } from "lucide-react"
+import { FullPageSpinner } from "@/components/ui/loading-spinner"
 
 interface StudentAnswer {
   problemId: string
@@ -80,11 +81,7 @@ export function StudentSubmissionViewer({ submissionId }: StudentSubmissionViewe
   }, [submissionId])
 
   if (isLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-2xl">제출물을 불러오는 중...</div>
-      </div>
-    )
+    return <FullPageSpinner />
   }
 
   if (!submission) {

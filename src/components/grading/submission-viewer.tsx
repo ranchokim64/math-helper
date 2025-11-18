@@ -28,6 +28,7 @@ import {
   ArrowRight,
   Download
 } from "lucide-react"
+import { FullPageSpinner } from "@/components/ui/loading-spinner"
 
 interface StudentAnswer {
   problemId: string
@@ -307,11 +308,7 @@ export function SubmissionViewer({ submissionId, onBack }: SubmissionViewerProps
   }
 
   if (isLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-lg">제출물을 불러오는 중...</div>
-      </div>
-    )
+    return <FullPageSpinner />
   }
 
   if (!submission) {

@@ -44,7 +44,7 @@ interface ProblemViewerProps {
   onRecordingPause?: () => void
   onRecordingResume?: () => void
   onSegmentChange?: (type: 'writing' | 'erasing' | 'paused') => void
-  onCanvasReady?: (canvas: HTMLCanvasElement) => void
+  onCanvasReady?: (canvas: HTMLCanvasElement, backgroundCanvas: HTMLCanvasElement) => void
 }
 
 interface MathContent {
@@ -86,7 +86,8 @@ export function ProblemViewer({
   // 캔버스 관련 상태
   const [isDrawing, setIsDrawing] = useState(false)
   const [drawingStatus, setDrawingStatus] = useState<DrawingStatus>('idle')
-  const canvasRef = useRef<HTMLCanvasElement>(null)
+  const canvasRef = useRef<HTMLCanvasElement>(null) // 그리기 캔버스 (학생 필기)
+  const backgroundCanvasRef = useRef<HTMLCanvasElement>(null) // 배경 캔버스 (문제 이미지 + 마스킹)
   const imageContainerRef = useRef<HTMLDivElement>(null)
   const loadedImageRef = useRef<HTMLImageElement | null>(null)
   const pauseTimerRef = useRef<NodeJS.Timeout | null>(null)
@@ -123,84 +124,9 @@ export function ProblemViewer({
     }
   }, [])
 
-  // 캔버스 크기 조정 (고해상도 디스플레이 지원)
-  const resizeCanvas = useCallback(() => {
-    const canvas = canvasRef.current
-    const container = imageContainerRef.current
-    if (canvas && container) {
-      const rect = container.getBoundingClientRect()
-      const dpr = window.devicePixelRatio || 1
-
-      // 실제 픽셀 크기 설정 (고해상도 디스플레이 지원)
-      canvas.width = rect.width * dpr
-      canvas.height = rect.height * dpr
-
-      // CSS 크기는 논리적 픽셀로 설정
-      canvas.style.width = rect.width + 'px'
-      canvas.style.height = rect.height + 'px'
-
-      // Canvas context를 dpr로 스케일링
-      const ctx = canvas.getContext('2d')
-      if (ctx) {
-        ctx.scale(dpr, dpr)
-      }
-
-      console.log('📐 Canvas 크기 조정:', {
-        cssWidth: rect.width,
-        cssHeight: rect.height,
-        canvasWidth: canvas.width,
-        canvasHeight: canvas.height,
-        dpr
-      })
-    }
-  }, [])
-
-  // 10초 타이머 초기화
-  const resetPauseTimer = () => {
-    if (pauseTimerRef.current) {
-      clearTimeout(pauseTimerRef.current)
-      pauseTimerRef.current = null
-    }
-  }
-
-  // 10초 타이머 시작
-  const startPauseTimer = () => {
-    resetPauseTimer()
-    pauseTimerRef.current = setTimeout(() => {
-      setDrawingStatus('paused')
-    }, 10000) // 10초
-  }
-
-  // 캔버스에 스트로크 그리기
-  const drawStroke = (ctx: CanvasRenderingContext2D, stroke: Stroke) => {
-    if (stroke.points.length < 2) return
-
-    ctx.beginPath()
-    ctx.moveTo(stroke.points[0]!.x, stroke.points[0]!.y)
-
-    for (let i = 1; i < stroke.points.length; i++) {
-      ctx.lineTo(stroke.points[i]!.x, stroke.points[i]!.y)
-    }
-
-    ctx.strokeStyle = stroke.color
-    ctx.lineWidth = stroke.width
-    ctx.lineCap = 'round'
-    ctx.lineJoin = 'round'
-
-    if (stroke.tool === 'eraser') {
-      ctx.globalCompositeOperation = 'destination-out'
-      ctx.lineWidth = stroke.width * 3 // 지우개는 더 넓게
-    } else {
-      ctx.globalCompositeOperation = 'source-over'
-    }
-
-    ctx.stroke()
-    ctx.globalCompositeOperation = 'source-over' // 리셋
-  }
-
-  // 캔버스 다시 그리기 (통합 렌더링: 이미지 + 마스킹 + 드로잉)
-  const redrawCanvas = useCallback(() => {
-    const canvas = canvasRef.current
+  // 배경 캔버스 렌더링 (문제 이미지 + 마스킹 레이어)
+  const renderBackgroundCanvas = useCallback(() => {
+    const canvas = backgroundCanvasRef.current
     const ctx = canvas?.getContext('2d')
     const container = imageContainerRef.current
     if (!canvas || !ctx || !container) return
@@ -282,17 +208,118 @@ export function ProblemViewer({
         })
       }
     }
+  }, [showAnswerKey, problem.sections, imageDimensions])
 
-    // 3. 히스토리 스텝까지의 모든 스트로크 다시 그리기
+  // 캔버스 크기 조정 (고해상도 디스플레이 지원)
+  const resizeCanvas = useCallback(() => {
+    const canvas = canvasRef.current
+    const backgroundCanvas = backgroundCanvasRef.current
+    const container = imageContainerRef.current
+    if (canvas && backgroundCanvas && container) {
+      const rect = container.getBoundingClientRect()
+      const dpr = window.devicePixelRatio || 1
+
+      // 두 캔버스 모두 동일한 크기로 설정
+      const canvases = [canvas, backgroundCanvas]
+      canvases.forEach(cvs => {
+        // 실제 픽셀 크기 설정 (고해상도 디스플레이 지원)
+        cvs.width = rect.width * dpr
+        cvs.height = rect.height * dpr
+
+        // CSS 크기는 논리적 픽셀로 설정
+        cvs.style.width = rect.width + 'px'
+        cvs.style.height = rect.height + 'px'
+
+        // Canvas context를 dpr로 스케일링
+        const ctx = cvs.getContext('2d')
+        if (ctx) {
+          ctx.scale(dpr, dpr)
+        }
+      })
+
+      console.log('📐 Canvas 크기 조정:', {
+        cssWidth: rect.width,
+        cssHeight: rect.height,
+        canvasWidth: canvas.width,
+        canvasHeight: canvas.height,
+        dpr
+      })
+
+      // 배경 캔버스 렌더링
+      renderBackgroundCanvas()
+    }
+  }, [renderBackgroundCanvas])
+
+  // 10초 타이머 초기화
+  const resetPauseTimer = () => {
+    if (pauseTimerRef.current) {
+      clearTimeout(pauseTimerRef.current)
+      pauseTimerRef.current = null
+    }
+  }
+
+  // 3초 타이머 시작 (짧은 필기 간격은 같은 세그먼트로 유지)
+  const startPauseTimer = () => {
+    resetPauseTimer()
+    pauseTimerRef.current = setTimeout(() => {
+      // 3초 동안 아무 액션이 없으면 진짜 고민 중으로 판단
+      setDrawingStatus('paused')
+    }, 3000) // 3초
+  }
+
+  // 캔버스에 스트로크 그리기
+  const drawStroke = (ctx: CanvasRenderingContext2D, stroke: Stroke) => {
+    if (stroke.points.length < 2) return
+
+    ctx.beginPath()
+    ctx.moveTo(stroke.points[0]!.x, stroke.points[0]!.y)
+
+    for (let i = 1; i < stroke.points.length; i++) {
+      ctx.lineTo(stroke.points[i]!.x, stroke.points[i]!.y)
+    }
+
+    ctx.strokeStyle = stroke.color
+    ctx.lineWidth = stroke.width
+    ctx.lineCap = 'round'
+    ctx.lineJoin = 'round'
+
+    if (stroke.tool === 'eraser') {
+      ctx.globalCompositeOperation = 'destination-out'
+      ctx.lineWidth = stroke.width * 3 // 지우개는 더 넓게
+    } else {
+      ctx.globalCompositeOperation = 'source-over'
+    }
+
+    ctx.stroke()
+    ctx.globalCompositeOperation = 'source-over' // 리셋
+  }
+
+  // 그리기 캔버스 렌더링 (학생 필기만)
+  const redrawCanvas = useCallback(() => {
+    const canvas = canvasRef.current
+    const ctx = canvas?.getContext('2d')
+    const container = imageContainerRef.current
+    if (!canvas || !ctx || !container) return
+
+    // CSS 크기 가져오기 (논리적 픽셀)
+    const rect = container.getBoundingClientRect()
+    const canvasWidth = rect.width
+    const canvasHeight = rect.height
+
+    // 캔버스 클리어 (전체 픽셀 크기로)
+    const dpr = window.devicePixelRatio || 1
+    ctx.clearRect(0, 0, canvasWidth * dpr, canvasHeight * dpr)
+
+    // 히스토리 스텝까지의 모든 스트로크 다시 그리기
     for (let i = 0; i < historyStep; i++) {
       drawStroke(ctx, strokes[i]!)
     }
 
-    // 4. 현재 그리고 있는 스트로크도 그리기 (ref 사용)
+    // 현재 그리고 있는 스트로크도 그리기 (ref 사용)
     if (currentStrokeRef.current && currentStrokeRef.current.points.length > 0) {
       drawStroke(ctx, currentStrokeRef.current)
     }
-  }, [showAnswerKey, problem.sections, imageDimensions, strokes, historyStep])
+  }, [strokes, historyStep])
 
   // Undo 기능
   const handleUndo = () => {
@@ -327,8 +354,14 @@ export function ProblemViewer({
 
     // 현재 도구에 따라 상태 구분
     const newStatus = currentTool === 'eraser' ? 'erasing' : 'writing'
-    setDrawingStatus(newStatus)
+
+    // 3초 내에 다시 그리면 타이머 취소 (같은 세그먼트 유지)
     resetPauseTimer()
+
+    // 이미 같은 상태면 세그먼트 전환하지 않음 (짧은 스트로크 반복 시 0초 세그먼트 방지)
+    if (drawingStatus !== newStatus) {
+      setDrawingStatus(newStatus)
+    }
 
     // 첫 번째 드로잉 시
     if (drawingStatus === 'idle') {
@@ -344,6 +377,9 @@ export function ProblemViewer({
       if (onFirstDraw) {
         onFirstDraw()
       }
+
+      // 주의: 세그먼트 전환은 useEffect(drawingStatus)에서 자동 처리됨
+      // 여기서 onSegmentChange를 직접 호출하면 중복 호출로 0초 세그먼트가 생성됨
     }
 
     const canvas = canvasRef.current
@@ -423,8 +459,7 @@ export function ProblemViewer({
       setCurrentStroke(null)
       currentStrokeRef.current = null // ref도 초기화
 
-      // 즉시 Canvas 재렌더링 (깜빡임 방지)
-      // redrawCanvas를 사용하여 일관성 유지
+      // 그리기 캔버스만 재렌더링 (배경은 별도 캔버스에서 관리됨)
       const canvas = canvasRef.current
       const ctx = canvas?.getContext('2d')
       const container = imageContainerRef.current
@@ -439,81 +474,17 @@ export function ProblemViewer({
         const dpr = window.devicePixelRatio || 1
         ctx.clearRect(0, 0, canvasWidth * dpr, canvasHeight * dpr)
 
-        // 배경 이미지 + 마스킹 그리기
-        const img = loadedImageRef.current
-        if (img && img.complete && imageDimensions) {
-          const imgWidth = imageDimensions.width
-          const imgHeight = imageDimensions.height
-
-          const scale = Math.min(canvasWidth / imgWidth, canvasHeight / imgHeight)
-          const scaledWidth = imgWidth * scale
-          const scaledHeight = imgHeight * scale
-          const x = (canvasWidth - scaledWidth) / 2
-          const y = (canvasHeight - scaledHeight) / 2
-
-          ctx.drawImage(img, x, y, scaledWidth, scaledHeight)
-
-          // 마스킹 레이어 (필요 시)
-          if (!showAnswerKey && problem.sections && imageDimensions) {
-            const answerSections = problem.sections.filter(
-              (section) =>
-                (section.type === 'answer' || section.type === 'explanation') &&
-                section.boundingBox &&
-                Array.isArray(section.boundingBox) &&
-                section.boundingBox.length > 0
-            )
-
-            answerSections.forEach((section) => {
-              const bbox = section.boundingBox![0]
-              if (!bbox || bbox.length < 4) return
-
-              const x1 = bbox[0]
-              const y1 = bbox[1]
-              const x2 = bbox[2]
-              const y2 = bbox[3]
-              if (x1 === undefined || y1 === undefined || x2 === undefined || y2 === undefined) return
-
-              const width = x2 - x1
-              const height = y2 - y1
-
-              const maskX = x + (x1 * scale)
-              const maskY = y + (y1 * scale)
-              const maskWidth = width * scale
-              const maskHeight = height * scale
-
-              ctx.fillStyle = 'rgba(200, 200, 200, 0.9)'
-              ctx.fillRect(maskX, maskY, maskWidth, maskHeight)
-
-              ctx.strokeStyle = 'rgba(150, 150, 150, 0.8)'
-              ctx.lineWidth = 2
-              ctx.strokeRect(maskX, maskY, maskWidth, maskHeight)
-
-              ctx.fillStyle = '#666'
-              ctx.font = 'bold 14px sans-serif'
-              ctx.textAlign = 'center'
-              ctx.textBaseline = 'middle'
-              ctx.fillText(
-                section.type === 'answer' ? '정답' : '해설',
-                maskX + maskWidth / 2,
-                maskY + maskHeight / 2
-              )
-            })
-          }
-        }
-
-        // 모든 스트로크 그리기 (새로운 스트로크 포함)
+        // 모든 스트로크 다시 그리기 (새로운 스트로크 포함)
         for (let i = 0; i < newStrokes.length; i++) {
           drawStroke(ctx, newStrokes[i]!)
         }
       }
 
-      // 드로잉 중지 시 즉시 paused 상태로 전환 (세그먼트 기록용)
-      setDrawingStatus('paused')
-
-      // 10초 타이머 시작 (UI 표시용)
+      // 드로잉 중지 시 즉시 paused로 전환하지 않음 (짧은 스트로크 반복 시 0초 세그먼트 생성 방지)
+      // 3초 타이머가 만료되면 그때 paused로 전환 (진짜 고민 시간만 기록)
       startPauseTimer()
     }
-  }, [isDrawing, currentStroke, strokes, historyStep, showAnswerKey, problem.sections, imageDimensions])
+  }, [isDrawing, currentStroke, strokes, historyStep])
 
   // drawingStatus 변경 시 세그먼트 전환 (녹화는 계속 진행)
   useEffect(() => {
@@ -546,7 +517,8 @@ export function ProblemViewer({
         // 아무 작업도 하지 않음
         break
     }
-  }, [drawingStatus, enableDrawing, onSegmentChange])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [drawingStatus, enableDrawing])
 
   // 드로잉 중 도구 변경 시 세그먼트 전환
   useEffect(() => {
@@ -647,9 +619,9 @@ export function ProblemViewer({
           problemLoadTimeRef.current = Date.now()
           hasReportedFirstReaction.current = false
 
-          // Canvas가 준비되면 콜백 호출
-          if (onCanvasReady && canvasRef.current) {
-            onCanvasReady(canvasRef.current)
+          // Canvas가 준비되면 콜백 호출 (필기 캔버스 + 배경 캔버스)
+          if (onCanvasReady && canvasRef.current && backgroundCanvasRef.current) {
+            onCanvasReady(canvasRef.current, backgroundCanvasRef.current)
           }
         })
       })
@@ -680,6 +652,20 @@ export function ProblemViewer({
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [showFullImage, showAnswerKey, imageLoaded])
+
+  // showAnswerKey 변경 시 배경 캔버스 재렌더링 (마스킹 표시/숨김)
+  useEffect(() => {
+    if (imageLoaded && loadedImageRef.current && imageDimensions) {
+      renderBackgroundCanvas()
+    }
+  }, [showAnswerKey, imageLoaded, imageDimensions, renderBackgroundCanvas])
+
+  // 이미지 로드 완료 시 배경 캔버스 렌더링
+  useEffect(() => {
+    if (imageLoaded && loadedImageRef.current && imageDimensions) {
+      renderBackgroundCanvas()
+    }
+  }, [imageLoaded, imageDimensions, renderBackgroundCanvas])
 
   // 윈도우 리사이즈 시 캔버스 크기 조정 및 재렌더링
   useEffect(() => {
@@ -913,12 +899,21 @@ export function ProblemViewer({
                   </div>
                 )}
 
-                {/* Canvas - 이미지, 마스킹, 드로잉 모두 처리 */}
+                {/* 배경 캔버스 - 문제 이미지 + 마스킹 레이어 (지우개로부터 보호됨) */}
+                <canvas
+                  ref={backgroundCanvasRef}
+                  className={`absolute inset-0 w-full h-full ${
+                    imageLoaded ? 'opacity-100' : 'opacity-0'
+                  } transition-opacity duration-200 pointer-events-none`}
+                  style={{
+                    zIndex: 0
+                  }}
+                />
+
+                {/* 그리기 캔버스 - 학생 필기 전용 (지우개가 이 레이어만 영향) */}
                 <canvas
                   ref={canvasRef}
                   className={`absolute inset-0 w-full h-full ${
-                    imageLoaded ? 'opacity-100' : 'opacity-0'
-                  } transition-opacity duration-200 ${
                     enableDrawing ? 'pointer-events-auto cursor-crosshair' : 'pointer-events-none'
                   }`}
                   style={{
@@ -941,6 +936,7 @@ export function ProblemViewer({
                       variant={
                         drawingStatus === 'completed' ? "default" :
                         drawingStatus === 'writing' ? "default" :
+                        drawingStatus === 'erasing' ? "destructive" :
                         drawingStatus === 'paused' ? "secondary" :
                         "outline"
                       }
@@ -948,6 +944,7 @@ export function ProblemViewer({
                     >
                       {drawingStatus === 'idle' && "터치하여 필기"}
                       {drawingStatus === 'writing' && "필기 중"}
+                      {drawingStatus === 'erasing' && "지우개 사용 중"}
                       {drawingStatus === 'paused' && "필기 일시 정지"}
                       {drawingStatus === 'completed' && "필기 완료"}
                     </Badge>

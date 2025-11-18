@@ -21,6 +21,7 @@ import {
   Target,
   Trash2
 } from "lucide-react"
+import { InlineSpinner } from "@/components/ui/loading-spinner"
 
 interface ClassInfo {
   id: string
@@ -356,7 +357,10 @@ export function CreateAssignment({ assignmentId, mode = 'create' }: CreateAssign
                     className="w-full"
                   >
                     {isLoading ? (
-                      mode === 'edit' ? "과제 수정 중..." : "과제 생성 중..."
+                      <>
+                        <InlineSpinner className="mr-2" />
+                        {mode === 'edit' ? "과제 수정 중..." : "과제 생성 중..."}
+                      </>
                     ) : (
                       <>
                         <Save className="h-4 w-4 mr-2" />
@@ -373,7 +377,10 @@ export function CreateAssignment({ assignmentId, mode = 'create' }: CreateAssign
                       className="w-full"
                     >
                       {isDeleting ? (
-                        "삭제 중..."
+                        <>
+                          <InlineSpinner className="mr-2" />
+                          삭제 중...
+                        </>
                       ) : (
                         <>
                           <Trash2 className="h-4 w-4 mr-2" />

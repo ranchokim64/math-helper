@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useRef } from "react"
 import { useRouter } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
@@ -10,6 +10,7 @@ import { ProblemViewer } from "@/components/problem/problem-viewer"
 import { useAutoRecording } from "@/hooks/use-auto-recording"
 import { ProcessedProblem, ActivitySegment } from "@/types"
 import { toast } from "sonner"
+import { FullPageSpinner } from "@/components/ui/loading-spinner"
 
 // RecordingData 타입 import (use-auto-recording에서 export 필요)
 interface RecordingData {
@@ -52,6 +53,11 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
   const [isLoading, setIsLoading] = useState(true)
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [canvasElement, setCanvasElement] = useState<HTMLCanvasElement | null>(null)
+  const [backgroundCanvasElement, setBackgroundCanvasElement] = useState<HTMLCanvasElement | null>(null)
+  const [compositeCanvasElement, setCompositeCanvasElement] = useState<HTMLCanvasElement | null>(null)
+
+  // 합성 캔버스 애니메이션 프레임 ref (cleanup용)
+  const compositeAnimationRef = useRef<number | null>(null)
 
   // 문제별 녹화 데이터 관리 (problemId -> RecordingData)
   const [problemRecordings, setProblemRecordings] = useState<Map<string, RecordingData>>(new Map())
@@ -200,35 +206,118 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
 
   const currentProblem = assignment?.problems[currentProblemIndex]
 
-  // Canvas가 준비되면 호출됨
-  const handleCanvasReady = (canvas: HTMLCanvasElement) => {
-    console.log('🎨 Canvas 준비 완료:', canvas)
+  // Canvas가 준비되면 호출됨 (필기 캔버스 + 배경 캔버스)
+  const handleCanvasReady = (canvas: HTMLCanvasElement, backgroundCanvas: HTMLCanvasElement) => {
+    console.log('🎨 Canvas 준비 완료:', { canvas, backgroundCanvas })
     setCanvasElement(canvas)
-
-    // Canvas가 준비되면 자동으로 녹화 시작 (현재 문제 정보와 함께)
-    if (!recordingStarted && assignment?.problems && assignment.problems.length > 0 && currentProblem) {
-      console.log('🎬 Canvas 준비 완료 - 자동 녹화 시작', {
-        problemId: currentProblem.id,
-        problemIndex: currentProblemIndex
-      })
-      startAutoRecording(canvas, currentProblem.id, currentProblemIndex)
-    }
+    setBackgroundCanvasElement(backgroundCanvas)
   }
 
-  // Canvas를 이미지로 캡처
-  const captureCanvasImage = (canvas: HTMLCanvasElement): Promise<Blob | null> => {
+  // 실시간 합성 캔버스 생성 및 녹화 시작
+  useEffect(() => {
+    if (!canvasElement || !backgroundCanvasElement) return
+
+    console.log('🎬 합성 캔버스 생성 시작')
+
+    // 합성 캔버스 생성
+    const compositeCanvas = document.createElement('canvas')
+    compositeCanvas.width = canvasElement.width
+    compositeCanvas.height = canvasElement.height
+    const ctx = compositeCanvas.getContext('2d')
+
+    if (!ctx) {
+      console.error('❌ 합성 캔버스 context를 가져올 수 없습니다')
+      return
+    }
+
+    // 실시간 합성 함수
+    const updateComposite = () => {
+      // 1. 배경 캔버스 그리기 (문제 이미지 + 마스킹)
+      ctx.clearRect(0, 0, compositeCanvas.width, compositeCanvas.height)
+      ctx.drawImage(backgroundCanvasElement, 0, 0)
+
+      // 2. 필기 캔버스 위에 그리기
+      ctx.drawImage(canvasElement, 0, 0)
+
+      // 다음 프레임 예약
+      compositeAnimationRef.current = requestAnimationFrame(updateComposite)
+    }
+
+    // 합성 시작
+    updateComposite()
+    setCompositeCanvasElement(compositeCanvas)
+
+    console.log('✅ 합성 캔버스 생성 완료:', {
+      width: compositeCanvas.width,
+      height: compositeCanvas.height
+    })
+
+    // Cleanup
+    return () => {
+      if (compositeAnimationRef.current) {
+        cancelAnimationFrame(compositeAnimationRef.current)
+        compositeAnimationRef.current = null
+      }
+      setCompositeCanvasElement(null)
+    }
+  }, [canvasElement, backgroundCanvasElement])
+
+  // 합성 캔버스가 준비되면 녹화 시작
+  useEffect(() => {
+    if (!compositeCanvasElement || !currentProblem || recordingStarted) return
+    if (!assignment?.problems || assignment.problems.length === 0) return
+
+    console.log('🎬 합성 캔버스로 자동 녹화 시작', {
+      problemId: currentProblem.id,
+      problemIndex: currentProblemIndex
+    })
+
+    startAutoRecording(compositeCanvasElement, currentProblem.id, currentProblemIndex)
+  }, [compositeCanvasElement, currentProblem, recordingStarted, assignment, currentProblemIndex, startAutoRecording])
+
+  // 두 캔버스를 합성하여 이미지로 캡처 (배경 + 필기)
+  const captureCanvasImage = (
+    drawingCanvas: HTMLCanvasElement,
+    backgroundCanvas: HTMLCanvasElement
+  ): Promise<Blob | null> => {
     return new Promise((resolve) => {
-      canvas.toBlob((blob) => {
-        if (blob) {
-          console.log('📸 Canvas 캡처 완료:', {
-            size: blob.size,
-            type: blob.type
-          })
-        } else {
-          console.error('❌ Canvas 캡처 실패')
+      try {
+        // 임시 캔버스 생성
+        const tempCanvas = document.createElement('canvas')
+        tempCanvas.width = drawingCanvas.width
+        tempCanvas.height = drawingCanvas.height
+
+        const ctx = tempCanvas.getContext('2d')
+        if (!ctx) {
+          console.error('❌ Canvas context를 가져올 수 없습니다')
+          resolve(null)
+          return
         }
-        resolve(blob)
-      }, 'image/jpeg', 0.85) // JPEG 85% 품질
+
+        // 1. 배경 캔버스 먼저 그리기 (문제 이미지 + 마스킹)
+        ctx.drawImage(backgroundCanvas, 0, 0)
+
+        // 2. 필기 캔버스 위에 그리기
+        ctx.drawImage(drawingCanvas, 0, 0)
+
+        // 3. 합성된 이미지를 Blob으로 변환
+        tempCanvas.toBlob((blob) => {
+          if (blob) {
+            console.log('📸 Canvas 합성 캡처 완료:', {
+              size: blob.size,
+              type: blob.type,
+              width: tempCanvas.width,
+              height: tempCanvas.height
+            })
+          } else {
+            console.error('❌ Canvas 캡처 실패')
+          }
+          resolve(blob)
+        }, 'image/png') // PNG 형식으로 투명도 지원
+      } catch (error) {
+        console.error('❌ Canvas 캡처 오류:', error)
+        resolve(null)
+      }
     })
   }
 
@@ -290,9 +379,9 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
       // stopRecording()이 반환한 데이터 사용 (recordedData가 아직 업데이트되지 않았을 수 있음)
       let dataToSave = stoppedRecordingData || recordedData
 
-      // Canvas 캡처 및 firstReaction 추가 (학생이 본 화면 그대로)
-      if (dataToSave && canvasElement) {
-        const capturedBlob = await captureCanvasImage(canvasElement)
+      // Canvas 캡처 및 firstReaction 추가 (학생이 본 화면 그대로: 문제 이미지 + 필기)
+      if (dataToSave && canvasElement && backgroundCanvasElement) {
+        const capturedBlob = await captureCanvasImage(canvasElement, backgroundCanvasElement)
         if (capturedBlob) {
           dataToSave = {
             ...dataToSave,
@@ -442,9 +531,9 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
       // stopRecording()이 반환한 데이터 사용 (recordedData가 아직 업데이트되지 않았을 수 있음)
       let dataToSave = stoppedRecordingData || recordedData
 
-      // Canvas 캡처 및 firstReaction 추가 (마지막 문제)
-      if (dataToSave && canvasElement) {
-        const capturedBlob = await captureCanvasImage(canvasElement)
+      // Canvas 캡처 및 firstReaction 추가 (마지막 문제: 문제 이미지 + 필기)
+      if (dataToSave && canvasElement && backgroundCanvasElement) {
+        const capturedBlob = await captureCanvasImage(canvasElement, backgroundCanvasElement)
         if (capturedBlob) {
           dataToSave = {
             ...dataToSave,
@@ -655,11 +744,7 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
   }
 
   if (isLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-2xl">과제를 불러오는 중...</div>
-      </div>
-    )
+    return <FullPageSpinner />
   }
 
   if (!assignment || !currentProblem) {

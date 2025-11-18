@@ -19,6 +19,7 @@ import {
   ChevronDown,
   ChevronRight
 } from "lucide-react"
+import { InlineSpinner, LoadingSpinner } from "@/components/ui/loading-spinner"
 
 interface ProblemFilter {
   schools: string[]
@@ -71,6 +72,7 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
   })
 
   const [isLoading, setIsLoading] = useState(false)
+  const [isLoadingFilters, setIsLoadingFilters] = useState(false)
 
   // 초기 로드: 학년/학기 옵션만 가져오기
   useEffect(() => {
@@ -113,50 +115,28 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
 
     // 선택된 학년/학기 조합에 맞는 데이터 로드
     const loadFilteredData = async () => {
+      setIsLoadingFilters(true)
       try {
-        // 모든 학년/학기 조합으로 API 호출
-        const queries = selectedFilters.grades.flatMap(grade =>
-          selectedFilters.semesters.map(semester => {
-            const params = new URLSearchParams({ grade, semester })
-            return fetch(`/api/problems/filters?${params}`).then(res => res.json())
-          })
-        )
-
-        const results = await Promise.all(queries)
-
-        // 결과 병합
-        const mergedAreas = new Set<string>()
-        const mergedContentElements: Record<string, Set<string>> = {}
-        const mergedAchievementStandards = new Set<string>()
-
-        results.forEach(data => {
-          data.areas?.forEach((area: string) => mergedAreas.add(area))
-
-          Object.entries(data.contentElements || {}).forEach(([area, elements]) => {
-            if (!mergedContentElements[area]) {
-              mergedContentElements[area] = new Set()
-            }
-            (elements as string[]).forEach(el => mergedContentElements[area]!.add(el))
-          })
-
-          data.achievementStandards?.forEach((std: string) => mergedAchievementStandards.add(std))
+        // 배치 요청으로 모든 조합을 한 번에 처리 (성능 최적화)
+        const params = new URLSearchParams({
+          grades: selectedFilters.grades.join(','),
+          semesters: selectedFilters.semesters.join(',')
         })
 
-        // Set을 배열로 변환
-        const finalContentElements: Record<string, string[]> = {}
-        Object.entries(mergedContentElements).forEach(([area, elements]) => {
-          finalContentElements[area] = Array.from(elements).sort()
-        })
+        const response = await fetch(`/api/problems/filters?${params}`)
+        const data = await response.json()
 
         setFilters(prev => ({
           ...prev,
-          areas: Array.from(mergedAreas).sort(),
-          contentElements: finalContentElements,
-          achievementStandards: Array.from(mergedAchievementStandards).sort()
+          areas: data.areas || [],
+          contentElements: data.contentElements || {},
+          achievementStandards: data.achievementStandards || []
         }))
       } catch (error) {
         console.error("필터 데이터 로드 오류:", error)
         toast.error("필터 데이터를 불러오는 중 오류가 발생했습니다.")
+      } finally {
+        setIsLoadingFilters(false)
       }
     }
 
@@ -551,8 +531,15 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
               </div>
             )}
 
+            {/* 필터 로딩 중 */}
+            {isLoadingFilters && selectedFilters.grades.length > 0 && selectedFilters.semesters.length > 0 && (
+              <div className="mt-2 p-4 flex items-center justify-center">
+                <LoadingSpinner size="sm" text="영역 및 내용요소 불러오는 중..." />
+              </div>
+            )}
+
             {/* 학년/학기 선택 시 영역 및 내용요소 표시 */}
-            {selectedFilters.grades.length > 0 && selectedFilters.semesters.length > 0 && (
+            {!isLoadingFilters && selectedFilters.grades.length > 0 && selectedFilters.semesters.length > 0 && (
               <div className="mt-2 space-y-4">
                 {filters.areas.map((area) => (
                 <div key={area} className="border rounded-lg p-3">
@@ -722,7 +709,10 @@ export function ProblemSelector({ onProblemsSelected, selectedProblems }: Proble
             className="w-full"
           >
             {isLoading ? (
-              "문제 추가 중..."
+              <>
+                <InlineSpinner className="mr-2" />
+                문제 추가 중...
+              </>
             ) : (
               <>
                 <Plus className="h-4 w-4 mr-2" />

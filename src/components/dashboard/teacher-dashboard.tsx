@@ -30,6 +30,7 @@ import {
 } from "lucide-react"
 import { toast } from "sonner"
 import { AddClassModal } from "@/components/teacher/add-class-modal"
+import { FullPageSpinner } from "@/components/ui/loading-spinner"
 
 interface Class {
   id: string
@@ -70,15 +71,18 @@ export function TeacherDashboard() {
 
   const fetchDashboardData = useCallback(async () => {
     try {
-      // 실제 클래스 데이터 가져오기
+      // API 호출을 병렬로 처리하여 성능 개선
+      const [classResponse, assignmentResponse, submissionResponse] = await Promise.all([
+        fetch('/api/teacher/classes'),
+        fetch('/api/teacher/assignments'),
+        fetch('/api/teacher/submissions')
+      ])
+
+      // 클래스 데이터 처리
       let classes: Class[] = []
-
       try {
-        const classResponse = await fetch('/api/teacher/classes')
-
         if (classResponse.ok) {
           const fetchedClasses = await classResponse.json()
-          // API 응답을 Class 인터페이스에 맞게 변환
           classes = fetchedClasses.map((cls: { id: string; name: string; code: string; teacherId: string; createdAt: string; updatedAt: string; _count?: { students: number; assignments: number } }) => ({
             id: cls.id,
             name: cls.name,
@@ -88,22 +92,16 @@ export function TeacherDashboard() {
           }))
         } else {
           console.error('클래스 데이터를 가져오는데 실패했습니다:', classResponse.status)
-          // 클래스 데이터를 가져오지 못한 경우 빈 배열 유지
         }
       } catch (classError) {
-        console.error('클래스 API 호출 중 오류:', classError)
-        // 네트워크 오류 등의 경우 빈 배열 유지
+        console.error('클래스 데이터 처리 중 오류:', classError)
       }
 
-      // 실제 과제 데이터 가져오기
+      // 과제 데이터 처리
       let assignments: Assignment[] = []
-
       try {
-        const assignmentResponse = await fetch('/api/teacher/assignments')
-
         if (assignmentResponse.ok) {
           const fetchedAssignments = await assignmentResponse.json()
-          // API 응답을 Assignment 인터페이스에 맞게 변환
           assignments = fetchedAssignments.map((assignment: Record<string, unknown>) => ({
             id: assignment.id as string,
             title: assignment.title as string,
@@ -115,19 +113,14 @@ export function TeacherDashboard() {
           }))
         } else {
           console.error('과제 데이터를 가져오는데 실패했습니다:', assignmentResponse.status)
-          // 과제 데이터를 가져오지 못한 경우 빈 배열 유지
         }
       } catch (assignmentError) {
-        console.error('과제 API 호출 중 오류:', assignmentError)
-        // 네트워크 오류 등의 경우 빈 배열 유지
+        console.error('과제 데이터 처리 중 오류:', assignmentError)
       }
 
-      // 실제 제출물 데이터 가져오기
+      // 제출물 데이터 처리
       let submissions: Submission[] = []
-
       try {
-        const submissionResponse = await fetch('/api/teacher/submissions')
-
         if (submissionResponse.ok) {
           const fetchedSubmissions = await submissionResponse.json()
           submissions = fetchedSubmissions
@@ -135,7 +128,7 @@ export function TeacherDashboard() {
           console.error('제출물 데이터를 가져오는데 실패했습니다:', submissionResponse.status)
         }
       } catch (submissionError) {
-        console.error('제출물 API 호출 중 오류:', submissionError)
+        console.error('제출물 데이터 처리 중 오류:', submissionError)
       }
 
       setClasses(classes)
@@ -151,7 +144,7 @@ export function TeacherDashboard() {
     } finally {
       setIsLoading(false)
     }
-  }, [])
+  }, [selectedClassId])
 
   useEffect(() => {
     fetchDashboardData()
@@ -184,11 +177,7 @@ export function TeacherDashboard() {
   }
 
   if (isLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="text-lg">로딩 중...</div>
-      </div>
-    )
+    return <FullPageSpinner />
   }
 
   return (
