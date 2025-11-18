@@ -242,7 +242,9 @@ export async function GET(request: NextRequest) {
         const mergedAchievementStandards = new Set<string>()
 
         results.forEach(data => {
-          data.areas.forEach((area: string) => mergedAreas.add(area))
+          data.areas.forEach(area => {
+            if (area) mergedAreas.add(area)
+          })
 
           Object.entries(data.contentElements).forEach(([area, elements]) => {
             if (!mergedContentElements[area]) {
@@ -251,7 +253,9 @@ export async function GET(request: NextRequest) {
             (elements as string[]).forEach(el => mergedContentElements[area]!.add(el))
           })
 
-          data.achievementStandards.forEach((std: string) => mergedAchievementStandards.add(std))
+          data.achievementStandards.forEach(std => {
+            if (std) mergedAchievementStandards.add(std)
+          })
         })
 
         // Set을 배열로 변환
