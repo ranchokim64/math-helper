@@ -1,7 +1,10 @@
+"use client"
+
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { BookOpen, Users, Video, BarChart3 } from "lucide-react";
+import { InstallAppButton } from "@/components/pwa/install-app-button";
 
 export default function Home() {
   return (
@@ -16,13 +19,18 @@ export default function Home() {
             학생들의 수학 문제 풀이 과정을 녹화하여 교사가 피드백을 제공하는
             혁신적인 온라인 학습 플랫폼입니다.
           </p>
-          <div className="flex gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button asChild size="lg">
               <Link href="/login">시작하기</Link>
             </Button>
             <Button variant="outline" size="lg" asChild>
               <Link href="/register">회원가입</Link>
             </Button>
+            <InstallAppButton
+              variant="secondary"
+              size="lg"
+              className="border-2 border-green-500 text-green-700 hover:bg-green-50"
+            />
           </div>
         </div>
 
