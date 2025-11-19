@@ -910,7 +910,7 @@ export function ProblemViewer({
                 ref={imageContainerRef}
                 className={`relative bg-gray-100 rounded-lg overflow-hidden ${
                   enableDrawing
-                    ? 'h-[700px]' // 드로잉 모드: 고정 높이로 큰 이미지
+                    ? 'h-full' // 드로잉 모드: 부모 높이 사용 (태블릿 가로모드 대응)
                     : showFullImage
                       ? 'min-h-[400px]'
                       : 'min-h-[200px]'
