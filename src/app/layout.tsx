@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import "katex/dist/katex.min.css"; // KaTeX 수식 렌더링용 CSS (정적 로딩으로 성능 개선)
 import { AuthSessionProvider } from "@/components/auth/session-provider";
 import { Toaster } from "@/components/ui/sonner";
 import { PWAInstaller } from "@/components/pwa/pwa-installer";

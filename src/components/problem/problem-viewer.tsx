@@ -567,21 +567,8 @@ export function ProblemViewer({
   }, [problem.id])
 
   useEffect(() => {
-    // KaTeX CSS 동적 로드
-    const loadKatexCSS = async () => {
-      try {
-        // CSS 파일을 문서에 직접 추가
-        const link = document.createElement('link')
-        link.rel = 'stylesheet'
-        link.href = 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css'
-        document.head.appendChild(link)
-        setKatexLoaded(true)
-      } catch (error) {
-        console.warn("KaTeX CSS 로드 실패:", error)
-        setKatexLoaded(true) // 오류가 있어도 계속 진행
-      }
-    }
-    loadKatexCSS()
+    // KaTeX CSS는 layout.tsx에서 정적으로 로드되므로 즉시 사용 가능
+    setKatexLoaded(true)
   }, [])
 
   // 이미지 로드 및 Canvas 초기 렌더링
@@ -653,19 +640,12 @@ export function ProblemViewer({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [showFullImage, showAnswerKey, imageLoaded])
 
-  // showAnswerKey 변경 시 배경 캔버스 재렌더링 (마스킹 표시/숨김)
+  // 배경 캔버스 렌더링 (이미지 로드, 답안 표시 변경 시)
   useEffect(() => {
     if (imageLoaded && loadedImageRef.current && imageDimensions) {
       renderBackgroundCanvas()
     }
   }, [showAnswerKey, imageLoaded, imageDimensions, renderBackgroundCanvas])
-
-  // 이미지 로드 완료 시 배경 캔버스 렌더링
-  useEffect(() => {
-    if (imageLoaded && loadedImageRef.current && imageDimensions) {
-      renderBackgroundCanvas()
-    }
-  }, [imageLoaded, imageDimensions, renderBackgroundCanvas])
 
   // 윈도우 리사이즈 시 캔버스 크기 조정 및 재렌더링
   useEffect(() => {

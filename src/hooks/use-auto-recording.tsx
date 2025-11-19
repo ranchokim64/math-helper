@@ -53,11 +53,15 @@ export function useAutoRecording({
   const currentSegmentRef = useRef<ActivitySegment | null>(null)
   const pauseStartTimeRef = useRef<number>(0)
 
-  // 타이머 업데이트
+  // 타이머 업데이트 (성능 최적화: 5초마다만 UI 업데이트)
   const updateTimer = useCallback(() => {
     if (startTimeRef.current > 0) {
       const duration = Math.floor((Date.now() - startTimeRef.current) / 1000)
-      setRecordingDuration(duration)
+
+      // 5초마다만 상태 업데이트하여 리렌더링 감소 (또는 처음/마지막)
+      if (duration === 0 || duration % 5 === 0 || duration >= maxDuration) {
+        setRecordingDuration(duration)
+      }
 
       if (duration >= maxDuration) {
         stopRecording()
