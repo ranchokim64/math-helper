@@ -193,7 +193,14 @@ export function StudentDashboard() {
                 <CardContent>
                   <div className="text-4xl font-bold text-green-600">
                     {gradedAssignments.length > 0
-                      ? Math.round(gradedAssignments.reduce((sum, a) => sum + (a.score || 0), 0) / gradedAssignments.length)
+                      ? Math.round(
+                          gradedAssignments.reduce((sum, a) => {
+                            // 각 문제당 10점 가정, 과제별 만점 = problemCount * 10
+                            const maxScore = a.problemCount * 10
+                            const percentage = maxScore > 0 ? ((a.score || 0) / maxScore) * 100 : 0
+                            return sum + percentage
+                          }, 0) / gradedAssignments.length
+                        )
                       : "--"}점
                   </div>
                   <p className="text-base text-muted-foreground mt-1">
@@ -404,14 +411,27 @@ export function StudentDashboard() {
                       <div className="flex justify-between items-center mt-4">
                         <span>평균 점수</span>
                         <span className="font-semibold">
-                          {Math.round(gradedAssignments.reduce((sum, a) => sum + (a.score || 0), 0) / gradedAssignments.length)}점
+                          {Math.round(
+                            gradedAssignments.reduce((sum, a) => {
+                              // 각 문제당 10점 가정, 과제별 만점 = problemCount * 10
+                              const maxScore = a.problemCount * 10
+                              const percentage = maxScore > 0 ? ((a.score || 0) / maxScore) * 100 : 0
+                              return sum + percentage
+                            }, 0) / gradedAssignments.length
+                          )}점
                         </span>
                       </div>
                       <div className="w-full bg-gray-200 rounded-full h-2">
                         <div
                           className="bg-green-600 h-2 rounded-full"
                           style={{
-                            width: `${(gradedAssignments.reduce((sum, a) => sum + (a.score || 0), 0) / gradedAssignments.length)}%`
+                            width: `${Math.round(
+                              gradedAssignments.reduce((sum, a) => {
+                                const maxScore = a.problemCount * 10
+                                const percentage = maxScore > 0 ? ((a.score || 0) / maxScore) * 100 : 0
+                                return sum + percentage
+                              }, 0) / gradedAssignments.length
+                            )}%`
                           }}
                         ></div>
                       </div>
