@@ -232,6 +232,12 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
 
     // 온디맨드 합성 함수 (드로잉 발생 시에만 실행)
     const updateComposite = () => {
+      // Canvas 크기가 0이면 합성하지 않음 (초기화 타이밍 문제 방지)
+      if (compositeCanvas.width === 0 || compositeCanvas.height === 0) {
+        console.warn('⚠️ 합성 Canvas 크기가 0입니다. 합성을 건너뜁니다.')
+        return
+      }
+
       // 1. 배경 캔버스 그리기 (문제 이미지 + 마스킹)
       ctx.clearRect(0, 0, compositeCanvas.width, compositeCanvas.height)
       ctx.drawImage(backgroundCanvasElement, 0, 0)

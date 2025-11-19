@@ -138,6 +138,12 @@ export function ProblemViewer({
     const canvasWidth = rect.width
     const canvasHeight = rect.height
 
+    // Canvas 크기가 0이면 렌더링하지 않음 (초기화 타이밍 문제 방지)
+    if (canvasWidth === 0 || canvasHeight === 0) {
+      console.warn('⚠️ Canvas 크기가 0입니다. 렌더링을 건너뜁니다.', { canvasWidth, canvasHeight })
+      return
+    }
+
     // 캔버스 클리어 (전체 픽셀 크기로)
     const dpr = window.devicePixelRatio || 1
     ctx.clearRect(0, 0, canvasWidth * dpr, canvasHeight * dpr)
@@ -225,6 +231,13 @@ export function ProblemViewer({
     const container = imageContainerRef.current
     if (canvas && backgroundCanvas && container) {
       const rect = container.getBoundingClientRect()
+
+      // Canvas 크기가 0이면 크기 조정하지 않음 (초기화 타이밍 문제 방지)
+      if (rect.width === 0 || rect.height === 0) {
+        console.warn('⚠️ Canvas 크기가 0입니다. 크기 조정을 건너뜁니다.', { width: rect.width, height: rect.height })
+        return
+      }
+
       const dpr = window.devicePixelRatio || 1
 
       // 두 캔버스 모두 동일한 크기로 설정
@@ -910,7 +923,7 @@ export function ProblemViewer({
                 ref={imageContainerRef}
                 className={`relative bg-gray-100 rounded-lg overflow-hidden ${
                   enableDrawing
-                    ? 'h-full' // 드로잉 모드: 부모 높이 사용 (태블릿 가로모드 대응)
+                    ? 'h-full min-h-[400px]' // 드로잉 모드: 부모 높이 사용 + 최소 높이 보장
                     : showFullImage
                       ? 'min-h-[400px]'
                       : 'min-h-[200px]'
