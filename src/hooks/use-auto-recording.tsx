@@ -47,6 +47,7 @@ export function useAutoRecording({
   const problemIdRef = useRef<string | null>(null)
   const problemIndexRef = useRef<number | null>(null)
   const stopPromiseResolveRef = useRef<((data: RecordingData) => void) | null>(null)
+  const stopTimeRef = useRef<number>(0)  // 녹화 중지 시점 저장 (정확한 duration 계산용)
 
   // 활동 세그먼트 추적
   const segmentsRef = useRef<ActivitySegment[]>([])
@@ -131,10 +132,15 @@ export function useAutoRecording({
       }
 
       mediaRecorder.onstop = () => {
-        // 최종 duration 계산 (시작 시간부터 현재까지)
-        const finalDuration = startTimeRef.current > 0
-          ? Math.floor((Date.now() - startTimeRef.current) / 1000)
-          : 0
+        // 최종 duration 계산 (저장된 중지 시점 사용, 없으면 현재 시간 사용)
+        const finalDuration = startTimeRef.current > 0 && stopTimeRef.current > 0
+          ? Math.floor((stopTimeRef.current - startTimeRef.current) / 1000)
+          : startTimeRef.current > 0
+            ? Math.floor((Date.now() - startTimeRef.current) / 1000)
+            : 0
+
+        // stopTimeRef 초기화
+        stopTimeRef.current = 0
 
         const blob = new Blob(chunksRef.current, { type: options.mimeType })
         const url = URL.createObjectURL(blob)
@@ -193,10 +199,10 @@ export function useAutoRecording({
         toast.error("녹화 중 오류가 발생했습니다.")
       }
 
-      // 녹화 시작
+      // 녹화 시작 (정확한 시간 측정을 위해 start() 전에 시간 기록)
+      startTimeRef.current = Date.now()
       mediaRecorder.start(1000)
       setRecordingState("recording")
-      startTimeRef.current = Date.now()
       setRecordingDuration(0)
 
       // 녹화 시작 시 즉시 'paused' 세그먼트 생성 (최초 반응 시간 기록용)
@@ -370,6 +376,9 @@ export function useAutoRecording({
         segments: segmentsRef.current.length
       })
 
+      // 녹화 중지 시점 저장 (정확한 duration 계산용)
+      stopTimeRef.current = Date.now()
+
       // Promise resolve 함수 저장
       stopPromiseResolveRef.current = (data) => {
         resolve(data)
@@ -398,6 +407,7 @@ export function useAutoRecording({
     chunksRef.current = []
     problemIdRef.current = null
     problemIndexRef.current = null
+    stopTimeRef.current = 0
 
     // 세그먼트 초기화
     segmentsRef.current = []

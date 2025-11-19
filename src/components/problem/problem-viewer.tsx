@@ -626,6 +626,11 @@ export function ProblemViewer({
   useEffect(() => {
     if (!problem.imageUrl) return
 
+    // 문제 로드 시작 시점 기록 (최초 반응 시간 측정용)
+    // 이미지 다운로드 시작 = 사용자가 문제를 보기 시작하는 시점
+    problemLoadTimeRef.current = Date.now()
+    hasReportedFirstReaction.current = false
+
     // 이미지 로딩 시작 시 Canvas 숨김 (이전 문제의 정답 노출 방지)
     setImageLoaded(false)
 
@@ -663,10 +668,6 @@ export function ProblemViewer({
         // 마스킹까지 모두 그려진 후에 Canvas 표시 (정답 노출 방지)
         requestAnimationFrame(() => {
           setImageLoaded(true)
-
-          // 문제 로드 완료 시점 기록 (최초 반응 시간 측정용)
-          problemLoadTimeRef.current = Date.now()
-          hasReportedFirstReaction.current = false
 
           // Canvas가 준비되면 콜백 호출 (필기 캔버스 + 배경 캔버스)
           if (onCanvasReady && canvasRef.current && backgroundCanvasRef.current) {
