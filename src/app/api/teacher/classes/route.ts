@@ -42,18 +42,18 @@ export async function POST(request: NextRequest) {
         teacherId: session.user.id,
       },
       include: {
-        students: true,
-        assignments: true,
+        _count: {
+          select: {
+            students: true,
+            assignments: true,
+          }
+        }
       }
     })
 
     return NextResponse.json({
       message: "클래스가 성공적으로 생성되었습니다.",
-      class: {
-        ...newClass,
-        studentCount: newClass.students.length,
-        assignmentCount: newClass.assignments.length,
-      }
+      class: newClass
     }, { status: 201 })
 
   } catch (error) {
@@ -88,21 +88,19 @@ export async function GET(request: NextRequest) {
         teacherId: session.user.id
       },
       include: {
-        students: true,
-        assignments: true,
+        _count: {
+          select: {
+            students: true,
+            assignments: true,
+          }
+        }
       },
       orderBy: {
         createdAt: 'desc'
       }
     })
 
-    const formattedClasses = classes.map(cls => ({
-      ...cls,
-      studentCount: cls.students.length,
-      assignmentCount: cls.assignments.length,
-    }))
-
-    return NextResponse.json(formattedClasses)
+    return NextResponse.json(classes)
 
   } catch (error) {
     console.error("Classes fetch error:", error)
