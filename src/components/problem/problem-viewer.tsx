@@ -45,6 +45,7 @@ interface ProblemViewerProps {
   onRecordingResume?: () => void
   onSegmentChange?: (type: 'writing' | 'erasing' | 'paused') => void
   onCanvasReady?: (canvas: HTMLCanvasElement, backgroundCanvas: HTMLCanvasElement) => void
+  nextProblemImageUrl?: string  // 다음 문제 이미지 프리페치용
 }
 
 interface MathContent {
@@ -75,7 +76,8 @@ export function ProblemViewer({
   onRecordingPause,
   onRecordingResume,
   onSegmentChange,
-  onCanvasReady
+  onCanvasReady,
+  nextProblemImageUrl
 }: ProblemViewerProps) {
   const [imageLoaded, setImageLoaded] = useState(false)
   const [imageError, setImageError] = useState(false)
@@ -207,6 +209,12 @@ export function ProblemViewer({
           )
         })
       }
+    }
+
+    // 배경 캔버스 업데이트 시 드로잉 캔버스에 이벤트 발생 (합성 캔버스 업데이트용)
+    const drawingCanvas = canvasRef.current
+    if (drawingCanvas) {
+      drawingCanvas.dispatchEvent(new CustomEvent('drawing-updated'))
     }
   }, [showAnswerKey, problem.sections, imageDimensions])
 
@@ -442,6 +450,9 @@ export function ProblemViewer({
 
       ctx.stroke()
       ctx.globalCompositeOperation = 'source-over'
+
+      // 드로잉 업데이트 이벤트 발생 (합성 캔버스 업데이트용)
+      canvas.dispatchEvent(new CustomEvent('drawing-updated'))
     }
   }
 
@@ -478,6 +489,9 @@ export function ProblemViewer({
         for (let i = 0; i < newStrokes.length; i++) {
           drawStroke(ctx, newStrokes[i]!)
         }
+
+        // 드로잉 업데이트 이벤트 발생 (합성 캔버스 업데이트용)
+        canvas.dispatchEvent(new CustomEvent('drawing-updated'))
       }
 
       // 드로잉 중지 시 즉시 paused로 전환하지 않음 (짧은 스트로크 반복 시 0초 세그먼트 생성 방지)
@@ -571,7 +585,31 @@ export function ProblemViewer({
     setKatexLoaded(true)
   }, [])
 
-  // 이미지 로드 및 Canvas 초기 렌더링
+  // 다음 문제 이미지 프리페치 (성능 최적화)
+  useEffect(() => {
+    if (!nextProblemImageUrl || !imageLoaded) return
+
+    // 현재 문제 이미지 로드 완료 후 다음 문제 이미지 프리페치
+    const prefetchImage = document.createElement('img') as HTMLImageElement
+    const encodedUrl = encodeImageUrl(nextProblemImageUrl)
+    const isExternal = encodedUrl.startsWith('http://') || encodedUrl.startsWith('https://')
+    const isSupabase = encodedUrl.includes('supabase.co')
+
+    // 현재 이미지와 동일한 최적화 전략 사용
+    const optimizedUrl = (isExternal && isSupabase)
+      ? `/_next/image?url=${encodeURIComponent(encodedUrl)}&w=1920&q=85`
+      : encodedUrl
+
+    prefetchImage.src = optimizedUrl
+    console.log('🔄 다음 문제 이미지 프리페치:', optimizedUrl)
+
+    // Cleanup
+    return () => {
+      prefetchImage.src = ''
+    }
+  }, [nextProblemImageUrl, imageLoaded, encodeImageUrl])
+
+  // 이미지 로드 및 Canvas 초기 렌더링 (성능 최적화: Next.js Image API 사용)
   useEffect(() => {
     if (!problem.imageUrl) return
 
@@ -580,7 +618,18 @@ export function ProblemViewer({
 
     const img = document.createElement('img') as HTMLImageElement
     img.crossOrigin = 'anonymous' // CORS 허용
-    img.src = encodeImageUrl(problem.imageUrl)
+
+    // 이미지 URL 최적화 (외부 이미지는 Next.js Image API 사용)
+    const encodedUrl = encodeImageUrl(problem.imageUrl)
+    const isExternal = encodedUrl.startsWith('http://') || encodedUrl.startsWith('https://')
+    const isSupabase = encodedUrl.includes('supabase.co')
+
+    // Supabase 이미지는 Next.js Image API로 최적화, 로컬/API 이미지는 그대로 사용
+    const optimizedUrl = (isExternal && isSupabase)
+      ? `/_next/image?url=${encodeURIComponent(encodedUrl)}&w=1920&q=85`
+      : encodedUrl
+
+    img.src = optimizedUrl
 
     img.onload = () => {
       loadedImageRef.current = img

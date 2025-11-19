@@ -213,7 +213,7 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
     setBackgroundCanvasElement(backgroundCanvas)
   }
 
-  // 실시간 합성 캔버스 생성 및 녹화 시작
+  // 실시간 합성 캔버스 생성 및 녹화 시작 (성능 최적화: 온디맨드 렌더링)
   useEffect(() => {
     if (!canvasElement || !backgroundCanvasElement) return
 
@@ -230,7 +230,7 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
       return
     }
 
-    // 실시간 합성 함수
+    // 온디맨드 합성 함수 (드로잉 발생 시에만 실행)
     const updateComposite = () => {
       // 1. 배경 캔버스 그리기 (문제 이미지 + 마스킹)
       ctx.clearRect(0, 0, compositeCanvas.width, compositeCanvas.height)
@@ -238,22 +238,28 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
 
       // 2. 필기 캔버스 위에 그리기
       ctx.drawImage(canvasElement, 0, 0)
-
-      // 다음 프레임 예약
-      compositeAnimationRef.current = requestAnimationFrame(updateComposite)
     }
 
-    // 합성 시작
+    // 초기 합성 (한 번만 실행)
     updateComposite()
     setCompositeCanvasElement(compositeCanvas)
 
-    console.log('✅ 합성 캔버스 생성 완료:', {
+    // 드로잉 이벤트 리스너 (필기 시에만 합성)
+    const handleDrawingUpdate = () => {
+      updateComposite()
+    }
+
+    // CustomEvent 리스너 등록 (ProblemViewer에서 발생)
+    canvasElement.addEventListener('drawing-updated', handleDrawingUpdate)
+
+    console.log('✅ 합성 캔버스 생성 완료 (온디맨드 렌더링):', {
       width: compositeCanvas.width,
       height: compositeCanvas.height
     })
 
     // Cleanup
     return () => {
+      canvasElement.removeEventListener('drawing-updated', handleDrawingUpdate)
       if (compositeAnimationRef.current) {
         cancelAnimationFrame(compositeAnimationRef.current)
         compositeAnimationRef.current = null
@@ -813,6 +819,11 @@ export function AssignmentSolver({ assignmentId }: AssignmentSolverProps) {
                 disabled={isSubmitting}
                 onSegmentChange={startNewSegment}
                 onCanvasReady={handleCanvasReady}
+                nextProblemImageUrl={
+                  assignment && currentProblemIndex < assignment.problems.length - 1
+                    ? assignment.problems[currentProblemIndex + 1]?.imageUrl
+                    : undefined
+                }
               />
             </div>
 

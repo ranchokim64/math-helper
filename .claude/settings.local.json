@@ -6,7 +6,10 @@
       "Bash(npm run dev:*)",
       "Bash(npx tsx:*)",
       "Bash(timeout 5 bash:*)",
-      "Bash(test:*)"
+      "Bash(test:*)",
+      "Bash(curl:*)",
+      "WebFetch(domain:ssam-sketch.vercel.app)",
+      "Bash(timeout 60 bash -c 'while jobs %1 2>/dev/null; do sleep 1; done && echo \"\"TypeScript check complete\"\"')"
     ],
     "deny": [],
     "ask": []
