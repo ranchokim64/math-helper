@@ -94,17 +94,21 @@ export function StudentDashboard() {
     await signOut({ callbackUrl: "/" })
   }
 
-  const getStatusBadge = (status: Assignment["status"], score?: number) => {
+  const getStatusBadge = (status: Assignment["status"], score?: number, problemCount?: number) => {
     switch (status) {
       case "pending":
         return <Badge variant="secondary">미제출</Badge>
       case "submitted":
         return <Badge variant="outline">제출 완료</Badge>
       case "graded":
+        // 문제별 평균 점수 계산
+        const avgScore = problemCount && problemCount > 0
+          ? Math.round((score || 0) / problemCount)
+          : score || 0
         return (
           <Badge variant="default">
             <Star className="w-3 h-3 mr-1" />
-            {score}점
+            {avgScore}점
           </Badge>
         )
     }
@@ -193,14 +197,14 @@ export function StudentDashboard() {
                 <CardContent>
                   <div className="text-4xl font-bold text-green-600">
                     {gradedAssignments.length > 0
-                      ? Math.round(
+                      ? Math.min(100, Math.round(
                           gradedAssignments.reduce((sum, a) => {
                             // 각 문제당 10점 가정, 과제별 만점 = problemCount * 10
                             const maxScore = a.problemCount * 10
-                            const percentage = maxScore > 0 ? ((a.score || 0) / maxScore) * 100 : 0
+                            const percentage = maxScore > 0 ? Math.min(100, ((a.score || 0) / maxScore) * 100) : 0
                             return sum + percentage
                           }, 0) / gradedAssignments.length
-                        )
+                        ))
                       : "--"}점
                   </div>
                   <p className="text-base text-muted-foreground mt-1">
@@ -222,7 +226,7 @@ export function StudentDashboard() {
                           <div>
                             <CardTitle className="flex items-center space-x-2 text-xl">
                               <span>{assignment.title}</span>
-                              {getStatusBadge(assignment.status, assignment.score)}
+                              {getStatusBadge(assignment.status, assignment.score, assignment.problemCount)}
                             </CardTitle>
                             <CardDescription className="text-base mt-2">{assignment.description}</CardDescription>
                             <p className="text-base text-gray-500 mt-2">{assignment.className}</p>
@@ -262,7 +266,7 @@ export function StudentDashboard() {
                         <div>
                           <CardTitle className="flex items-center space-x-2">
                             <span>{assignment.title}</span>
-                            {getStatusBadge(assignment.status, assignment.score)}
+                            {getStatusBadge(assignment.status, assignment.score, assignment.problemCount)}
                           </CardTitle>
                           <CardDescription>{assignment.description}</CardDescription>
                           <p className="text-sm text-gray-500 mt-1">{assignment.className}</p>
@@ -329,7 +333,7 @@ export function StudentDashboard() {
                         )}
                       </div>
                       <div className="flex flex-col items-end space-y-2">
-                        {getStatusBadge(assignment.status, assignment.score)}
+                        {getStatusBadge(assignment.status, assignment.score, assignment.problemCount)}
                         {assignment.dueDate && (
                           <Badge variant="outline" className="text-xs">
                             <Calendar className="w-3 h-3 mr-1" />
@@ -411,27 +415,27 @@ export function StudentDashboard() {
                       <div className="flex justify-between items-center mt-4">
                         <span>평균 점수</span>
                         <span className="font-semibold">
-                          {Math.round(
+                          {Math.min(100, Math.round(
                             gradedAssignments.reduce((sum, a) => {
                               // 각 문제당 10점 가정, 과제별 만점 = problemCount * 10
                               const maxScore = a.problemCount * 10
-                              const percentage = maxScore > 0 ? ((a.score || 0) / maxScore) * 100 : 0
+                              const percentage = maxScore > 0 ? Math.min(100, ((a.score || 0) / maxScore) * 100) : 0
                               return sum + percentage
                             }, 0) / gradedAssignments.length
-                          )}점
+                          ))}점
                         </span>
                       </div>
                       <div className="w-full bg-gray-200 rounded-full h-2">
                         <div
                           className="bg-green-600 h-2 rounded-full"
                           style={{
-                            width: `${Math.round(
+                            width: `${Math.min(100, Math.round(
                               gradedAssignments.reduce((sum, a) => {
                                 const maxScore = a.problemCount * 10
-                                const percentage = maxScore > 0 ? ((a.score || 0) / maxScore) * 100 : 0
+                                const percentage = maxScore > 0 ? Math.min(100, ((a.score || 0) / maxScore) * 100) : 0
                                 return sum + percentage
                               }, 0) / gradedAssignments.length
-                            )}%`
+                            ))}%`
                           }}
                         ></div>
                       </div>

@@ -193,26 +193,9 @@ export function ProblemViewer({
           const maskWidth = width * scale
           const maskHeight = height * scale
 
-          // 마스크 사각형 그리기
-          ctx.fillStyle = 'rgba(200, 200, 200, 0.9)'
+          // 마스크 사각형 그리기 - 하얀색으로 완전히 가림
+          ctx.fillStyle = 'rgba(255, 255, 255, 1)'
           ctx.fillRect(maskX, maskY, maskWidth, maskHeight)
-
-          // 테두리
-          ctx.strokeStyle = 'rgba(150, 150, 150, 0.8)'
-          ctx.lineWidth = 2
-          ctx.strokeRect(maskX, maskY, maskWidth, maskHeight)
-
-          // 라벨 텍스트
-          ctx.fillStyle = '#666'
-          ctx.font = 'bold 14px sans-serif'
-          ctx.textAlign = 'center'
-          ctx.textBaseline = 'middle'
-          const label = section.className || (section.type === 'answer' ? '정답' : '해설')
-          ctx.fillText(
-            label,
-            maskX + maskWidth / 2,
-            maskY + maskHeight / 2
-          )
         })
       }
     }
